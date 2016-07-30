@@ -1,4 +1,4 @@
-### themanaminer
+### magic
 
 #### Schema
 
