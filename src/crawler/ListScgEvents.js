@@ -3,6 +3,7 @@
  */
 let btoa = require('btoa');
 let flatten = require('lodash/array/flatten');
+let formatEvent = require('./formatEvent');
 let getThroughCache = require('./getThroughCache');
 let load = require('./load');
 let moment = require('moment');
@@ -62,6 +63,7 @@ class ListScgEvents extends stream.Readable {
           })
           .map(format => {
             return {
+              reporter: 'SCG',
               date: isNaN(date) ? 0 : date,
               format,
               link: link ? link.href : null,
@@ -73,6 +75,10 @@ class ListScgEvents extends stream.Readable {
     }
 
     while (this._buffer.length && this.push(this._buffer.pop())) {}
+
+    if (!this._buffer.length) {
+      this.push(null);
+    }
   }
 }
 

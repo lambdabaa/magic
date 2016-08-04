@@ -2,6 +2,7 @@
  * Pulls all of the events from http://magic.wizards.com/en/events/coverage.
  */
 let btoa = require('btoa');
+let formatEvent = require('./formatEvent');
 let getThroughCache = require('./getThroughCache');
 let load = require('./load');
 let moment = require('moment');
@@ -57,6 +58,7 @@ class ListWizardsEvents extends stream.Readable {
           element.href :
           'http://magic.wizards.com' + element.href;
         return {
+          reporter: 'WotC',
           date: isNaN(date) ? 0 : date,
           format,
           link,
@@ -66,6 +68,10 @@ class ListWizardsEvents extends stream.Readable {
     }
 
     while (this._buffer.length && this.push(this._buffer.pop())) {
+    }
+
+    if (!this._buffer.length) {
+      this.push(null);
     }
   }
 }

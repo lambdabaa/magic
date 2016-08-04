@@ -1,35 +1,26 @@
-let Firebase = require('firebase');
 let ListScgEvents = require('./ListScgEvents');
 let ListWizardsEvents = require('./ListWizardsEvents');
+let PersistEvent = require('./PersistEvent');
 let debug = console.log.bind(console, '[crawler/main]');
-let uuid = require('uuid');
+let waitForEvent = require('../waitForEvent');
 
-let ref = new Firebase('https://mtgstats.firebaseio.com/events');
-
-function main() {
+async function main() {
+  let persist = new PersistEvent();
   let scg = new ListScgEvents();
   let wizards = new ListWizardsEvents();
+  scg.pipe(persist, {end: false});
+  wizards.pipe(persist, {end: false});
 
-  scg.on('data', function(chunk) {
-    /*
-    try {
-      let child = ref.child(uuid.v4());
-      child.set(chunk);
-    } catch (error) {
-      debug(error.toString());
-    }
-    */
-  });
+  await Promise.all([
+    waitForEvent(scg, 'end'),
+    waitForEvent(wizards, 'end')
+  ]);
 
-  wizards.on('data', function(chunk) {
-    /*
-    try {
-      let child = ref.child(uuid.v4());
-      child.set(chunk);
-    } catch (error) {
-      debug(error.toString());
-    }
-    */
+  debug('Read events from scg and wotc');
+
+  persist.end(() => {
+    debug('Wrote events to firebase');
+    process.exit(0);
   });
 }
 

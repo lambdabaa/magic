@@ -32,6 +32,7 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <script type="text/javascript" src="//sales.starcitygames.com/library/scripts/fancybox/jquery.fancybox.js?v=2.1.3"></script>
+<script type="text/javascript" src="//www.starcitygames.com/js/google_analytics.js"></script>
 <script type="text/javascript" src="//www.starcitygames.com/js/google_translate.js"></script>
 <script type="text/javascript" src="//www.starcitygames.com/js/google_tags.js"></script>
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
@@ -728,6 +729,37 @@
 }</style>
     <div id="scgop-2016" class="archive">
     <div id="scgop-body">
+<div class="event os-event archive" id="2016-07-30">
+    <div class="event-left">
+        <div class="event-icon">Jul<br>30-31</div>
+        <div class="event-title">
+            <a href="http://www.starcitygames.com/events/300716_baltimore.html">
+                <div class="event-city">Baltimore</div>
+                <div class="event-type">Open Weekend</div>
+            </a>
+        </div>
+        <div style="clear: both;"></div>
+    </div>
+    <div class="event-right">
+        <div class="event-ribbon">Winners and Decklists</div>
+        <div class="event-table">
+            <div class="winner-names">
+                <div class="coverage-title">Congratulations!</div>
+                <div class="winner-box">                    
+                    <a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=19&t[event]=1&start_date=2016-07-30&end_date=2016-07-31&city=&order_1=finish&limit=8&t_num=1&action=Show+Decks">Osyp Lebedowicz <span class="format-link">(Standard Open)</span></a><br>
+                    <a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[event]=28&start_date=2016-07-30&end_date=2016-07-31&city=&order_1=finish&limit=8&t_num=1&action=Show+Decks">Justin O'Keefe <span class="format-link">(Modern Classic)</span></a><br>
+                    <a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[event]=3&start_date=2016-07-30&end_date=2016-07-31&city=&order_1=finish&limit=8&t_num=1&action=Show+Decks">&amp; Ben Friedman <span class="format-link">(Legacy Classic)</span></a><br>
+                </div>
+            </div>
+            <div style="clear: both;"></div>
+            <div class="social-holder">
+                <span class="event-social"><a href="https://twitter.com/hashtag/SCGBALT"><img src="http://static.starcitygames.com/www/images/banners/media/organizedplay/twicon.png">#SCGBALT</a></span>
+                <span style="clear: both"></span>
+            </div>
+        </div>
+    </div>
+    <div style="clear: both;"></div>
+</div>
 <div class="event os-event archive" id="2016-07-23">
     <div class="event-left">
         <div class="event-icon">Jul<br>23-24</div>
@@ -6771,10 +6803,11 @@
 <!-- End Dynamic Page Export Code-->	</section>
 
 	<aside id="sidebar" class="left">
-			<article id="fp_scglive_ad">
-			<a href="http://www.starcitygames.com/events/300716_baltimore.html"><img src="http://static.starcitygames.com/www/scg_events/images/20160718101437000000.jpg" border="0"></a><br />
-			</article>
-		<style type="text/css">
+		    <article id="fp_scglive_ad">
+       
+        <a href="http://www.starcitygames.com/content/regionals"><img src="http://static.starcitygames.com/www//images/sidebar/summer_regionals_2016.png" border="0"></a><br />
+            </article>
+    	<style type="text/css">
 	#openseries header {
 		padding-top: 12px;
 		height: 23px;
@@ -6793,135 +6826,90 @@
 			</nav>
 			<div id="thisweekend" class="content">
 				<ul class="scg_events">
-                        <li class="upper iq_title">THIS Saturday, July 30</li>
-                                        <li><a href="http://www.starcitygames.com/events/300716_baltimore_fact_sheet.html"><span class="iq_type scg_open">
-                        <img src="http://static.starcitygames.com/www/images/events/t_open.png"> Baltimore <strong>OPEN</strong>
-                    </span></a></li>
-                                        <li style="background-color:white;color:#00C7EC;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #00C7EC;border-top:1px solid #00C7EC">Super Invitational Qualifiers</li>
-                                    <li><a href="https://www.facebook.com/events/124092351323042/">
-                    <span class="iq_plus">+</span> 
-                    <span class="iq_loc">Cayce, SC</span> - Ready to Play Trading Cards                </a></li>
-                                <li><a href="https://www.facebook.com/events/316456575357102/">
-                     
-                    <span class="iq_loc">Denton, TX</span> - More Fun Game Center                </a></li>
-                                <li><a href="https://www.facebook.com/events/592835127564269/">
-                     
-                    <span class="iq_loc">Fenton, MI</span> - BC Comix                </a></li>
-                                    <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
-                                    <li><a href="https://www.facebook.com/events/242328929484170/">
-                     
-                    <span class="iq_loc">Athens, GA</span> - Card Advantage                </a></li>
-                                <li><a href="https://www.facebook.com/events/1707079509544072/">
-                    <span class="iq_plus">+</span> 
-                    <span class="iq_loc">Cookeville, TN</span> - Bob's Games and Collectibles                </a></li>
-                                <li><a href="https://www.facebook.com/events/1710046865920866/">
-                     
-                    <span class="iq_loc">Huntsville, TX</span> - Gamers Grove                </a></li>
-                                <li><a href="https://www.facebook.com/events/501071453414893/">
-                     
-                    <span class="iq_loc">Jonesboro, AR</span> - Cullison's Cards and Games                </a></li>
-                                <li><a href="https://www.facebook.com/events/1139555226084167/">
-                     
-                    <span class="iq_loc">Kingsport, TN</span> - Mulligans Gaming                </a></li>
-                                <li><a href="https://www.facebook.com/events/1710674905840802/">
-                     
-                    <span class="iq_loc">Lafayette, IN</span> - Legendary Games                </a></li>
-                                <li><a href="https://www.facebook.com/events/1600365906949725/">
-                     
-                    <span class="iq_loc">Lexington, KY</span> - Legendary Games                </a></li>
-                                <li><a href="https://www.facebook.com/events/839502986183228/">
-                     
-                    <span class="iq_loc">Moline, IL</span> - Trade Mart                </a></li>
-                                <li><a href="https://www.facebook.com/events/234465580271240/">
-                     
-                    <span class="iq_loc">Saskatoon, SK</span> - Amazing Stories                </a></li>
-                                <li><a href="https://www.facebook.com/events/261082047586382/">
-                     
-                    <span class="iq_loc">Springfield, MO</span> - Meta-Games Unlimited                </a></li>
-                                    <li class="upper iq_title">THIS Sunday, July 31</li>
-                                        <li><a href="http://www.starcitygames.com/events/300716_baltimore_fact_sheet.html"><span class="iq_type scg_open">
-                        <img src="http://static.starcitygames.com/www/images/events/t_open.png"> Baltimore <strong>OPEN</strong>
-                    </span></a></li>
-                                        <li style="background-color:white;color:#00C7EC;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #00C7EC;border-top:1px solid #00C7EC">Super Invitational Qualifiers</li>
-                                    <li><a href="https://www.facebook.com/events/1588298094819191/">
-                     
-                    <span class="iq_loc">Chattanooga, TN</span> - CM Games Hixson                </a></li>
-                                <li><a href="https://www.facebook.com/events/769855526489664/">
-                     
-                    <span class="iq_loc">Midland, MI</span> - Game On - Midland                </a></li>
-                                    <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
-                                    <li><a href="https://www.facebook.com/events/246225365740826/">
-                     
-                    <span class="iq_loc">Arvada, CO</span> - Game Heroes                </a></li>
-                                <li><a href="https://www.facebook.com/events/248627172166289/">
-                     
-                    <span class="iq_loc">Chatham, NJ</span> - Satellite Comics & Games                </a></li>
-                                <li><a href="https://www.facebook.com/events/981008695268756/">
-                     
-                    <span class="iq_loc">Columbia, MO </span> - Magelings Games                </a></li>
-                                <li><a href="https://www.facebook.com/events/1708061966149298/">
-                     
-                    <span class="iq_loc">Findlay, OH</span> - Post Board Gaming                </a></li>
-                                <li><a href="https://www.facebook.com/events/500879806773919/">
-                     
-                    <span class="iq_loc">Frankfort, IL</span> - Amazing Fantasy Books & Comics Frankfort                </a></li>
-                                <li><a href="https://www.facebook.com/events/679319592221421/">
-                     
-                    <span class="iq_loc">Jonesboro, AR</span> - Cullison's Cards and Games                </a></li>
-                                <li><a href="https://www.facebook.com/events/565115853660481/">
-                     
-                    <span class="iq_loc">Louisville, KY</span> - Through the Decades                </a></li>
-                                <li><a href="https://www.facebook.com/events/214845375561847/">
-                     
-                    <span class="iq_loc">Pekin, IL</span> - The Zone                </a></li>
-                                <li><a href="https://www.facebook.com/events/272082226468423/">
-                     
-                    <span class="iq_loc">Roanoke, VA</span> - Star City Game Center                </a></li>
-                                <li><a href="https://www.facebook.com/events/637330176431466/">
-                     
-                    <span class="iq_loc">Terre Haute, IN</span> - Full Moon Games                </a></li>
-                                <li><a href="https://www.facebook.com/events/248320532190151/">
-                    <span class="iq_plus">+</span> 
-                    <span class="iq_loc">Wilbraham, MA</span> - AAA Games, Cards, and More                </a></li>
-                                <li><a href="https://www.facebook.com/events/130898513984095/">
-                     
-                    <span class="iq_loc">Winston Salem, NC</span> - House of Cards                </a></li>
-                                </ul>
-            </div>
-            <div id="nextweekend" class="content">
-                <ul class="scg_events">
-                                <li class="upper iq_title">Friday, August 5</li>
+                        <li class="upper iq_title">THIS Friday, August 5</li>
                                         <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
                                     <li><a href="https://www.facebook.com/events/2042239202667039/">
                      
                     <span class="iq_loc">Somerville, NJ</span> - The Only Game in Town                </a></li>
-                                    <li class="upper iq_title">Saturday, August 6</li>
+                                    <li class="upper iq_title">THIS Saturday, August 6</li>
                                         <li class = "center" ><a href="http://www.starcitygames.com/content/regionals">
                     <span class="iq_type regionals"><strong>REGIONAL CHAMPIONSHIPS</strong></span><br/>
                     <span class="iq_loc">FIND YOUR REGION!</span></a>
                     </li>
-                                        <li style="background-color:white;color:#00C7EC;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #00C7EC;border-top:1px solid #00C7EC">Super Invitational Qualifiers</li>
-                                    <li><a href="https://www.facebook.com/events/1611974842426001/">
-                     
-                    <span class="iq_loc">Columbus, OH</span> - Comic Town                </a></li>
-                                    <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
+                                        <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
                                     <li><a href="https://www.facebook.com/events/1026198294127193/">
                      
                     <span class="iq_loc">Burnsville, MN</span> - Dreamers Vault Games Burnsville                </a></li>
                                 <li><a href="https://www.facebook.com/events/622591681239271">
                      
                     <span class="iq_loc">Raleigh, NC</span> - East Coast Gaming                </a></li>
+                                    <li class="upper iq_title">THIS Sunday, August 7</li>
+                                        <li style="background-color:white;color:#00C7EC;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #00C7EC;border-top:1px solid #00C7EC">Super Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1611974842426001/">
+                     
+                    <span class="iq_loc">Columbus, OH</span> - Comic Town                </a></li>
+                                </ul>
+            </div>
+            <div id="nextweekend" class="content">
+                <ul class="scg_events">
+                                <li class="upper iq_title">Friday, August 12</li>
+                                        <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/198602480537268/">
+                     
+                    <span class="iq_loc">Bernardsville, NJ</span> - The Bearded Dragon Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/1185404664803430/">
+                     
+                    <span class="iq_loc">Lafayette, IN</span> - Legendary Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/1719871418289303/">
+                     
+                    <span class="iq_loc">Lexington, KY</span> - Legendary Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/1739748002932764/">
+                     
+                    <span class="iq_loc">Springfield, VA</span> - Curio Cavern                </a></li>
+                                    <li class="upper iq_title">Saturday, August 13</li>
+                                        <li><a href="http://www.starcitygames.com/events/130816_syracuse_fact_sheet.html"><span class="iq_type scg_open">
+                        <img src="http://static.starcitygames.com/www/images/events/t_open.png"> Syracuse <strong>OPEN</strong>
+                    </span></a></li>
+                                        <li style="background-color:white;color:#00C7EC;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #00C7EC;border-top:1px solid #00C7EC">Super Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1526739257635020/">
+                     
+                    <span class="iq_loc">Fenton, MI</span> - BC Comix & Games                </a></li>
+                                    <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1732658680282306/">
+                     
+                    <span class="iq_loc">Abingdon, MD</span> - Critical Hit Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/1776291489259821/">
+                     
+                    <span class="iq_loc">Hattiesburg, MS</span> - Top Tier Board Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/134615120278627/">
+                     
+                    <span class="iq_loc">Kingsport, TN</span> - Mulligans Gaming                </a></li>
+                                    <li class="upper iq_title">Sunday, August 14</li>
+                                        <li><a href="http://www.starcitygames.com/events/130816_syracuse_fact_sheet.html"><span class="iq_type scg_open">
+                        <img src="http://static.starcitygames.com/www/images/events/t_open.png"> Syracuse <strong>OPEN</strong>
+                    </span></a></li>
+                                        <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1700911433493644/">
+                     
+                    <span class="iq_loc">Arvada, CO</span> - Game Heroes                </a></li>
+                                <li><a href="https://www.facebook.com/events/1641476246170734/">
+                    <span class="iq_plus">+</span> 
+                    <span class="iq_loc">Bristol, TN</span> - MWO Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/565922166921361/">
+                     
+                    <span class="iq_loc">Dalton, GA</span> - The Battlegrounds Games and Comics                </a></li>
+                                <li><a href="https://www.facebook.com/events/1737500589859029/">
+                     
+                    <span class="iq_loc">Falls Church, VA</span> - Victory Comics                </a></li>
+                                <li><a href="https://www.facebook.com/events/282475268752024/">
+                     
+                    <span class="iq_loc">Lexington, KY</span> - Legendary Games                </a></li>
                 				</ul>
 			</div>
 			<div id="scgevents" class="content">
                 <p class="event_title">SCG TOUR<sup>&trade;</sup> EVENTS</p>
                 <ul class="scg_events">
             
-                                    <li>
-                        <a href="http://www.starcitygames.com/events/300716_baltimore_fact_sheet.html"><span class="event_type">Jul 30                         - 31:</span>
-                                                    Baltimore <strong>OPEN</strong>
-                                                </a>
-                    </li>
                                     <li>
                         <a href="http://www.starcitygames.com/content/regionals"><span class="event_type">Aug 6                        :</span>
                                                     <strong>REGIONAL CHAMPIONSHIPS</strong>
@@ -6965,6 +6953,11 @@
                                     <li>
                         <a href="http://www.starcitygames.com/events/121116_columbus_fact_sheet.html"><span class="event_type">Nov 12                         - 13:</span>
                                                     Columbus <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/191116_knoxville_fact_sheet.html"><span class="event_type">Nov 19                         - 20:</span>
+                                                    Knoxville <strong>OPEN</strong>
                                                 </a>
                     </li>
                                 </ul>
@@ -7193,6 +7186,17 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
             </nav>
             <div id="content_decks_standard" class="content deck_size">
               <ul>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=AR&city=Jonesboro&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Jonesboro, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=IL&city=Frankfort&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Frankfort, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=KY&city=Lexington&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Lexington, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=TX&city=Huntsville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Huntsville, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=IN&city=Lafayette&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Lafayette, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=TN&city=Cookeville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Cookeville, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=MI&city=Fenton&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 SCG Super IQ Fenton, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=SK&city=Saskatoon&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Saskatoon, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=19&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=MD&city=Baltimore&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 SCG Open Baltimore, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=VA&city=Roanoke&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Roanoke, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=GA&city=Snellville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Snellville, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=TN&city=Chattanooga&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Chattanooga, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=FL&city=Kissimmee&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 SCG Super IQ Kissimmee, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=TN&city=Bristol&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Bristol, US</a></li>
@@ -7202,22 +7206,27 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-23&end_date=2016-07-23&state=CT&city=Newington&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/23 SCG Super IQ Newington, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=19&t[T1]=1&start_date=2016-07-23&end_date=2016-07-23&state=OH&city=Columbus&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/23 SCG Open Columbus, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-10&end_date=2016-07-10&state=TN&city=Chattanooga&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 Invi Qualifier Chattanooga, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-10&end_date=2016-07-10&state=OH&city=Columbus&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 Invi Qualifier Columbus, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T1]=1&start_date=2016-07-10&end_date=2016-07-10&state=MA&city=Worcester&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 SCG Classic Worcester, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-09&end_date=2016-07-09&state=TX&city=Klein&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Klein, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-09&end_date=2016-07-09&state=CO&city=Littleton&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Littleton, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-09&end_date=2016-07-09&state=NC&city=Cary&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Cary, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-09&end_date=2016-07-09&state=NJ&city=Glassboro&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Glassboro, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-08&end_date=2016-07-08&state=VA&city=Springfield&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/08 Invi Qualifier Springfield, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-08&end_date=2016-07-08&state=IN&city=Lafayette&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/08 Invi Qualifier Lafayette, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-03&end_date=2016-07-03&state=MD&city=Lutherville/Timonium&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/03 Invi Qualifier Lutherville/Timonium, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-03&end_date=2016-07-03&state=TN&city=Chattanooga&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/03 Invi Qualifier Chattanooga, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-02&end_date=2016-07-02&state=TX&city=Bedford&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/02 Invi Qualifier Bedford, US</a></li>
                               </ul>
-              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T1]=1&start_date=2016-06-30&end_date=2016-07-30&limit=25&action=Show+Decks">View More Standard Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T1]=1&start_date=2016-07-04&end_date=2016-08-04&limit=25&action=Show+Decks">View More Standard Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
             </div>
             <div id="content_decks_modern" class="content deck_size">
               <ul>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=IL&city=Pekin&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Pekin, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=IN&city=Terre Haute&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Terre Haute, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=VA&city=Roanoke&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Roanoke, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=NJ&city=Chatham&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Chatham, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=MD&city=Baltimore&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Classic Baltimore, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-30&end_date=2016-07-30&state=GA&city=Athens&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Athens, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-30&end_date=2016-07-30&state=IL&city=Moline&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Moline, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T2]=28&start_date=2016-07-24&end_date=2016-07-24&state=VA&city=Fredericksburg&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 SCG Super IQ Fredericksburg, US</a></li>
                                   
                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-24&end_date=2016-07-24&state=CT&city=Danbury&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Danbury, US</a></li>
                                   
@@ -7242,27 +7251,17 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-09&end_date=2016-07-09&state=MO&city=Columbia&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Columbia, US</a></li>
                                   
                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-09&end_date=2016-07-09&state=VA&city=Centreville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Centreville, US</a></li>
-                                  
-                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-09&end_date=2016-07-09&state=WV&city=Morgantown&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Morgantown, US</a></li>
-                                  
-                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-03&end_date=2016-07-03&state=CT&city=Danbury&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/03 Invi Qualifier Danbury, US</a></li>
-                                  
-                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-02&end_date=2016-07-02&state=AL&city=San Jose&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/02 Invi Qualifier San Jose, US</a></li>
-                                  
-                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-02&end_date=2016-07-02&state=PA&city=Hallstead&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/02 Invi Qualifier Hallstead, US</a></li>
-                                  
-                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-02&end_date=2016-07-02&state=KY&city=Lexington&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/02 Invi Qualifier Lexington, US</a></li>
-                                  
-                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-02&end_date=2016-07-02&state=IN&city=Lafayette&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/02 Invi Qualifier Lafayette, US</a></li>
-                                  
-                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-01&end_date=2016-07-01&state=NJ&city=Somerville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/01 Invi Qualifier Somerville, US</a></li>
-                                  
-                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-06-26&end_date=2016-06-26&state=WI&city=Madison&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/26 Invi Qualifier Madison, US</a></li>
                               </ul>
-              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T2]=28&start_date=2016-06-30&end_date=2016-07-30&limit=25&action=Show+Decks">View More Modern Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T2]=28&start_date=2016-07-04&end_date=2016-08-04&limit=25&action=Show+Decks">View More Modern Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
             </div>
             <div id="content_decks_legacy" class="content deck_size">
               <ul>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-31&end_date=2016-07-31&state=MO&city=Columbia&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Columbia, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T3]=3&start_date=2016-07-31&end_date=2016-07-31&state=MD&city=Baltimore&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Classic Baltimore, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-30&end_date=2016-07-30&state=MO&city=Springfield&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Springfield, US</a></li>
                                     
                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T3]=3&start_date=2016-07-24&end_date=2016-07-24&state=OH&city=Columbus&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 SCG Classic Columbus, US</a></li>
                                     
@@ -7297,14 +7296,8 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-19&end_date=2016-06-19&state=MO&city=Columbia&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/19 Invi Qualifier Columbia, US</a></li>
                                     
                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T3]=3&start_date=2016-06-19&end_date=2016-06-19&state=FL&city=Orlando&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/19 SCG Classic Orlando, US</a></li>
-                                    
-                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-18&end_date=2016-06-18&state=NJ&city=Bernardsville&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/18 Invi Qualifier Bernardsville, US</a></li>
-                                    
-                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-17&end_date=2016-06-17&state=VA&city=Springfield&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/17 Invi Qualifier Springfield, US</a></li>
-                                    
-                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-11&end_date=2016-06-11&state=LA&city=Prairieville&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/11 Invi Qualifier Prairieville, US</a></li>
                               </ul>
-              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T3]=3&start_date=2016-06-30&end_date=2016-07-30&limit=25&action=Show+Decks">View More Legacy Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T3]=3&start_date=2016-07-04&end_date=2016-08-04&limit=25&action=Show+Decks">View More Legacy Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
             </div>
             <!--<div id="content_decks_commander" class="content deck_size">
               <h3>Latest Other Top 8 Decklists</h3>
@@ -7493,8 +7486,8 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
 <!-- Load Additional Scripts -->
 
 <!--
-    Time: 0.2605
-    Mem: 2.09MB-->
+    Time: 0.0200
+    Mem: 2.13MB-->
 
 </body>
 </html>
