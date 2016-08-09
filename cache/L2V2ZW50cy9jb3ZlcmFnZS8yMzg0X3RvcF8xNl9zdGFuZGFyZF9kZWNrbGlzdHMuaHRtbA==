@@ -1,0 +1,982 @@
+<!doctype html>
+<html>
+<head>
+<title>Magic Deck Search Result!</title>
+<meta name="robots" content="index, follow">
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--[if lt IE 8]>
+<script src="//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+<![endif]-->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Magic decks found via a database search at StarCityGames.com!">
+<meta name="keywords" content="Magic the gathering, Magic singles, Magic boxes, Magic decks, Magic cards, Magic strategy, mtg, magic decks, magic the gathering decks, mtg deck, mtg decks">
+<meta name="verify-v1" content="YK4pepakFtM+pkoCT9CqjcIiYrueJ0upTrFc6d9I03w=" />
+<meta name="y_key" content="095558bcde3b1768" >
+
+
+
+
+
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//www.starcitygames.com/assets/reset.css">
+<link rel="apple-touch-icon" href="//static.starcitygames.com/www/images/banners/media/scgmobile/ipad_feed.png">
+<link rel="alternate" type="application/rss+xml" title="StarCityGames RSS" href="http://www.starcitygames.com/rss/rssfeed.xml">
+<link rel="search" href="http://www.starcitygames.com/opensearch.xml" type="application/opensearchdescription+xml" title="Magic Card Search" />
+<link rel="stylesheet" type="text/css" href="//sales.starcitygames.com/javascript/jquery.add_to_cart.css">
+<link rel="stylesheet" type="text/css" href="//sales.starcitygames.com/library/scripts/fancybox/jquery.fancybox.css?v=2.1.2" media="screen" />
+<link rel="stylesheet" href="//sales.starcitygames.com/library/scripts/jquery-ui-1.8.4/themes/base/jquery.ui.theme.css">
+<link rel="stylesheet" href="//sales.starcitygames.com/library/scripts/jquery-ui-1.8.4/themes/base/jquery.ui.core.css">
+<link rel="stylesheet" href="//sales.starcitygames.com/library/scripts/jquery-ui-1.8.4/themes/base/jquery.ui.button.css">
+<link rel="stylesheet" href="//sales.starcitygames.com/library/scripts/jquery-ui-1.8.4/themes/base/jquery.ui.dialog.css">
+<link rel="stylesheet" href="//sales.starcitygames.com/library/scripts/jquery-ui-1.8.4/themes/base/jquery.ui.autocomplete.css">
+<link rel="stylesheet" href="//sales.starcitygames.com/library/scripts/jquery-ui-1.8.4/themes/base/jquery.ui.datepicker.css">
+<link rel="stylesheet" href="//www.starcitygames.com/assets/style_css.php?date=2016_04_07&ir=http://static.starcitygames.com/www//images">
+<link rel="stylesheet" href="//www.starcitygames.com/assets/jquery.jscrollpane.css">
+<link rel="stylesheet" href="//www.starcitygames.com/assets/skin.css">
+<link rel="stylesheet" href="//www.starcitygames.com/assets/selectboxes.css">
+<link rel="stylesheet" type="text/css" href="//www.starcitygames.com/js/jquery.qtip-2.2.1.min.css"/>
+<link rel="stylesheet" type="text/css" href="//www.starcitygames.com/js/google_translate.css"/>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
+<script src="//www.starcitygames.com/js/jquery.tabify.js"></script>
+<script src="//www.starcitygames.com/js/jquery.marquee.js"></script>
+<script src="//www.starcitygames.com/js/jquery.tools.min.js"></script>
+<script src="//www.starcitygames.com/js/jquery.autocomplete_all_products.js"></script>
+<script src="//www.starcitygames.com/js/jquery.mousewheel.js"></script>
+<script src="//www.starcitygames.com/js/jquery.jscrollpane.min.js"></script>
+<script src="//www.starcitygames.com/js/jquery.jcarousel.min.js"></script>
+<script src="//www.starcitygames.com/js/jquery.chosen.js"></script>
+<script src="//www.starcitygames.com/js/jquery.validate.js"></script>
+<script src="//www.starcitygames.com/js/jquery.qtip-2.2.1.min.js"></script>
+<script src="//www.starcitygames.com/js/jquery.easing.js"></script>
+<script src="//www.starcitygames.com/js/jquery.flexslider-min.js"></script>
+<script src="//sales.starcitygames.com/javascript/site_definitions.php"></script>
+<script src="//sales.starcitygames.com/javascript/jquery.add_to_cart.js"></script>
+<script src="//sales.starcitygames.com/javascript/jquery.wishlist.js"></script>
+<script src="//sales.starcitygames.com/library/scripts/jquery.cycle.all.js"></script>
+<script type='text/javascript' src='//sales.starcitygames.com/library/scripts/custom.js'></script>
+<script type="text/javascript" src="//www.starcitygames.com/javascript/jquery.smoothDivScroll-1.1-min.js"></script>
+<script type="text/javascript" src="//sales.starcitygames.com/library/scripts/fancybox/jquery.fancybox.js?v=2.1.3"></script>
+<script type="text/javascript" src="//www.starcitygames.com/js/google_analytics.js"></script>
+<script type="text/javascript" src="//www.starcitygames.com/js/google_tags.js"></script>
+<script type="text/javascript" src="//www.starcitygames.com/js/google_translate.js"></script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script src="//www.starcitygames.com/js/site.js?ver=2015.07.27"></script>
+
+<!-- Load additional Javascript -->
+<style>
+		.deckdbbody, .deckdbbody2 {
+			padding: 0 8px;
+		}
+	</style>
+
+</HEAD>
+
+<BODY>
+    <!-- Load FaceBook SDK -->
+    <div id="fb-root"></div>
+    
+    <script>
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+    
+
+
+<div class="fixedtop_holder"></div>
+<header id="header">
+
+            <!-- starcitynetwork_top_banner -->
+        <div id='div-gpt-ad-1368036768350-0' style='width:728px; height:90px; margin-left:auto; margin-right:auto;'>
+            
+            <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1368036768350-0'); });
+            </script>
+            
+        </div>
+        <div style="clear:both;"></div>
+    
+	<div id="inner_wrapper">        
+		<div class="header_wrapper">
+			<div id="logo" class="left"><a href="http://www.starcitygames.com/index.php"><img src="http://static.starcitygames.com/www//images/header/headerlogo.png" data-hover="http://static.starcitygames.com/www//images/header/headerlogo-over.png"></a></div>
+			<div id="main_nav" class="left">
+				<nav>
+					<ul>
+						<li class="spacer"><a href="http://www.starcitygames.com/cardsets/">STORE</a></li>
+						<li class="spacer"><a href="http://www.starcitygames.com/content/schedule">EVENTS</a></li>
+						<li class="spacer"><a href="http://www.starcitygames.com/tags/Premium~Select/">ARTICLES</a></li>
+						<li class="spacer"><a href="http://www.starcitygames.com/content/decklists/">DECKS</a></li>
+						<li class="spacer"><a href="http://www.starcitygames.com/buylist/">BUYLIST</a></li>
+                        <li class="spacer"><a href="https://sales.starcitygames.com/contactus/">HELP</a></li>
+                        <li class="spacer"><a href="http://www.starcitygames.com/content/gamecenter/">GAME CENTER</a></li>
+                        <li class="spacer"><a href="http://www.starcitygames.com/content/newslettersignup/">NEWSLETTER</a></li>
+					</ul>
+				</nav>
+            </div>
+            <div id="main_menu_search" class="left">
+				<div id="main_search">
+					<form action="//sales.starcitygames.com/search.php" method="get" name="search_form">
+						<input name="substring" type="text" placeholder="SEARCH THE WORLD'S LARGEST MAGIC:THE GATHERING STORE!" id="product_searchbox">
+						<input id="go" name="go" type="image" value="GO" src="//www.starcitygames.com/images/go.jpg">
+						<input name="t_all" type="hidden" value="All">
+						<input name="start_date" type="hidden" value="2010-01-29">
+						<input name="end_date" type="hidden" value="2012-04-22">
+						<input name="order_1" type="hidden" value="finish">
+						<input name="limit" type="hidden" value="25">
+						<input name="action" type="hidden" value="Show+Decks">
+						<input name="card_qty[1]" type="hidden" value="1">
+						<div id="advsearch" class="right">
+                            <a href="http://sales.starcitygames.com/spoiler/spoiler.php">Advanced Search</a><br>
+                            <a href="http://sales.starcitygames.com/addadeckform.php" class="normal">Deck Builder</a>
+                        </div>
+					</form>
+				</div>
+            </div>
+			<div id="login" class="left">
+				<ul>
+                                        <li class="account1 account_function">Hello. Sign In.<br>
+                        <span class="bold">YOUR ACCOUNT <img src="//www.starcitygames.com/images/arrow_account.png" width="9" height="6"></span>
+                        <div class="account_function_page">
+                            <div id="login_form">
+                                <form action="https://sales.starcitygames.com/login.php" method="post" name="authentication_form">
+                                    <label for="log0n">Email Address:</label><input name="log0n" id="log0n" type="text" class="text">
+                                    <label for="password">Password:</label><input name="password" id="password" type="password" class="text">
+                                    <p class="small_text"><a href="https://sales.starcitygames.com/password_reset.php">forgot your password?</a></p>
+                                    <input name="submit" type="submit" value="Sign in" class="button">
+                                    <input id="mode" class=" webdeveloper-unhidden" type="hidden" value="login" name="mode">
+                                </form>
+                                New customer? <a href="https://www.starcitygames.com/myaccount/signup">Start here!</a>
+                            </div>
+                        </div>
+                    </li>
+                                                            <li class="account2 account_function">
+                        <span id='cart_count'></span><br>
+                        <span class="bold">CART <img src="//www.starcitygames.com/images/arrow_account.png" width="9" height="6"></span>
+                        <div class="account_function_page">
+                            <form id="do_checkout" name="do_checkout" method="post" action="https://sales.starcitygames.com/checkout/shipping.php">
+                                <input type="hidden" name="co" value="all">
+                            </form>
+                            <p class="view_cart"><a href="http://sales.starcitygames.com/checkout/cart.php">View Cart (<span id='cart_count2'></span> items)</a></p>
+                            <p class="checkout_cart"><a href="#" onClick="do_checkout_all();">Checkout</a></p>
+                        </div>
+                    </li>
+                    <li class="account3 account_function">
+                        <span class="bold">WISH<br>LIST <img src="//www.starcitygames.com/images/arrow_account.png" width="9" height="6"></span>
+                        <div class="account_function_page">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0" id="wishlist_table">
+                                <tr class="product_row">
+                                    <td>&nbsp;</td>
+                                    <td>&nbsp;</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </li>
+                </ul>
+			</div>
+		</div>
+    </div>
+    <div id="menu_wrap">
+        <div class="header_wrapper">
+            <nav id="product_menu">
+                <ul id="nav" class="dropdown">
+                    <li id="nav_featured" class="main_menu">
+                        <a href="http://www.starcitygames.com/content/landing_page"><img src="http://static.starcitygames.com/www/images/setLogo.png"/></a>
+                    </li>
+                    <li id="nav_singles" class="main_menu"><a href="#">Magic Singles</a>
+                        <ul class="show_shadow">
+                            <li><a href="http://www.starcitygames.com/cardsets/english_singles">English</a></li>
+                            <li><a href="http://www.starcitygames.com/cardsets/english_foils">Foil English</a></li>
+                            <li><a href="http://www.starcitygames.com/cardsets/non_english_singles">Non-English</a></li>
+                            <li><a href="http://www.starcitygames.com/cardsets/non_english_foils">Foil Non-English</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5058">BGS/Graded Cards</a></li>
+                            <li><a href="http://www.starcitygames.com/cardsets/rarities/">Misprints and Rarities</a></li>
+                            <li class="lastmenu"><a href="http://sales.starcitygames.com/category.php?t=a&cat=144">Wholesale Lots</a></li>
+                        </ul>
+                    </li>
+                    <li id="nav_sealed" class="main_menu"><a href="#">Magic Sealed Product</a>
+                        <ul class="show_shadow">
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5125">Booster Boxes</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5121">Booster Packs</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5129">Box Sets</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5126">Bundles &amp; Fat Packs</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5232">Duel Decks</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5122">Introductory Products</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5231">Multiplayer Products</a></li>
+                            <li><a href="http://sales.starcitygames.com/spoiler/display.php?&s%5B5114%5D=5114&s%5B5317%5D=5317&s%5B5318%5D=5318&s%5B5319%5D=5319&s%5B5320%5D=5320&s%5B5321%5D=5321&s%5B5322%5D=5322&s%5B5323%5D=5323&s%5B5324%5D=5324&s%5B5325%5D=5325&s%5B5326%5D=5326&display=3&numpage=25">Non-English Products</a></li>
+                            <li class="lastmenu"><a href="http://sales.starcitygames.com/category.php?t=a&cat=5123">Tournament/Starter Packs</a></li>
+                        </ul>
+                    </li>
+                    <li id="nav_supplies" class="main_menu"><a href="#">Gaming Supplies</a>
+                        <ul class="show_shadow">
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5088">Binders</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5204">Books &amp; Fat Pack Guides</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5091">Boxes &amp; Bags</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5092">Clothing</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5299">Collectibles</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5089">Deck Boxes</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5205">Dice</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5251">Life Counters</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5093">Miscellaneous</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5090">Playmats</a></li>
+                            <li class="lastmenu"><a href="http://sales.starcitygames.com/category.php?t=a&cat=153">Sleeves</a></li>
+                        </ul>
+                    </li>
+                    <li id="nav_special" class="main_menu"><a href="#">Specialty Items</a>
+                        <ul class="show_shadow">
+                            <li><a href="http://www.starcitygames.com/content/cardboardcrack/">Cardboard Crack</a></li>
+                            <li><a href="http://www.starcitygames.com/content/creaturecollection/">Creature Collection</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=1">Gift Cards</a></li>
+                            <li><a href="http://www.starcitygames.com/content/lithographs/">Lithographs</a></li>
+                            <li class="lastmenu"><a href="http://www.starcitygames.com/content/nextlevel/">Next Level Library</a></li>
+                        </ul>
+                    </li>
+                    <li id="nav_digital" class="main_menu"><a href="#">Digital Products</a>
+                        <ul class="show_shadow">
+                            <li><a href="http://www.starcitygames.com/content/completecommander/">Complete Commander</a></li>
+                            <li><a href="http://www.starcitygames.com/content/nextlevel/">Next Level Library</a></li>
+                            <li><a href="http://sales.starcitygames.com/omg/">OMG: Official Miser's Guide</a></li>
+                            <li class="lastmenu"><a href="http://sales.starcitygames.com/carddisplay.php?product=267847">Tha Gatherin'</a></li>
+                        </ul>
+                    </li>
+                    <li id="nav_webuy" class="main_menu"><a href="http://www.starcitygames.com/buylist/">We Buy <img src="http://static.starcitygames.com/www/images/magiclogo.png" width="82" height="23"></a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
+<section id="body_content">
+    <div id="sidebar_background">
+        <section id="content" class="left">
+            <table width="100%" cellspacing="0" cellpadding="0" valign="top" align="center"><tr><td colspan="9" align="center"><span class="titletext">16 Magic decks were found matching your criteria.</span></td></tr>
+<tr><td colspan="9" height="10"></td></tr>
+<tr><td colspan="9" align="center" style="font-size:14px;"></td></tr>
+<tr><td colspan="9" height="10"></td></tr>
+<tr>
+<td class="deckdbheader">Deck</td>
+<td class="deckdbheader">Finish</td>
+<td class="deckdbheader">Player</td>
+<td class="deckdbheader">Event</td>
+<td class="deckdbheader">Format</td>
+<td class="deckdbheader">Date</td>
+<td class="deckdbheader">Location</td>
+</tr><tr><td class="deckdbbody" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62635"><strong>Big Boros</strong></a></td><td class="deckdbbody">
+						<span class="finish_display" id="finish_display_62635">1st</span>
+					</td>
+					<td class="deckdbbody">Michael Kenney</td><td class="deckdbbody">StarCityGames.com Standard Open</td><td class="deckdbbody">Standard</td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody2" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62627"><strong>R/W Devotion</strong></a></td><td class="deckdbbody2">
+						<span class="finish_display" id="finish_display_62627">2nd</span>
+					</td>
+					<td class="deckdbbody2">Kent Ketter</td><td class="deckdbbody2">StarCityGames.com Standard Open</td><td class="deckdbbody2">Standard</td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62633"><strong>G/R Monsters</strong></a></td><td class="deckdbbody">
+						<span class="finish_display" id="finish_display_62633">3rd</span>
+					</td>
+					<td class="deckdbbody">Arbob Ahmad</td><td class="deckdbbody">StarCityGames.com Standard Open</td><td class="deckdbbody">Standard</td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody2" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62639"><strong>B/W Midrange</strong></a></td><td class="deckdbbody2">
+						<span class="finish_display" id="finish_display_62639">4th</span>
+					</td>
+					<td class="deckdbbody2">Andrew Kellog</td><td class="deckdbbody2">StarCityGames.com Standard Open</td><td class="deckdbbody2">Standard</td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62632"><strong>B/W Midrange</strong></a></td><td class="deckdbbody">
+						<span class="finish_display" id="finish_display_62632">5th</span>
+					</td>
+					<td class="deckdbbody">William Steadham</td><td class="deckdbbody">StarCityGames.com Standard Open</td><td class="deckdbbody">Standard</td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody2" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62637"><strong>Mono-Blue Devotion</strong></a></td><td class="deckdbbody2">
+						<span class="finish_display" id="finish_display_62637">6th</span>
+					</td>
+					<td class="deckdbbody2">Matthew Canada</td><td class="deckdbbody2">StarCityGames.com Standard Open</td><td class="deckdbbody2">Standard</td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62626"><strong>U/W Control</strong></a></td><td class="deckdbbody">
+						<span class="finish_display" id="finish_display_62626">7th</span>
+					</td>
+					<td class="deckdbbody">Mike Williams</td><td class="deckdbbody">StarCityGames.com Standard Open</td><td class="deckdbbody">Standard</td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody2" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62629"><strong>G/R Monsters</strong></a></td><td class="deckdbbody2">
+						<span class="finish_display" id="finish_display_62629">8th</span>
+					</td>
+					<td class="deckdbbody2">Jason Hall</td><td class="deckdbbody2">StarCityGames.com Standard Open</td><td class="deckdbbody2">Standard</td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62630"><strong>W/B Aggro</strong></a></td><td class="deckdbbody">
+						<span class="finish_display" id="finish_display_62630">9th</span>
+					</td>
+					<td class="deckdbbody">Kirk Dube</td><td class="deckdbbody">StarCityGames.com Standard Open</td><td class="deckdbbody">Standard</td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody2" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62631"><strong>Mono-Black Devotion</strong></a></td><td class="deckdbbody2">
+						<span class="finish_display" id="finish_display_62631">10th</span>
+					</td>
+					<td class="deckdbbody2">Thomas Graves</td><td class="deckdbbody2">StarCityGames.com Standard Open</td><td class="deckdbbody2">Standard</td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62634"><strong>Mono-Black Devotion</strong></a></td><td class="deckdbbody">
+						<span class="finish_display" id="finish_display_62634">11th</span>
+					</td>
+					<td class="deckdbbody">Lauren Nolen</td><td class="deckdbbody">StarCityGames.com Standard Open</td><td class="deckdbbody">Standard</td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody2" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62640"><strong>Mono-Blue Devotion</strong></a></td><td class="deckdbbody2">
+						<span class="finish_display" id="finish_display_62640">12th</span>
+					</td>
+					<td class="deckdbbody2">Reed Hartman</td><td class="deckdbbody2">StarCityGames.com Standard Open</td><td class="deckdbbody2">Standard</td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62641"><strong>Mono-Black Devotion</strong></a></td><td class="deckdbbody">
+						<span class="finish_display" id="finish_display_62641">13th</span>
+					</td>
+					<td class="deckdbbody">Chris VanMeter</td><td class="deckdbbody">StarCityGames.com Standard Open</td><td class="deckdbbody">Standard</td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody2" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62636"><strong>R/W Devotion</strong></a></td><td class="deckdbbody2">
+						<span class="finish_display" id="finish_display_62636">14th</span>
+					</td>
+					<td class="deckdbbody2">Dave Monroe</td><td class="deckdbbody2">StarCityGames.com Standard Open</td><td class="deckdbbody2">Standard</td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62643"><strong>Mono-Black Devotion</strong></a></td><td class="deckdbbody">
+						<span class="finish_display" id="finish_display_62643">15th</span>
+					</td>
+					<td class="deckdbbody">Bob Martin</td><td class="deckdbbody">StarCityGames.com Standard Open</td><td class="deckdbbody">Standard</td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td class="deckdbbody2" style="padding-left:5px;"><a href="http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=62642"><strong>Mono-Black Devotion</strong></a></td><td class="deckdbbody2">
+						<span class="finish_display" id="finish_display_62642">16th</span>
+					</td>
+					<td class="deckdbbody2">Craig Bargo</td><td class="deckdbbody2">StarCityGames.com Standard Open</td><td class="deckdbbody2">Standard</td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?start_date=2014-01-18&end_date=2014-01-18">2014-01-18</a></td><td class="deckdbbody2"><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?city=Columbus">Columbus</a>&nbsp;</td></tr><tr><td colspan="9" align="center" class="deckdbbody2" style="font-size:14px;"><b><a href="http://sales.starcitygames.com//deckdatabase/deckshow.php?&t%5BC1%5D=1&start_date=01/17/2014&end_date=01/19/2014&start=1&finish=16&event_ID=19&exp=45&city=Columbus&state=OH&country=US&start_num=0&limit=limit"> [1] </a></b></td></tr></table></td></tr>
+  </table>
+    <!-- Central gutter ends here, right column begins -->
+</section>
+	<aside id="sidebar" class="left">
+
+    <article id="fp_scglive_ad">
+       
+        <a href="http://www.starcitygames.com/content/regionals"><img src="https://static.starcitygames.com/www//images/sidebar/summer_regionals_2016.png" border="0"></a><br />
+            </article>
+    	<style type="text/css">
+	#openseries header {
+		padding-top: 12px;
+		height: 23px;
+	}
+	</style>
+	
+	<article class="sidebox" id="openseries">
+	<header><a href="http://www.starcitygames.com/content/scgtour/">ORGANIZED PLAY</a></header>
+	<div class="container_decks">
+		<section> 
+			<nav>
+                <ul style="margin: 0px; height:60px;">
+                    <li class="center"><a href="http://www.starcitygames.com/gneventfinder/"><img src="https://static.starcitygames.com/www/images/banners/media/organizedplay/gnSidebar2.png"/></a></li>
+                </ul>
+				<ul id="events_nav"><li id="tab1a" class="active"><a href="#thisweekend">THIS WEEK</a></li><li id="tab2a" class=""><a href="#nextweekend">NEXT WEEK</a></li><li id="tab3a" class=""><a href="#scgevents">+</a></li></ul>
+			</nav>
+			<div id="thisweekend" class="content">
+				<ul class="scg_events">
+                        <li class="upper iq_title">THIS Saturday, August 6</li>
+                                        <li class = "center" ><a href="http://www.starcitygames.com/content/regionals">
+                    <span class="iq_type regionals"><strong>REGIONAL CHAMPIONSHIPS</strong></span><br/>
+                    <span class="iq_loc">FIND YOUR REGION!</span></a>
+                    </li>
+                                        <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1026198294127193/">
+                     
+                    <span class="iq_loc">Burnsville, MN</span> - Dreamers Vault Games Burnsville                </a></li>
+                                <li><a href="https://www.facebook.com/events/622591681239271">
+                     
+                    <span class="iq_loc">Raleigh, NC</span> - East Coast Gaming                </a></li>
+                                    <li class="upper iq_title">THIS Sunday, August 7</li>
+                                        <li style="background-color:white;color:#00C7EC;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #00C7EC;border-top:1px solid #00C7EC">Super Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1611974842426001/">
+                     
+                    <span class="iq_loc">Columbus, OH</span> - Comic Town                </a></li>
+                                </ul>
+            </div>
+            <div id="nextweekend" class="content">
+                <ul class="scg_events">
+                                <li class="upper iq_title">Friday, August 12</li>
+                                        <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/198602480537268/">
+                     
+                    <span class="iq_loc">Bernardsville, NJ</span> - The Bearded Dragon Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/1185404664803430/">
+                     
+                    <span class="iq_loc">Lafayette, IN</span> - Legendary Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/1719871418289303/">
+                     
+                    <span class="iq_loc">Lexington, KY</span> - Legendary Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/1739748002932764/">
+                     
+                    <span class="iq_loc">Springfield, VA</span> - Curio Cavern                </a></li>
+                                    <li class="upper iq_title">Saturday, August 13</li>
+                                        <li><a href="http://www.starcitygames.com/events/130816_syracuse_fact_sheet.html"><span class="iq_type scg_open">
+                        <img src="https://static.starcitygames.com/www/images/events/t_open.png"> Syracuse <strong>OPEN</strong>
+                    </span></a></li>
+                                        <li style="background-color:white;color:#00C7EC;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #00C7EC;border-top:1px solid #00C7EC">Super Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1526739257635020/">
+                     
+                    <span class="iq_loc">Fenton, MI</span> - BC Comix & Games                </a></li>
+                                    <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1732658680282306/">
+                     
+                    <span class="iq_loc">Abingdon, MD</span> - Critical Hit Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/1776291489259821/">
+                     
+                    <span class="iq_loc">Hattiesburg, MS</span> - Top Tier Board Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/134615120278627/">
+                     
+                    <span class="iq_loc">Kingsport, TN</span> - Mulligans Gaming                </a></li>
+                                    <li class="upper iq_title">Sunday, August 14</li>
+                                        <li><a href="http://www.starcitygames.com/events/130816_syracuse_fact_sheet.html"><span class="iq_type scg_open">
+                        <img src="https://static.starcitygames.com/www/images/events/t_open.png"> Syracuse <strong>OPEN</strong>
+                    </span></a></li>
+                                        <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1700911433493644/">
+                     
+                    <span class="iq_loc">Arvada, CO</span> - Game Heroes                </a></li>
+                                <li><a href="https://www.facebook.com/events/1641476246170734/">
+                    <span class="iq_plus">+</span> 
+                    <span class="iq_loc">Bristol, TN</span> - MWO Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/565922166921361/">
+                     
+                    <span class="iq_loc">Dalton, GA</span> - The Battlegrounds Games and Comics                </a></li>
+                                <li><a href="https://www.facebook.com/events/1737500589859029/">
+                     
+                    <span class="iq_loc">Falls Church, VA</span> - Victory Comics                </a></li>
+                                <li><a href="https://www.facebook.com/events/282475268752024/">
+                     
+                    <span class="iq_loc">Lexington, KY</span> - Legendary Games                </a></li>
+                				</ul>
+			</div>
+			<div id="scgevents" class="content">
+                <p class="event_title">SCG TOUR<sup>&trade;</sup> EVENTS</p>
+                <ul class="scg_events">
+            
+                                    <li>
+                        <a href="http://www.starcitygames.com/content/regionals"><span class="event_type">Aug 6                        :</span>
+                                                    <strong>REGIONAL CHAMPIONSHIPS</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/130816_syracuse_fact_sheet.html"><span class="event_type">Aug 13                         - 14:</span>
+                                                    Syracuse <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/190816_newjersey_fact_sheet.html"><span class="event_type">Aug 19                         - 21:</span>
+                                                    New Jersey <strong>INVITATIONAL</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/030916_richmond_fact_sheet.html"><span class="event_type">Sep 3                         - 4:</span>
+                                                    Richmond <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/170916_orlando_fact_sheet.html"><span class="event_type">Sep 17                         - 18:</span>
+                                                    Orlando <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/011016_indianapolis_fact_sheet.html"><span class="event_type">Oct 1                         - 2:</span>
+                                                    Indianapolis <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/221016_milwaukee_fact_sheet.html"><span class="event_type">Oct 22                         - 23:</span>
+                                                    Milwaukee <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/051116_baltimore_fact_sheet.html"><span class="event_type">Nov 5                         - 6:</span>
+                                                    Baltimore <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/121116_columbus_fact_sheet.html"><span class="event_type">Nov 12                         - 13:</span>
+                                                    Columbus <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/191116_knoxville_fact_sheet.html"><span class="event_type">Nov 19                         - 20:</span>
+                                                    Knoxville <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                </ul>
+                			</div>
+
+            <div><a href="https://www.starcitygames.com/eventfinder/index.php">
+                <img src="https://static.starcitygames.com/www/images/sidebar/eventFinderSidebarButton.png"/>
+            </a></div>
+            <ul style="margin:0 0 5px;">
+                <li class="italics center">
+                    <a href="http://www.starcitygames.com/content/schedule">Complete SCG Tour Schedule</a> | <a href="http://www.starcitygames.com/content/archive">Coverage Archive</a>
+                </li>
+            </ul>
+		</section>
+	</div>
+</article>
+
+
+<style>
+
+#sb_leaderboard {
+	color: black;
+}
+
+#sb_leaderboard a, #sb_leaderboard a:hover, #sb_leaderboard a:visited, #sb_leaderboard a:link, #sb_leaderboard a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+
+#sb_leaderboard img {
+
+}
+
+#sb_leaderboard table {
+	width: 100%;
+}
+
+#sb_leaderboard tr {
+	line-height: 16px;
+}
+
+.sb_leaderboard_place {
+	width: 10%;
+	text-align: right;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+
+.sb_leaderboard_name {
+	width: 65%;
+}
+
+.sb_leaderboard_points {
+	width: 15%;
+	padding-right: 5%;
+	text-align: right;
+}
+
+.lb_odd {
+	background-color: #FFFFFF;
+}
+
+.lb_even {
+	background-color: #F0F0F0;
+}
+
+
+</style>
+<article class="sidebox" id="sb_leaderboard">
+	<a href="http://www.starcitygames.com/leaderboard"><img src="https://static.starcitygames.com/www//images/banners/media/playersChampionship/sidebarLeaderboardHeader2.png"/>
+			<table>
+			<tbody>
+									<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">1</td>
+						<td class = "sb_leaderboard_name">JEFF HOOGLAND</td>
+						<td class = "sb_leaderboard_points">217</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">2</td>
+						<td class = "sb_leaderboard_name">JOE LOSSETT</td>
+						<td class = "sb_leaderboard_points">172</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">3</td>
+						<td class = "sb_leaderboard_name">TOM ROSS</td>
+						<td class = "sb_leaderboard_points">172</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">4</td>
+						<td class = "sb_leaderboard_name">GERRY THOMPSON</td>
+						<td class = "sb_leaderboard_points">171</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">5</td>
+						<td class = "sb_leaderboard_name">ANDREW TENJUM</td>
+						<td class = "sb_leaderboard_points">158</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">6</td>
+						<td class = "sb_leaderboard_name">TODD STEVENS</td>
+						<td class = "sb_leaderboard_points">151</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">7</td>
+						<td class = "sb_leaderboard_name">ANDREW JESSUP</td>
+						<td class = "sb_leaderboard_points">139</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">8</td>
+						<td class = "sb_leaderboard_name">CALEB W SCHERER</td>
+						<td class = "sb_leaderboard_points">138</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">9</td>
+						<td class = "sb_leaderboard_name">KEVIN JONES</td>
+						<td class = "sb_leaderboard_points">126</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">10</td>
+						<td class = "sb_leaderboard_name">JACOB BAUGH</td>
+						<td class = "sb_leaderboard_points">116</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">11</td>
+						<td class = "sb_leaderboard_name">ALI I AINTRAZI</td>
+						<td class = "sb_leaderboard_points">116</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">12</td>
+						<td class = "sb_leaderboard_name">DANNY JESSUP</td>
+						<td class = "sb_leaderboard_points">115</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">13</td>
+						<td class = "sb_leaderboard_name">HARLAN FIRER</td>
+						<td class = "sb_leaderboard_points">114</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">14</td>
+						<td class = "sb_leaderboard_name">JIM I DAVIS</td>
+						<td class = "sb_leaderboard_points">113</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">15</td>
+						<td class = "sb_leaderboard_name">BRADLEY CARPENTER</td>
+						<td class = "sb_leaderboard_points">110</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">16</td>
+						<td class = "sb_leaderboard_name">TODD ANDERSON</td>
+						<td class = "sb_leaderboard_points">109</td>
+					</tr>
+								</tbody>
+		</table>
+	</a>
+</article>		<article class="sidebox" id="weeklynewsletter">
+			<header>WEEKLY NEWSLETTER</header>
+			<section>
+			<form name="ccoptin" action="//visitor.constantcontact.com/d.jsp"
+target="_blank" method="post"><input name="ea" size="20" value="" type="text" id="email_newsletter" placeholder="ENTER YOUR EMAIL"><input name="go" value="Sign Up!"  type="image" src="/images/signup.jpg" ><input type="hidden" name="m" value="1103337725524">
+<input type="hidden" name="p" value="oi"></form>
+<p class="center"><strong>Exclusive Deals &amp; Content Every Week</strong></p>
+			</section>
+		</article><style>
+.social_icon {
+	float:left;
+	margin:5px 10px 5px 10px;
+	width:43px;
+}
+.social_text {
+	float:left;
+	margin:10px 0 0 0;
+	font-size:13px;
+}
+.social_text p {
+	margin-bottom:5px;
+}
+</style>
+<article class="sidebox" id="social">
+	<header><a href="https://www.facebook.com/StarCityGames">SOCIAL</a></header>
+	<section>
+		<div class="social_wrapper">
+			<div class="social_icon">
+				<a href="https://www.facebook.com/StarCityGames"><img src="https://static.starcitygames.com/www/images/sidebar/Facebook.jpg"></a>
+			</div>
+			<div class="social_text">
+			<p><a href="https://www.facebook.com/StarCityGames">StarCityGames.com<sup>&reg;</sup> on Facebook</a></p>
+            <div class="fb-like" data-href="https://www.facebook.com/StarCityGames" data-width="280" data-layout="button_count" data-show-faces="false" data-share="false"></div>
+			</div>
+		</div>
+		<br class="clear">
+		<div class="social_wrapper">
+			<div class="social_icon">
+				<a href="https://twitter.com/starcitygames"><img src="https://static.starcitygames.com/www/images/sidebar/Twitter.jpg"></a>
+			</div>
+			<div class="social_text">
+                <p><a href="https://twitter.com/starcitygames">StarCityGames.com<sup>&reg;</sup> on Twitter</a></p>
+                <p><a href="https://twitter.com/starcitygames">Join the conversation</a></p>
+			</div>
+		</div>
+		<br class="clear">
+        <div class="social_wrapper">
+			<div class="social_icon">
+				<a href="https://www.youtube.com/user/starcitygamesvideo"><img src="https://static.starcitygames.com/www/images/sidebar/youTube.jpg"></a>
+			</div>
+			<div class="social_text">
+                <p><a href="https://www.youtube.com/user/starcitygamesvideo">StarCityGames.com<sup>&reg;</sup> on YouTube</a></p>
+                <p><a href="https://www.youtube.com/user/starcitygamesvideo">Watch the best in Magic Video</a></p>
+			</div>
+		</div>
+		<br class="clear">
+	</section>
+</article>
+<article class="sidebox" id="decklists">
+			<header><a href="http://www.starcitygames.com/content/decklists/">DECKLISTS</a></header>
+
+						
+			<div class="container_decks">
+            <section>
+            
+            <nav>
+              <ul id="decklist_nav">
+                <li class="active" id="tab1"><a href="#content_decks_standard">STANDARD</a></li><li id="tab2"><a href="#content_decks_modern">MODERN</a></li><li id="tab3"><a href="#content_decks_legacy">LEGACY</a></li><!--  <li id="tab4"><a href="#content_decks_commander">OTHER</a></li> -->
+              </ul>
+            </nav>
+            <div id="content_decks_standard" class="content deck_size">
+              <ul>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=MI&city=Midland&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Super IQ Midland, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=TN&city=Chattanooga&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Super IQ Chattanooga, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=AR&city=Jonesboro&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Jonesboro, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=IL&city=Frankfort&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Frankfort, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=TX&city=Denton&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 SCG Super IQ Denton, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=KY&city=Lexington&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Lexington, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=TX&city=Huntsville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Huntsville, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=IN&city=Lafayette&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Lafayette, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=TN&city=Cookeville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Cookeville, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=MI&city=Fenton&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 SCG Super IQ Fenton, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=SK&city=Saskatoon&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Saskatoon, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=19&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=MD&city=Baltimore&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 SCG Open Baltimore, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=VA&city=Roanoke&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Roanoke, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=GA&city=Snellville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Snellville, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=TN&city=Chattanooga&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Chattanooga, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=FL&city=Kissimmee&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 SCG Super IQ Kissimmee, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=TN&city=Bristol&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Bristol, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=PA&city=New Holland&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier New Holland, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-23&end_date=2016-07-23&state=CO&city=Aurora&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/23 Invi Qualifier Aurora, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-23&end_date=2016-07-23&state=CT&city=Newington&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/23 Invi Qualifier Newington, US</a></li>
+                              </ul>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T1]=1&start_date=2016-07-06&end_date=2016-08-06&limit=25&action=Show+Decks">View More Standard Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
+            </div>
+            <div id="content_decks_modern" class="content deck_size">
+              <ul>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=NC&city=Winston Salem&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Winston Salem, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=IL&city=Pekin&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Pekin, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=IN&city=Terre Haute&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Terre Haute, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=VA&city=Roanoke&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Roanoke, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=NJ&city=Chatham&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Chatham, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=MD&city=Baltimore&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Classic Baltimore, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-30&end_date=2016-07-30&state=GA&city=Athens&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Athens, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-30&end_date=2016-07-30&state=IL&city=Moline&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Moline, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T2]=28&start_date=2016-07-24&end_date=2016-07-24&state=VA&city=Fredericksburg&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 SCG Super IQ Fredericksburg, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-24&end_date=2016-07-24&state=CT&city=Danbury&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Danbury, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T2]=28&start_date=2016-07-24&end_date=2016-07-24&state=OH&city=Columbus&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 SCG Classic Columbus, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-10&end_date=2016-07-10&state=CO&city=Littleton&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 Invi Qualifier Littleton, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-10&end_date=2016-07-10&state=VA&city=Falls Church&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 Invi Qualifier Falls Church, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T2]=28&start_date=2016-07-10&end_date=2016-07-10&state=MI&city=Frankenmuth&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 SCG Super IQ Frankenmuth, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-10&end_date=2016-07-10&state=PA&city=New Holland&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 Invi Qualifier New Holland, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T2]=28&start_date=2016-07-10&end_date=2016-07-10&state=MA&city=Worcester&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 SCG Classic Worcester, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-09&end_date=2016-07-09&state=MS&city=Gautier&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Gautier, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-09&end_date=2016-07-09&state=OH&city=Streetsboro&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Streetsboro, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-09&end_date=2016-07-09&state=TN&city=Tazewell&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Tazewell, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-09&end_date=2016-07-09&state=MO&city=Columbia&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Columbia, US</a></li>
+                              </ul>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T2]=28&start_date=2016-07-06&end_date=2016-08-06&limit=25&action=Show+Decks">View More Modern Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
+            </div>
+            <div id="content_decks_legacy" class="content deck_size">
+              <ul>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-31&end_date=2016-07-31&state=MO&city=Columbia&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Columbia, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T3]=3&start_date=2016-07-31&end_date=2016-07-31&state=MD&city=Baltimore&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Classic Baltimore, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-30&end_date=2016-07-30&state=MO&city=Springfield&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Springfield, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T3]=3&start_date=2016-07-24&end_date=2016-07-24&state=OH&city=Columbus&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 SCG Classic Columbus, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-10&end_date=2016-07-10&state=IN&city=Lafayette&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 Invi Qualifier Lafayette, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-09&end_date=2016-07-09&state=KY&city=Lexington&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Lexington, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-09&end_date=2016-07-09&state=MN&city=Minneapolis&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Minneapolis, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=20&t[T3]=3&start_date=2016-07-09&end_date=2016-07-09&state=MA&city=Worcester&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 SCG Open Worcester, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-08&end_date=2016-07-08&state=NJ&city=Somerville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/08 Invi Qualifier Somerville, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=13&t[T3]=3&start_date=2016-07-03&end_date=2016-07-03&state=&city=Strasbourg&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/03  Strasbourg, DE</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-03&end_date=2016-07-03&state=VA&city=Roanoke&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/03 Invi Qualifier Roanoke, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-26&end_date=2016-06-26&state=CO&city=Littleton&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/26 Invi Qualifier Littleton, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T3]=3&start_date=2016-06-26&end_date=2016-06-26&state=TX&city=Dallas&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/26 SCG Classic Dallas, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-25&end_date=2016-06-25&state=TN&city=Kingsport&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/25 Invi Qualifier Kingsport, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-25&end_date=2016-06-25&state=AL&city=Amsterdam&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/25 Invi Qualifier Amsterdam, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-25&end_date=2016-06-25&state=CA&city=Valencia&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/25 Invi Qualifier Valencia, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=13&t[T3]=3&start_date=2016-06-22&end_date=2016-06-22&state=PA&city=Philadelphia&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/22  Philadelphia, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T3]=3&start_date=2016-06-19&end_date=2016-06-19&state=TX&city=Dallas&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/19 SCG Super IQ Dallas, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-19&end_date=2016-06-19&state=MO&city=Columbia&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/19 Invi Qualifier Columbia, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T3]=3&start_date=2016-06-19&end_date=2016-06-19&state=FL&city=Orlando&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/19 SCG Classic Orlando, US</a></li>
+                              </ul>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T3]=3&start_date=2016-07-06&end_date=2016-08-06&limit=25&action=Show+Decks">View More Legacy Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
+            </div>
+            <!--<div id="content_decks_commander" class="content deck_size">
+              <h3>Latest Other Top 8 Decklists</h3>
+              <ul>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&start_date=2016-02-12&end_date=2016-02-12&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 2/12 Invi Qualifier Milan, IT</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=42&start_date=2015-08-23&end_date=2015-08-23&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 8/23 Vintage Champs Philadelphia, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=30&start_date=2015-05-15&end_date=2015-05-15&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 5/15 MOCS</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=13&start_date=2014-10-29&end_date=2014-10-29&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 10/29  Philadelphia, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=13&start_date=2014-10-26&end_date=2014-10-26&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 10/26  Philadelphia, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=42&start_date=2014-10-26&end_date=2014-10-26&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 10/26 Vintage Champs Philadelphia, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=13&start_date=2014-05-17&end_date=2014-05-17&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 5/17  Glen Burnie, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=13&start_date=2014-05-17&end_date=2014-05-17&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 5/17  Bloomsburg, US</a></li>
+                              </ul>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/">View More Decks</a></div>
+            </div>-->
+          </section></div>
+		</article>
+		  		<article id="seals">
+			
+			<section style="margin-top:10px;border:0;">
+				<div class="left" style="width:282px;">
+					<table border="0" style="width:100%;" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Comodo Positve SSL for secure e-commerce and confidential communications.">
+						<tr>
+							<td style="width:50%;vertical-align:middle;text-align: center;">
+								<a href="https://www.positivessl.com" style="font-family: arial; font-size: 10px; color: #212121; text-decoration: none;"><img src="https://static.starcitygames.com/www/images/footer/PositiveSSL_tl_trans.gif" alt="" title="" border="0" /></a>
+							</td>
+							<td style="width:50%;vertical-align:middle;text-align: center;">
+								<img src="https://static.starcitygames.com/www/images/footer/wotc_authorized.png">
+							</td>
+						</tr>
+					</table>
+				</div>
+				<div class="clear"></div>
+			</section>
+		</article>
+		<article id="payment_options_sidebar" style="width:282px; padding: 5px;">
+			<section>
+				<a href="http://sales.starcitygames.com/FAQ.php#payment" style="text-decoration: none;"><img src="https://static.starcitygames.com/www/images/footer/paymentOptions.jpg" alt="" title="" border="0" width="272" height="80.5" /></a>
+			</section>
+		</article>
+
+
+</aside>
+	<br class="clear">
+	</div>
+</section>
+<footer id="main_footer" class="clear">
+<aside>
+<div id="article_bar"><h1>&nbsp;</h1>
+</div>
+<div id="sidebar_bar"><div id="sidebar_bar_sub"></div></div>
+</aside>
+
+<nav id="footer_account">
+        <header>ACCOUNT</header>
+        <ul>
+          <li><a href="https://www.starcitygames.com/myaccount/signup">Create an Account</a></li>
+          <li><a href="https://www.starcitygames.com/myaccount/">My Account</a></li>
+          <li><a href="https://www.starcitygames.com/myaccount/orders">Order History</a></li>
+          <li><a href="https://www.starcitygames.com/myaccount/credit">Store Credit</a></li>
+          <li><a href="http://sales.starcitygames.com/wishlist.php">Wishlists</a></li>
+          <li><a href="https://www.starcitygames.com/myaccount/premium/">Premium</a></li>
+          <li><a href="https://www.starcitygames.com/myaccount/downloads">Digital Products</a></li>
+	  <li><a href="https://www.starcitygames.com/myaccount/giftcards">Gift Cards</a></li>
+        </ul>
+      </nav>
+      <nav id="footer_contact">
+        <header>CONTACT US</header>
+        <ul>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=11">Customer Service</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=6">Selling to SCG</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=11">Order Issues</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=8">Inventory Issues</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=23">Shipping</a></li>  
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=10">Premium</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=20">Gift Cards</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=5">Organized Play</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=24">In-Store Programs (ISP)</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=2">Articles/Videos</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=17">Advertising</a></li>
+          <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=14">Website Bugs/Problems</a></li>
+        </ul>
+      </nav>
+<nav id="footer_order">
+        <header>ORDER QUESTIONS</header>
+        <ul>
+          <li class="footer_blue">
+          Customer Service Hours<br>
+          Monday through Friday<br/>
+          10am - 5pm ET<br/>
+          Ph: (540) 767-GAME (4263)<br/>
+          <br/>
+          </li>
+          <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=11">Email</a></li>
+          <li><a href="http://sales.starcitygames.com/FAQ.php">Frequently Asked Questions</a></a></li>
+          <li><a href="http://sales.starcitygames.com/FAQ.php?ID=39">Refund/Return Policy</a></li>
+          <li><a href="http://sales.starcitygames.com/FAQ.php?ID=91">Terms &amp; Conditions</a></li>
+          <li><a href="http://sales.starcitygames.com/FAQ.php?ID=90">Privacy Statement</a></li>
+          <li><a href="http://www.starcitygames.com/content/about">About StarCityGames.com<sup>&reg;</sup></a></li>
+        </ul>
+      </nav>
+<nav id="footer_open_series">
+        <header>SCG ORGANIZED PLAY</header>
+        <ul>
+		  <li><a href="http://www.starcitygames.com/content/scgtour">SCG Tour Overview</a></li>
+          <li><a href="http://www.starcitygames.com/content/schedule">SCG Tour Schedule</a></li>
+          <li><a href="http://www.starcitygames.com/leaderboard">SCG Tour Leaderboard</a></li>
+		  <li><a href="http://www.starcitygames.com/content/playerschampionship">Players' Championship</a></li>
+		  <li><a href="http://static.starcitygames.com/www/pdfs/Tournament_Policy.pdf">Tournament Policies</a></li>
+        </ul>
+        <header>IN-STORE PROGRAMS</header>
+        <ul>
+          <li><a href="http://www.starcitygames.com/content/iq">Invitational Qualifiers (IQs)</a></li>
+          <li><a href="http://isp.starcitygames.com/invitational-qualifiers/">Host an IQ in Your Store</a></li>
+          <li><a href="http://www.starcitygames.com/gneventfinder/">Game Night</a></li>
+          <li><a href="http://isp.starcitygames.com/game-night">Host Game Night in Your Store</a></li>
+        </ul>
+      </nav>
+<nav id="footer_center">
+        <header>GAME CENTER</header>
+        <ul>
+          <li class="footer_blue">
+          Star City Game Center<br>
+          5728 Williamson Road N.W.<br/>
+          Roanoke, VA 24012<br/>
+          Ph: (540) 767-GAME(4263)<br/>
+          <br/>
+          </li>
+          <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=7">Email</a></li>
+          <li><a href="http://www.starcitygames.com/content/gamecenter/">Hours &amp; Event Schedule</a></li>
+          <li><a href="https://www.facebook.com/scgamecenter">Game Center Facebook</a></li>
+          <li><a href="https://twitter.com/SCGameCenter">Game Center Twitter</a></li>
+          </ul>
+      </nav>
+<nav id="footer_last">
+        <header>MORE SCG</header>
+        <ul>
+          <li><a href="http://careers.starcitygames.com">Careers</a></li>
+          <li><a href="http://www.facebook.com/StarCityGames" target="_blank">SCG Facebook</a></li>
+          <li><a href="http://twitter.com/starcitygames" target="_blank">SCG Twitter</a></li>
+          <li><a href="http://www.starcitygames.com/content/newsletter">SCG Newsletter</a></li>
+          <li><a href="https://www.youtube.com/user/starcitygamesvideo">SCG on YouTube</a></li>
+          <li><a href="http://www.scglive.com/" target="_blank">SCGLive<sup>&reg;</sup></a></li>
+        </ul>
+          <header>ARCHIVES</header>
+          <ul>
+          <li><a href="http://www.starcitygames.com/tags/">Search our Articles</a></li>
+          <li><a href="http://www.starcitygames.com/content/archive">Coverage Archives</a></li>
+          <li><a href="http://www.starcitygames.com/rss/rssfeed.xml">RSS Feed</a></li>
+        </ul>
+      </nav>
+      <div style="clear:both;"></div>
+                                    <!-- /7104623/728x90_Bottomsitead -->
+                <div id='div-gpt-ad-1460054248647-0' style='height:90px; width:728px; margin-left:auto; margin-right:auto'>
+                    
+                    <script type='text/javascript'>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1460054248647-0'); });
+                    </script>
+                    
+                </div>
+                    
+      <div id="tagline">All original content on this page is &copy; 2016 StarCityGames.com<sup>&reg;</sup> and may not be used or reproduced without consent. Wizards of the Coast, Magic: The Gathering, and their logos are trademarks of Wizards of the Coast LLC. &copy; 2016 Wizards. All rights reserved. StarCityGames.com<sup>&reg;</sup> is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. StarCityGames.com<sup>&reg;</sup> may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under <a href="http://wpn.wizards.com/en/document/digital-marketing-asset-policy">Wizards' Digital Marketing Asset Policy</a>. MAGIC: THE GATHERING® is a trademark[s] of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at (<a href="http://www.wizards.com">www.wizards.com</a>).</div>
+    </footer>
+
+</BODY>
+</HTML>

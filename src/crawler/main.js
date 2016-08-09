@@ -1,27 +1,24 @@
+let Combine = require('./Combine');
+let DeckMerger = require('./DeckMerger');
+let GetDecklists = require('./GetDecklists');
+let GetMatchResults = require('./GetMatchResults');
 let ListScgEvents = require('./ListScgEvents');
 let ListWizardsEvents = require('./ListWizardsEvents');
-let PersistEvent = require('./PersistEvent');
+let SaveEventToFirebase = require('./SaveEventToFirebase');
 let debug = console.log.bind(console, '[crawler/main]');
+let sleep = require('../sleep');
 let waitForEvent = require('../waitForEvent');
 
 async function main() {
-  let persist = new PersistEvent();
-  let scg = new ListScgEvents();
-  let wizards = new ListWizardsEvents();
-  scg.pipe(persist, {end: false});
-  wizards.pipe(persist, {end: false});
-
-  await Promise.all([
-    waitForEvent(scg, 'end'),
-    waitForEvent(wizards, 'end')
-  ]);
-
-  debug('Read events from scg and wotc');
-
-  persist.end(() => {
-    debug('Wrote events to firebase');
-    process.exit(0);
-  });
+  let source = new Combine(new ListScgEvents(), new ListWizardsEvents());
+  let sink = new DeckMerger();
+  source
+    .pipe(new SaveEventToFirebase())
+    .pipe(new GetDecklists())
+    .pipe(sink);
+  await waitForEvent(sink, 'end');
+  debug('bad', sink._bad);
+  process.exit(0);
 }
 
 module.exports = main;

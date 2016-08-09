@@ -17,7 +17,7 @@ class ListScgEvents extends stream.Readable {
 
   async _read() {
     if (!this._buffer) {
-      let html = await getThroughCache('http://www.starcitygames.com/content/archive');
+      let html = await getThroughCache('http://www.starcitygames.com/content/archive', true);
       let window = await load(html);
       let doc = window.document;
       let elements = Array.from(doc.getElementsByClassName('scgop-event'));
@@ -28,6 +28,12 @@ class ListScgEvents extends stream.Readable {
           let year;
           for (let parent = element; parent != null; parent = parent.parentNode) {
             switch (parent.id) {
+              case 'year-2012':
+                year = 2012;
+                break;
+              case 'year-2013':
+                year = 2013;
+                break;
               case 'year-2014':
                 year = 2014;
                 break;
@@ -53,6 +59,10 @@ class ListScgEvents extends stream.Readable {
           )
           .valueOf();
 
+          if (date < 1403247599999) {
+            return [];
+          }
+
           return [
             'Legacy',
             'Modern',
@@ -62,19 +72,22 @@ class ListScgEvents extends stream.Readable {
             return new RegExp(format).test(element.textContent);
           })
           .map(format => {
-            return {
+            let event = {
               reporter: 'SCG',
               date: isNaN(date) ? 0 : date,
               format,
               link: link ? link.href : null,
               location: link ? link.textContent : null
             };
+
+            return event;
           });
         })
       );
     }
 
-    while (this._buffer.length && this.push(this._buffer.pop())) {}
+    while (this._buffer.length && this.push(this._buffer.pop())) {
+    }
 
     if (!this._buffer.length) {
       this.push(null);

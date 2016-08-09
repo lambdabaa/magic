@@ -1,7 +1,6 @@
 /**
  * Pulls all of the events from http://magic.wizards.com/en/events/coverage.
  */
-let btoa = require('btoa');
 let formatEvent = require('./formatEvent');
 let getThroughCache = require('./getThroughCache');
 let load = require('./load');
@@ -16,7 +15,7 @@ class ListWizardsEvents extends stream.Readable {
 
   async _read() {
     if (!this._buffer) {
-      let html = await getThroughCache('http://magic.wizards.com/en/events/coverage');
+      let html = await getThroughCache('http://magic.wizards.com/en/events/coverage', true);
       let window = await load(html);
       let doc = window.document;
       let elements = Array.from(doc.getElementsByTagName('a')).filter(element => {
@@ -37,34 +36,43 @@ class ListWizardsEvents extends stream.Readable {
           adjacent += element.nextSibling.nextSibling.textContent;
         }
 
-        return /\([A-Za-z]+\s[1-9]+\-.+\,\s201[3-6]\)[^A-Za-z]+(Legacy|Modern|Standard)/.test(adjacent);
+        return /\([A-Za-z]+\s[1-9]+\-.+\,\s201[4-6]\)[^A-Za-z]+(Legacy|Modern|Standard)/.test(adjacent);
       });
 
-      this._buffer = elements.map(element => {
-        let adjacent = element.nextSibling.textContent;
-        if (element.nextSibling.nextSibling) {
-          adjacent += element.nextSibling.nextSibling.textContent;
-        }
+      this._buffer = elements
+        .map(element => {
+          let adjacent = element.nextSibling.textContent;
+          if (element.nextSibling.nextSibling) {
+            adjacent += element.nextSibling.nextSibling.textContent;
+          }
 
-        let [match, month, day, year, format] =
-          /\(([A-Za-z]+)\s([1-9]+)\-.+\,\s(201[3-6])\)[^A-Za-z]+(Legacy|Modern|Standard)/.exec(adjacent);
-        let date = moment(
-          `${month} ${day}, ${year}`,
-          'MMMM DD, YYYY'
-        )
-        .valueOf();
+          let [match, month, day, year, format] =
+            /\(([A-Za-z]+)\s([1-9]+)\-.+\,\s(201[4-6])\)[^A-Za-z]+(Legacy|Modern|Standard)/.exec(adjacent);
+          let date = moment(
+            `${month} ${day}, ${year}`,
+            'MMMM DD, YYYY'
+          )
+          .valueOf();
 
-        let link = element.href.startsWith('http') ?
-          element.href :
-          'http://magic.wizards.com' + element.href;
-        return {
-          reporter: 'WotC',
-          date: isNaN(date) ? 0 : date,
-          format,
-          link,
-          location: element.textContent
-        };
-      });
+          // Wizards changed their coverage format at GP Chicago 2014.
+          if (date < 1403247599999) {
+            return null;
+          }
+
+          let link = element.href.startsWith('http') ?
+            element.href :
+            'http://magic.wizards.com' + element.href;
+          let event = {
+            reporter: 'WotC',
+            date: isNaN(date) ? 0 : date,
+            format,
+            link,
+            location: element.textContent
+          };
+
+          return event;
+        })
+        .filter(element => element != null);
     }
 
     while (this._buffer.length && this.push(this._buffer.pop())) {

@@ -2,9 +2,17 @@ let jsdom = require('jsdom');
 
 function load(url) {
   return new Promise((resolve, reject) => {
-    jsdom.env(url, (error, window) => {
-      return error ? reject(error) : resolve(window);
-    });
+    jsdom.env(
+      url,
+      {
+        features: {
+          FetchExternalResources: []
+        }
+      },
+      (error, window) => {
+        return error ? reject(error) : resolve(window);
+      }
+    );
   });
 }
 

@@ -1,0 +1,79 @@
+.grid-tabs {
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-display: flex;
+  display: flex;
+  height: 80px;
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.grid-tab {
+  cursor: pointer;
+  font-family: "Playfair Display";
+  font-size: 20px;
+}
+
+.grid {
+  text-align: center;
+}
+
+.grid-deck {
+  border: 1px solid #ccc;
+  color: black;
+  display: inline-block;
+  height: 250px;
+  margin: 0 0 30px 30px;
+  position: relative;
+  width: 200px;
+}
+
+.grid-deck-container {
+  -webkit-align-items: center;
+  align-items: center;
+  bottom: 0;
+  cursor: pointer;
+  -webkit-display: flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.grid-deck-background {
+  bottom: 0;
+  -webkit-display: flex;
+  display: flex;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.grid-deck-stripe {
+  height: 100%;
+  opacity: 0.5;
+}
+
+.grid-deck-image {
+  background-position: -20px -35px;
+  border: 1px solid #ccc;
+  height: 135px;
+  width: 180px;
+}
+
+.grid-deck-text {
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+.grid-deck-name {
+  font-weight: bold;
+}

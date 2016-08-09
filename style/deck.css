@@ -1,0 +1,23 @@
+.deck-header,
+.deck-popularity,
+.deck-data {
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.deck-header {
+  -webkit-display: flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.deck-popularity {
+  height: 300px;
+}
+
+.deck-data tr {
+  cursor: pointer;
+}

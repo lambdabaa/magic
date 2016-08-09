@@ -1,0 +1,2492 @@
+<!doctype html>
+<html>
+<head>
+<title>Live Coverage of StarCityGames.com Open Series: New Jersey featuring the Invitational | StarCityGames.com</title>
+<meta name="robots" content="index, follow">
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--[if lt IE 8]>
+<script src="//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+<![endif]-->
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Magic: the Gathering singles, strategy, and decks!">
+<meta name="keywords" content="Magic the gathering, Magic singles, Magic boxes, Magic decks, Magic cards, Magic strategy, mtg, ">
+<meta name="verify-v1" content="YK4pepakFtM+pkoCT9CqjcIiYrueJ0upTrFc6d9I03w=" />
+<meta name="y_key" content="095558bcde3b1768" >
+
+
+
+<META http-equiv="Pragma" content="no-cache">
+<META http-equiv="expires" content="Wed, 26 Jul 1996 08:52:00 GMT">
+
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//www.starcitygames.com/assets/reset.css">
+<link rel="apple-touch-icon" href="//static.starcitygames.com/www/images/banners/media/scgmobile/ipad_feed.png">
+<link rel="alternate" type="application/rss+xml" title="StarCityGames RSS" href="http://www.starcitygames.com/rss/rssfeed.xml">
+<link rel="search" href="http://www.starcitygames.com/opensearch.xml" type="application/opensearchdescription+xml" title="Magic Card Search" />
+<link rel="stylesheet" type="text/css" href="//sales.starcitygames.com/javascript/jquery.add_to_cart.css">
+<link rel="stylesheet" type="text/css" href="//sales.starcitygames.com/library/scripts/fancybox/jquery.fancybox.css?v=2.1.2" media="screen" />
+<link rel="stylesheet" href="//www.starcitygames.com/assets/jqueryui.css">
+<link rel="stylesheet" href="//sales.starcitygames.com/library/scripts/jquery-ui-1.8.4/themes/ui-lightness/jquery.ui.autocomplete.css">
+<link rel="stylesheet" href="//www.starcitygames.com/assets/style_css.php?date=2016_04_07&ir=http://static.starcitygames.com/www//images">
+<link rel="stylesheet" href="//www.starcitygames.com/assets/jquery.jscrollpane.css">
+<link rel="stylesheet" href="//www.starcitygames.com/assets/skin.css">
+<link rel="stylesheet" href="//www.starcitygames.com/assets/selectboxes.css">
+<link rel="stylesheet" type="text/css" href="//www.starcitygames.com/js/jquery.qtip-2.2.1.min.css"/>
+<link rel="stylesheet" type="text/css" href="//www.starcitygames.com/js/google_translate.css"/>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
+<script src="//www.starcitygames.com/js/jquery.tabify.js"></script>
+<script src="//www.starcitygames.com/js/jquery.marquee.js"></script>
+<script src="//www.starcitygames.com/js/jquery.tools.min.js"></script>
+<script src="//www.starcitygames.com/js/jquery.autocomplete_all_products.js"></script>
+<script src="//www.starcitygames.com/js/jquery.mousewheel.js"></script>
+<script src="//www.starcitygames.com/js/jquery.jscrollpane.min.js"></script>
+<script src="//www.starcitygames.com/js/jquery.jcarousel.min.js"></script>
+<script src="//www.starcitygames.com/js/jquery.chosen.js"></script>
+<script src="//www.starcitygames.com/js/jquery.validate.js"></script>
+<script src="//www.starcitygames.com/js/jquery.qtip-2.2.1.min.js"></script>
+<script src="//www.starcitygames.com/js/jquery.easing.js"></script>
+<script src="//www.starcitygames.com/js/jquery.flexslider-min.js"></script>
+<script src="//www.starcitygames.com/javascript/site_definitions.php"></script>
+<script src="//sales.starcitygames.com/javascript/jquery.add_to_cart.js"></script>
+<script src="//sales.starcitygames.com/javascript/jquery.wishlist.js"></script>
+<script src="//sales.starcitygames.com/library/scripts/jquery.cycle.all.js"></script>
+<script type='text/javascript' src='//sales.starcitygames.com/library/scripts/custom.js'></script>
+<script type="text/javascript" src="//www.starcitygames.com/javascript/jquery.smoothDivScroll-1.1-min.js"></script>
+<script type="text/javascript" src="//sales.starcitygames.com/library/scripts/fancybox/jquery.fancybox.js?v=2.1.3"></script>
+<script type="text/javascript" src="//www.starcitygames.com/js/google_analytics.js"></script>
+<script type="text/javascript" src="//www.starcitygames.com/js/google_tags.js"></script>
+<script type="text/javascript" src="//www.starcitygames.com/js/google_translate.js"></script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script src="//www.starcitygames.com/js/site.js?ver=2015.07.27"></script>
+
+<!-- Load additional Javascript -->
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+</HEAD>
+
+<BODY>
+    <!-- Load FaceBook SDK -->
+    <div id="fb-root"></div>
+    
+    <script>
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+    
+
+
+<div class="fixedtop_holder"></div>
+<header id="header">
+
+            <!-- starcitynetwork_top_banner -->
+        <div id='div-gpt-ad-1368036768350-0' style='width:728px; height:90px; margin-left:auto; margin-right:auto;'>
+            
+            <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1368036768350-0'); });
+            </script>
+            
+        </div>
+        <div style="clear:both;"></div>
+    
+	<div id="inner_wrapper">
+        <div class="header_wrapper">
+			<div id="logo" class="left"><a href="http://www.starcitygames.com/"><img src="http://static.starcitygames.com/www//images/header/headerlogo.png" data-hover="http://static.starcitygames.com/www//images/header/headerlogo-over.png"></a></div>
+			<div id="main_nav" class="left">
+                <nav>
+					<ul>
+						<li class="spacer"><a href="http://www.starcitygames.com/cardsets/">STORE</a></li>
+						<li class="spacer"><a href="http://www.starcitygames.com/content/schedule">EVENTS</a></li>
+						<li class="spacer"><a href="http://www.starcitygames.com/tags/Premium~Select/">ARTICLES</a></li>
+						<li class="spacer"><a href="http://www.starcitygames.com/content/decklists/">DECKS</a></li>
+						<li class="spacer"><a href="http://www.starcitygames.com/buylist/">BUYLIST</a></li>
+						<li class="spacer"><a href="https://sales.starcitygames.com/contactus/">HELP</a></li>
+                        <li class="spacer"><a href="http://www.starcitygames.com/content/gamecenter/">GAME CENTER</a></li>
+                        <li class="spacer"><a href="http://www.starcitygames.com/content/newslettersignup/">NEWSLETTER</a></li>
+					</ul>
+				</nav>
+            </div>
+            <div id="main_menu_search" class="left">
+				<div id="main_search">
+					<form action="//sales.starcitygames.com/search.php" method="get" name="search_form">
+						<input name="substring" type="text" placeholder="SEARCH THE WORLD'S LARGEST MAGIC:THE GATHERING STORE!" id="product_searchbox">
+						<input id="go" name="go" type="image" value="GO" src="//www.starcitygames.com/images/go.jpg">
+						<input name="t_all" type="hidden" value="All">
+						<input name="start_date" type="hidden" value="2010-01-29">
+						<input name="end_date" type="hidden" value="2012-04-22">
+						<input name="order_1" type="hidden" value="finish">
+						<input name="limit" type="hidden" value="25">
+						<input name="action" type="hidden" value="Show+Decks">
+						<input name="card_qty[1]" type="hidden" value="1">
+						<div id="advsearch" class="right">
+                            <a href="http://sales.starcitygames.com/spoiler/spoiler.php">Advanced Search</a><br>
+                            <a href="http://sales.starcitygames.com/addadeckform.php" class="normal">Deck Builder</a>
+                        </div>
+					</form>
+				</div>
+            </div>
+			<div id="login" class="left">
+				<ul>
+                                        <li class="account1 account_function">Hello. Sign In.<br>
+                        <span class="bold">YOUR ACCOUNT <img src="//www.starcitygames.com/images/arrow_account.png" width="9" height="6"></span>
+                        <div class="account_function_page">
+                            <div id="login_form">
+                                <form action="https://sales.starcitygames.com/login.php" method="post" name="authentication_form">
+                                    <label for="log0n">Email Address:</label><input name="log0n" id="log0n" type="text" class="text">
+                                    <label for="password">Password:</label><input name="password" id="password" type="password" class="text">
+                                    <p class="small_text"><a href="https://sales.starcitygames.com/password_reset.php">forgot your password?</a></p>
+                                    <input name="submit" type="submit" value="Sign in" class="button">
+                                    <input id="mode" class=" webdeveloper-unhidden" type="hidden" value="login" name="mode">
+                                </form>
+                                New customer? <a href="https://www.starcitygames.com/myaccount/signup">Start here!</a>
+                            </div>
+                        </div>
+                    </li>
+                                                            <li class="account2 account_function">
+                        <span id='cart_count'></span><br>
+                        <span class="bold">CART <img src="//www.starcitygames.com/images/arrow_account.png" width="9" height="6"></span>
+                        <div class="account_function_page">
+                            <form id="do_checkout" name="do_checkout" method="post" action="https://sales.starcitygames.com/checkout/shipping.php">
+                                <input type="hidden" name="co" value="all">
+                            </form>
+                            <p class="view_cart"><a href="http://sales.starcitygames.com/checkout/cart.php">View Cart (<span id='cart_count2'></span> items)</a></p>
+                            <p class="checkout_cart"><a href="#" onClick="do_checkout_all();">Checkout</a></p>
+                        </div>
+                    </li>
+                    <li class="account3 account_function">
+                        <span class="bold">WISH<br>LIST <img src="//www.starcitygames.com/images/arrow_account.png" width="9" height="6"></span>
+                        <div class="account_function_page">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0" id="wishlist_table">
+                                <tr class="product_row">
+                                    <td>&nbsp;</td>
+                                    <td>&nbsp;</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="menu_wrap">
+        <div class="header_wrapper">
+            <nav id="product_menu">
+                <ul id="nav" class="dropdown">
+                    <li id="nav_featured" class="main_menu">
+                        <a href="http://www.starcitygames.com/content/landing_page"><img src="http://static.starcitygames.com/www/images/setLogo.png"/></a>
+                    </li>
+                    <li id="nav_singles" class="main_menu"><a href="#">Magic Singles</a>
+                        <ul class="show_shadow">
+                            <li><a href="http://www.starcitygames.com/cardsets/english_singles">English</a></li>
+                            <li><a href="http://www.starcitygames.com/cardsets/english_foils">Foil English</a></li>
+                            <li><a href="http://www.starcitygames.com/cardsets/non_english_singles">Non-English</a></li>
+                            <li><a href="http://www.starcitygames.com/cardsets/non_english_foils">Foil Non-English</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5058">BGS/Graded Cards</a></li>
+                            <li><a href="http://www.starcitygames.com/cardsets/rarities/">Misprints and Rarities</a></li>
+                            <li class="lastmenu"><a href="http://sales.starcitygames.com/category.php?t=a&cat=144">Wholesale Lots</a></li>
+                        </ul>
+                    </li>
+                    <li id="nav_sealed" class="main_menu"><a href="#">Magic Sealed Product</a>
+                        <ul class="show_shadow">
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5121">Booster Packs</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5125">Booster Boxes</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5129">Box Sets</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5126">Bundles &amp; Fat Packs</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5232">Duel Decks</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5122">Introductory Products</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5231">Multiplayer Products</a></li>
+                            <li><a href="http://sales.starcitygames.com/spoiler/display.php?&s%5B5114%5D=5114&s%5B5317%5D=5317&s%5B5318%5D=5318&s%5B5319%5D=5319&s%5B5320%5D=5320&s%5B5321%5D=5321&s%5B5322%5D=5322&s%5B5323%5D=5323&s%5B5324%5D=5324&s%5B5325%5D=5325&s%5B5326%5D=5326&display=3&numpage=25">Non-English Products</a></li>
+                            <li class="lastmenu"><a href="http://sales.starcitygames.com/category.php?t=a&cat=5123">Tournament/Starter Packs</a></li>
+                        </ul>
+                    </li>
+                    <li id="nav_supplies" class="main_menu"><a href="#">Gaming Supplies</a>
+                        <ul class="show_shadow">
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5088">Binders</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5204">Books &amp; Fat Pack Guides</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5091">Boxes &amp; Bags</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5092">Clothing</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5299">Collectibles</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5089">Deck Boxes</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5205">Dice</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5251">Life Counters</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5093">Miscellaneous</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=5090">Playmats</a></li>
+                            <li class="lastmenu"><a href="http://sales.starcitygames.com/category.php?t=a&cat=153">Sleeves</a></li>
+                        </ul>
+                    </li>
+                    <li id="nav_special" class="main_menu"><a href="#">Specialty Items</a>
+                        <ul class="show_shadow">
+                            <li><a href="http://www.starcitygames.com/content/cardboardcrack/">Cardboard Crack</a></li>
+                            <li><a href="http://www.starcitygames.com/content/creaturecollection/">Creature Collection</a></li>
+                            <li><a href="http://sales.starcitygames.com/category.php?t=a&cat=1">Gift Cards</a></li>
+                            <li><a href="http://www.starcitygames.com/content/lithographs/">Lithographs</a></li>
+                            <li class="lastmenu"><a href="http://www.starcitygames.com/content/nextlevel/">Next Level Library</a></li>
+                        </ul>
+                    </li>
+                    <li id="nav_digital" class="main_menu"><a href="#">Digital Products</a>
+                        <ul class="show_shadow">
+                            <li><a href="http://www.starcitygames.com/content/completecommander/">Complete Commander</a></li>
+                            <li><a href="http://www.starcitygames.com/content/nextlevel/">Next Level Library</a></li>
+                            <li><a href="http://sales.starcitygames.com/omg/">OMG: Official Miser's Guide</a></li>
+                            <li class="lastmenu"><a href="http://sales.starcitygames.com/carddisplay.php?product=267847">Tha Gatherin'</a></li>
+                        </ul>
+                    </li>
+                    <li id="nav_webuy" class="main_menu"><a href="http://www.starcitygames.com/buylist/">We Buy <img src="http://static.starcitygames.com/www/images/magiclogo.png" width="82" height="23"></a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
+<section id="body_content">
+    <div id="sidebar_background">
+        <section id="content" class="left">
+            <table width="100%" cellspacing="0" cellpadding="0" valign="top" align="center"><tr><td><!-- Display Coverage Article -->
+
+            <link rel="stylesheet" type="text/css" href="http://sales.starcitygames.com/library/scripts/jquery-ui-1.8.4/themes/ui-lightness/jquery.ui.core.css">
+            <link rel="stylesheet" type="text/css" href="http://sales.starcitygames.com/library/scripts/jquery-ui-1.8.4/themes/ui-lightness/jquery.ui.theme.css">
+            <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+            <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+        <div id="op-menu">
+            <div id="op-menu-header"><img src="http://static.starcitygames.com/www/images/banners/media/organizedplay/dynamic-page-images/menu-banner.png" alt="StarCityGames.com Organized Play"></div>
+            <div id="op-menu-line">
+                <ul class="main-menu">
+                    <li id="link-tour" >
+                        <span class="menu-link">SCG Tour</span>
+                        <ul class="menu-fly-out" id='menu-tour'>
+                            <li><a href="http://www.starcitygames.com/content/scgtour">Overview</a></li>
+                            <li><a href="http://www.starcitygames.com/leaderboard/">Leaderboard</a></li>
+                            <li><a href="http://www.starcitygames.com/content/playerschampionship">Players' Championship</a></li>
+                            <li><a href="http://www.starcitygames.com/content/invitationals">Invitationals</a></li>
+                            <li><a href="http://www.starcitygames.com/content/opens">Opens</a></li>
+                            <li><a href="http://www.starcitygames.com/content/classics">Classics</a></li>
+                            <li><a href="http://www.starcitygames.com/content/regionals">Regional Championships</a></li>
+                            <li><a href="http://www.starcitygames.com/content/scgpoints">SCG Points</a></li>
+                            <li><a href="http://www.starcitygames.com/content/yourfirstopen">Your First Open</a></li>
+                            <li></li>
+                        </ul>
+                    </li>
+                    <li id="link-isp">
+                        <span class="menu-link">In-Store Programs</span>
+                        <ul class="menu-fly-out" id='menu-isp'>
+                            <li><a href="http://www.starcitygames.com/content/ispoverview">Overview</a></li>
+                            <li><a href="http://www.starcitygames.com/content/gamenight">Game Night</a></li>
+                            <li><a href="http://www.starcitygames.com/content/iq">Invitational Qualifiers</a></li>
+                            <li><a href="http://www.starcitygames.com/content/states">State & Provincial Championships</a></li>
+                        </ul>
+                    </li>
+                    <li id="link-info">
+                        <span class="menu-link">Coverage & Info</span>
+                        <ul class="menu-fly-out" id='menu-info'>
+                            <li><a href="http://www.starcitygames.com/content/schedule">Event Schedule</a></li>
+                            <li><a href="http://www.starcitygames.com/content/archive">Coverage Archive</a></li>
+                            <li><a href="http://www.starcitygames.com/content/scglive">About SCGLive<sup>&reg;</sup></a></li>
+                            <li><a href="http://www.starcitygames.com/content/judgerewards">Judge Rewards</a></li>
+                            <li><a href="http://static.starcitygames.com/www/pdfs/Invitational_Policy.pdf">Invitation Policy</a></li>
+                            <li><a href="http://static.starcitygames.com/www/pdfs/Tournament_Policy.pdf">Tournament Policy</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+        
+        <style>
+            #op-menu{
+                width: 710px;
+            }
+            #op-menu-header{
+                height: 114px;
+            }
+            #op-menu-line{
+                background-image: url('http://static.starcitygames.com/www/images/banners/media/organizedplay/dynamic-page-images/menu-stripe-bg-2.png');
+                background-repeat: repeat-x;
+                height: 42px;
+                position: relative;
+            }
+            #op-menu a:link{
+                color: #fff;
+                text-decoration: none;
+            }
+            #op-menu a:visited{
+                color: #fff;
+            }
+            #op-menu a:hover{
+                background-color: #575757;
+            }
+            #op-menu .menu-link{
+                color: #fff;
+                display: block;
+                padding: 0 0 5px 20px;
+                cursor: pointer;
+                line-height: 37px;
+                font-size: 24px;
+            }
+            #op-menu ul{
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                position: absolute;
+                z-index: 10;
+            }
+            #op-menu ul.main-menu > li{
+                float: left;
+                width: 200px;
+            }
+            #op-menu ul.main-menu > li:first-child{
+                width: 206px;
+            }
+            #op-menu ul.main-menu > li:nth-child(2){
+                width: 285px;
+            }
+            #op-menu ul.main-menu > li:last-child{
+                width: 199px;
+            }
+            #op-menu ul.main-menu li a{
+                display: block;
+            }
+            #op-menu .menu-fly-out{
+                background-color: #1a1c1b;
+                display: none;
+                font-size: 15px;
+                line-height: 18px;
+                z-index: 10;
+            }
+            #op-menu li:nth-child(1) .menu-fly-out{
+                width: 213px;
+            }            
+            #op-menu li:nth-child(2) .menu-fly-out{
+                width: 275px;
+            }
+            #op-menu li:last-child .menu-fly-out{
+                width: 219px;
+            }
+            #op-menu ul.main-menu .menu-fly-out a{
+                padding: 10px 20px;
+            }
+        </style>
+        <script>
+            $(document).ready(function(){
+                
+                $('#op-menu ul.main-menu > li').mouseenter(function(){
+                    var menuId = "#menu-" + $(this).attr('id').substring(5); 
+                    $(menuId).show();
+                });
+                
+                $('#op-menu ul.main-menu > li').each( function() {                   
+                    $(this).mouseleave(function(){
+                        var menuId = "#menu-" + $(this).attr('id').substring(5);
+                        $(menuId).hide();
+                    });
+                });
+                
+            });
+        </script>
+        
+            <table style="text-align: center; width: 100%" cellpadding="0" cellspacing="0">
+                <tbody><tr><td>
+            <style type="text/css">
+
+                #coverage_main {
+                    width:710px;
+                    padding-bottom:10px;
+                    margin-right: auto;
+                    margin-left:auto;
+                }
+
+
+                .coverage_banner {
+                    width: 710px;
+                    height: 150px;
+                }
+               
+                .open_series_banner {
+                    background-image: url("http://static.starcitygames.com/www/images/banners/media/Coverage/openHeader.png");
+                }
+                                               
+                .invi_banner {
+                    background-image: url("http://static.starcitygames.com/www/images/banners/media/Coverage/inviHeader.png");
+                }
+                
+                .coverage_banner_logo {
+                    float:left;
+                }
+                
+                .coverage_banner_text {
+                    width: 495px;
+                    height: 100px;
+                    float:left;
+                    padding: 25px 10px 25px 10px;
+                    text-align:left;
+                }
+                
+                .coverage_banner_event_type {
+                    font-size: 26px;
+                    color: white;
+                }
+                
+                .coverage_banner_event_location {
+                    font-size: 65px;
+                    font-weight: bolder;
+                    color: white;
+                    line-height: 54px;
+                    white-space: nowrap;
+                }
+                
+                .coverage_banner_event_date {
+                    font-size: 20px;
+                    font-weight: lighter;
+                    color:white;
+                }
+
+                #coverage_content {
+                    margin:10px 10px 0px 10px;
+                    background:#ffffff;
+                    text-align:left;
+ 
+                }
+                
+                .update_column {
+                    float: right;
+                    font-size: 10px;
+                    font-weight: normal;
+                    text-align: right;
+                    margin-bottom: 15px;
+                }
+                
+                .update_column input {
+                    font-size: 12px;
+                }
+                
+                .coverage_content_leadin {
+                    padding: 0px 10px 10px 10px;
+                    
+                }
+
+                .coverage_content_leadin p{
+                    margin: 0px 0px 5px 0px;
+                    font-size: 16px;
+                    font-family:  'Open Sans', sans-serif !important;
+                    line-height: 19px !important;
+                }
+
+                div.coverage_content_leadin img {
+                    margin:0px 0px 0px 10px;
+                }
+
+                #twitterfeed{
+                    margin: 10px 10px 0px 10px;
+                }
+
+                #fb_event_photos {
+                    width:650px;
+                    height:100px;
+                    padding:5px 10px 10px 10px;
+                    margin-right: auto;
+                    margin-left:auto;
+                    background-image:url("http://static.starcitygames.com/www/images/banners/media/Coverage/fb_bg.jpg");
+                    border-radius: 10px;
+                    -moz-border-radius: 10px;
+                    -webkit-border-radius: 10px;
+                }
+
+                #fb_event_photos img{
+                    border:none;
+                    padding:0px;
+                    margin:0px;
+                    vertical-align:middle;
+                }
+
+                #fb_event_photos .fb_image {
+                    max-width: 76px;
+                    max-height: 62px;
+                }
+
+                .see_more{
+                    margin:0px;
+                    float:right;
+                    /*margin-right: 28px;*/
+                    position: relative;
+                    top:-36px;
+                }
+
+                #videofeed{
+                    width:690px;
+                    /*background-color: #3C6835;*/
+                }
+
+                #videochat{
+                    float:right;
+                    width:330px;
+                    margin-right:10px;
+                }
+
+                #twtr-widget-1 .twtr-doc, #twtr-widget-1 .twtr-hd a, #twtr-widget-1 h3, #twtr-widget-1 h4, #twtr-widget-1 .twtr-popular {
+                    background-color:#3C6835 !important;
+                }
+
+                #tabs{
+                    padding:0px;
+                    background:#ffffff;
+                    margin-top:10px;
+                    border:none;
+                }
+                    
+
+                    
+                /* jQuery UI Tab Styles */
+                
+                .ui-tabs {
+                    border: none;
+                }
+                
+                .ui-tabs .ui-tabs-nav {
+                    width: 690px;
+                    height: 38px;
+                    margin: 0px;
+                    padding: 0px 0px 0px 10px;
+
+                }
+                
+                .ui-tabs .ui-tabs-nav li {
+                    width: 159px;
+                    height: 30px;
+                    top: 8px;
+                    margin: 0px 0px 0px 5px;
+
+                }
+                
+                .ui-tabs .ui-tabs-nav li a {
+                    width: 83%;
+                }
+                
+                .ui-tabs .ui-tabs-nav li a:link {
+                    color: #000000;
+                    text-decoration: none;
+                }
+
+                .ui-widget-content {
+                    background:white !important;
+                }
+                
+                .ui-widget-header {
+                    border:none; 
+                    background: #A6A6A6;
+                    width: 680px !important;
+                    height: 40px !important;
+                }
+                
+                .ui-tabs .ui-tabs-panel {
+                    display: block;
+                    clear: both;
+                    border: 1px #aaa solid;
+                    border-top: 0px;
+                    padding: 0px;
+                }
+                
+                .ui-corner-top, .ui-corner-bottom, .ui-corner-all {
+                    border-radius:0px;   
+                }
+
+                
+                
+                /* Coverage Bracket Styles*/
+                .top8-bracket{
+                    width: 690px;
+                    font-size:12px;
+                    font-weight:normal;
+                    padding: 20px 0px 0px 0px;
+                }
+                
+                
+                .top8-column {
+                    float: left;
+                }
+                
+                .top8-column-sf, .top8-column-qf, .top8-column-f, .top8-column-c {
+                    width: 161px;
+                }
+                             
+                .top8-column-15 {
+                    width: 15px;
+                }
+                
+                .top8-column-5 {
+                    width: 5px;
+                }
+                
+                .top8-header {
+                    background-color: #6B459C;
+                    font-weight:bold;
+                    font-size: 16px;
+                    color: #FFFFFF;
+                    text-align: center;
+                }
+                
+                .top8-column-row {
+                    display: block;
+                    vertical-align: middle;
+                    font-family: 'Open Sans', sans-serif !important;
+                    font-size: 14px;
+                    white-space: nowrap;
+                }
+                
+                .top8-row-style-1 {
+                    background-color: #CECECE;
+                    padding-left:10px;
+                    vertical-align: middle;
+                }
+                
+                .top8-row-style-2 {
+                    background-color: #EDEDED;
+                    padding-left:10px;
+                    vertical-align: middle;
+                }
+                
+                .top8-row-5 {
+                    height: 5px;
+                    line-height: 5px;
+                }
+                
+                .top8-row-10 {
+                    height: 10px;
+                    line-height: 10px;
+                }
+                
+                .top8-row-20 {
+                    height: 20px;
+                    line-height: 20px;
+                }
+                
+                .top8-row-25 {
+                    height: 25px;
+                    line-height: 25px;
+                }
+
+                .top8-row-30 {
+                    height: 30px;
+                    line-height: 30px;
+                }
+                
+                .top8-row-40 {
+                    height: 40px;
+                    line-height: 40px;
+                }
+                
+                .top8-row-45 {
+                    height: 45px;
+                    line-height: 45px;
+                }
+            
+                .top8-row-50 {
+                    height: 50px;
+                    line-height: 50px;
+                }
+                
+                .top8-row-62 {
+                    height: 62px;
+                    line-height: 62px;
+                }
+                
+                .top8-row-63 {
+                    height: 63px;
+                    line-height: 63px;
+                }
+                
+                .article_column {
+                    float:left;
+                    width: 475px;
+                    margin-top: 20px;
+                    
+                }
+                                
+                .article_section {
+                    margin-bottom:20px;
+                }
+                
+                .article_type_header {   
+                       
+                }
+                
+                .article_banner {
+                    display: inline-block;
+                    width: 310px;
+                    height: 30px;
+                    font-weight:bold;
+                    font-size: 25px;
+                    line-height: 30px;
+                    color: #FFFFFF;
+                    vertical-align: middle;
+                    background-color: #125687;
+                    padding-left: 10px;
+                    background-image: url( http://static.starcitygames.com/www/images/banners/media/Coverage/ribbon.png );
+                    background-position: right;
+                    background-repeat: no-repeat;
+                }
+                                
+                .article_section_body{
+                    margin: 10px 10px 10px 10px;
+                }
+                
+                .article_section_subheader {
+                    width: 450px;
+                    margin: 10px 20px 10px 0px;
+
+                }
+
+                .article_title {
+                    width: 100%;
+                    margin: 0px;
+                }
+                
+                .article_title, .article_title a {
+                    color: #125687;
+                    font-size: 16px;
+                    font-weight: bold;
+                    text-align:left;
+                }
+                
+                .article_author {
+                    float:right;
+                    width: 150px;
+                    color: #000000;
+                    font-size: 16px;
+                    font-weight: normal;
+                    text-align: right;
+                    margin: 0px;
+                }
+                
+                .article_text {
+                    width: 400px;
+                    margin: 10px;
+                    font-size: 14px;
+                    font-weight:normal;
+                    font-family: 'Open Sans', sans-serif !important;
+                }
+                
+                .standings_column {
+                    width: 200px;
+                    float:right;
+                    background-color: #C89108;
+                    margin: 20px 10px 10px 0px;
+                }
+                
+                .winner_photo_section {
+                    padding: 5px 5px 0px 5px;
+        
+                }
+                
+                .winner_photo_section img {
+                    max-width: 190px;
+                }
+                
+                .champion_name {
+                    color: #FFFFFF;
+                    font-weight: normal;
+                    font-size: 15px;
+                    margin: 10px 0px 10px 0px;
+                    text-align:center;
+                    font-family: 'Open Sans', sans-serif !important;
+                }
+                
+                .champion_label {
+                    color: #FFFFFF;
+                    font-weight:bold;
+                    font-size: 15px;
+                    margin: 10px 0px 12px 0px;
+                    text-align:center;
+                    font-family: 'Open Sans', sans-serif !important;
+                }
+                
+                
+                .standings_table {
+                    font-size:10px;
+                    font-weight:normal;
+                    text-align:center;
+                    color: #FFFFFF;
+                    margin: 10px 5px 10px 5px;
+                }
+                
+                .standings_table td {
+                    padding: 3px 0px 3px 0px;
+                    width: 63.33333px
+                }
+                
+                .standings_table a:link, .standings_table a:visited, .standings_table a:hover, .standings_table a:active {
+                    
+                    font-weight: bold;
+                    font-size: 11px;
+                    color: #FFFFFF;
+                    text-decoration: none;
+                }
+                
+                .stretch {
+                    clear:both;
+                }
+
+                .clear_left {
+                    clear:left;
+                }
+                
+                .clear_both {
+                    clear:both;
+                }
+                
+                /* Copied from the Factsheets*/
+                #factsheet_header {
+                    margin: 30px 0px 15px 30px;
+                }
+                #factsheet_header .event_date {
+                    font-family: "Open Sans",sans-serif;
+                    font-size:36px;
+                    padding:2px 0px 15px 86px;
+                }	
+                #factsheet_header img {
+                    height:120px;
+                }
+                
+                @font-face {
+                    font-family: "PremierLeague";
+                    src: url("/fonts/PremierLeague.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+                        url("/fonts/PremierLeague.woff") format("woff"), /* Pretty Modern Browsers */
+                        url("/fonts/PremierLeague.ttf")  format("truetype"), /* Safari, Android, iOS */
+                        url("/fonts/PremierLeague.svg#PremierLeague") format("svg"); /* Legacy iOS */
+                    font-weight: normal;
+                    font-style: normal;
+                }
+                
+                .fs_header_image {
+                    float: left;
+                    width: 95px;
+                    height: 135px;
+                    padding-right: 10px;
+                }
+                
+                .fs_header_text {
+                    float: left;
+                    height: 120px;
+                    width: 545px;
+                    text-align:left;
+                }
+                
+                .fs_header { 
+                    float:left;
+                    display: block;
+                    width: 100%;
+                }
+                
+                .fs_header_1 {
+                    font-family: "Open Sans" !important;
+                    font-weight: 400;
+                    font-size: 18px;
+                    color: #909191;
+                    line-height: 20px;
+                    letter-spacing: 2px;
+                    text-transform: uppercase; 
+                }
+                
+                .fs_header_1 sup {
+                    z-index: -1;
+                }
+                
+                .fs_header_2 {
+                    font-family: "PremierLeague" !important;
+                    font-weight: 400;
+                    font-size: 48px;
+                    color: #909191;
+                    line-height: 40px;
+                    text-transform: uppercase; 
+                }
+                
+                .fs_header_3 {
+                    font-family: "PremierLeague" !important;
+                    font-weight: 400;
+                    font-size: 48px;
+                    color: #909191;
+                    line-height: 40px;
+                    text-transform: uppercase; 
+                }
+                
+                .fs_header_4 {
+                    font-family: "Open Sans" !important;
+                    font-weight: 400;
+                    font-size: 20px;
+                    color: #909191;
+                    line-height: 18px;
+                    text-transform: uppercase;
+                }
+                
+                .scg-open {
+                    color:#025687;
+                }
+                
+                .scg-invi {
+                    color:#FCB34C;
+                }
+
+                .sponsor {
+                    text-align: center;
+                    font-size: 16px;
+                    font-weight: 700;
+                    color: #125687;
+                    background: #f7f7f7;
+                    border-radius: 25px;
+                    margin: 10px 25px 0;
+                    padding: 10px;
+                }
+                .sponsor img {
+                    margin-top: 10px;
+                }
+                
+                /*  Coverage Links Section */
+                
+                .links_section a {
+                    color: #FFFFFF;
+                }
+                
+                .coverage_button_link_container {
+                    float: right;
+                    padding-right: 10px;
+                    padding-bottom: 10px;
+                    text-align: center;
+                }
+
+                .coverage_button_link {
+                    display: block;
+                    height: 34px;
+                    line-height: 36px;
+                    padding: 0px;
+                    margin: 0px;
+                    color: #FFFFFF;
+                    font-family: Arial;
+                    font-size: 16px;
+                    text-decoration: none;
+                    cursor: pointer;
+                    border-radius: 0px;
+                    border-bottom: 1px solid darkgrey;
+                    border-right: 1px solid darkgrey;
+                    border-top: 1px solid lightgrey;
+                    border-left: 1px solid lightgrey;
+                }
+                
+                .coverage_button_link:hover {
+                    background-color: grey !important;
+                    color: #000000 !important;
+                    text-decoration: none;
+                }
+
+                .coverage_button_sm {
+                    width: 136px;
+                }
+                
+                .coverage_button_md {
+                    width: 148px;
+                }
+                
+                .coverage_button_lg {
+                    width: 198px;
+                }
+
+               
+                 #Invitational div.top8-header { background-color: #125687 !important; }  #Invitational div.article_banner { background-color: #125687 !important; } #Invitational div.standings_column { background-color: #125687 !important; }  #Invitational .tab-bg { background-color: #125687; }  #Standard div.top8-header { background-color: #125687 !important; }  #Standard div.article_banner { background-color: #125687 !important; } #Standard div.standings_column { background-color: #125687 !important; }  #Standard .tab-bg { background-color: #125687; }  #Modern div.top8-header { background-color: #125687 !important; }  #Modern div.article_banner { background-color: #125687 !important; } #Modern div.standings_column { background-color: #125687 !important; }  #Modern .tab-bg { background-color: #125687; }  #Legacy div.top8-header { background-color: #125687 !important; }  #Legacy div.article_banner { background-color: #125687 !important; } #Legacy div.standings_column { background-color: #125687 !important; }  #Legacy .tab-bg { background-color: #125687; } 
+            </style>
+            <script type="text/javascript">
+            
+                $(document).ready( function () {
+
+                    $.fn.fitToWidth = function(){
+                    
+                        var $span = $(document.createElement("span"))
+                          .css("display","inline")
+                          .css("font","inherit")
+                          .css("white-space","inherit");
+
+                        $(this).wrapInner($span).each(function(){
+                            var $t = $(this);
+                            var $s = $t.children("span");
+                            var tw = $t.width();
+                            var tfs = parseFloat($t.css("font-size"));
+
+                            while($s.outerWidth() > tw) {
+                                $t.css("font-size",--tfs);
+                            }
+
+                            $t.html($s.html());
+
+                        });
+
+                        return this;
+                    }
+                                        
+                    $("#tabs").tabs({
+                        show: function( event, ui ) {
+                            $(ui.panel).find(".top8-column-row").each( function () {
+                                $(this).fitToWidth();
+                            })
+                        },
+                    });
+                              
+                    $(".coverage_banner_event_location").fitToWidth();
+                    
+                });
+            
+                function reloadTabs(){
+                    
+                    $.ajax({
+                        type: 'POST',
+                        url: '/scglive/ajax_event_reload.php',
+                        data: 'action=reload&ajaxid=1152',
+                        success: function(data) {
+                            $("#updates").html( data );
+                            $(".top8-column-row").each( function () { 
+                                $(this).fitToWidth(); 
+                            });
+                        }
+                    });
+                }
+                
+                
+            </script><div id="coverage_main">
+                        <div id="factsheet_header">
+                            <div class="fs_header_image">
+                                <img src="http://static.starcitygames.com/www/images/factsheets/scg-invi-icon.png"/>
+                            </div>
+                            <div class="fs_header_text">
+                                <div class="fs_header fs_header_1 scg-invi">STARCITYGAMES.COM<sup;">&reg;</sup></div>
+                                <div class="fs_header fs_header_2">SOMERSET, NJ</div>
+                                <div class="fs_header fs_header_3 scg-invi">Invitational Weekend</div>
+                                <div class="fs_header fs_header_4 scg-invi">August 29&ndash;31</div>
+                                <div class="clear_both"></div>
+                            </div>
+                            <div class="clear_both"></div>
+                        </div><div id="coverage_content"><div class="coverage_content_leadin"><p>
+	Invitational champion Tom &quot;The Boss&quot; Ross is joined by Standard Open champion Chris Vanmeter and Legacy Open champion Dan Musser as trophy-winners here at the #SCGINVI! Congrulations also to Joe Lossett and Reid Duke, who locked up invites to the Players&#39; Championship. The next stop is St. Louis, so tune into SCGLive next week and join Cedric Phillips, Patrick Sullivan, and Nick Miller at #SCGSTL!&nbsp;</p>
+<div class="stretch"></div></div>
+<!--Media Section-->
+<div id="videofeed"><iframe width="690" height="388" src="//www.youtube.com/embed/videoseries?list=PL5d1KNNFArSPFQciDIkryaUYycOH7Rd_r" frameborder="0" allowfullscreen></iframe></div>
+<!-- Tab Section-->
+
+                                <div id="tabs">
+                                    <ul><li><a href="#Invitational">Invitational</a></li><li><a href="#Standard">Standard</a></li><li><a href="#Modern">Modern</a></li><li><a href="#Legacy">Legacy</a></li> </ul><div id="Invitational" class=".tab385"> 
+        
+            <div class="top8-bracket">
+
+            
+                <!-- Quarterfinals -->
+                <div class="top8-column top8-column-15">
+                    <div class="top8-column-row top8-row-20">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">1</div>
+                    <div class="top8-column-row top8-row-20 top8-header">8</div>
+                    <div class="top8-column-row top8-row-5 top8-header">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">4</div>
+                    <div class="top8-column-row top8-row-20 top8-header">5</div>
+                    <div class="top8-column-row top8-row-5 top8-header">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">2</div>
+                    <div class="top8-column-row top8-row-20 top8-header">7</div>
+                    <div class="top8-column-row top8-row-5 top8-header">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">3</div>
+                    <div class="top8-column-row top8-row-20 top8-header">6</div>
+                </div>
+                
+                <div class="top8-column top8-column-qf">
+                    <div class="top8-column-row top8-row-20 top8-header">QUARTERFINALS</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Alex Finchler</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Reid Duke</div>
+                    <div class="top8-column-row top8-row-5">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Peter Ingram</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Chi Hoi Yim</div>
+                    <div class="top8-column-row top8-row-5">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">William Cruse</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Devon O'Donnell</div>
+                    <div class="top8-column-row top8-row-5">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Tom Ross</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Jared Boettcher</div>
+                    
+                </div>
+                
+                
+                <!-- Semifinals -->
+                <div class="top8-column top8-column-5">
+                    <div class="top8-column-row top8-row-20">&nbsp;</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-25">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                </div>
+                
+                <div class="top8-column top8-column-sf">
+                    <div class="top8-column-row top8-row-20 top8-header">SEMIFINALS</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-1">Reid Duke 3-1</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-2">Peter Ingram 3-1</div>
+                    <div class="top8-column-row top8-row-25">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-1">Devon O'Donnell 3-1</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-2">Tom Ross 3-0</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                </div>
+                
+                
+                <!-- Finals -->
+                <div class="top8-column top8-column-5">
+                    <div class="top8-column-row top8-row-20">&nbsp;</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40">&nbsp;</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40">&nbsp;</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                </div>
+                
+                <div class="top8-column top8-column-f">
+                    <div class="top8-column-row top8-row-20 top8-header">FINALS</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40 top8-row-style-1">Reid Duke 3-1</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40 top8-row-style-2">Tom Ross 3-1</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                </div>
+                
+                
+                <!-- Champion -->
+                <div class="top8-column top8-column-5">
+                    <div class="top8-column-row top8-row-20">&nbsp;</div>
+                    <div class="top8-column-row top8-row-62">&nbsp;</div>
+                    <div class="top8-column-row top8-row-50">&nbsp;</div>
+                    <div class="top8-column-row top8-row-63">&nbsp;</div>
+                </div>
+                
+                <div class="top8-column top8-column-c">
+                    <div class="top8-column-row top8-row-20 top8-header">CHAMPION</div>
+                    <div class="top8-column-row top8-row-62">&nbsp;</div>
+                    <div class="top8-column-row top8-row-50 top8-row-style-1">Tom Ross 3-1</div>
+                    <div class="top8-column-row top8-row-63">&nbsp;</div>
+                </div>
+                <div style="clear:both"></div>
+            </div><div class="article_column"><div class="article_section"><div class="article_section_header">
+                              <div class="article_banner">DECKLISTS</div>
+                          </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/2817_top_8_invitational_legacy_deck.html">Top 8 Invitational Legacy Decklists</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/2815_top_8_invitational_standard_de.html">Top 8 Invitational Standard Decklists</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div></div><div class="article_section"><div class="article_section_header">
+                              <div class="article_banner">TOP 8 PROFILES</div>
+                          </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/2814_invitational_open_top_8_profil.html">Invitational Open Top 8 Profiles</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div></div><div class="article_section"><div class="article_section_header">
+                              <div class="article_banner">FEATURE MATCH</div>
+                          </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/finals_tom_ross_vs_reid_duke_.html">Finals: Tom Ross vs. Reid Duke </a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Tom Ross vs. Reid Duke. What more can you want from an Invitational finals? Will Tom repeat as champion and get a second token or can Reid win his second championship and get his first token?</p>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/semifinals_pete_ingram_vs_reid.html">Semifinals: Pete Ingram vs. Reid Duke</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Pete Ingram has yet to lose a match with his BUG Delver deck this weekend, and hopes to ride his streak all the way to the Players&rsquo; Championship. His opponent, Reid Duke, is a former Invitational winner in his own right, and hopes to earn a second trophy with UWR Miracles.</p>
+<div>
+	&nbsp;</div>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/semifinals_tom_ross_vs_devon_o.html">Semifinals: Tom Ross vs. Devon O’Donnell</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Tom Ross is looking to get back to his second straight finals in an Invitational after winning the Season Two Invitational in Columbus. Devon O&rsquo;Donnell is fighting for a chance to play for the title of Invitational champion and an invite to the Players&rsquo; Championship. Can The Boss continue his run with Infect or will Devon ride BUG Delver to the finals?</p>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/quarterfinals_will_cruse_vs_de.html">Quarterfinals: Will Cruse vs. Devon O’Donnell</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	A Delver matchup in the elimination rounds doesn&rsquo;t come as surprise, but the types of Delver decks is slightly different than usual. BUG Delver in the hands of Devon O&rsquo;Donnell squares off against 4-Color Delver by Will Cruse &ndash; leaving RUG and U//W/R Delver on the outside looking in. Which player gets to move on to the semifinals to play Tom Ross?&nbsp;</p>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/quarterfinals_pete_ingram_vs_c.html">Quarterfinals: Pete Ingram vs. Chi Hoi Yim</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Chi Hoi Yim has piloted control decks to his second consecutive Invitational quarterfinal, but if he hoped to go deeper than he did on his last try, he&rsquo;d need to his UWR Miracles deck to overpower GP Miami quarterfinalist Pete Ingram, who was undefeated in the Swiss with BUG Delver.</p>
+<div>
+	&nbsp;</div>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/round_16_stephen_mann_vs_kenny.html">Round 16: Stephen Mann vs. Kenny Castor</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Both of these players have missed their shot at the elimination rounds, but they&rsquo;re still playing for a thousand dollar Top 16 finish! Would it be Pro Tour Top 8 competitor Stephen Mann with Jund Monsters, or Grand &nbsp;Prix Finalist Kenny Castor with Mono-Blue Devotion?</p>
+<div>
+	&nbsp;</div>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/round_16_andrew_boswell_vs_jus.html">Round 16: Andrew Boswell vs. Justin Parnell </a></div>
+                            </div>
+                            <div class="article_text"><p>
+	It&rsquo;s a battle for Top 16 here in New Jersey. Can Andrew Boswell and G/W Aggro get there or will Justin Parnell and G/r Devotion stop the little creatures from beating him to death?</p>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/round_12_jeff_hoogland_vs_jame.html">Round 12: Jeff Hoogland vs. James Rynkiewicz </a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Jeff Hoogland is well known for his love of Life from the Loam strategies, but he&rsquo;s taking a different approach this weekend, and brings Grixis Delver to battle. His opponent, Legacy Open champion James Rynkiewicz, hoped to grind him into the ground with Shardless BUG.</p>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/round_12_oliver_tomajko_vs_jos.html">Round 12: Oliver Tomajko vs. Josh Cho</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Both players were looking to keep their Top 8 dreams alive, knowing a fourth loss would more than likely eliminate them from playing on Sunday. Would Oliver and Sneak and Show continue his winning ways or could Josh and BUG Delver stop him?</p>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/round_8_tom_ross_vs_shaheen_so.html">Round 8: Tom Ross vs. Shaheen Soorani </a></div>
+                            </div>
+                            <div class="article_text"><p>
+	&ldquo;You need another token? Come on!&rdquo; Shaheen started the match sending congratulations to the Season Two Invitational winner. Would Tom pilot Rabble Red and Infect to an X-1 record on Day or would Shaheen get the honors playing Esper in both formats?</p>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/round_8_ross_merriam_vs_ben_wi.html">Round 8: Ross Merriam vs. Ben Wienburg</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Both of these players are true veterans of the Open Series with twenty-one top 8s and three trophies between them. They also brought the two season-long pillars of Standard to battle&mdash;Ben with Mono-Black Devotion, and Ross with Mono-Blue.</p>
+<div>
+	&nbsp;</div>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/round_4_andrew_schneider_vs_mi.html">Round 4: Andrew Schneider vs. Michael Braverman</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Michael Braverman is hoping to improve on his Quarterfinal finish at last year&rsquo;s SCG Invitational in New Jersey, but he&rsquo;d have to reach the elimination rounds first. Standing in his way this round was three-time Legacy Open Champion Andrew Schneider. Schneider was (as always) playing U/R Delver, while Michael was relying on Shardless BUG to carry the day.</p>
+<div>
+	&nbsp;</div>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/round_3_erik_smith_vs_gregg_sp.html">Round 3: Erik Smith vs. Gregg Spano</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Both of these players are no strangers to Invitational success&mdash;Gregg was a semifinalist in Charlotte earlier this year, while Erik won the Invitational the last time it was held in New Jersey.</p>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/2800_round_2_riley_curran_vs_joe_de.html">Round 2: Riley Curran vs. Joe Demestrio</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Riley Curran has won two Legacy Opens with Combo Elves, and is in the hunt for a third trophy for team Green.&nbsp; Joe Demestrio was in for a rough matchup with his Death and Taxes deck, but the New York Wonderkid was up for the challenge.</p>
+<div>
+	&nbsp;</div>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/round_1_shahar_shenhar_vs_tyle.html">Round 1: Shahar Shenhar vs. Tyler Olson</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Reigning World Champion Shahar Shenhar hoped to add &ldquo;Invitational winner&rdquo; to his already hefty resume, and brought Death and Taxes to the table. His opponent, Tyler Olson, hoped to rain on his parade with the old boogeyman Reanimator.</p>
+<div>
+	&nbsp;</div>
+</div>
+                        </div></div><div class="article_section"><div class="article_section_header">
+                              <div class="article_banner">DECK TECH</div>
+                          </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/deck_tech_merfolk_deck_tech_wi.html">Deck Tech: Merfolk Deck Tech with Greg Hatch</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/2811_deck_tech_monored_sneak_attack.html">Deck Tech: Mono-Red Sneak Attack with Brad Nelson</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/deck_tech_naya_tokens_with_dar.html">Deck Tech: Naya Tokens with Daryl Ayers</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/deck_tech_jund_aggro_with_andr.html">Deck Tech: Jund Aggro with Andrew Kerrigan</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/deck_tech_slivers_with_adam_fr.html">Deck Tech: Slivers with Adam Fronsee</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/deck_tech_uwr_miracles_with_jo.html">Deck Tech: U/W/R Miracles with Joe Lossett</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div></div><div class="article_section"><div class="article_section_header">
+                              <div class="article_banner">BLOG</div>
+                          </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/2816_legacy_71_or_better_decklists.html">Legacy 7-1 or Better Decklists</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/2818_standard_71_or_better_decklist.html">Standard 7-1 or Better Decklists</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div></div><div class="stretch"></div>
+            </div><div class="standings_column"><div class="winner_photo_section"><img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xaf1/t1.0-9/p480x480/995628_10152341094737918_5979420315624113544_n.jpg" border="0" ><div class="champion_name">Tom Ross</div><div class="champion_label">INVITATIONAL CHAMPION</div></div>
+                <table class="standings_table" width="190" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>PAIRINGS</td>
+                        <td>RESULTS</td>
+                        <td>STANDINGS</td>
+                    </tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830164608000000.html" target="_blank">16</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830175759000000.html" target="_blank">16</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830175804000000.html" target="_blank">16</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830154601000000.html" target="_blank">15</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830164645000000.html" target="_blank">15</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830164639000000.html" target="_blank">15</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830144026000000.html" target="_blank">14</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830154624000000.html" target="_blank">14</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830154612000000.html" target="_blank">14</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830132935000000.html" target="_blank">13</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830144047000000.html" target="_blank">13</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830144042000000.html" target="_blank">13</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830122114000000.html" target="_blank">12</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830141006000000.html" target="_blank">12</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830140953000000.html" target="_blank">12</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830111027000000.html" target="_blank">11</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830140947000000.html" target="_blank">11</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830140934000000.html" target="_blank">11</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830100301000000.html" target="_blank">10</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830140925000000.html" target="_blank">10</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830140917000000.html" target="_blank">10</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830085218000000.html" target="_blank">9</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830100315000000.html" target="_blank">9</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830100310000000.html" target="_blank">9</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829210356000000.html" target="_blank">8</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829221343000000.html" target="_blank">8</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829221348000000.html" target="_blank">8</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829195720000000.html" target="_blank">7</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829210413000000.html" target="_blank">7</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829210408000000.html" target="_blank">7</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829184955000000.html" target="_blank">6</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829195808000000.html" target="_blank">6</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829195803000000.html" target="_blank">6</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829174214000000.html" target="_blank">5</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829185010000000.html" target="_blank">5</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829185005000000.html" target="_blank">5</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829160942000000.html" target="_blank">4</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829174317000000.html" target="_blank">4</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829174248000000.html" target="_blank">4</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829145726000000.html" target="_blank">3</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829163117000000.html" target="_blank">3</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829163113000000.html" target="_blank">3</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829134801000000.html" target="_blank">2</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829145740000000.html" target="_blank">2</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829145736000000.html" target="_blank">2</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829125050000000.html" target="_blank">1</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829135602000000.html" target="_blank">1</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140829135556000000.html" target="_blank">1</a></td></tr></table></div>  <div class="stretch"></div><div class="links_section"><div class="coverage_button_link_container">
+                     <a href="#" class="coverage_button_link coverage_button_lg tab-bg" onclick="reloadTabs()">Refresh Coverage</a>
+                  </div><div class="coverage_button_link_container">
+                      <a href="http://pairings.starcitygames.com" target="_blank" class="coverage_button_link coverage_button_sm tab-bg">Pairings</a>
+                  </div><div class="coverage_button_link_container">
+                          <a href="http://www.starcitygames.com/events/300814_somerset_fact_sheet.html" target="_blank" class="coverage_button_link coverage_button_md tab-bg">Event Fact Sheet</a>
+                      </div><div style="clear:both"></div></div>  <div class="stretch"></div></div><div id="Standard" class=".tab316"> 
+        
+            <div class="top8-bracket">
+
+            
+                <!-- Quarterfinals -->
+                <div class="top8-column top8-column-15">
+                    <div class="top8-column-row top8-row-20">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">1</div>
+                    <div class="top8-column-row top8-row-20 top8-header">8</div>
+                    <div class="top8-column-row top8-row-5 top8-header">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">4</div>
+                    <div class="top8-column-row top8-row-20 top8-header">5</div>
+                    <div class="top8-column-row top8-row-5 top8-header">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">2</div>
+                    <div class="top8-column-row top8-row-20 top8-header">7</div>
+                    <div class="top8-column-row top8-row-5 top8-header">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">3</div>
+                    <div class="top8-column-row top8-row-20 top8-header">6</div>
+                </div>
+                
+                <div class="top8-column top8-column-qf">
+                    <div class="top8-column-row top8-row-20 top8-header">QUARTERFINALS</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Scott Metcalf</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Michael Sammut</div>
+                    <div class="top8-column-row top8-row-5">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">David Malafarina</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Chris VanMeter</div>
+                    <div class="top8-column-row top8-row-5">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Peter Repp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Richard Nguyen</div>
+                    <div class="top8-column-row top8-row-5">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Jarvis Yu</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Patrick Guardiano</div>
+                    
+                </div>
+                
+                
+                <!-- Semifinals -->
+                <div class="top8-column top8-column-5">
+                    <div class="top8-column-row top8-row-20">&nbsp;</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-25">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                </div>
+                
+                <div class="top8-column top8-column-sf">
+                    <div class="top8-column-row top8-row-20 top8-header">SEMIFINALS</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-1">Scott Metcalf 2-0</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-2">Chris VanMeter 2-1</div>
+                    <div class="top8-column-row top8-row-25">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-1">Peter Repp 2-0</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-2">Jarvis Yu 2-1</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                </div>
+                
+                
+                <!-- Finals -->
+                <div class="top8-column top8-column-5">
+                    <div class="top8-column-row top8-row-20">&nbsp;</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40">&nbsp;</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40">&nbsp;</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                </div>
+                
+                <div class="top8-column top8-column-f">
+                    <div class="top8-column-row top8-row-20 top8-header">FINALS</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40 top8-row-style-1">Chris VanMeter 2-1</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40 top8-row-style-2">Peter Repp 2-1</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                </div>
+                
+                
+                <!-- Champion -->
+                <div class="top8-column top8-column-5">
+                    <div class="top8-column-row top8-row-20">&nbsp;</div>
+                    <div class="top8-column-row top8-row-62">&nbsp;</div>
+                    <div class="top8-column-row top8-row-50">&nbsp;</div>
+                    <div class="top8-column-row top8-row-63">&nbsp;</div>
+                </div>
+                
+                <div class="top8-column top8-column-c">
+                    <div class="top8-column-row top8-row-20 top8-header">CHAMPION</div>
+                    <div class="top8-column-row top8-row-62">&nbsp;</div>
+                    <div class="top8-column-row top8-row-50 top8-row-style-1">Chris VanMeter 2-0</div>
+                    <div class="top8-column-row top8-row-63">&nbsp;</div>
+                </div>
+                <div style="clear:both"></div>
+            </div><div class="article_column"><div class="article_section"><div class="article_section_header">
+                              <div class="article_banner">DECKLISTS</div>
+                          </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/2820_top_16_standard_decklists.html">Top 16 Standard Decklists</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div></div><div class="article_section"><div class="article_section_header">
+                              <div class="article_banner">TOP 8 PROFILES</div>
+                          </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/2821_standard_open_top_8_profiles.html">Standard Open Top 8 Profiles</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div></div><div class="article_section"><div class="article_section_header">
+                              <div class="article_banner">FEATURE MATCH</div>
+                          </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/finals_peter_repp_vs_chris_van.html">Finals: Peter Repp vs. Chris VanMeter</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Chris is back in the finals with a shot to shave the beard. Can he do it with Jund Monsters equipped with Goblin Rabblemaster or will Peter stop him with Mono-Black Devotion?</p>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/semifinals_pete_repp_vs_jarvis.html">Semifinals: Pete Repp vs. Jarvis Yu</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Pete Repp was in for another black mirror with his Mono-Black Devotion deck. This time it was Jarvis Yu&rsquo;s Black/Green Devotion looking to rain on his parade and make his way into the finals.</p>
+<div>
+	&nbsp;</div>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/quarterfinals_pete_repp_vs_ric.html">Quarterfinals: Pete Repp vs. Richard Nguyen</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	It was all Swamps all the time in this quarterfinal&mdash;Pete Repp was representing the traditional Mono-Black Devotion deck, and Richard Nguyen was bringing the beats with Mono-Black Aggro.</p>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/quarterfinals_scott_metcalf_vs.html">Quarterfinals: Scott Metcalf vs. Michael Sammut </a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Scott had the top seed and will use being on the play to his advantage with G/W Aggro. Can his slew of creatures get past Michael&rsquo;s Jund Monsters?&nbsp;</p>
+</div>
+                        </div></div><div class="stretch"></div>
+            </div><div class="standings_column"><div class="winner_photo_section"><img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/p480x480/16302_10152340379852918_549951284869829825_n.jpg?oh=9262d205543054a3104c736386b3adda&oe=54699CAA&__gda__=1415612527_a8f426a0aeacbf93b3e9ca2db3c98454" border="0" ><div class="champion_name">Chris VanMeter</div><div class="champion_label">STANDARD CHAMPION</div></div>
+                <table class="standings_table" width="190" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>PAIRINGS</td>
+                        <td>RESULTS</td>
+                        <td>STANDINGS</td>
+                    </tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830204446000000.html" target="_blank">10</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830220110000000.html" target="_blank">10</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830220116000000.html" target="_blank">10</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830193121000000.html" target="_blank">9</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830204800000000.html" target="_blank">9</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830204806000000.html" target="_blank">9</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830182428000000.html" target="_blank">8</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830193139000000.html" target="_blank">8</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830193145000000.html" target="_blank">8</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830171823000000.html" target="_blank">7</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830182436000000.html" target="_blank">7</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830182443000000.html" target="_blank">7</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830161052000000.html" target="_blank">6</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830171848000000.html" target="_blank">6</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830171854000000.html" target="_blank">6</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830150219000000.html" target="_blank">5</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830161100000000.html" target="_blank">5</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830161106000000.html" target="_blank">5</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830135705000000.html" target="_blank">4</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830150233000000.html" target="_blank">4</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830150238000000.html" target="_blank">4</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830125122000000.html" target="_blank">3</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830135508000000.html" target="_blank">3</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830135512000000.html" target="_blank">3</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830114012000000.html" target="_blank">2</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830125045000000.html" target="_blank">2</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830125049000000.html" target="_blank">2</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830102954000000.html" target="_blank">1</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830113812000000.html" target="_blank">1</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140830114020000000.html" target="_blank">1</a></td></tr></table></div>  <div class="stretch"></div><div class="links_section"><div class="coverage_button_link_container">
+                     <a href="#" class="coverage_button_link coverage_button_lg tab-bg" onclick="reloadTabs()">Refresh Coverage</a>
+                  </div><div class="coverage_button_link_container">
+                      <a href="http://pairings.starcitygames.com" target="_blank" class="coverage_button_link coverage_button_sm tab-bg">Pairings</a>
+                  </div><div class="coverage_button_link_container">
+                          <a href="http://www.starcitygames.com/events/300814_somerset_fact_sheet.html" target="_blank" class="coverage_button_link coverage_button_md tab-bg">Event Fact Sheet</a>
+                      </div><div style="clear:both"></div></div>  <div class="stretch"></div></div><div id="Modern" class=".tab387"> 
+        
+            <div class="top8-bracket">
+
+            
+                <!-- Quarterfinals -->
+                <div class="top8-column top8-column-15">
+                    <div class="top8-column-row top8-row-20">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">1</div>
+                    <div class="top8-column-row top8-row-20 top8-header">8</div>
+                    <div class="top8-column-row top8-row-5 top8-header">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">4</div>
+                    <div class="top8-column-row top8-row-20 top8-header">5</div>
+                    <div class="top8-column-row top8-row-5 top8-header">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">2</div>
+                    <div class="top8-column-row top8-row-20 top8-header">7</div>
+                    <div class="top8-column-row top8-row-5 top8-header">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">3</div>
+                    <div class="top8-column-row top8-row-20 top8-header">6</div>
+                </div>
+                
+                <div class="top8-column top8-column-qf">
+                    <div class="top8-column-row top8-row-20 top8-header">QUARTERFINALS</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Jason Ellis</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Thomas Riker</div>
+                    <div class="top8-column-row top8-row-5">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Ross Chodan</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Joe Milia</div>
+                    <div class="top8-column-row top8-row-5">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Patrick Older</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Christopher Yarbrough</div>
+                    <div class="top8-column-row top8-row-5">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Kiyan Nourain</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Eduardo Sosa Marrero</div>
+                    
+                </div>
+                
+                
+                <!-- Semifinals -->
+                <div class="top8-column top8-column-5">
+                    <div class="top8-column-row top8-row-20">&nbsp;</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-25">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                </div>
+                
+                <div class="top8-column top8-column-sf">
+                    <div class="top8-column-row top8-row-20 top8-header">SEMIFINALS</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-1">Jason Ellis 2-0</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-2">Ross Chodan 2-0</div>
+                    <div class="top8-column-row top8-row-25">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-1">Christopher Yarbrough 2-1</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-2">Kiyan Nourain 2-0</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                </div>
+                
+                
+                <!-- Finals -->
+                <div class="top8-column top8-column-5">
+                    <div class="top8-column-row top8-row-20">&nbsp;</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40">&nbsp;</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40">&nbsp;</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                </div>
+                
+                <div class="top8-column top8-column-f">
+                    <div class="top8-column-row top8-row-20 top8-header">FINALS</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40 top8-row-style-1">Jason Ellis 2-1</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40 top8-row-style-2">Kiyan Nourain 2-1</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                </div>
+                
+                
+                <!-- Champion -->
+                <div class="top8-column top8-column-5">
+                    <div class="top8-column-row top8-row-20">&nbsp;</div>
+                    <div class="top8-column-row top8-row-62">&nbsp;</div>
+                    <div class="top8-column-row top8-row-50">&nbsp;</div>
+                    <div class="top8-column-row top8-row-63">&nbsp;</div>
+                </div>
+                
+                <div class="top8-column top8-column-c">
+                    <div class="top8-column-row top8-row-20 top8-header">CHAMPION</div>
+                    <div class="top8-column-row top8-row-62">&nbsp;</div>
+                    <div class="top8-column-row top8-row-50 top8-row-style-1">Kiyan Nourain 2-0</div>
+                    <div class="top8-column-row top8-row-63">&nbsp;</div>
+                </div>
+                <div style="clear:both"></div>
+            </div><div class="article_column"><div class="article_section"><div class="article_section_header">
+                              <div class="article_banner">DECKLISTS</div>
+                          </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/2832_top_16_modern_decklists.html">Top 16 Modern Decklists</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div></div><div class="stretch"></div>
+            </div><div class="standings_column"><div class="winner_photo_section"><img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/p480x480/1948204_10152341462707918_8802042373952495524_n.jpg?oh=0a56e223043b5e0daebd9dffa42a4ef8&oe=5473C5B1&__gda__=1416822644_a77a0e56402932f2f071eb357cc7fb65" border="0" ><div class="champion_name">Kiyan Nourain</div><div class="champion_label">MODERN CHAMPION</div></div>
+                <table class="standings_table" width="190" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>PAIRINGS</td>
+                        <td>RESULTS</td>
+                        <td>STANDINGS</td>
+                    </tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831173814000000.html" target="_blank">8</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831192521000000.html" target="_blank">8</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831192527000000.html" target="_blank">8</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831163240000000.html" target="_blank">7</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831192551000000.html" target="_blank">7</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831192558000000.html" target="_blank">7</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831152604000000.html" target="_blank">6</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831163609000000.html" target="_blank">6</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831163615000000.html" target="_blank">6</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831141941000000.html" target="_blank">5</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831152726000000.html" target="_blank">5</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831152732000000.html" target="_blank">5</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831142033000000.html" target="_blank">4</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831142020000000.html" target="_blank">4</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831142026000000.html" target="_blank">4</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831121841000000.html" target="_blank">3</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831131813000000.html" target="_blank">3</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831131819000000.html" target="_blank">3</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831111507000000.html" target="_blank">2</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831121923000000.html" target="_blank">2</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831121928000000.html" target="_blank">2</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831131825000000.html" target="_blank">1</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831131829000000.html" target="_blank">1</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831142038000000.html" target="_blank">1</a></td></tr></table></div>  <div class="stretch"></div><div class="links_section"><div class="coverage_button_link_container">
+                     <a href="#" class="coverage_button_link coverage_button_lg tab-bg" onclick="reloadTabs()">Refresh Coverage</a>
+                  </div><div class="coverage_button_link_container">
+                      <a href="http://pairings.starcitygames.com" target="_blank" class="coverage_button_link coverage_button_sm tab-bg">Pairings</a>
+                  </div><div class="coverage_button_link_container">
+                          <a href="http://www.starcitygames.com/events/300814_somerset_fact_sheet.html" target="_blank" class="coverage_button_link coverage_button_md tab-bg">Event Fact Sheet</a>
+                      </div><div style="clear:both"></div></div>  <div class="stretch"></div></div><div id="Legacy" class=".tab386"> 
+        
+            <div class="top8-bracket">
+
+            
+                <!-- Quarterfinals -->
+                <div class="top8-column top8-column-15">
+                    <div class="top8-column-row top8-row-20">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">1</div>
+                    <div class="top8-column-row top8-row-20 top8-header">8</div>
+                    <div class="top8-column-row top8-row-5 top8-header">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">4</div>
+                    <div class="top8-column-row top8-row-20 top8-header">5</div>
+                    <div class="top8-column-row top8-row-5 top8-header">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">2</div>
+                    <div class="top8-column-row top8-row-20 top8-header">7</div>
+                    <div class="top8-column-row top8-row-5 top8-header">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-header">3</div>
+                    <div class="top8-column-row top8-row-20 top8-header">6</div>
+                </div>
+                
+                <div class="top8-column top8-column-qf">
+                    <div class="top8-column-row top8-row-20 top8-header">QUARTERFINALS</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Michael Derczo</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Taylor Fujimura</div>
+                    <div class="top8-column-row top8-row-5">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Ross Merriam</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">James Rynkiewicz</div>
+                    <div class="top8-column-row top8-row-5">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">David Long</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Jack Kitchen</div>
+                    <div class="top8-column-row top8-row-5">&nbsp</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-1">Dan Musser</div>
+                    <div class="top8-column-row top8-row-20 top8-row-style-2">Shaheen Soorani</div>
+                    
+                </div>
+                
+                
+                <!-- Semifinals -->
+                <div class="top8-column top8-column-5">
+                    <div class="top8-column-row top8-row-20">&nbsp;</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-25">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30">&nbsp;</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                </div>
+                
+                <div class="top8-column top8-column-sf">
+                    <div class="top8-column-row top8-row-20 top8-header">SEMIFINALS</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-1">Michael Derczo 2-1</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-2">Ross Merriam 2-0</div>
+                    <div class="top8-column-row top8-row-25">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-1">Jack Kitchen 2-0</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-30 top8-row-style-2">Dan Musser 2-1</div>
+                    <div class="top8-column-row top8-row-10">&nbsp;</div>
+                </div>
+                
+                
+                <!-- Finals -->
+                <div class="top8-column top8-column-5">
+                    <div class="top8-column-row top8-row-20">&nbsp;</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40">&nbsp;</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40">&nbsp;</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                </div>
+                
+                <div class="top8-column top8-column-f">
+                    <div class="top8-column-row top8-row-20 top8-header">FINALS</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40 top8-row-style-1">Ross Merriam 2-1</div>
+                    <div class="top8-column-row top8-row-5">&nbsp;</div>
+                    <div class="top8-column-row top8-row-40 top8-row-style-2">Dan Musser 2-1</div>
+                    <div class="top8-column-row top8-row-45">&nbsp;</div>
+                </div>
+                
+                
+                <!-- Champion -->
+                <div class="top8-column top8-column-5">
+                    <div class="top8-column-row top8-row-20">&nbsp;</div>
+                    <div class="top8-column-row top8-row-62">&nbsp;</div>
+                    <div class="top8-column-row top8-row-50">&nbsp;</div>
+                    <div class="top8-column-row top8-row-63">&nbsp;</div>
+                </div>
+                
+                <div class="top8-column top8-column-c">
+                    <div class="top8-column-row top8-row-20 top8-header">CHAMPION</div>
+                    <div class="top8-column-row top8-row-62">&nbsp;</div>
+                    <div class="top8-column-row top8-row-50 top8-row-style-1">Dan Musser 2-0</div>
+                    <div class="top8-column-row top8-row-63">&nbsp;</div>
+                </div>
+                <div style="clear:both"></div>
+            </div><div class="article_column"><div class="article_section"><div class="article_section_header">
+                              <div class="article_banner">DECKLISTS</div>
+                          </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/2831_top_16_legacy_decklists.html">Top 16 Legacy Decklists</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div></div><div class="article_section"><div class="article_section_header">
+                              <div class="article_banner">TOP 8 PROFILES</div>
+                          </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/2833_legacy_open_top_8_profiles.html">Legacy Open Top 8 Profiles</a></div>
+                            </div>
+                            <div class="article_text"></div>
+                        </div></div><div class="article_section"><div class="article_section_header">
+                              <div class="article_banner">FEATURE MATCH</div>
+                          </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/finals_dan_musser_vs_ross_merr.html">Finals: Dan Musser vs. Ross Merriam</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Both of these seasoned veterans of the Open Series knew their decks inside and out. Ross was in the hunt for Trophy #3 with Combo Elves, while Dan hopes to rain on his parade with Miracles and Counterbalance locks.</p>
+<div>
+	&nbsp;</div>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/semifinals_michael_derczo_vs_r.html">Semifinals: Michael Derczo vs. Ross Merriam </a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Ross knows this matchup all too well as Death and Taxes was what beat him in the finals of a Legacy Open in Providence, costing him winning back-to-back Opens on the weekend. Now he faces Michael and a trip to the finals is on the line. Which non-Brainstorm deck will have a shot at the trophy?</p>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/quarterfinals_mike_derczo_vs_t.html">Quarterfinals: Mike Derczo vs. Ty Fujimura</a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Two distinct flavors of Stoneforge Mystic would do battle in this quarterfinal. Would it be Ty&rsquo;s U/W/R Delver strategy that advanced to the top 4, or Mike&rsquo;s Death and Taxes?</p>
+<div>
+	&nbsp;</div>
+</div>
+                        </div>  <div class="article_section_body">
+                            <div class="article_section_subheader">
+                                <div class="article_title"><a target="_blank" href="/events/coverage/quarterfinals_david_long_vs_ja.html">Quarterfinals: David Long vs. Jack Kitchen </a></div>
+                            </div>
+                            <div class="article_text"><p>
+	Lands vs. Painter - a seemingly unwinnable matchup for David Long and Lands as he faces down Jack Kitchen and a deck full of Blood Moons. Who will make it to the semifinals?</p>
+</div>
+                        </div></div><div class="stretch"></div>
+            </div><div class="standings_column"><div class="winner_photo_section"><img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/16090_10152341915062918_3546785021827290468_n.jpg?oh=d9ecbdee90dbf7f2d23dddb8218f57d3&oe=5467D540&__gda__=1417360001_6b2469a3c304a6963227b05a9c42bbfd" border="0" ><div class="champion_name">Dan Musser</div><div class="champion_label">LEGACY CHAMPION</div></div>
+                <table class="standings_table" width="190" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>PAIRINGS</td>
+                        <td>RESULTS</td>
+                        <td>STANDINGS</td>
+                    </tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831201138000000.html" target="_blank">10</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831213838000000.html" target="_blank">10</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831213844000000.html" target="_blank">10</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831184946000000.html" target="_blank">9</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831201149000000.html" target="_blank">9</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831201154000000.html" target="_blank">9</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831174114000000.html" target="_blank">8</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831184959000000.html" target="_blank">8</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831185005000000.html" target="_blank">8</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831174109000000.html" target="_blank">7</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831174208000000.html" target="_blank">7</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831174214000000.html" target="_blank">7</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831152334000000.html" target="_blank">6</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831174158000000.html" target="_blank">6</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831174203000000.html" target="_blank">6</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831140637000000.html" target="_blank">5</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831152348000000.html" target="_blank">5</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831152356000000.html" target="_blank">5</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831125731000000.html" target="_blank">4</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831140759000000.html" target="_blank">4</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831140804000000.html" target="_blank">4</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831114800000000.html" target="_blank">3</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831125738000000.html" target="_blank">3</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831125744000000.html" target="_blank">3</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831103812000000.html" target="_blank">2</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831114849000000.html" target="_blank">2</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831114855000000.html" target="_blank">2</a></td></tr><tr><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831095549000000.html" target="_blank">1</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831103902000000.html" target="_blank">1</a></td><td><a href="http://static.starcitygames.com/www/scg_events/files/20140831103907000000.html" target="_blank">1</a></td></tr></table></div>  <div class="stretch"></div><div class="links_section"><div class="coverage_button_link_container">
+                     <a href="#" class="coverage_button_link coverage_button_lg tab-bg" onclick="reloadTabs()">Refresh Coverage</a>
+                  </div><div class="coverage_button_link_container">
+                      <a href="http://pairings.starcitygames.com" target="_blank" class="coverage_button_link coverage_button_sm tab-bg">Pairings</a>
+                  </div><div class="coverage_button_link_container">
+                          <a href="http://www.starcitygames.com/events/300814_somerset_fact_sheet.html" target="_blank" class="coverage_button_link coverage_button_md tab-bg">Event Fact Sheet</a>
+                      </div><div style="clear:both"></div></div>  <div class="stretch"></div></div>
+                                    <div class="stretch"></div>
+                                </div>
+                            </div>
+                        <div class="stretch"></div>
+                    </div> 
+                </td></tr></tbody>
+            </table>
+        
+        <div id="updates"></div></td></tr>
+  </table>
+    <!-- Central gutter ends here, right column begins -->
+</section>
+	<aside id="sidebar" class="left">
+
+    <article id="fp_scglive_ad">
+       
+        <a href="http://www.starcitygames.com/content/regionals"><img src="https://static.starcitygames.com/www//images/sidebar/summer_regionals_2016.png" border="0"></a><br />
+            </article>
+    	<style type="text/css">
+	#openseries header {
+		padding-top: 12px;
+		height: 23px;
+	}
+	</style>
+	
+	<article class="sidebox" id="openseries">
+	<header><a href="http://www.starcitygames.com/content/scgtour/">ORGANIZED PLAY</a></header>
+	<div class="container_decks">
+		<section> 
+			<nav>
+                <ul style="margin: 0px; height:60px;">
+                    <li class="center"><a href="http://www.starcitygames.com/gneventfinder/"><img src="https://static.starcitygames.com/www/images/banners/media/organizedplay/gnSidebar2.png"/></a></li>
+                </ul>
+				<ul id="events_nav"><li id="tab1a" class="active"><a href="#thisweekend">THIS WEEK</a></li><li id="tab2a" class=""><a href="#nextweekend">NEXT WEEK</a></li><li id="tab3a" class=""><a href="#scgevents">+</a></li></ul>
+			</nav>
+			<div id="thisweekend" class="content">
+				<ul class="scg_events">
+                        <li class="upper iq_title">THIS Saturday, August 6</li>
+                                        <li class = "center" ><a href="http://www.starcitygames.com/content/regionals">
+                    <span class="iq_type regionals"><strong>REGIONAL CHAMPIONSHIPS</strong></span><br/>
+                    <span class="iq_loc">FIND YOUR REGION!</span></a>
+                    </li>
+                                        <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1026198294127193/">
+                     
+                    <span class="iq_loc">Burnsville, MN</span> - Dreamers Vault Games Burnsville                </a></li>
+                                <li><a href="https://www.facebook.com/events/622591681239271">
+                     
+                    <span class="iq_loc">Raleigh, NC</span> - East Coast Gaming                </a></li>
+                                    <li class="upper iq_title">THIS Sunday, August 7</li>
+                                        <li style="background-color:white;color:#00C7EC;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #00C7EC;border-top:1px solid #00C7EC">Super Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1611974842426001/">
+                     
+                    <span class="iq_loc">Columbus, OH</span> - Comic Town                </a></li>
+                                </ul>
+            </div>
+            <div id="nextweekend" class="content">
+                <ul class="scg_events">
+                                <li class="upper iq_title">Friday, August 12</li>
+                                        <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/198602480537268/">
+                     
+                    <span class="iq_loc">Bernardsville, NJ</span> - The Bearded Dragon Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/1185404664803430/">
+                     
+                    <span class="iq_loc">Lafayette, IN</span> - Legendary Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/1719871418289303/">
+                     
+                    <span class="iq_loc">Lexington, KY</span> - Legendary Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/1739748002932764/">
+                     
+                    <span class="iq_loc">Springfield, VA</span> - Curio Cavern                </a></li>
+                                    <li class="upper iq_title">Saturday, August 13</li>
+                                        <li><a href="http://www.starcitygames.com/events/130816_syracuse_fact_sheet.html"><span class="iq_type scg_open">
+                        <img src="https://static.starcitygames.com/www/images/events/t_open.png"> Syracuse <strong>OPEN</strong>
+                    </span></a></li>
+                                        <li style="background-color:white;color:#00C7EC;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #00C7EC;border-top:1px solid #00C7EC">Super Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1526739257635020/">
+                     
+                    <span class="iq_loc">Fenton, MI</span> - BC Comix & Games                </a></li>
+                                    <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1732658680282306/">
+                     
+                    <span class="iq_loc">Abingdon, MD</span> - Critical Hit Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/1776291489259821/">
+                     
+                    <span class="iq_loc">Hattiesburg, MS</span> - Top Tier Board Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/134615120278627/">
+                     
+                    <span class="iq_loc">Kingsport, TN</span> - Mulligans Gaming                </a></li>
+                                    <li class="upper iq_title">Sunday, August 14</li>
+                                        <li><a href="http://www.starcitygames.com/events/130816_syracuse_fact_sheet.html"><span class="iq_type scg_open">
+                        <img src="https://static.starcitygames.com/www/images/events/t_open.png"> Syracuse <strong>OPEN</strong>
+                    </span></a></li>
+                                        <li style="background-color:white;color:#2C599C;line-height:18px;font-size:14px;font-weight:bolder;margin:5px -5px 0px -5px;padding:0px 5px 0px 5px;text-transform:uppercase;border-bottom:1px solid #2C599C;border-top:1px solid #2C599C">Invitational Qualifiers</li>
+                                    <li><a href="https://www.facebook.com/events/1700911433493644/">
+                     
+                    <span class="iq_loc">Arvada, CO</span> - Game Heroes                </a></li>
+                                <li><a href="https://www.facebook.com/events/1641476246170734/">
+                    <span class="iq_plus">+</span> 
+                    <span class="iq_loc">Bristol, TN</span> - MWO Games                </a></li>
+                                <li><a href="https://www.facebook.com/events/565922166921361/">
+                     
+                    <span class="iq_loc">Dalton, GA</span> - The Battlegrounds Games and Comics                </a></li>
+                                <li><a href="https://www.facebook.com/events/1737500589859029/">
+                     
+                    <span class="iq_loc">Falls Church, VA</span> - Victory Comics                </a></li>
+                                <li><a href="https://www.facebook.com/events/282475268752024/">
+                     
+                    <span class="iq_loc">Lexington, KY</span> - Legendary Games                </a></li>
+                				</ul>
+			</div>
+			<div id="scgevents" class="content">
+                <p class="event_title">SCG TOUR<sup>&trade;</sup> EVENTS</p>
+                <ul class="scg_events">
+            
+                                    <li>
+                        <a href="http://www.starcitygames.com/content/regionals"><span class="event_type">Aug 6                        :</span>
+                                                    <strong>REGIONAL CHAMPIONSHIPS</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/130816_syracuse_fact_sheet.html"><span class="event_type">Aug 13                         - 14:</span>
+                                                    Syracuse <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/190816_newjersey_fact_sheet.html"><span class="event_type">Aug 19                         - 21:</span>
+                                                    New Jersey <strong>INVITATIONAL</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/030916_richmond_fact_sheet.html"><span class="event_type">Sep 3                         - 4:</span>
+                                                    Richmond <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/170916_orlando_fact_sheet.html"><span class="event_type">Sep 17                         - 18:</span>
+                                                    Orlando <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/011016_indianapolis_fact_sheet.html"><span class="event_type">Oct 1                         - 2:</span>
+                                                    Indianapolis <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/221016_milwaukee_fact_sheet.html"><span class="event_type">Oct 22                         - 23:</span>
+                                                    Milwaukee <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/051116_baltimore_fact_sheet.html"><span class="event_type">Nov 5                         - 6:</span>
+                                                    Baltimore <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/121116_columbus_fact_sheet.html"><span class="event_type">Nov 12                         - 13:</span>
+                                                    Columbus <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.starcitygames.com/events/191116_knoxville_fact_sheet.html"><span class="event_type">Nov 19                         - 20:</span>
+                                                    Knoxville <strong>OPEN</strong>
+                                                </a>
+                    </li>
+                                </ul>
+                			</div>
+
+            <div><a href="https://www.starcitygames.com/eventfinder/index.php">
+                <img src="https://static.starcitygames.com/www/images/sidebar/eventFinderSidebarButton.png"/>
+            </a></div>
+            <ul style="margin:0 0 5px;">
+                <li class="italics center">
+                    <a href="http://www.starcitygames.com/content/schedule">Complete SCG Tour Schedule</a> | <a href="http://www.starcitygames.com/content/archive">Coverage Archive</a>
+                </li>
+            </ul>
+		</section>
+	</div>
+</article>
+
+
+<style>
+
+#sb_leaderboard {
+	color: black;
+}
+
+#sb_leaderboard a, #sb_leaderboard a:hover, #sb_leaderboard a:visited, #sb_leaderboard a:link, #sb_leaderboard a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+
+#sb_leaderboard img {
+
+}
+
+#sb_leaderboard table {
+	width: 100%;
+}
+
+#sb_leaderboard tr {
+	line-height: 16px;
+}
+
+.sb_leaderboard_place {
+	width: 10%;
+	text-align: right;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+
+.sb_leaderboard_name {
+	width: 65%;
+}
+
+.sb_leaderboard_points {
+	width: 15%;
+	padding-right: 5%;
+	text-align: right;
+}
+
+.lb_odd {
+	background-color: #FFFFFF;
+}
+
+.lb_even {
+	background-color: #F0F0F0;
+}
+
+
+</style>
+<article class="sidebox" id="sb_leaderboard">
+	<a href="http://www.starcitygames.com/leaderboard"><img src="https://static.starcitygames.com/www//images/banners/media/playersChampionship/sidebarLeaderboardHeader2.png"/>
+			<table>
+			<tbody>
+									<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">1</td>
+						<td class = "sb_leaderboard_name">JEFF HOOGLAND</td>
+						<td class = "sb_leaderboard_points">217</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">2</td>
+						<td class = "sb_leaderboard_name">JOE LOSSETT</td>
+						<td class = "sb_leaderboard_points">172</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">3</td>
+						<td class = "sb_leaderboard_name">TOM ROSS</td>
+						<td class = "sb_leaderboard_points">172</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">4</td>
+						<td class = "sb_leaderboard_name">GERRY THOMPSON</td>
+						<td class = "sb_leaderboard_points">171</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">5</td>
+						<td class = "sb_leaderboard_name">ANDREW TENJUM</td>
+						<td class = "sb_leaderboard_points">158</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">6</td>
+						<td class = "sb_leaderboard_name">TODD STEVENS</td>
+						<td class = "sb_leaderboard_points">151</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">7</td>
+						<td class = "sb_leaderboard_name">ANDREW JESSUP</td>
+						<td class = "sb_leaderboard_points">139</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">8</td>
+						<td class = "sb_leaderboard_name">CALEB W SCHERER</td>
+						<td class = "sb_leaderboard_points">138</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">9</td>
+						<td class = "sb_leaderboard_name">KEVIN JONES</td>
+						<td class = "sb_leaderboard_points">126</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">10</td>
+						<td class = "sb_leaderboard_name">JACOB BAUGH</td>
+						<td class = "sb_leaderboard_points">116</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">11</td>
+						<td class = "sb_leaderboard_name">ALI I AINTRAZI</td>
+						<td class = "sb_leaderboard_points">116</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">12</td>
+						<td class = "sb_leaderboard_name">DANNY JESSUP</td>
+						<td class = "sb_leaderboard_points">115</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">13</td>
+						<td class = "sb_leaderboard_name">HARLAN FIRER</td>
+						<td class = "sb_leaderboard_points">114</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">14</td>
+						<td class = "sb_leaderboard_name">JIM I DAVIS</td>
+						<td class = "sb_leaderboard_points">113</td>
+					</tr>
+										<tr class = "lb_odd">
+						<td class = "sb_leaderboard_place">15</td>
+						<td class = "sb_leaderboard_name">BRADLEY CARPENTER</td>
+						<td class = "sb_leaderboard_points">110</td>
+					</tr>
+										<tr class = "lb_even">
+						<td class = "sb_leaderboard_place">16</td>
+						<td class = "sb_leaderboard_name">TODD ANDERSON</td>
+						<td class = "sb_leaderboard_points">109</td>
+					</tr>
+								</tbody>
+		</table>
+	</a>
+</article>		<article class="sidebox" id="weeklynewsletter">
+			<header>WEEKLY NEWSLETTER</header>
+			<section>
+			<form name="ccoptin" action="//visitor.constantcontact.com/d.jsp"
+target="_blank" method="post"><input name="ea" size="20" value="" type="text" id="email_newsletter" placeholder="ENTER YOUR EMAIL"><input name="go" value="Sign Up!"  type="image" src="/images/signup.jpg" ><input type="hidden" name="m" value="1103337725524">
+<input type="hidden" name="p" value="oi"></form>
+<p class="center"><strong>Exclusive Deals &amp; Content Every Week</strong></p>
+			</section>
+		</article><style>
+.social_icon {
+	float:left;
+	margin:5px 10px 5px 10px;
+	width:43px;
+}
+.social_text {
+	float:left;
+	margin:10px 0 0 0;
+	font-size:13px;
+}
+.social_text p {
+	margin-bottom:5px;
+}
+</style>
+<article class="sidebox" id="social">
+	<header><a href="https://www.facebook.com/StarCityGames">SOCIAL</a></header>
+	<section>
+		<div class="social_wrapper">
+			<div class="social_icon">
+				<a href="https://www.facebook.com/StarCityGames"><img src="https://static.starcitygames.com/www/images/sidebar/Facebook.jpg"></a>
+			</div>
+			<div class="social_text">
+			<p><a href="https://www.facebook.com/StarCityGames">StarCityGames.com<sup>&reg;</sup> on Facebook</a></p>
+            <div class="fb-like" data-href="https://www.facebook.com/StarCityGames" data-width="280" data-layout="button_count" data-show-faces="false" data-share="false"></div>
+			</div>
+		</div>
+		<br class="clear">
+		<div class="social_wrapper">
+			<div class="social_icon">
+				<a href="https://twitter.com/starcitygames"><img src="https://static.starcitygames.com/www/images/sidebar/Twitter.jpg"></a>
+			</div>
+			<div class="social_text">
+                <p><a href="https://twitter.com/starcitygames">StarCityGames.com<sup>&reg;</sup> on Twitter</a></p>
+                <p><a href="https://twitter.com/starcitygames">Join the conversation</a></p>
+			</div>
+		</div>
+		<br class="clear">
+        <div class="social_wrapper">
+			<div class="social_icon">
+				<a href="https://www.youtube.com/user/starcitygamesvideo"><img src="https://static.starcitygames.com/www/images/sidebar/youTube.jpg"></a>
+			</div>
+			<div class="social_text">
+                <p><a href="https://www.youtube.com/user/starcitygamesvideo">StarCityGames.com<sup>&reg;</sup> on YouTube</a></p>
+                <p><a href="https://www.youtube.com/user/starcitygamesvideo">Watch the best in Magic Video</a></p>
+			</div>
+		</div>
+		<br class="clear">
+	</section>
+</article>
+<article class="sidebox" id="decklists">
+			<header><a href="http://www.starcitygames.com/content/decklists/">DECKLISTS</a></header>
+
+						
+			<div class="container_decks">
+            <section>
+            
+            <nav>
+              <ul id="decklist_nav">
+                <li class="active" id="tab1"><a href="#content_decks_standard">STANDARD</a></li><li id="tab2"><a href="#content_decks_modern">MODERN</a></li><li id="tab3"><a href="#content_decks_legacy">LEGACY</a></li><!--  <li id="tab4"><a href="#content_decks_commander">OTHER</a></li> -->
+              </ul>
+            </nav>
+            <div id="content_decks_standard" class="content deck_size">
+              <ul>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=MI&city=Midland&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Super IQ Midland, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=TN&city=Chattanooga&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Super IQ Chattanooga, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=AR&city=Jonesboro&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Jonesboro, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=IL&city=Frankfort&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Frankfort, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=TX&city=Denton&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 SCG Super IQ Denton, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=KY&city=Lexington&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Lexington, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=TX&city=Huntsville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Huntsville, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=IN&city=Lafayette&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Lafayette, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=TN&city=Cookeville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Cookeville, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=MI&city=Fenton&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 SCG Super IQ Fenton, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=SK&city=Saskatoon&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Saskatoon, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=19&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=MD&city=Baltimore&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 SCG Open Baltimore, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=VA&city=Roanoke&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Roanoke, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=GA&city=Snellville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Snellville, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=TN&city=Chattanooga&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Chattanooga, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=FL&city=Kissimmee&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 SCG Super IQ Kissimmee, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=TN&city=Bristol&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Bristol, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-24&end_date=2016-07-24&state=PA&city=New Holland&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier New Holland, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-23&end_date=2016-07-23&state=CO&city=Aurora&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/23 Invi Qualifier Aurora, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-23&end_date=2016-07-23&state=CT&city=Newington&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/23 Invi Qualifier Newington, US</a></li>
+                              </ul>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T1]=1&start_date=2016-07-06&end_date=2016-08-06&limit=25&action=Show+Decks">View More Standard Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
+            </div>
+            <div id="content_decks_modern" class="content deck_size">
+              <ul>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=NC&city=Winston Salem&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Winston Salem, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=IL&city=Pekin&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Pekin, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=IN&city=Terre Haute&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Terre Haute, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=VA&city=Roanoke&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Roanoke, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=NJ&city=Chatham&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Chatham, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T2]=28&start_date=2016-07-31&end_date=2016-07-31&state=MD&city=Baltimore&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Classic Baltimore, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-30&end_date=2016-07-30&state=GA&city=Athens&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Athens, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-30&end_date=2016-07-30&state=IL&city=Moline&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Moline, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T2]=28&start_date=2016-07-24&end_date=2016-07-24&state=VA&city=Fredericksburg&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 SCG Super IQ Fredericksburg, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-24&end_date=2016-07-24&state=CT&city=Danbury&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 Invi Qualifier Danbury, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T2]=28&start_date=2016-07-24&end_date=2016-07-24&state=OH&city=Columbus&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 SCG Classic Columbus, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-10&end_date=2016-07-10&state=CO&city=Littleton&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 Invi Qualifier Littleton, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-10&end_date=2016-07-10&state=VA&city=Falls Church&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 Invi Qualifier Falls Church, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T2]=28&start_date=2016-07-10&end_date=2016-07-10&state=MI&city=Frankenmuth&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 SCG Super IQ Frankenmuth, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-10&end_date=2016-07-10&state=PA&city=New Holland&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 Invi Qualifier New Holland, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T2]=28&start_date=2016-07-10&end_date=2016-07-10&state=MA&city=Worcester&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 SCG Classic Worcester, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-09&end_date=2016-07-09&state=MS&city=Gautier&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Gautier, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-09&end_date=2016-07-09&state=OH&city=Streetsboro&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Streetsboro, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-09&end_date=2016-07-09&state=TN&city=Tazewell&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Tazewell, US</a></li>
+                                  
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-09&end_date=2016-07-09&state=MO&city=Columbia&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Columbia, US</a></li>
+                              </ul>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T2]=28&start_date=2016-07-06&end_date=2016-08-06&limit=25&action=Show+Decks">View More Modern Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
+            </div>
+            <div id="content_decks_legacy" class="content deck_size">
+              <ul>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-31&end_date=2016-07-31&state=MO&city=Columbia&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Columbia, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T3]=3&start_date=2016-07-31&end_date=2016-07-31&state=MD&city=Baltimore&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Classic Baltimore, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-30&end_date=2016-07-30&state=MO&city=Springfield&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Springfield, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T3]=3&start_date=2016-07-24&end_date=2016-07-24&state=OH&city=Columbus&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/24 SCG Classic Columbus, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-10&end_date=2016-07-10&state=IN&city=Lafayette&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/10 Invi Qualifier Lafayette, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-09&end_date=2016-07-09&state=KY&city=Lexington&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Lexington, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-09&end_date=2016-07-09&state=MN&city=Minneapolis&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Minneapolis, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=20&t[T3]=3&start_date=2016-07-09&end_date=2016-07-09&state=MA&city=Worcester&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 SCG Open Worcester, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-08&end_date=2016-07-08&state=NJ&city=Somerville&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/08 Invi Qualifier Somerville, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=13&t[T3]=3&start_date=2016-07-03&end_date=2016-07-03&state=&city=Strasbourg&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/03  Strasbourg, DE</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-07-03&end_date=2016-07-03&state=VA&city=Roanoke&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/03 Invi Qualifier Roanoke, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-26&end_date=2016-06-26&state=CO&city=Littleton&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/26 Invi Qualifier Littleton, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T3]=3&start_date=2016-06-26&end_date=2016-06-26&state=TX&city=Dallas&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/26 SCG Classic Dallas, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-25&end_date=2016-06-25&state=TN&city=Kingsport&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/25 Invi Qualifier Kingsport, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-25&end_date=2016-06-25&state=AL&city=Amsterdam&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/25 Invi Qualifier Amsterdam, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-25&end_date=2016-06-25&state=CA&city=Valencia&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/25 Invi Qualifier Valencia, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=13&t[T3]=3&start_date=2016-06-22&end_date=2016-06-22&state=PA&city=Philadelphia&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/22  Philadelphia, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T3]=3&start_date=2016-06-19&end_date=2016-06-19&state=TX&city=Dallas&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/19 SCG Super IQ Dallas, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T3]=3&start_date=2016-06-19&end_date=2016-06-19&state=MO&city=Columbia&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/19 Invi Qualifier Columbia, US</a></li>
+                                    
+                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T3]=3&start_date=2016-06-19&end_date=2016-06-19&state=FL&city=Orlando&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/19 SCG Classic Orlando, US</a></li>
+                              </ul>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T3]=3&start_date=2016-07-06&end_date=2016-08-06&limit=25&action=Show+Decks">View More Legacy Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
+            </div>
+            <!--<div id="content_decks_commander" class="content deck_size">
+              <h3>Latest Other Top 8 Decklists</h3>
+              <ul>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&start_date=2016-02-12&end_date=2016-02-12&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 2/12 Invi Qualifier Milan, IT</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=42&start_date=2015-08-23&end_date=2015-08-23&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 8/23 Vintage Champs Philadelphia, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=30&start_date=2015-05-15&end_date=2015-05-15&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 5/15 MOCS</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=13&start_date=2014-10-29&end_date=2014-10-29&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 10/29  Philadelphia, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=13&start_date=2014-10-26&end_date=2014-10-26&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 10/26  Philadelphia, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=42&start_date=2014-10-26&end_date=2014-10-26&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 10/26 Vintage Champs Philadelphia, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=13&start_date=2014-05-17&end_date=2014-05-17&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 5/17  Glen Burnie, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=13&start_date=2014-05-17&end_date=2014-05-17&order_1=finish&limit=8&t_num=&action=Show+Decks">Vintage - 5/17  Bloomsburg, US</a></li>
+                              </ul>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/">View More Decks</a></div>
+            </div>-->
+          </section></div>
+		</article>
+		  		<article id="seals">
+			
+			<section style="margin-top:10px;border:0;">
+				<div class="left" style="width:282px;">
+					<table border="0" style="width:100%;" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Comodo Positve SSL for secure e-commerce and confidential communications.">
+						<tr>
+							<td style="width:50%;vertical-align:middle;text-align: center;">
+								<a href="https://www.positivessl.com" style="font-family: arial; font-size: 10px; color: #212121; text-decoration: none;"><img src="https://static.starcitygames.com/www/images/footer/PositiveSSL_tl_trans.gif" alt="" title="" border="0" /></a>
+							</td>
+							<td style="width:50%;vertical-align:middle;text-align: center;">
+								<img src="https://static.starcitygames.com/www/images/footer/wotc_authorized.png">
+							</td>
+						</tr>
+					</table>
+				</div>
+				<div class="clear"></div>
+			</section>
+		</article>
+		<article id="payment_options_sidebar" style="width:282px; padding: 5px;">
+			<section>
+				<a href="http://sales.starcitygames.com/FAQ.php#payment" style="text-decoration: none;"><img src="https://static.starcitygames.com/www/images/footer/paymentOptions.jpg" alt="" title="" border="0" width="272" height="80.5" /></a>
+			</section>
+		</article>
+
+
+</aside>
+	<br class="clear">
+	</div>
+</section>
+<footer id="main_footer" class="clear">
+<aside>
+<div id="article_bar"><h1>&nbsp;</h1>
+</div>
+<div id="sidebar_bar"><div id="sidebar_bar_sub"></div></div>
+</aside>
+
+<nav id="footer_account">
+        <header>ACCOUNT</header>
+        <ul>
+          <li><a href="/myaccount/signup">Create an Account</a></li>
+          <li><a href="/myaccount/">My Account</a></li>
+          <li><a href="/myaccount/orders">Order History</a></li>
+          <li><a href="/myaccount/credit">Store Credit</a></li>
+          <li><a href="http://sales.starcitygames.com/wishlist.php">Wishlists</a></li>
+          <li><a href="/myaccount/premium/">Premium</a></li>
+		  <li><a href="/myaccount/downloads">Digital Products</a></li>
+		  <li><a href="/myaccount/giftcards">Gift Cards</a></li>
+        </ul>
+      </nav>
+      <nav id="footer_contact">
+        <header>CONTACT US</header>
+        <ul>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=11">Customer Service</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=6">Selling to SCG</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=11">Order Issues</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=8">Inventory Issues</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=23">Shipping</a></li>  
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=10">Premium</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=20">Gift Cards</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=5">Organized Play</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=24">In-Store Programs (ISP)</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=2">Articles/Videos</a></li>
+		  <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=17">Advertising</a></li>
+          <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=14">Website Bugs/Problems</a></li>
+        </ul>
+      </nav>
+<nav id="footer_order">
+        <header>ORDER QUESTIONS</header>
+        <ul>
+          <li class="footer_blue">
+          Customer Service Hours<br>
+          Monday through Friday<br/>
+          10am - 5pm ET<br/>
+          Ph: (540) 767-GAME (4263)<br/>
+          <br/>
+          </li>
+          <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=11">Email</a></li>
+          <li><a href="http://sales.starcitygames.com/FAQ.php">Frequently Asked Questions</a></a></li>
+          <li><a href="http://sales.starcitygames.com/FAQ.php?ID=39">Refund/Return Policy</a></li>
+          <li><a href="http://sales.starcitygames.com/FAQ.php?ID=91">Terms &amp; Conditions</a></li>
+          <li><a href="http://sales.starcitygames.com/FAQ.php?ID=90">Privacy Statement</a></li>
+          <li><a href="/content/about">About StarCityGames.com<sup>&reg;</sup></a></li>
+        </ul>
+      </nav>
+<nav id="footer_open_series">
+        <header>SCG ORGANIZED PLAY</header>
+        <ul>
+		  <li><a href="/content/scgtour">SCG Tour Overview</a></li>
+          <li><a href="/content/schedule">SCG Tour Schedule</a></li>
+          <li><a href="/leaderboard">SCG Tour Leaderboard</a></li>
+		  <li><a href="/content/playerschampionship">Players' Championship</a></li>
+		  <li><a href="/content/policies">Tournament Policies</a></li>
+        </ul>
+        <header>IN-STORE PROGRAMS</header>
+        <ul>
+          <li><a href="/content/iq">Invitational Qualifiers (IQs)</a></li>
+          <li><a href="http://isp.starcitygames.com/invitational-qualifiers/">Host an IQ in Your Store</a></li>
+          <li><a href="/gneventfinder/">Game Night</a></li>
+          <li><a href="http://isp.starcitygames.com/game-night">Host Game Night in Your Store</a></li>
+        </ul>
+      </nav>
+<nav id="footer_center">
+        <header>GAME CENTER</header>
+        <ul>
+          <li class="footer_blue">
+          Star City Game Center<br>
+          5728 Williamson Road N.W.<br/>
+          Roanoke, VA 24012<br/>
+          Ph: (540) 767-GAME(4263)<br/>
+          <br/>
+          </li>
+          <li><a href="https://sales.starcitygames.com/contactus/contactform.php?emailid=7">Email</a></li>
+          <li><a href="/content/gamecenter/">Hours &amp; Event Schedule</a></li>
+          <li><a href="https://www.facebook.com/scgamecenter">Game Center Facebook</a></li>
+          <li><a href="https://twitter.com/SCGameCenter">Game Center Twitter</a></li>
+          </ul>
+      </nav>
+<nav id="footer_last">
+        <header>MORE SCG</header>
+        <ul>
+          <li><a href="http://careers.starcitygames.com">Careers</a></li>
+          <li><a href="http://www.facebook.com/StarCityGames" target="_blank">SCG Facebook</a></li>
+          <li><a href="http://twitter.com/starcitygames" target="_blank">SCG Twitter</a></li>
+          <li><a href="/content/newsletter">SCG Newsletter</a></li>
+          <li><a href="https://www.youtube.com/user/starcitygamesvideo">SCG on YouTube</a></li>
+          <li><a href="http://www.scglive.com/" target="_blank">SCGLive<sup>&reg;</sup></a></li>
+        </ul>
+          <header>ARCHIVES</header>
+          <ul>
+          <li><a href="/tags/">Search our Articles</a></li>
+          <li><a href="/content/archive">Coverage Archives</a></li>
+          <li><a href="/rss/rssfeed.xml">RSS Feed</a></li>
+        </ul>
+      </nav>
+      <div style="clear:both;"></div>
+                                    <!-- /7104623/728x90_Bottomsitead -->
+                <div id='div-gpt-ad-1460054248647-0' style='height:90px; width:728px; margin-left:auto; margin-right:auto'>
+                    
+                    <script type='text/javascript'>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1460054248647-0'); });
+                    </script>
+                    
+                </div>
+                    
+      <div id="tagline">All original content on this page is &copy; 2016 StarCityGames.com<sup>&reg;</sup> and may not be used or reproduced without consent. Wizards of the Coast, Magic: The Gathering, and their logos are trademarks of Wizards of the Coast LLC. © 2016 Wizards. All rights reserved. StarCityGames.com<sup>&reg;</sup> is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. StarCityGames.com<sup>&reg;</sup> may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under <a href="http://wpn.wizards.com/en/document/digital-marketing-asset-policy">Wizards' Digital Marketing Asset Policy</a>. MAGIC: THE GATHERING® is a trademark[s] of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at (<a href="http://www.wizards.com">www.wizards.com</a>).</div>
+	</footer>
+    
+</BODY>
+</HTML>
