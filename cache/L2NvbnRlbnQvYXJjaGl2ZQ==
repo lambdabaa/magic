@@ -7267,6 +7267,7 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
             </nav>
             <div id="content_decks_standard" class="content deck_size">
               <ul>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=7&t[T1]=1&start_date=2016-08-06&end_date=2016-08-06&state=WI&city=Milwaukee&order_1=finish&limit=8&t_num=1&action=Show+Decks">8/06 Regionals Milwaukee, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=7&t[T1]=1&start_date=2016-08-06&end_date=2016-08-06&state=CA&city=Pacifica&order_1=finish&limit=8&t_num=1&action=Show+Decks">8/06 Regionals Pacifica, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=7&t[T1]=1&start_date=2016-08-06&end_date=2016-08-06&state=LA&city=Baton Rouge&order_1=finish&limit=8&t_num=1&action=Show+Decks">8/06 Regionals Baton Rouge, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=7&t[T1]=1&start_date=2016-08-06&end_date=2016-08-06&state=GA&city=Duluth&order_1=finish&limit=8&t_num=1&action=Show+Decks">8/06 Regionals Duluth, US</a></li>
@@ -7286,7 +7287,6 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=TN&city=Chattanooga&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Super IQ Chattanooga, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=AR&city=Jonesboro&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Jonesboro, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=IL&city=Frankfort&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Frankfort, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-30&end_date=2016-07-30&state=TN&city=Kingsport&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/30 Invi Qualifier Kingsport, US</a></li>
                               </ul>
               <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T1]=1&start_date=2016-07-09&end_date=2016-08-09&limit=25&action=Show+Decks">View More Standard Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
             </div>
@@ -7567,7 +7567,7 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
 <!-- Load Additional Scripts -->
 
 <!--
-    Time: 0.0107
+    Time: 0.2890
     Mem: 2.14MB-->
 
 </body>

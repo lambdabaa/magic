@@ -6,7 +6,7 @@ suite('GetDecklists', () => {
   test('SCG', done => {
     let result = [];
     let scg = new GetDecklists();
-    scg.on('data', chunk => result.push(chunk));
+    scg.on('data', event => result.push(event.decklists));
     scg.on('end', () => {
       let decks = flatten(result);
       assert.ok(decks.length > 50);
@@ -40,7 +40,7 @@ suite('GetDecklists', () => {
   test('WotC', done => {
     let result = [];
     let wotc = new GetDecklists();
-    wotc.on('data', chunk => result.push(chunk));
+    wotc.on('data', event => result.push(event.decklists));
     wotc.on('end', () => {
       let decks = flatten(result);
       assert.ok(decks.length > 100);

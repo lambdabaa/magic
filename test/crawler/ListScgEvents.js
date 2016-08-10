@@ -6,7 +6,7 @@ test('ListScgEvents', done => {
   let stream = new ListScgEvents();
   stream.on('data', chunk => result.push(chunk));
   stream.on('end', () => {
-    assert.ok(result.length > 300);
+    assert.ok(result.length > 150);
     result.forEach(checkEvent);
     done();
   });
