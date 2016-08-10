@@ -251,7 +251,7 @@ async function getWizardsDecklists(event, overview) {
         return result;
       });
       } catch (error) {
-        console.log(error);
+        debug(error);
         return [];
       }
     })
