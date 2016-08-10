@@ -25,7 +25,14 @@ class Grid extends React.Component {
   render() {
     let {decks, format} = this.props;
     let past3Months = pastMonths(3);
-    let pct = {
+
+    let total = {
+      Legacy: {},
+      Modern: {},
+      Standard: {}
+    };
+
+    let recent = {
       Legacy: {},
       Modern: {},
       Standard: {}
@@ -38,10 +45,12 @@ class Grid extends React.Component {
     };
 
     let top = filter(decks[format], (group, name) => {
-      let recent = group.decks.filter(past3Months).length;
-      pct[format][name] = recent;
-      sum[format] += recent;
-      return recent >= 3;
+      let {decks} = group;
+      let period = decks.filter(past3Months).length;
+      total[format][name] = decks.length;
+      recent[format][name] = period;
+      sum[format] += period;
+      return period >= 3;
     });
 
     return <div className="content grid">
@@ -76,8 +85,8 @@ class Grid extends React.Component {
                              format={format}
                              name={name}
                              group={top[name]}
-                             count={pct[format][name]}
-                             freq={pct[format][name] / sum[format]} />;
+                             count={total[format][name]}
+                             freq={recent[format][name] / sum[format]} />;
           })
       }
     </div>
