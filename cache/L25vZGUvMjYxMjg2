@@ -1,0 +1,3648 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+  <title>ROUND 2 BLUE RESULTS | MAGIC: THE GATHERING</title>
+
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"/>
+  <meta name="format-detection" content="telephone=no"/>
+	<meta name="google-site-verification" content="WquIfqfWtlm2X62GTeJ-5vDtRrbOVOIT6mFc3vAP5BQ" />
+
+  <link rel="icon" type="image/png" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/sites/all/themes/wiz_mtg/icons/favicon.ico"/>
+  <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/wiz_mtg/icons/touch-icon-57.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/wiz_mtg/icons/touch-icon-72.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/wiz_mtg/touch-icon-114.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://magic.wizards.com/sites/all/themes/wiz_mtg/favicon.ico" type="image/vnd.microsoft.icon" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="description" content="Complete coverage of Grand Prix Kōbe 2014&amp;#13;" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://magic.wizards.com/en/events/coverage/gpkob14/round-2-blue-results-2014-08-22" />
+<link rel="shortlink" href="http://magic.wizards.com/en/node/261286" />
+<meta property="og:site_name" content="MAGIC: THE GATHERING" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://magic.wizards.com/en/events/coverage/gpkob14/round-2-blue-results-2014-08-22" />
+<meta property="og:title" content="ROUND 2 BLUE RESULTS" />
+<meta property="og:description" content="Complete coverage of Grand Prix Kōbe 2014&amp;#13;" />
+<meta property="og:image" content="http://magic.wizards.com/sites/mtg/files/images/hero/icon_generic_wizards_purple.jpg" />
+  <link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_DHcXHPYBSjIVaCQZEG4ZlpLkvslnFlBCnQUCzlbRBio.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_jqLG8JVbJuXMDDISe4UsZMUj_1qh-z0BGGAnA4OQvrA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_IIxgQdBS3hICu6Ps9jWiboRWYhCChZSb8zy58PRgH-8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_sELblXm0HE9iYxNNwDufKAxxNQ7ZkF6_ABbBSpg1HBE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/1.10.5/css/jquery.dataTables.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/responsive/1.0.4/css/dataTables.responsive.css" media="all" />
+  <script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_melyhmK_eh6sYXp2z9ljBIs419nCvgG6X4XWQKGJjng.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_yRh3TUp_QoC2vC9PitxLvVXRHsQUtJt-ObNFP_v6h-k.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_1swqkjOwmrPjTNzECJhtuekK-QJ_S5vc3xlUxa4gvEI.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_V7ygvngkUS6TCF6pK434j1Pj29d0hmeDnqUTPlcHIsw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-15020098-13", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "pathToTheme": "sites/all/themes/wiz_mtg" });
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://accounts.wizards.com/Widget/Widget.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_tuIsI7hTJyYf1XxjjnXVjPFwG177VUndBDGTmD13oH0.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_JIa4YdILIwnQQfsYZSjX1gz9IUt6emOIXEvyA44TWDI.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/responsive/1.0.4/js/dataTables.responsive.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"wiz_mtg","theme_token":"O4D8WOsnAcebuQGiLehrsBKYPecqDP8XtmipEgz6vj8","jquery_version":"1.8","js":{"sites\/all\/themes\/wiz_mtg\/js\/ShareButton.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/masonry.pkgd.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/wiz_autocard.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/d3.v3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.charts.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/wiz_decklist_filter\/js\/wiz_decklist_filter.js":1,"sites\/all\/modules\/custom\/wiz_show_period\/js\/moment.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper-2.1.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper.scrollbar-2.1.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/custom.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/deletecookies.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"https:\/\/accounts.wizards.com\/Widget\/Widget.js":1,"sites\/all\/modules\/custom\/wiz_npsu\/js\/npsu_widget.js":1,"sites\/all\/themes\/wiz_mtg\/js\/image-comparison-slider.js":1,"sites\/all\/libraries\/foresee\/foresee-trigger.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery-ui.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/content-gallery-grid\/modernizr.custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.fancybox.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.scrollbar.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.mmenu.oncanvas.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.columnlist.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/dropdown.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/owl.carousel.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/stacktable.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/arketype.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-homepage-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-event-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/interstitials.js":1,"sites\/all\/themes\/wiz_mtg\/js\/community.js":1,"sites\/all\/themes\/wiz_mtg\/js\/inline-features.js":1,"sites\/all\/themes\/wiz_mtg\/js\/MainMenu.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ParallaxBackground.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ShowHideListItems.js":1,"sites\/all\/themes\/wiz_mtg\/js\/core.js":1,"sites\/all\/themes\/wiz_mtg\/js\/mx.js":1,"\/\/cdn.datatables.net\/1.10.5\/js\/jquery.dataTables.min.js":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/js\/dataTables.responsive.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.scrollbar.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/chartbeat\/chartbeat.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/wiz_npsu\/css\/npsu.css":1,"sites\/all\/modules\/custom\/wiz_npsu_mtg\/css\/npsu_mtg.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery-ui-mod.css":1,"sites\/all\/themes\/wiz_mtg\/css\/owl.carousel.css":1,"sites\/all\/themes\/wiz_mtg\/css\/scrollbars.css":1,"sites\/all\/themes\/wiz_mtg\/css\/fonts.css":1,"sites\/all\/themes\/wiz_mtg\/css\/core.css":1,"sites\/all\/themes\/wiz_mtg\/css\/header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/footer.css":1,"sites\/all\/themes\/wiz_mtg\/css\/page-header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/medias.css":1,"sites\/all\/themes\/wiz_mtg\/css\/search.css":1,"sites\/all\/themes\/wiz_mtg\/css\/decklist.css":1,"sites\/all\/themes\/wiz_mtg\/css\/articles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/game-info.css":1,"sites\/all\/themes\/wiz_mtg\/css\/events.css":1,"sites\/all\/themes\/wiz_mtg\/css\/community.css":1,"sites\/all\/themes\/wiz_mtg\/css\/mx.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/immersive.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/interstitials.css":1,"sites\/all\/themes\/wiz_mtg\/css\/styles-extended.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacy.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacyStyles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/_theme-override.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic":1,"\/\/cdn.datatables.net\/1.10.5\/css\/jquery.dataTables.css":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/css\/dataTables.responsive.css":1}},"chartbeat":{"uid":51341,"domain":"http:\/\/magiccv2stg.prod.acquia-sites.com\/","useCanonical":true,"noCookies":false},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":330,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"wiz_core":{"wiz_core_switch_in_days":14,"wiz_core_switch_in_visits":10,"wiz_core_switch_b_path":"home"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"npsu_widget":{"enabled":true,"logged_in":"false"},"urlIsAjaxTrusted":{"\/en\/events\/coverage\/gpkob14\/round-2-blue-results-2014-08-22":true}});
+//--><!]]>
+</script>
+
+  
+        <style>
+      @media all {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png) no-repeat;
+          background-size: 100% 100px;
+
+        }
+        #mobile-menu .header .logo a {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 100%;
+        }
+        #page.snap-menu header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+      @media (max-width: 1200px) {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+    </style>
+  	
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-261286 node-type-article i18n-en content-non-panels role-anonymous-user with-subnav page-events-coverage-gpkob14-round-2-blue-results-2014-08-22 section-events" >
+  <script>
+  /* Interstitials variables */
+  var Interstitials = {
+    list: [
+                        ]
+  };
+  </script>
+
+  <div id="page" class="section_articles article_detail">
+    
+        <div id="mobile-menu">
+  <div class="header">
+    <div class="logo"></div>
+    <div class="toggle-menu-button"></div>
+  </div>
+  <nav>
+    <div class="menu-wrapper" data-back-label="Back"></div>
+  </nav>
+</div>
+
+<div id="viewport">
+  <!-- Header -->
+  <header>
+    <div class="wrapper">
+      <div id="utils">
+        <a href="http://locator.wizards.com/" class="locator">Locator</a> <a href="http://gatherer.wizards.com" class="gatherer">Card Database</a>        <a href="/en" title="Sign In" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;SignIn&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showLoginModal();" id="SignInButton" class="login">Sign In</a> | <a href="/en" title="Sign Up" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Signup&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showJoinModal();" id="RegisterButton" class="register">Sign Up</a>        <div id="search-form">
+          <form action="/en/events/coverage/gpkob14/round-2-blue-results-2014-08-22" method="post" id="wiz-search-bar-form--2" accept-charset="UTF-8"><div><input type="hidden" name="search-site" value="acquia_search" />
+<div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Search Anything" type="text" id="edit-search-string--3" name="search-string" value="" size="25" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-search-button--3" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-NmnyTCglgSFj68advK29YmFiHwEENtE6UGS3wigGpmU" />
+<input type="hidden" name="form_id" value="wiz_search_bar_form" />
+</div></form>        </div>
+      </div>
+
+      <!-- Menu -->
+      <nav id="menu">
+        <a class="home" href="/en"><span>Magic the Gathering</span></a>
+
+        <div class="menu-wrapper">
+          <ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#signinbutton').attr('onclick',-'return-wotcaccountwidget.showloginmodal();');</script> has-children"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#SignInButton').attr('onclick', 'return wotcAccountWidget.showLoginModal();');</script></span></a><ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#registerbutton').attr('onclick',-'return-wotcaccountwidget.showjoinmodal();');</script>"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#RegisterButton').attr('onclick', 'return wotcAccountWidget.showJoinModal();');</script></span></a></li>
+<li class="mn_section_strategy"><a href="/en/content/strategy"><span>Strategy</span></a></li>
+<li class="mn_section_lore"><a href="/en/content/new-to-magic/lore"><span>Lore</span></a></li>
+<li class="mn_section_community"><a href="/en/content/new-to-magic/community"><span>Community</span></a></li>
+</ul></li>
+<li class="mn_section_game-info has-children"><a href="/en/game-information"><span>GAME INFO</span></a><ul class="menu"><li class="hub-link GAME INFO"><a href="/en/game-information"><span>GAME INFO</span></a></li>
+<li class="mn_section_gameplay has-children"><a class="nolink"><span>GAMEPLAY</span></a><ul class="menu"><li class="mn_section_about-the-game"><a href="/en/game-info/gameplay/about-the-game"><span>ABOUT THE GAME</span></a></li>
+<li class="mn_section_how-to-play"><a href="/en/game-info/gameplay/how-to-play"><span>HOW TO PLAY</span></a></li>
+<li class="mn_section_how-to-build-a-deck"><a href="/en/game-info/gameplay/how-to-build-a-deck"><span>HOW TO BUILD A DECK</span></a></li>
+<li class="mn_section_improve-your-game"><a href="/en/game-info/gameplay/improve-your-game"><span>IMPROVE YOUR GAME</span></a></li>
+<li class="mn_section_rules-&-formats"><a href="/en/game-info/gameplay/rules-and-formats"><span>RULES & FORMATS</span></a></li>
+</ul></li>
+<li class="mn_section_products has-children"><a class="nolink"><span>PRODUCTS</span></a><ul class="menu"><li class="mn_section_featured-<br>releases"><a href="/en/game-info/products/featured-releases"><span>FEATURED <BR>RELEASES</span></a></li>
+<li class="mn_section_coming-soon"><a href="/en/game-info/products/coming-soon"><span>COMING SOON</span></a></li>
+<li class="mn_section_magic-duels"><a href="/en/content/magic-duels"><span>MAGIC DUELS</span></a></li>
+<li class="mn_section_magic-online"><a href="/en/content/magic-online-products-game-info"><span>MAGIC ONLINE</span></a></li>
+<li class="mn_section_card-set-archive"><a href="/en/game-info/products/card-set-archive"><span>CARD SET ARCHIVE</span></a></li>
+</ul></li>
+<li class="mn_section_story has-children"><a class="nolink"><span>STORY</span></a><ul class="menu"><li class="mn_section_magic's-story"><a href="/en/game-info/story/magic-story"><span>MAGIC'S STORY</span></a></li>
+<li class="mn_section_planeswalkers"><a href="/en/game-info/story/planeswalkers"><span>PLANESWALKERS</span></a></li>
+<li class="mn_section_planes"><a href="/en/game-info/story/planes"><span>PLANES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_events has-children current"><a href="/en/events" class="active-trail"><span>EVENTS</span></a><ul class="menu"><li class="hub-link EVENTS"><a href="/en/events"><span>EVENTS</span></a></li>
+<li class="mn_section_events-home"><a href="/en/events"><span>EVENTS HOME</span></a></li>
+<li class="mn_section_what-is-<br>organized-play"><a href="/en/events/what-is-organized-play"><span>WHAT IS <br>ORGANIZED PLAY?</span></a></li>
+<li class="mn_section_event<br>-types"><a href="/en/events/event-types"><span>EVENT<br> TYPES</span></a></li>
+<li class="mn_section_coverage has-children current"><a class="active-trail nolink"><span>COVERAGE</span></a><ul class="menu"><li class="mn_section_coverage-archive current"><a href="/en/events/coverage" class="active-trail"><span>COVERAGE ARCHIVE</span></a></li>
+<li class="mn_section_top-players"><a href="/en/events/coverage/top-players"><span>TOP PLAYERS</span></a></li>
+</ul></li>
+<li class="mn_section_schedules"><a href="/en/content/premier-events-schedule#/overview"><span>SCHEDULES</span></a></li>
+<li class="mn_section_resources has-children"><a class="nolink"><span>RESOURCES</span></a><ul class="menu"><li class="mn_section_planeswalker-points"><a href="/en/events/resources/planeswalker-points"><span>PLANESWALKER POINTS</span></a></li>
+<li class="mn_section_judges"><a href="/en/events/resources/judges"><span>JUDGES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_articles has-children"><a href="/en/content/articles"><span>ARTICLES</span></a><ul class="menu"><li class="hub-link ARTICLES"><a href="/en/content/articles"><span>ARTICLES</span></a></li>
+<li class="mn_section_articles-home"><a href="/en/content/articles"><span>ARTICLES HOME</span></a></li>
+<li class="mn_section_columns has-children"><a id="columns" class="nolink"><span>COLUMNS</span></a><ul class="menu"><li class="mn_section_columnists"><a href="/en/articles/columns/columnists"><span>COLUMNISTS</span></a></li>
+<li class="mn_section_making-magic"><a href="/en/articles/columns/making-magic-archive"><span>MAKING MAGIC</span></a></li>
+<li class="mn_section_magic-story"><a href="/en/articles/columns/magic-story-archive"><span>MAGIC STORY</span></a></li>
+<li class="mn_section_top-decks"><a href="/en/articles/columns/top-decks-archive"><span>TOP DECKS</span></a></li>
+<li class="mn_section_organized-<br>play"><a href="/en/articles/columns/organized-play-archive" title="Organized Play"><span>ORGANIZED <br>PLAY</span></a></li>
+<li class="mn_section_latest-<br>developments"><a href="/en/articles/columns/latest-developments-archive"><span>LATEST <br>DEVELOPMENTS</span></a></li>
+</ul></li>
+<li class="mn_section_archives"><a href="/en/articles/archive"><span>ARCHIVES</span></a></li>
+<li class="mn_section_winning-decks"><a href="/en/articles/winning-decks"><span>WINNING DECKS</span></a></li>
+<li class="mn_section_media has-children"><a class="nolink"><span>MEDIA</span></a><ul class="menu"><li class="mn_section_videos"><a href="/en/articles/media/videos"><span>VIDEOS</span></a></li>
+<li class="mn_section_podcasts"><a href="/en/articles/media/podcasts"><span>PODCASTS</span></a></li>
+<li class="mn_section_wallpapers"><a href="/en/articles/media/wallpapers"><span>WALLPAPERS</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_community has-children"><a href="/en/community"><span>COMMUNITY</span></a><ul class="menu"><li class="hub-link COMMUNITY"><a href="/en/community"><span>COMMUNITY</span></a></li>
+<li class="mn_section_community-home"><a href="/en/community"><span>COMMUNITY HOME</span></a></li>
+<li class="mn_section_fan-kits"><a href="/en/community/fan-kits"><span>FAN KITS</span></a></li>
+</ul></li>
+<li class="mn_section_my-accounts"><a href="/en/content/my-accounts"><span>MY ACCOUNTS</span></a></li>
+</ul>        </div>
+      </nav>
+    </div>
+  </header>
+
+  
+  <div id="content-wrapper">
+      <div class="region region-content">
+    
+<div id="block-system-main" class=" block block-system block-odd first last main clearfix">
+  <div class="block-inner">
+                <div class="content" >
+      <div id="content" class="page-width">
+
+  <div id="main-content">
+    <div id="breadcrumb">
+              <span ><a href="/en/events">EVENTS</a></span>
+              <span ><a href="/en/events/coverage">COVERAGE ARCHIVE</a></span>
+              <span class="current"><a href="/en/events/coverage/gpkob14">GRAND PRIX KOBE 2014 - COVERAGE - EVENTS</a></span>
+          </div>
+    <h1>ROUND 2 BLUE RESULTS</h1>
+    <p class="posted-in">
+      Posted in      <a href="/en/events/coverage/gpkob14">GRAND PRIX KOBE 2014 - COVERAGE - EVENTS</a>
+      on August 23, 2014    </p>
+
+    <!-- BEGIN :: ARTICLE -->
+    <article>
+      <div class="article-header">
+
+                  <div class="author">
+            <img src="http://magic.wizards.com/sites/mtg/files/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg?itok=KENOTqfD" alt="" />
+            <p>By Wizards of the Coast</p>
+            <p class="links">
+                                            <span><a href="/en/articles/archive/184956" onClick="_gaq.push(['_trackEvent', 'Article', 'Author', 'Wizards of the Coast-Archive']);">Archive</a></span>
+                                        </p>
+            <div id="author-biography">
+                          </div>
+          </div>
+        
+        <div class="sharing">
+          <div class="social-share">
+            <a class="facebook" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpkob14/round-2-blue-results-2014-08-22"><span class="share-count">0</span><span>&nbsp;Shares</span></a>
+            <a class="twitter" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpkob14/round-2-blue-results-2014-08-22"><span class="share-count">0</span><span>&nbsp;Tweets</span></a>
+            <a class="google" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpkob14/round-2-blue-results-2014-08-22"><span class="share-count">0</span><span>&nbsp;+</span></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div id="content-detail-page-of-an-article">
+        <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><ul><li><a href="http://magic.wizards.com/en/events/coverage/gpkob14">Complete coverage of Grand Prix K&#333;be 2014</a></li>
+</ul><p></p>
+<sortrow></sortrow><table shade="1" shadecolor="#ffffcc" w="500"><tbody><tr><td><b>Table</b></td>
+			<td><b>Player</b></td>
+			<td><b>Result</b></td>
+			<td></td>
+			<td><b>Opponent</b></td>
+		</tr><tr><td>701</td>
+			<td>Umemura, Hideaki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sekiguchi, Kota [JPN]</td>
+		</tr><tr><td>702</td>
+			<td>Chen, Yang [CHN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Maeda, Hiroki [JPN]</td>
+		</tr><tr><td>703</td>
+			<td>Ehara, Makoto [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sakai, Kengo [JPN]</td>
+		</tr><tr><td>704</td>
+			<td>Kubo, Hirotaka [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Shinichiro, Emi [JPN]</td>
+		</tr><tr><td>705</td>
+			<td>Kurata, Takayuki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kubo, Ryotaro [JPN]</td>
+		</tr><tr><td>706</td>
+			<td>Wakata, Kazuya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nomura, Tsuyoshi [JPN]</td>
+		</tr><tr><td>707</td>
+			<td>Matsushita, Takahiro [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Yoshimura, Yutaka [JPN]</td>
+		</tr><tr><td>708</td>
+			<td>Nakamura, Ryuji [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hirokazu, Iwama [JPN]</td>
+		</tr><tr><td>709</td>
+			<td>Yuzuru, Kanda [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hirase, Gun [JPN]</td>
+		</tr><tr><td>710</td>
+			<td>Nagamoto, Kouji [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Takahashi, Yuuto [JPN]</td>
+		</tr><tr><td>711</td>
+			<td>Tamura, Shingo [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Itani, Shintaro [JPN]</td>
+		</tr><tr><td>712</td>
+			<td>Kenneth, Wong [MYS]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Inukai, Masakazu [JPN]</td>
+		</tr><tr><td>713</td>
+			<td>Nose, Koji [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Iwasaki, Yusuke [JPN]</td>
+		</tr><tr><td>714</td>
+			<td>Yamasaki, Yudai [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Takenouchi, Tatsuya [JPN]</td>
+		</tr><tr><td>715</td>
+			<td>Suga, Hiroki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hirato, Ougi [JPN]</td>
+		</tr><tr><td>716</td>
+			<td>Niihama, Tatsuo [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kawai, Katsuya [JPN]</td>
+		</tr><tr><td>717</td>
+			<td>Nakae, Hirotaka [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yutani, Mitsuhiro [JPN]</td>
+		</tr><tr><td>718</td>
+			<td>Kato, Takayoshi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mori, Takeshi [JPN]</td>
+		</tr><tr><td>719</td>
+			<td>Anzai, Sachio [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tokuyama, Yoshihiko [JPN]</td>
+		</tr><tr><td>720</td>
+			<td>Nishikawa, Haruyoshi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Genno, Yusuke [JPN]</td>
+		</tr><tr><td>721</td>
+			<td>Yamanaka, Takuya [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Miyata, Yuya [JPN]</td>
+		</tr><tr><td>722</td>
+			<td>Uemoto, Takahiro [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kondo, Shohei [JPN]</td>
+		</tr><tr><td>723</td>
+			<td>Ogino, Hiroki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mizuno, Ginjiro [JPN]</td>
+		</tr><tr><td>724</td>
+			<td>Yamakawa, Hiroyuki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yoshiaki, Hino [JPN]</td>
+		</tr><tr><td>725</td>
+			<td>Noguchi, Masami [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Maruyama, Satoshi [JPN]</td>
+		</tr><tr><td>726</td>
+			<td>Ichinohe, Hirona [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Yamasaki, Rintaro [JPN]</td>
+		</tr><tr><td>727</td>
+			<td>Kurusu, Kazuki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nakamura, Ryouta5022 [JPN]</td>
+		</tr><tr><td>728</td>
+			<td>Yao, Shunsuke [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Asanuma, Syun [JPN]</td>
+		</tr><tr><td>729</td>
+			<td>Shibafuji, Shunsuke [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Innestaylor, Ianedward [JPN]</td>
+		</tr><tr><td>730</td>
+			<td>Ogata, Taro [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Higaki, Motohide [JPN]</td>
+		</tr><tr><td>731</td>
+			<td>Takechi, Takumi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Okada, Takuya [JPN]</td>
+		</tr><tr><td>732</td>
+			<td>Shimokobe, Yukihiro [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Itou, Shigehito [JPN]</td>
+		</tr><tr><td>733</td>
+			<td>Hoshino, Shin'ya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yoshihara, Tomoki [JPN]</td>
+		</tr><tr><td>734</td>
+			<td>Yasue, Hayato [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tuji, Kazumi [JPN]</td>
+		</tr><tr><td>735</td>
+			<td>Nakamura, Keisuke [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fujiyoshi, Manabu [JPN]</td>
+		</tr><tr><td>736</td>
+			<td>Osa, Tomoki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Akita, Takumi [JPN]</td>
+		</tr><tr><td>737</td>
+			<td>Furusato, Hiroshi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Matsuo, Shuto [JPN]</td>
+		</tr><tr><td>738</td>
+			<td>Azuma, Tatsuya [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yabuta, Junichi [JPN]</td>
+		</tr><tr><td>739</td>
+			<td>Tedori, Kouta [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kato, Yusuke [JPN]</td>
+		</tr><tr><td>740</td>
+			<td>Mizuki, Morishita [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Oshida, Ryuuichi [JPN]</td>
+		</tr><tr><td>741</td>
+			<td>Hoshiyama, Mizuho [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yamamoto, Taichi [JPN]</td>
+		</tr><tr><td>742</td>
+			<td>Endou, Akiteru [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kanehira, Haruki [JPN]</td>
+		</tr><tr><td>743</td>
+			<td>Brunet, Max [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nagasaka, Yuuri [JPN]</td>
+		</tr><tr><td>744</td>
+			<td>Ikeda, Kazuki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Zenin, Yasuhiro [JPN]</td>
+		</tr><tr><td>745</td>
+			<td>Nakao, Motohiko [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tamura, Yuto [JPN]</td>
+		</tr><tr><td>746</td>
+			<td>Nakanishi, Yutaka [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Okubo, Reo [JPN]</td>
+		</tr><tr><td>747</td>
+			<td>Tanioka, Shin'ichi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tagawa, Yusuke [JPN]</td>
+		</tr><tr><td>748</td>
+			<td>Nakamura, Yuuki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mitsui, Koutarou [JPN]</td>
+		</tr><tr><td>749</td>
+			<td>Hasegawa, Shunya [JPN]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Inukai, Masahiro [JPN]</td>
+		</tr><tr><td>750</td>
+			<td>Uegaki, Yoshitsugu [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Niwa, Ryuuta [JPN]</td>
+		</tr><tr><td>751</td>
+			<td>Ikushima, Taiga [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Otsuka, Tomohito [JPN]</td>
+		</tr><tr><td>752</td>
+			<td>Barbian, Joshua [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sugiyama, Wataru [JPN]</td>
+		</tr><tr><td>753</td>
+			<td>Lee, Nam Hyoung [KOR]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Sugahara, Yoshitaka [JPN]</td>
+		</tr><tr><td>754</td>
+			<td>Sekine, Ryota [JPN]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Oyama, Yusuke [JPN]</td>
+		</tr><tr><td>755</td>
+			<td>Galacgac, Daniel [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Takeda, Yasuaki [JPN]</td>
+		</tr><tr><td>756</td>
+			<td>Arai, Yuusuke0780 [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Shirai, Yuki [JPN]</td>
+		</tr><tr><td>757</td>
+			<td>Awane, Hiroyuki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Inami, Yuuki [JPN]</td>
+		</tr><tr><td>758</td>
+			<td>Inukai, Yuta [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Inoue, Hiroyuki [JPN]</td>
+		</tr><tr><td>759</td>
+			<td>Emori, Shinichi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ishii, Taiyo [JPN]</td>
+		</tr><tr><td>760</td>
+			<td>Kawamura, Hirotaka [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sengan, Takashi [JPN]</td>
+		</tr><tr><td>761</td>
+			<td>Sakaino, Yuta [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tanabe, Kohei [JPN]</td>
+		</tr><tr><td>762</td>
+			<td>Yoshihara, Nakaaki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Take, Toshiharu [JPN]</td>
+		</tr><tr><td>763</td>
+			<td>Sakamoto, Takumi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Akabane, Jun [JPN]</td>
+		</tr><tr><td>764</td>
+			<td>Yotsumoto, Yuki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Maruyama, Kentarou [JPN]</td>
+		</tr><tr><td>765</td>
+			<td>Nakamura, Yusuke [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Yanagisawa, Tadahiro [JPN]</td>
+		</tr><tr><td>766</td>
+			<td>Higashi, Satoshi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tada, Shunsuke [JPN]</td>
+		</tr><tr><td>767</td>
+			<td>Kurokawa, Ryushi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kotani, Sunao [JPN]</td>
+		</tr><tr><td>768</td>
+			<td>Hayashi, Shinsuke [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Furujyou, Takashi [JPN]</td>
+		</tr><tr><td>769</td>
+			<td>Ookubo, Hironobu [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yajima, Tatsuaki [JPN]</td>
+		</tr><tr><td>770</td>
+			<td>Sugiyama, Yu [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fukuoka, Naoto [JPN]</td>
+		</tr><tr><td>771</td>
+			<td>Schwenk, Ryan [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kimura, Yusuke [JPN]</td>
+		</tr><tr><td>772</td>
+			<td>Syouta, Ookubo [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yamane, Masahiro [JPN]</td>
+		</tr><tr><td>773</td>
+			<td>Shoji, Kenta [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Furukawa, Kai [JPN]</td>
+		</tr><tr><td>774</td>
+			<td>Satou, Takahisa [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ihara, Akihiro [JPN]</td>
+		</tr><tr><td>775</td>
+			<td>Maruyama, Takamasa [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Chang, Stanley [CAN]</td>
+		</tr><tr><td>776</td>
+			<td>Hamano, Kouhei [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sasaoka, Hirohito [JPN]</td>
+		</tr><tr><td>777</td>
+			<td>Matsuda, Yoshiaki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nishimura, Masaaki [JPN]</td>
+		</tr><tr><td>778</td>
+			<td>Muto, Masaharu [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kojima, Yuusuke [JPN]</td>
+		</tr><tr><td>779</td>
+			<td>Kuwashiro, Yoshiyuki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Watanabe, Kazuki [JPN]</td>
+		</tr><tr><td>780</td>
+			<td>Fukunaga, Nao [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yamazaki, Jun [JPN]</td>
+		</tr><tr><td>781</td>
+			<td>Matsuda, Kenji [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sato, Shinya [JPN]</td>
+		</tr><tr><td>782</td>
+			<td>Nakata, Yu [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mishima, Wataru [JPN]</td>
+		</tr><tr><td>783</td>
+			<td>Kanekiyo, Ryusuke [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Takeuchi, Keisuke [JPN]</td>
+		</tr><tr><td>784</td>
+			<td>Matsumoto, Masaya [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Senoo, Yuto [JPN]</td>
+		</tr><tr><td>785</td>
+			<td>Oda, Yuki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Anan, Kazuyoshi [JPN]</td>
+		</tr><tr><td>786</td>
+			<td>Kumagai, Riku [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ishizu, Masahiko [JPN]</td>
+		</tr><tr><td>787</td>
+			<td>Michiaki, Kanno [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nagai, Yoshio [JPN]</td>
+		</tr><tr><td>788</td>
+			<td>Hasegawa, Suguru [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Shidata, Syouhei [JPN]</td>
+		</tr><tr><td>789</td>
+			<td>Ueno, Tomoya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Suematsu, Takaaki [JPN]</td>
+		</tr><tr><td>790</td>
+			<td>Nanjo, Masashi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nishiki, Kentaro [JPN]</td>
+		</tr><tr><td>791</td>
+			<td>Matsui, Takashi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Naoki, Satou [JPN]</td>
+		</tr><tr><td>792</td>
+			<td>Takahashi, Kazuya [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sano, Tosirou [JPN]</td>
+		</tr><tr><td>793</td>
+			<td>Aoki, Kotaro [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ishigaki, Ryosuke [JPN]</td>
+		</tr><tr><td>794</td>
+			<td>Hiroki, Takeda [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hirakata, Hironori [JPN]</td>
+		</tr><tr><td>795</td>
+			<td>Mochizuki, Masashi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sho, Hayakawa [JPN]</td>
+		</tr><tr><td>796</td>
+			<td>Imoto, Yuichirou [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fujiwara, Kazuki [JPN]</td>
+		</tr><tr><td>797</td>
+			<td>Emmenegger, Damien [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Higuchi, Yuuma [JPN]</td>
+		</tr><tr><td>798</td>
+			<td>Hosomi, Yuichi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tanaka, Tomoyuki [JPN]</td>
+		</tr><tr><td>799</td>
+			<td>Takeshita, Tooru [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tong, Wu [CHN]</td>
+		</tr><tr><td>800</td>
+			<td>Matsumoto, Fumiya [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sakurai, Tatsuhiko [JPN]</td>
+		</tr><tr><td>801</td>
+			<td>Yamawaki, Satoru [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Endo, Junichi [JPN]</td>
+		</tr><tr><td>802</td>
+			<td>Yoshidomi, Shuuji [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ikushima, Yasuyuki [JPN]</td>
+		</tr><tr><td>803</td>
+			<td>Ando, Takaya [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Koyama, Yuuji [JPN]</td>
+		</tr><tr><td>804</td>
+			<td>Ryosuke, Nisiura [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Furuta, Yusuke [JPN]</td>
+		</tr><tr><td>805</td>
+			<td>Mita, Ryoichi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tei, Shinri [JPN]</td>
+		</tr><tr><td>806</td>
+			<td>Hori, Shunta [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sakimura, Akihiko [JPN]</td>
+		</tr><tr><td>807</td>
+			<td>Yamamoto, Takashi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Shimodouzono, Shintaro [JPN]</td>
+		</tr><tr><td>808</td>
+			<td>Nguyen, Quang [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Itou, Syuhei [JPN]</td>
+		</tr><tr><td>809</td>
+			<td>Fukudome, Yuu [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kawashita, Makoto [JPN]</td>
+		</tr><tr><td>810</td>
+			<td>Yuma, Osa [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kihara, Ryou [JPN]</td>
+		</tr><tr><td>811</td>
+			<td>Matsumoto, Takeshi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Suzuki, Kazushige [JPN]</td>
+		</tr><tr><td>812</td>
+			<td>Sakai, Toshinori [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sano, Kouta [JPN]</td>
+		</tr><tr><td>813</td>
+			<td>Ichikawa, Norikazu [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kugi, Takeshi [JPN]</td>
+		</tr><tr><td>814</td>
+			<td>Akita, Masashi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tanaka, Yu [JPN]</td>
+		</tr><tr><td>815</td>
+			<td>Kuwahara, Yoshiki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kitabayashi, Nobuyuki [JPN]</td>
+		</tr><tr><td>816</td>
+			<td>Nagae, Yasuji [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hayashi, Taihei [JPN]</td>
+		</tr><tr><td>817</td>
+			<td>Sato, Hikaru [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sugimoto, Hiroaki [JPN]</td>
+		</tr><tr><td>818</td>
+			<td>Farnung, Ian T [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Asaumi, Hiroki [JPN]</td>
+		</tr><tr><td>819</td>
+			<td>Muraoka, Yuuki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kazuhiro, Kouge [JPN]</td>
+		</tr><tr><td>820</td>
+			<td>Tsuda, Seiya [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tanaka, Shota [JPN]</td>
+		</tr><tr><td>821</td>
+			<td>Ito, Takeaki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Abe, Kenichi [JPN]</td>
+		</tr><tr><td>822</td>
+			<td>Ishimura, Shintaro [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Matsubara, Takeyuki [JPN]</td>
+		</tr><tr><td>823</td>
+			<td>Asai, Ryutaro [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hashimoto, Masatoshi [JPN]</td>
+		</tr><tr><td>824</td>
+			<td>Sakai, Yuya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Uehara, Shinya [JPN]</td>
+		</tr><tr><td>825</td>
+			<td>Gang, Ji [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tomano, Shuma [JPN]</td>
+		</tr><tr><td>826</td>
+			<td>Yoshimoto, Masashi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tsuduki, Ryo [JPN]</td>
+		</tr><tr><td>827</td>
+			<td>Suginaka, Toshiya [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Yano, Keitarou [JPN]</td>
+		</tr><tr><td>828</td>
+			<td>Aikawa, Tmoyuki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Yang, Shao Fu [TWN]</td>
+		</tr><tr><td>829</td>
+			<td>Esaki, Keisuke [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Shinohara, Kazuaki [JPN]</td>
+		</tr><tr><td>830</td>
+			<td>Higono, Naoki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Urano, Tomohisa [JPN]</td>
+		</tr><tr><td>831</td>
+			<td>Togashi, Shunsuke [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nishikawa, Masayuki [JPN]</td>
+		</tr><tr><td>832</td>
+			<td>Mizuno, Nobuyoshi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Takahashi, Ryo [JPN]</td>
+		</tr><tr><td>833</td>
+			<td>Maruno, Takaaki [JPN]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Iwayama, Masatomo [JPN]</td>
+		</tr><tr><td>834</td>
+			<td>Matsumoto, Kazuya [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Terawaki, Koji [JPN]</td>
+		</tr><tr><td>835</td>
+			<td>Yuji, Hirota [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Taniguchi, Hiroaki [JPN]</td>
+		</tr><tr><td>836</td>
+			<td>Igarashi, Junpei [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kondou, Masayuki [JPN]</td>
+		</tr><tr><td>837</td>
+			<td>Zhu, Ren [CAN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tateno, Tomoaki [JPN]</td>
+		</tr><tr><td>838</td>
+			<td>Miyabe, Kouichi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ise, Tomohiro [JPN]</td>
+		</tr><tr><td>839</td>
+			<td>Ueda, Sunao [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Itou, Hayato7608 [JPN]</td>
+		</tr><tr><td>840</td>
+			<td>Tashiro, Kouichi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Katagiri, Shinichi [JPN]</td>
+		</tr><tr><td>841</td>
+			<td>Yamasaki, Yohei [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nozawa, Tomoki [JPN]</td>
+		</tr><tr><td>842</td>
+			<td>Serikawa, Emi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Suzuki, Go [JPN]</td>
+		</tr><tr><td>843</td>
+			<td>Honda, Masakazu [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mori, Yuusei [JPN]</td>
+		</tr><tr><td>844</td>
+			<td>Saito, Hajime [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Shiraishi, Tomomi [JPN]</td>
+		</tr><tr><td>845</td>
+			<td>Tai, Akio [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Takaishi, Yutaro [JPN]</td>
+		</tr><tr><td>846</td>
+			<td>Hayashi, Masashi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kazuakiueta, Kazuaki [JPN]</td>
+		</tr><tr><td>847</td>
+			<td>Yuasa, Kentaro [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nakatsu, Yoshihito [JPN]</td>
+		</tr><tr><td>848</td>
+			<td>Chiba, Akio [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ootachi, Makoto [JPN]</td>
+		</tr><tr><td>849</td>
+			<td>Okamura, Ryouma [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yamashita, Tatsunosuke [JPN]</td>
+		</tr><tr><td>850</td>
+			<td>Takayama, Hiroki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ota, Youhei [JPN]</td>
+		</tr><tr><td>851</td>
+			<td>Yamano, Nobuteru [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yuki, Kuroyanagi [JPN]</td>
+		</tr><tr><td>852</td>
+			<td>Hoshino, Masaaki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tsuchiya, Yoshihiro [JPN]</td>
+		</tr><tr><td>853</td>
+			<td>Kimoto, Keiya [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Masuno, Ryosuke [JPN]</td>
+		</tr><tr><td>854</td>
+			<td>Ohashi, Kazuhiro [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nishitani, Yu [JPN]</td>
+		</tr><tr><td>855</td>
+			<td>Kainuma, Satoru [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hiroi, Genki [JPN]</td>
+		</tr><tr><td>856</td>
+			<td>Takeuchi, Syuji [JPN]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Arakida, Tomohito [JPN]</td>
+		</tr><tr><td>857</td>
+			<td>Mochiki, Kazuto [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Masuyama, Yuko [JPN]</td>
+		</tr><tr><td>858</td>
+			<td>Hirooka, Toshiki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nakamoto, Ryuta [JPN]</td>
+		</tr><tr><td>859</td>
+			<td>Kuriyama, Toshikazu [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yamamoto, Takayoshi [JPN]</td>
+		</tr><tr><td>860</td>
+			<td>Dapat, Clyde P [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Shibata, Keiji [JPN]</td>
+		</tr><tr><td>861</td>
+			<td>Fujiwara, Ryuki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Shinohara, Gen [JPN]</td>
+		</tr><tr><td>862</td>
+			<td>Kageyama, Takuya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Morita, Yo [JPN]</td>
+		</tr><tr><td>863</td>
+			<td>Bian, Abel [CAN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yoshizaki, Hiroki [JPN]</td>
+		</tr><tr><td>864</td>
+			<td>Kosuga, Shuhei [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Taniguchi, Hironobu [JPN]</td>
+		</tr><tr><td>865</td>
+			<td>Tsutsumi, Masanori [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kagotani, Naota [JPN]</td>
+		</tr><tr><td>866</td>
+			<td>Tanimoto, Tatsuro [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sasaki, Yasuhiro [JPN]</td>
+		</tr><tr><td>867</td>
+			<td>Isaka, Motoki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Murata, Toshiaki [JPN]</td>
+		</tr><tr><td>868</td>
+			<td>Yoshinari, Toshihiro [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Takamizu, Tomohiro [JPN]</td>
+		</tr><tr><td>869</td>
+			<td>Naitou, Yuuki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fujimoto, Kenta [JPN]</td>
+		</tr><tr><td>870</td>
+			<td>Aranami, Yuuki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Omori, Tomoaki [JPN]</td>
+		</tr><tr><td>871</td>
+			<td>Shigaki, Tomoya [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kawakami, Takehito [JPN]</td>
+		</tr><tr><td>872</td>
+			<td>Chiba, Tatsuya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sakatani, Tsuyoshi [JPN]</td>
+		</tr><tr><td>873</td>
+			<td>Inui, Takeshi0321 [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Iriyama, Koki [JPN]</td>
+		</tr><tr><td>874</td>
+			<td>Horiguchi, Yu [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Asakawa, Shinichiro [JPN]</td>
+		</tr><tr><td>875</td>
+			<td>Nishida, Keisuke [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kato, Keigo [JPN]</td>
+		</tr><tr><td>876</td>
+			<td>Yamada, Takaaki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Yamagami, Yudai [JPN]</td>
+		</tr><tr><td>877</td>
+			<td>Ozawa, Takeshi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Saito, Hirotsugu [JPN]</td>
+		</tr><tr><td>878</td>
+			<td>Okumura, Genki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sano, Keisuke [JPN]</td>
+		</tr><tr><td>879</td>
+			<td>Ito, Shinichi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Inoue, Kota [JPN]</td>
+		</tr><tr><td>880</td>
+			<td>Tatsuya, Yamaji [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nishimura, Shuji [JPN]</td>
+		</tr><tr><td>881</td>
+			<td>Yamada, Hiroki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hiroki, Ogushi [JPN]</td>
+		</tr><tr><td>882</td>
+			<td>Suzuki, Masahiro5436 [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Asahi, Yuuichi [JPN]</td>
+		</tr><tr><td>883</td>
+			<td>Shinhama, Takahiko [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Meguro, Yasuaki [JPN]</td>
+		</tr><tr><td>884</td>
+			<td>Muto, Shogo [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Inoue, Masashi3399 [JPN]</td>
+		</tr><tr><td>885</td>
+			<td>Umeyama, Yuuichi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nonaka, Satoshi [JPN]</td>
+		</tr><tr><td>886</td>
+			<td>Mitsuyama, Yoshihisa [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kawano, Junichi [JPN]</td>
+		</tr><tr><td>887</td>
+			<td>Tanaka, Makoto [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ando, Toshiki [JPN]</td>
+		</tr><tr><td>888</td>
+			<td>Fukuhara, Mitsutaka [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ushima, Kousuke [JPN]</td>
+		</tr><tr><td>889</td>
+			<td>Kawaguchi, Teteu [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Okada, Keita [JPN]</td>
+		</tr><tr><td>890</td>
+			<td>Syoji, Keishi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hisasue, Satoshi [JPN]</td>
+		</tr><tr><td>891</td>
+			<td>Inui, Takashi6541 [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hyodo, Kousuke [JPN]</td>
+		</tr><tr><td>892</td>
+			<td>Kotaka, Shinobu [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kawasaki, Shinsuke [JPN]</td>
+		</tr><tr><td>893</td>
+			<td>Yoshikawa, Hidenobu [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tada, Masayu [JPN]</td>
+		</tr><tr><td>894</td>
+			<td>Uno, Yuki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Koji, Manabe [JPN]</td>
+		</tr><tr><td>895</td>
+			<td>Chee, Cristerson L [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kobayashi, Yuuki [JPN]</td>
+		</tr><tr><td>896</td>
+			<td>Terauchi, Tatsuya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Shimizu, Ryouta [JPN]</td>
+		</tr><tr><td>897</td>
+			<td>Nakata, Tatsuya [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nagato, Yusuke [JPN]</td>
+		</tr><tr><td>898</td>
+			<td>Takeuchi, Akinari [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Takino, Atsushi [JPN]</td>
+		</tr><tr><td>899</td>
+			<td>Sato, Naoyuki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Saito, Syuta [JPN]</td>
+		</tr><tr><td>900</td>
+			<td>Shiga, Kouta [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nishino, Ryo [JPN]</td>
+		</tr><tr><td>901</td>
+			<td>Oshima, Shimpei [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tsukagoshi, Tadaki [JPN]</td>
+		</tr><tr><td>902</td>
+			<td>Oogai, Yuuta [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Suzuki, Yuuji0113 [JPN]</td>
+		</tr><tr><td>903</td>
+			<td>Motomura, Tomoya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Watanabe, Takefumi [JPN]</td>
+		</tr><tr><td>904</td>
+			<td>Nakashima, Takumi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Yanagisawa, Makoto [JPN]</td>
+		</tr><tr><td>905</td>
+			<td>Myojin, Taro [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hori, Masataka [JPN]</td>
+		</tr><tr><td>906</td>
+			<td>Imaizumi, Riku [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ikedo, Masakazu [JPN]</td>
+		</tr><tr><td>907</td>
+			<td>Okamoto, Yasutaka [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tanehashi, Shigeharu [JPN]</td>
+		</tr><tr><td>908</td>
+			<td>Yamada, Toshihiro [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yoshida, Kei [JPN]</td>
+		</tr><tr><td>909</td>
+			<td>Akedo, Akihiro [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Inoue, Yuusuke [JPN]</td>
+		</tr><tr><td>910</td>
+			<td>Shimamura, Kazushige [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Shimazu, Yoshiki [JPN]</td>
+		</tr><tr><td>911</td>
+			<td>Ikeda, Takiki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Toyota, Hiroki [JPN]</td>
+		</tr><tr><td>912</td>
+			<td>Kubota, Shintaro [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Onishi, Kouhei [JPN]</td>
+		</tr><tr><td>913</td>
+			<td>Oshima, Yuki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kanno, Atsushi [JPN]</td>
+		</tr><tr><td>914</td>
+			<td>Tsuchihashi, Takuya [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sugihara, Toshihiro [JPN]</td>
+		</tr><tr><td>915</td>
+			<td>Ohashi, Keisuke [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yip, Chun Sun [HKG]</td>
+		</tr><tr><td>916</td>
+			<td>Shimizu, Haruki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Endoh, Hiroki [JPN]</td>
+		</tr><tr><td>917</td>
+			<td>Koga, Shinji [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Iwamoto, Takeshi [JPN]</td>
+		</tr><tr><td>918</td>
+			<td>Endo, Yasushi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tsukamoto, Tatsushi [JPN]</td>
+		</tr><tr><td>919</td>
+			<td>Furukawa, Kenichi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mouse, Chin [JPN]</td>
+		</tr><tr><td>920</td>
+			<td>Ito, Yuta [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Senshu, Yoshinori [JPN]</td>
+		</tr><tr><td>921</td>
+			<td>Nuruki, Hiroaki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Yamazaki, Yuki8029 [JPN]</td>
+		</tr><tr><td>922</td>
+			<td>Fujii, Kento [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kamei, Hidenori [JPN]</td>
+		</tr><tr><td>923</td>
+			<td>Toneri, Tatsuki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kubota, Koki [JPN]</td>
+		</tr><tr><td>924</td>
+			<td>Kato, Takanori [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kobayashi, Masanori129 [JPN]</td>
+		</tr><tr><td>925</td>
+			<td>Kasaoka, Yuichirou [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Uehara, Jin [JPN]</td>
+		</tr><tr><td>926</td>
+			<td>Fujita, Osamu [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sasaki, Tutomu [JPN]</td>
+		</tr><tr><td>927</td>
+			<td>Niikura, Daisuke [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ryu, Toshiki [JPN]</td>
+		</tr><tr><td>928</td>
+			<td>Ozawa, Koji [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ariyoshi, Daisuke [JPN]</td>
+		</tr><tr><td>929</td>
+			<td>Ookubo, Yukimasa [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yasuda, Ryohei [JPN]</td>
+		</tr><tr><td>930</td>
+			<td>Yuki, Ryosuke [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Iriki, Ryo [JPN]</td>
+		</tr><tr><td>931</td>
+			<td>Mita, Shohei [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mamiya, Takumi [JPN]</td>
+		</tr><tr><td>932</td>
+			<td>Lee, Yong Jun [KOR]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Rokugawa, Yohei [JPN]</td>
+		</tr><tr><td>933</td>
+			<td>Kazuha, Maeno [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Murata, Atsushi [JPN]</td>
+		</tr><tr><td>934</td>
+			<td>Iwata, Hiromichi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Yamamoto, Yukihiko [JPN]</td>
+		</tr><tr><td>935</td>
+			<td>Ishiida, Keita [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kajikawa, Masaki [JPN]</td>
+		</tr><tr><td>936</td>
+			<td>Moriai, Kozue [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fujii, Takahisa [JPN]</td>
+		</tr><tr><td>937</td>
+			<td>Kobayashi, Takeru [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ueki, Yoshinori [JPN]</td>
+		</tr><tr><td>938</td>
+			<td>Suda, Kazuho [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Murakami, Daisuke [JPN]</td>
+		</tr><tr><td>939</td>
+			<td>Shibata, Masataka0323 [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Matsui, Isamu [JPN]</td>
+		</tr><tr><td>940</td>
+			<td>Yamaguchi, Kyohei [JPN]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Hattori, Shinya [JPN]</td>
+		</tr><tr><td>941</td>
+			<td>Sakiyama, Kazu [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Muroi, Daisuke [JPN]</td>
+		</tr><tr><td>942</td>
+			<td>Kawabata, Yuji [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Okamoto, Yuuma [JPN]</td>
+		</tr><tr><td>943</td>
+			<td>Oishi, Haruka [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fukuda, Naoki [JPN]</td>
+		</tr><tr><td>944</td>
+			<td>Tanabe, Takumi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Okano, Toshiya [JPN]</td>
+		</tr><tr><td>945</td>
+			<td>Motomura, Shigeru [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Terasawa, Kazuya [JPN]</td>
+		</tr><tr><td>946</td>
+			<td>Katagiri, Kazushi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kobayashi, Yusuke [JPN]</td>
+		</tr><tr><td>947</td>
+			<td>Fujimoto, Tomoya [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Takato, Toshiyuki [JPN]</td>
+		</tr><tr><td>948</td>
+			<td>Matsui, Yusuke [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tanaka, Yasuhiro [JPN]</td>
+		</tr><tr><td>949</td>
+			<td>Koshimura, Takeshi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nakamura, Koki [JPN]</td>
+		</tr><tr><td>950</td>
+			<td>Maezono, Kenta [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hiroki, Kawano [JPN]</td>
+		</tr><tr><td>951</td>
+			<td>Takadera, Toshihisa [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Takizawa, Shunya [JPN]</td>
+		</tr><tr><td>952</td>
+			<td>Hourani, Rami [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hamamoto, Yohei [JPN]</td>
+		</tr><tr><td>953</td>
+			<td>Morishima, Ryouta [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Aoki, Yositugu [JPN]</td>
+		</tr><tr><td>954</td>
+			<td>Sotomura, Yoshihiro [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Wada, Ryota [JPN]</td>
+		</tr><tr><td>955</td>
+			<td>Shiraki, Takahiro [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Shiozaki, Toshinori [JPN]</td>
+		</tr><tr><td>956</td>
+			<td>Minoura, Takeshi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tanaka, Rizumu [JPN]</td>
+		</tr><tr><td>957</td>
+			<td>Ishida, Shoichi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hirayama, Hideyuki [JPN]</td>
+		</tr><tr><td>958</td>
+			<td>Kitahara, Hiroaki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Suzuki, Shoya [JPN]</td>
+		</tr><tr><td>959</td>
+			<td>Kamiya, Kazuhiro [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Saeki, Tomoya [JPN]</td>
+		</tr><tr><td>960</td>
+			<td>Kurokawa, Kazuaki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yamada, Ryosuke [JPN]</td>
+		</tr><tr><td>961</td>
+			<td>Yoshida, Shintarou [JPN]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Kawamata, Kei [JPN]</td>
+		</tr><tr><td>962</td>
+			<td>Shigehisa, Tetsuya [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kasahara, Shin [JPN]</td>
+		</tr><tr><td>963</td>
+			<td>Fukuda, Wataru [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hirakawa, Naoya [JPN]</td>
+		</tr><tr><td>964</td>
+			<td>Maehara, Kouichi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ishino, Katsunori [JPN]</td>
+		</tr><tr><td>965</td>
+			<td>Watanabe, Hiroyuki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Yuuta, Maruo [JPN]</td>
+		</tr><tr><td>966</td>
+			<td>Ogata, Nobuhiko [JPN]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Mori, Yuuta [JPN]</td>
+		</tr><tr><td>967</td>
+			<td>Ooshima, Takafumi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Shibata, Yasumasa [JPN]</td>
+		</tr><tr><td>968</td>
+			<td>Yoshimura, Naoki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nishio, Yoshihiro [JPN]</td>
+		</tr><tr><td>969</td>
+			<td>Sugimoto, Akinori [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Higashida, Taketo [JPN]</td>
+		</tr><tr><td>970</td>
+			<td>Hosaka, Yoshiteru [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mizobuchi, Yuuji [JPN]</td>
+		</tr><tr><td>971</td>
+			<td>Suzuki, Masaya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sorida, Kazuki [JPN]</td>
+		</tr><tr><td>972</td>
+			<td>Chijimi, Keiichi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sugisaki, Iori [JPN]</td>
+		</tr><tr><td>973</td>
+			<td>Tashiro, Atsinori [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kobayashi, Tomoya [JPN]</td>
+		</tr><tr><td>974</td>
+			<td>Fujiwara, Atsushi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kitajima, Ryoko [JPN]</td>
+		</tr><tr><td>975</td>
+			<td>Ishii, Ryouta [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kim, Mu-kyun [KOR]</td>
+		</tr><tr><td>976</td>
+			<td>Nakajima, Chikara [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Osugi, Shotaro [JPN]</td>
+		</tr><tr><td>977</td>
+			<td>Ishimoto, Yuuki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Yamaguchi, Hiroshi9054 [JPN]</td>
+		</tr><tr><td>978</td>
+			<td>Yagi, Wataru [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hirabayashi, Kazuya [JPN]</td>
+		</tr><tr><td>979</td>
+			<td>Murakami, Nobuyasu [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Rita, Takayuki [JPN]</td>
+		</tr><tr><td>980</td>
+			<td>Yamamoto, Akimasa [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kishimoto, Hiromi [JPN]</td>
+		</tr><tr><td>981</td>
+			<td>Hirano, Mikita [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Wakita, Tomoyuki [JPN]</td>
+		</tr><tr><td>982</td>
+			<td>Ono, Daisuke [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Shiroza, Shinichiro [JPN]</td>
+		</tr><tr><td>983</td>
+			<td>Usui, Hidetoshi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Haruta, Takatsugu [JPN]</td>
+		</tr><tr><td>984</td>
+			<td>Shiotani, Makoto [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kobayashi, Atumu [JPN]</td>
+		</tr><tr><td>985</td>
+			<td>Matono, Kyohei [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Okada, Eiji [JPN]</td>
+		</tr><tr><td>986</td>
+			<td>Kaneda, Yuuji [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sekiya, Nobuaki [JPN]</td>
+		</tr><tr><td>987</td>
+			<td>Kasuga, Ryousuke [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Takeshi, Honda [JPN]</td>
+		</tr><tr><td>988</td>
+			<td>Agata, Tatski [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ishihara, Akira [JPN]</td>
+		</tr><tr><td>989</td>
+			<td>Miyoshi, Hiroki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Yamaji, Syunichi [JPN]</td>
+		</tr><tr><td>990</td>
+			<td>Kikegawa, Sho [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Yanagisawa, Keiji [JPN]</td>
+		</tr><tr><td>991</td>
+			<td>Morikawa, Taichi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kobori, Tetsuya [JPN]</td>
+		</tr><tr><td>992</td>
+			<td>Ishizuki, Takuya [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Wada, Yuki [JPN]</td>
+		</tr><tr><td>993</td>
+			<td>Yamamoto, Takeshi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kadowaki, Masashi [JPN]</td>
+		</tr><tr><td>994</td>
+			<td>Yuge, Taturou [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ootuka, Yuusuke [JPN]</td>
+		</tr><tr><td>995</td>
+			<td>Nemoto, Masataka [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Camarillo, Ryan J [USA]</td>
+		</tr><tr><td>996</td>
+			<td>Nakamura, Koudai [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kuga, Sota [JPN]</td>
+		</tr><tr><td>997</td>
+			<td>Ito, Toshihiro [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Furuya, Satoshi [JPN]</td>
+		</tr><tr><td>998</td>
+			<td>Iwasawa, Fumiya [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Motoshiromizu, Hiroshi [JPN]</td>
+		</tr><tr><td>999</td>
+			<td>Endou, Taiki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Fujii, Toshikazu [JPN]</td>
+		</tr><tr><td>1000</td>
+			<td>Habata, Yousuke [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Takahori, Jun [JPN]</td>
+		</tr><tr><td>1001</td>
+			<td>Iga, Shinsaku [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ichimi, Kenji [JPN]</td>
+		</tr><tr><td>1002</td>
+			<td>Murakami, Kazuya4428 [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Takimura, Yuya [JPN]</td>
+		</tr><tr><td>1003</td>
+			<td>Nomoto, Kazuma [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Aihara, Shougaku [JPN]</td>
+		</tr><tr><td>1004</td>
+			<td>Fukunaga, Keisuke [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Akai, Satoshi [JPN]</td>
+		</tr><tr><td>1005</td>
+			<td>Oyama, Takumi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Amano, Makoto [JPN]</td>
+		</tr><tr><td>1006</td>
+			<td>Minami, Daiki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Aoki, Ryo [JPN]</td>
+		</tr><tr><td>1007</td>
+			<td>Hino, Tomoaki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Aridome, Tomohito [JPN]</td>
+		</tr><tr><td>1008</td>
+			<td>Sakakuchi, Takashi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Chikamatsu, Hirofumi [JPN]</td>
+		</tr><tr><td>1009</td>
+			<td>Nihongi, Yuta [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Duve, Tom [DEU]</td>
+		</tr><tr><td>1010</td>
+			<td>Mizumoto, Hirotaka [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ebihara, Hirotaka [JPN]</td>
+		</tr><tr><td>1011</td>
+			<td>Kashima, Akihiro [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fujihira, Kohei [JPN]</td>
+		</tr><tr><td>1012</td>
+			<td>Yamazaki, Daisuke [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fujita, Kenji [JPN]</td>
+		</tr><tr><td>1013</td>
+			<td>Takeuchi, Shusuke [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Fujiwara, Kazuto [JPN]</td>
+		</tr><tr><td>1014</td>
+			<td>Hatanaka, Ryosuke [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fukai, Shingo [JPN]</td>
+		</tr><tr><td>1015</td>
+			<td>Nakayama, Hiroshi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Fukebaru, Hajime [JPN]</td>
+		</tr><tr><td>1016</td>
+			<td>Baba, Yuusuke [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hamada, Akira [JPN]</td>
+		</tr><tr><td>1017</td>
+			<td>Takaku, Takeshi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hanano, Tetsuaki [JPN]</td>
+		</tr><tr><td>1018</td>
+			<td>Takatsuki, Ryo [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hashimoto, Syouta [JPN]</td>
+		</tr><tr><td>1019</td>
+			<td>Ueda, Yuya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hatashita, Hiroaki [JPN]</td>
+		</tr><tr><td>1020</td>
+			<td>Okutomi, Yuusuke [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hayazaki, Yusuke [JPN]</td>
+		</tr><tr><td>1021</td>
+			<td>Mihara, Yuki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hirano, Nanao [JPN]</td>
+		</tr><tr><td>1022</td>
+			<td>Iene, Ryota [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hirose, Ryota [JPN]</td>
+		</tr><tr><td>1023</td>
+			<td>Yanagida, Yuya [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Honjo, Kiyotaka [JPN]</td>
+		</tr><tr><td>1024</td>
+			<td>Saka, Tomoaki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Horibe, Satoshi [JPN]</td>
+		</tr><tr><td>1025</td>
+			<td>Furukawa, Yuichi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Horie, Yoshiaki [JPN]</td>
+		</tr><tr><td>1026</td>
+			<td>Noguchi, Ryonosuke [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hossaka, Takuro [JPN]</td>
+		</tr><tr><td>1027</td>
+			<td>Roduta, Jonathan [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ichitsubo, Shunsuke [JPN]</td>
+		</tr><tr><td>1028</td>
+			<td>Kimura, Syun [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Inoue, Ryo [JPN]</td>
+		</tr><tr><td>1029</td>
+			<td>Matumura, Akihiro [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ishiguro, Kenta [JPN]</td>
+		</tr><tr><td>1030</td>
+			<td>Ogawa, Hiroyuki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ishikawa, Takuma [JPN]</td>
+		</tr><tr><td>1031</td>
+			<td>Tasugi, Keigo [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Itamura, Hirohide [JPN]</td>
+		</tr><tr><td>1032</td>
+			<td>Maruyama, Nobuhiro [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Itazu, Yoshihisa [JPN]</td>
+		</tr><tr><td>1033</td>
+			<td>Uematsu, Ryo [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ito, Ryo [JPN]</td>
+		</tr><tr><td>1034</td>
+			<td>Yakabe, Hikaru [JPN]</td>
+			<td>Lost 0-1-1</td>
+			<td>vs.</td>
+			<td>Ito, Yuuichi [JPN]</td>
+		</tr><tr><td>1035</td>
+			<td>Nagase, Yuichi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Iwabuchi, So [JPN]</td>
+		</tr><tr><td>1036</td>
+			<td>Seki, Kazuhiko [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Iwami, Masaki [JPN]</td>
+		</tr><tr><td>1037</td>
+			<td>Hashimoto, Tatsuya [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kagoi, Yuki [JPN]</td>
+		</tr><tr><td>1038</td>
+			<td>Kurata, Keisuke [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kanagawa, Sinnya [JPN]</td>
+		</tr><tr><td>1039</td>
+			<td>Minami, Ryouta [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kaneko, Shun [JPN]</td>
+		</tr><tr><td>1040</td>
+			<td>Matsuo, Takanori [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kanou, Yuuki [JPN]</td>
+		</tr><tr><td>1041</td>
+			<td>Nakamura, Yuki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Karita, Toyohisa [JPN]</td>
+		</tr><tr><td>1042</td>
+			<td>Tanaka, Hironao [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Katamine, Kentaro [JPN]</td>
+		</tr><tr><td>1043</td>
+			<td>Ozaki, Youichirou [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kawada, Kyogo [JPN]</td>
+		</tr><tr><td>1044</td>
+			<td>Sonoda, Yosuke [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kawaguchi, Kyouhei [JPN]</td>
+		</tr><tr><td>1045</td>
+			<td>Kaneko, Junpei [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kawakami, Kazuto [JPN]</td>
+		</tr><tr><td>1046</td>
+			<td>Oku, Daisaku [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kawakami, Tomonobu [JPN]</td>
+		</tr><tr><td>1047</td>
+			<td>Yoshizawa, Kouhei [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kawata, Yoshiaki [JPN]</td>
+		</tr><tr><td>1048</td>
+			<td>Murao, Keisuke [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kikuchi, Fuminori [JPN]</td>
+		</tr><tr><td>1049</td>
+			<td>Yoshida, Shohei [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kikuchi, Hikaru [JPN]</td>
+		</tr><tr><td>1050</td>
+			<td>Uchida, Atsushi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kim, Chan-wook [KOR]</td>
+		</tr><tr><td>1051</td>
+			<td>Yoshino, Satoshi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kimata, Isao [JPN]</td>
+		</tr><tr><td>1052</td>
+			<td>Kung, Siu Kei [HKG]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kitajima, Hiroyasu [JPN]</td>
+		</tr><tr><td>1053</td>
+			<td>Tadokoro, Daiki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kiura, Tatsuya [JPN]</td>
+		</tr><tr><td>1054</td>
+			<td>Ozaki, Taisuke [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kobayashi, Jun [JPN]</td>
+		</tr><tr><td>1055</td>
+			<td>Noguchi, Keita [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Komatsu, Satoru [JPN]</td>
+		</tr><tr><td>1056</td>
+			<td>Inui, Sei [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Komizo, Isao [JPN]</td>
+		</tr><tr><td>1057</td>
+			<td>Mizoshita, Fumiki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kubota, Katsuma [JPN]</td>
+		</tr><tr><td>1058</td>
+			<td>Naito, Takashi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kurashima, Kazuki [JPN]</td>
+		</tr><tr><td>1059</td>
+			<td>Yamabe, Kazumi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kurihara, Naoya [JPN]</td>
+		</tr><tr><td>1060</td>
+			<td>Shirai, Yuta [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kushibe, Toshiki [JPN]</td>
+		</tr><tr><td>1061</td>
+			<td>Lee, Young Su [KOR]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kusunoki, Yuki [JPN]</td>
+		</tr><tr><td>1062</td>
+			<td>Ukyo, Kazuma [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Maeda, Masaki [JPN]</td>
+		</tr><tr><td>1063</td>
+			<td>Kisanuki, Akira [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ogawa, Mahito [JPN]</td>
+		</tr><tr><td>1064</td>
+			<td>Sasaki, Shun [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Masaoka, Satoru [JPN]</td>
+		</tr><tr><td>1065</td>
+			<td>Morimoto, Haruyuki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Matsuura, Hiroyuki [JPN]</td>
+		</tr><tr><td>1066</td>
+			<td>Kiyokane, Yoshifumi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Matsuura, Taiki [JPN]</td>
+		</tr><tr><td>1067</td>
+			<td>Kitakaze, Asuka [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Miyake, Satoshi [JPN]</td>
+		</tr><tr><td>1068</td>
+			<td>Morishita, Yoshihisa [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Mizutani, Yoshinobu [JPN]</td>
+		</tr><tr><td>1069</td>
+			<td>Tamai, Toshimasa [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mizutani, Yuuki [JPN]</td>
+		</tr><tr><td>1070</td>
+			<td>Furutani, Yamato [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Moriyama, Masahiro [JPN]</td>
+		</tr><tr><td>1071</td>
+			<td>Ozawa, Masaki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Murata, Shunya [JPN]</td>
+		</tr><tr><td>1072</td>
+			<td>Kobayakawa, Takashi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Myers, William J [USA]</td>
+		</tr><tr><td>1073</td>
+			<td>Hase, Nobuhiko [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nakamura, Naomichi [JPN]</td>
+		</tr><tr><td>1074</td>
+			<td>Koizumi, Hiroki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nakashima, Toshihiko [JPN]</td>
+		</tr><tr><td>1075</td>
+			<td>Tamai, Hideake [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Naoya, Kawasaki [JPN]</td>
+		</tr><tr><td>1076</td>
+			<td>Shiba, Jotaro [JPN]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Nishio, Yasuhiro [JPN]</td>
+		</tr><tr><td>1077</td>
+			<td>Yamauchi, Youta [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nishiwaki, Tatsuya [JPN]</td>
+		</tr><tr><td>1078</td>
+			<td>Hamasuna, Yoshitaka [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Noma, Soura [JPN]</td>
+		</tr><tr><td>1079</td>
+			<td>Kanno, Shutaroh [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ohmura, Tomoya [JPN]</td>
+		</tr><tr><td>1080</td>
+			<td>Yanagisawa, Kazutoyo [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Okajima, Masahiro [JPN]</td>
+		</tr><tr><td>1081</td>
+			<td>Kaneko, Yuusuke [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Okano, Ken [JPN]</td>
+		</tr><tr><td>1082</td>
+			<td>Tanaka, Kouichi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Okimura, Yosuke [JPN]</td>
+		</tr><tr><td>1083</td>
+			<td>Chee, Crisler H [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Okura, Ryota [JPN]</td>
+		</tr><tr><td>1084</td>
+			<td>Ohshiba, Atsushi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Onuki, Yohei [JPN]</td>
+		</tr><tr><td>1085</td>
+			<td>Takahashi, Ryohei [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ootsuki, Masahiro [JPN]</td>
+		</tr><tr><td>1086</td>
+			<td>Satou, Yusuke4427 [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Saegusa, Nobuyuki [JPN]</td>
+		</tr><tr><td>1087</td>
+			<td>Tanaka, So [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Saitou, Atsushi [JPN]</td>
+		</tr><tr><td>1088</td>
+			<td>Sato, Hisashi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sakai, Yuichi [JPN]</td>
+		</tr><tr><td>1089</td>
+			<td>Okada, Yuuta [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sakuragi, Yuta [JPN]</td>
+		</tr><tr><td>1090</td>
+			<td>Hata, Yuusuke [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Senoo, Takuto [JPN]</td>
+		</tr><tr><td>1091</td>
+			<td>Natsu, Nishiura [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Shigemune, Akinori [JPN]</td>
+		</tr><tr><td>1092</td>
+			<td>Yoshida, Nobuyoshi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Shigeno, Motoki [JPN]</td>
+		</tr><tr><td>1093</td>
+			<td>Toyoda, Ryosuke [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Shigeta, Hajime [JPN]</td>
+		</tr><tr><td>1094</td>
+			<td>Tachibana, Kentarou [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Shigezumi, Manabu [JPN]</td>
+		</tr><tr><td>1095</td>
+			<td>Oguro, Takashi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Shimada, Hiroya [JPN]</td>
+		</tr><tr><td>1096</td>
+			<td>Hayashi, Tomoki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Shimizu, Kouji [JPN]</td>
+		</tr><tr><td>1097</td>
+			<td>Iwasaki, Kazuma [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Shimizu, Takeyasu [JPN]</td>
+		</tr><tr><td>1098</td>
+			<td>Mimura, Yusuke [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Shinkawa, Takuya [JPN]</td>
+		</tr><tr><td>1099</td>
+			<td>Sakaguchi, Masanobu [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Shota, Kaji [JPN]</td>
+		</tr><tr><td>1100</td>
+			<td>Tomioka, Yoshihiro [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sonohara, Takashi [JPN]</td>
+		</tr><tr><td>1101</td>
+			<td>Samson, Kurt [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sugawara, Takaomi [JPN]</td>
+		</tr><tr><td>1102</td>
+			<td>Kaneko, Mitsutaka [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sugita, Kazuki [JPN]</td>
+		</tr><tr><td>1103</td>
+			<td>Yoshikawa, Takeo [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sunakawa, Keiji [JPN]</td>
+		</tr><tr><td>1104</td>
+			<td>Takano, Masato [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Suzuike, Fumiyasu [JPN]</td>
+		</tr><tr><td>1105</td>
+			<td>Matsuura, Tomoaki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Takahashi, Osamu [JPN]</td>
+		</tr><tr><td>1106</td>
+			<td>Okawa, Jun [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Takamiya, Issei [JPN]</td>
+		</tr><tr><td>1107</td>
+			<td>Seo, Kenta [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Takashima, Minoru [JPN]</td>
+		</tr><tr><td>1108</td>
+			<td>Funakura, Yuma [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Takasugi, Ryota [JPN]</td>
+		</tr><tr><td>1109</td>
+			<td>Yashiki, Kouichi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Takeda, Ryosuke [JPN]</td>
+		</tr><tr><td>1110</td>
+			<td>Tashiro, Shuji [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Takemura, Ukyo [JPN]</td>
+		</tr><tr><td>1111</td>
+			<td>Okumura, Masashi [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Takesita, Masato [JPN]</td>
+		</tr><tr><td>1112</td>
+			<td>Miyawaki, Shiro [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Takeuchi, Takefumi [JPN]</td>
+		</tr><tr><td>1113</td>
+			<td>Nishiwaki, Nobunori [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tamaru, Daisuke [JPN]</td>
+		</tr><tr><td>1114</td>
+			<td>Fujimoto, Hiroki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tanaka, Hayato [JPN]</td>
+		</tr><tr><td>1115</td>
+			<td>Ushiro, Naoki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tanaka, Ryuuma [JPN]</td>
+		</tr><tr><td>1116</td>
+			<td>Serizawa, Yuki3715 [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tateyama, Eiji [JPN]</td>
+		</tr><tr><td>1117</td>
+			<td>Kawashima, Fumihiro [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tokito, Hirofumi [JPN]</td>
+		</tr><tr><td>1118</td>
+			<td>Shiraishi, Yuuki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tomomizu, Takuya [JPN]</td>
+		</tr><tr><td>1119</td>
+			<td>Tanigawa, Kenichirou [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tsuki, Teruaki [JPN]</td>
+		</tr><tr><td>1120</td>
+			<td>Okada, Wataru [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tsumori, Youhei [JPN]</td>
+		</tr><tr><td>1121</td>
+			<td>Takashima, Kosuke [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tubouchi, Keita [JPN]</td>
+		</tr><tr><td>1122</td>
+			<td>Mukouyama, Taichi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Uchiyama, Daichi [JPN]</td>
+		</tr><tr><td>1123</td>
+			<td>Tsujisaka, Shoichi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ueno, Hideto [JPN]</td>
+		</tr><tr><td>1124</td>
+			<td>Welty, Jaramiah [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Umeki, Ryo [JPN]</td>
+		</tr><tr><td>1125</td>
+			<td>Hitoshi, Daisuke [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Urano, Megumi [JPN]</td>
+		</tr><tr><td>1126</td>
+			<td>Komada, Katuya [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Watahiki, Satoru [JPN]</td>
+		</tr><tr><td>1127</td>
+			<td>Kousaka, Ryouhei [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Watanabe, Masahito [JPN]</td>
+		</tr><tr><td>1128</td>
+			<td>Kouno, Haruhito [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yamakita, Yuya [JPN]</td>
+		</tr><tr><td>1129</td>
+			<td>Horii, Naoki [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yamamoto, Keiichi [JPN]</td>
+		</tr><tr><td>1130</td>
+			<td>Araki, Isao [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yamamoto, Yasutomo [JPN]</td>
+		</tr><tr><td>1131</td>
+			<td>Iyota, Makito [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yamauchi, Shotaro [JPN]</td>
+		</tr><tr><td>1132</td>
+			<td>Fukunaka, Haato [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yamazaki, Hidenori [JPN]</td>
+		</tr><tr><td>1133</td>
+			<td>Sumi, Takuya [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yasokawa, Takahiro [JPN]</td>
+		</tr><tr><td>1134</td>
+			<td>Miyahara, Toshinari [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Yokoyama, Takaya [JPN]</td>
+		</tr><tr><td>1135</td>
+			<td>Nakahara, Yoshihiro [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Yonezawa, Seiji [JPN]</td>
+		</tr><tr><td>1136</td>
+			<td>Sasaki, Osamu [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yoshimoto, Takashi [JPN]</td>
+		</tr><tr><td>1137</td>
+			<td>Takamiya, Raku [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Iba, Tomoki [JPN]</td>
+		</tr><tr><td>1138</td>
+			<td>Nagaoka, Takayuki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Abe, Jun [JPN]</td>
+		</tr><tr><td>1139</td>
+			<td>Nozaki, Taiki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Adachi, Junya [JPN]</td>
+		</tr><tr><td>1140</td>
+			<td>Lessmann, Richard [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Akiba, Hiroyuki [JPN]</td>
+		</tr><tr><td>1141</td>
+			<td>Nakao, Tatsuo [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Arai, Yuma [JPN]</td>
+		</tr><tr><td>1142</td>
+			<td>Masuda, Tomohito [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Asai, Toshiharu [JPN]</td>
+		</tr><tr><td>1143</td>
+			<td>Ashizawa, Yoshisato [JPN]</td>
+			<td>Won 1-0-1</td>
+			<td>vs.</td>
+			<td>Camarillo, Joe [USA]</td>
+		</tr><tr><td>1144</td>
+			<td>Miyanishi, Makoto [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Chen, Chien-lin [TWN]</td>
+		</tr><tr><td>1145</td>
+			<td>Hasegawa, Tatsuya [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Fujimoto, Keita [JPN]</td>
+		</tr><tr><td>1146</td>
+			<td>Lee, Seung Hyeok [KOR]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fujiwara, Kotaro [JPN]</td>
+		</tr><tr><td>1147</td>
+			<td>Suzuki, Atsushi [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fukuda, Yuuki [JPN]</td>
+		</tr><tr><td>1148</td>
+			<td>Koba, Kenichiro [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Fuse, Toshinori [JPN]</td>
+		</tr><tr><td>1149</td>
+			<td>Utugi, Furato [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gration, Luke D [AUS]</td>
+		</tr><tr><td>1150</td>
+			<td>Murakami, Taku [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hagiwara, Tsubasa [JPN]</td>
+		</tr><tr><td>1151</td>
+			<td>Isoda, Bunta [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hagiwara, Yuuta [JPN]</td>
+		</tr><tr><td>1152</td>
+			<td>Ichikawa, Hiroshi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hama, Takayuki [JPN]</td>
+		</tr><tr><td>1153</td>
+			<td>Ueda, Yushi [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hanada, Yu [JPN]</td>
+		</tr><tr><td>1154</td>
+			<td>Kudo, Issei [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Haraguchi, Takashi [JPN]</td>
+		</tr><tr><td>1155</td>
+			<td>Shin, Satou [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hasegawa, Eita [JPN]</td>
+		</tr><tr><td>1156</td>
+			<td>Kato, Naoya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hashidume, Yuuya [JPN]</td>
+		</tr><tr><td>1157</td>
+			<td>Yoshii, Shunsuke [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hashimoto, Ryoya [JPN]</td>
+		</tr><tr><td>1158</td>
+			<td>Sakurai, Kouhei [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ideue, Masahiko [JPN]</td>
+		</tr><tr><td>1159</td>
+			<td>Yoshida, Atsushi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ikumi, Syun [JPN]</td>
+		</tr><tr><td>1160</td>
+			<td>Saito, Tomoyuki [JPN]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Imamura, Norihide [JPN]</td>
+		</tr><tr><td>1161</td>
+			<td>Nukusina, Syota [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Imori, Takahiro [JPN]</td>
+		</tr><tr><td>1162</td>
+			<td>Losh, Mason [JPN]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Ishii, Kazuma [JPN]</td>
+		</tr><tr><td>1163</td>
+			<td>Ito, Genki [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kawaguchi, Hikaru [JPN]</td>
+		</tr><tr><td>1164</td>
+			<td>Nagase, Hirohumi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kimura, Minori [JPN]</td>
+		</tr><tr><td>1165</td>
+			<td>Sugita, Tsubasa [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Maeda, Kotaro [JPN]</td>
+		</tr><tr><td>1166</td>
+			<td>Taniguchi, Toyohiro [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Maeda, Shoko [JPN]</td>
+		</tr><tr><td>1167</td>
+			<td>Sashida, Tomoro [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Maekawa, Daiki [JPN]</td>
+		</tr><tr><td>1168</td>
+			<td>Osako, Kazuki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Matsuzaki, Eiji [JPN]</td>
+		</tr><tr><td>1169</td>
+			<td>Tanaka, Kimitaka [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Minami, Takahiro [JPN]</td>
+		</tr><tr><td>1170</td>
+			<td>Tsunemoto, Makoto [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mizuno, Yuuta [JPN]</td>
+		</tr><tr><td>1171</td>
+			<td>Ogura, Takamasa7657 [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Mori, Masaki [JPN]</td>
+		</tr><tr><td>1172</td>
+			<td>Naitou, Yuuya [JPN]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Nakaoka, Koshirou [JPN]</td>
+		</tr><tr><td>1173</td>
+			<td>Seguchi, Shinichirou [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nakatani, Yoshihide [JPN]</td>
+		</tr><tr><td>1174</td>
+			<td>Udagawa, Yuuya [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Niitani, Nobuhide [JPN]</td>
+		</tr><tr><td>1175</td>
+			<td>Yamakawa, Yoshiyuki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nishimoto, Ryota [JPN]</td>
+		</tr><tr><td>1176</td>
+			<td>Shigehara, Toshinori [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nishio, Tomonori [JPN]</td>
+		</tr><tr><td>1177</td>
+			<td>Takasawa, Kento [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ohsumi, Katsutoshi [JPN]</td>
+		</tr><tr><td>1178</td>
+			<td>Ono, Ippei [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Okano, Hiroki [JPN]</td>
+		</tr><tr><td>1179</td>
+			<td>Takeda, Shota [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Okuno, Kodai [JPN]</td>
+		</tr><tr><td>1180</td>
+			<td>Sato, Hiroyuki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ooba, Hideto [JPN]</td>
+		</tr><tr><td>1181</td>
+			<td>Ootani, Nobuhiro [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Saitou, Kenji [JPN]</td>
+		</tr><tr><td>1182</td>
+			<td>Yule, Carson [CAN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sakabe, Yuji [JPN]</td>
+		</tr><tr><td>1183</td>
+			<td>Sasaki, Takahiro [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Shindo, Noboru [JPN]</td>
+		</tr><tr><td>1184</td>
+			<td>Suzumura, Taturou [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Shirakawa, Yuuta [JPN]</td>
+		</tr><tr><td>1185</td>
+			<td>Tanaka, Takuya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sonoda, Takayuki [JPN]</td>
+		</tr><tr><td>1186</td>
+			<td>Tomimatsu, Yoshifumi [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tanino, Ryutaro [JPN]</td>
+		</tr><tr><td>1187</td>
+			<td>Yatori, Naoyuki [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Usami, Hirotaka [JPN]</td>
+		</tr><tr><td>1188</td>
+			<td>Fukuda, Takaya [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wataru, Muramatsu [JPN]</td>
+		</tr><tr><td>1189</td>
+			<td>Kishida, Keisuke [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Wood, Angelo [JPN]</td>
+		</tr><tr><td>1190</td>
+			<td>Yoshiyuki, Takemura [JPN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Yamashita, Tatsuya [JPN]</td>
+		</tr><tr><td>1191</td>
+			<td>Yamazaki, Masaki [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kikuchi, Masaru [JPN]</td>
+		</tr><tr><td></td>
+			<td>Aka, Shunsuke [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Akita, Naoto [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Arai, Yusuke3019 [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Chanboonyawat, Praprue [THA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Chang, Cheng Yu [TWN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Chen, Liang [TWN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Choi, Youngil [KOR]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Daigo, Toshimune [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Date, Hiroshi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Fukaya, Yuuta [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hagiwara, Noriyuki [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Harada, Masao [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hassaku, Jinpei [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Higashi, Kentaro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hilmi, Muhammad [SGP]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hirata, Kotatsu [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hiroki, Tsushiya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hirose, Yuki [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ichikawa, Takayoshi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Irimura, Daisuke [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ishida, Ryuichiro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Itou, Masayoshi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Iwatsu, Hirotaka [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jeon, Hyuncheol [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ji, Kanghyun [KOR]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kaitou, Ou [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kajihara, Koji [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kamei, Kazuhiko [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kanegawa, Toshiya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kato, Kazuki [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kawaguchi, Takashi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kawahara, Ryouta [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kawakami, Hiroshi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kawasaki, Keita [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ken, Yukuhiro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kibe, Keisuk [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kihara, Atsuki [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kim, Bo Young [KOR]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kobayashi, Satoshi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kodama, Kentaro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kojima, Tosihiro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kotoge, Tatsuya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kudou, Kouichi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kusatani, Takehiko [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lai, Pak Yin [HKG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lim, Vinson Lui [HKG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lin, Le [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lin, Shien Chang [TWN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Masukado, Kenta [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Matsuda, Yuichiro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Matsumura, Takehiko [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Matsushita, Junya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Matumoto, Yuki2978 [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Meguro, Masahiko [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Miyajima, Junichi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Morinaga, Yosuke [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Morishige, Yosuke [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Morofuji, Takuma [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Murai, Tatsuya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Murakami, Kazuya3837 [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nakagami, Takanori [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nakamura, Atsushi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nakamura, Junya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nemoto, Daisuke [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Oiso, Kenji [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Okada, Naoya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Omori, Kenichiro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Saeki, Katsuhisa [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Saida, Toshihiro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sakai, Hiroetu [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sasaki, Hidekatsu [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Satnh, Fumihiko [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sato, Yoshikazu [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sawada, Ken [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Senba, Kotaro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Iseda, Junya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Shigetaka, Hirayama [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Shindou, Takehiro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Shinoda, Akito [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sim, Daryl [SGP]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sunada, Shogo [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Suzuki, Masahiro7609 [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tada, Mitsuhiro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Takano, Kouhei [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tamura, Ryo [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tan, Raymond [MYS]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tezuka, You [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Toriuchi, Daizo [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tsubouchi, Tomoya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tsuboyama, Shuta [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tsushima, Tomoya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Urasawa, Taiji [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ushikubo, Kenichi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Usui, Haruki [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wada, Hiroya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yahaba, Hirokazu [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yam, Wing Chun [HKG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yamamoto, Shohei [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yi, Ding [CHN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yoshimori, Sho [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bo, Sun [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Fujimura, Kazuaki [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hada, Nobuto [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ho Shin, Jong [KOR]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Honda, Atsuo [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ichikawa, Jun [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ikawa, Yoshihiko [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ishii, Taisuke [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Itani, Hiroshi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Itou, Makoto [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kakumae, Teruya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kamata, Kazuhiro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kato, Kensuke [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kazuhisa, Toyota [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kobayashi, Masanori885 [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kou, Changsu [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kozaki, Yosuke [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lai, Kwong Pang [HKG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lee, Shi Tian [HKG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Mihara, Makihito [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Miyake, Kyohei [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Miyasita, Naoyuki [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nagata, Satoshi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nakatani, Hiroki [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nishidome, Keitaro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nitta, Yuuki [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nituu, Syunsuke [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Noguchi, Takeshi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Okino, Ryu [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Okuda, Masateru [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ota, Masato [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sato, Kenji [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sawada, Tomokazu [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Shimada, Masahiko [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Shinji, Nakatani [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Singh, Devsharan [MYS]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sugaya, Hironobu [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sugiyama, Yuya [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tanaka, Akira [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tianyu, Zhao [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tsumura, Kenji [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Watanabe, Yoshiaki [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Watanabe, Yuuki [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Won, Daehoon [KOR]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Xiao, Liu [CHN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yamamoto, Kentatou [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yamauchi, Takashi [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yasuda, Masayuki [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yasuda, Seita [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yasufuku, Akihiro [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yuusaku, Fujii [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kato, Akinori [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* BYE *</td>
+		</tr></tbody></table><p></p></body></html>
+      </div>
+
+      <!-- BEGIN :: Article footer -->
+      <div class="article-footer">
+        <p class="posted-in">
+          Posted in          <a href="/en/events/coverage/gpkob14">GRAND PRIX KOBE 2014 - COVERAGE - EVENTS</a>
+          on August 23, 2014        </p>
+      </div>
+      <!-- END :: Article footer -->
+
+    </article>
+  </div>
+
+  <!-- BEGIN :: ASIDE -->
+        <aside>
+      <div class="aside-wrapper">
+        
+
+            <h2><span>FEATURED ARTICLE</span></h2>
+      <div class="articles-bloc">
+            <div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/UR20150402_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="cat">UNCHARTED REALMS</a>
+      <p class="date">April 2, 2015</p>
+      <a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="title">The Guardian</a>
+              <a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="auth">Ari Levitch</a>
+      
+      <div class="infos">
+                  <p>Anafenza's fate has been less kind in this Tarkir, but no less grand…
+</p>
+                <p><a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div><div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/ARC20150402_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="cat">ARCANA</a>
+      <p class="date">April 2, 2015</p>
+      <a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="title">Art Descriptions of the Not-Khans</a>
+              <a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="auth">Blake Rasmussen</a>
+      
+      <div class="infos">
+                  <p>The descriptions that drove the art of the non-khans of Tarkir in Dragons of Tarkir.
+</p>
+                <p><a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div>          </div>
+            
+      <h2><span>EVENTS</span></h2>
+      <div class="articles-bloc">
+    <div class="article static pub-event "
+         style="background-image: url(http://magic.wizards.com/sites/mtg/files/FNMFeb_GutterAd_A.jpg)">
+      <div class="wrap details">
+                  <img src="http://magic.wizards.com/sites/mtg/files/FNMFeb_GutterAd_B.png" />
+                <p class="date"></p>
+                  <p class="description">Get an alternative-art promo of Disdainful Stroke!</p>
+                          <p>
+            <a class="learn-more " href="http://magic.wizards.com/en/events/event-types/friday-night-magic" data-video-url="">
+              Friday Night Magic            </a>
+          </p>
+              </div>
+    </div>
+  </div>
+              <h2><span>PRODUCTS</span></h2>
+            </div>
+    </aside>
+    <!-- END :: ASIDE -->
+
+  </div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+  </div>
+
+  <!-- Footer -->
+    <footer>
+    <div id="back-to-top">
+      <a href="#viewport">Back to top</a>
+    </div>
+    <div id="where-to-buy">
+      <div class="content page-width">
+        <form action="/en/events/coverage/gpkob14/round-2-blue-results-2014-08-22" method="post" id="wiz-store-and-event-locator-search-form--2" accept-charset="UTF-8"><div><div class="intro"><div class="wrap"><h5>Where to Play and Buy</h5><p>Find a location to buy or play<br />Magic: The Gathering near you.</p></div></div><div class="form"><div class="wrap"><span class="column zip-code"><div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Enter your city or postal code" type="text" id="edit-search-string--4" name="search-string" value="" size="25" maxlength="128" class="form-text" />
+</div>
+</span><span class="column actions"><button class="action-button" type="submit">Find Now !</button></span></div></div><input class="hide form-submit" type="submit" id="edit-search-button--4" name="op" value="Find Now" /><input type="hidden" name="form_build_id" value="form-BoV42bEDy3PsWyJ4tUoI7rWMwYeukY4652ruvC-Mb1s" />
+<input type="hidden" name="form_id" value="wiz_store_and_event_locator_search_form" />
+</div></form>      </div>
+    </div>
+
+    <div class="main-footer">
+      <div class="content page-width">
+        <div class="text">
+                      <div id="locale-select">
+              <label for="locale-select-ddl">Select your language:</label>
+
+              <div class="select-wrapper">
+                <select id="locale-select-ddl">
+                  <option value="/zh-hans" >简体中文</option><option value="/zh-hant" >繁體中文</option><option value="/fr" >Français</option><option value="/de" >Deutsch</option><option value="/it" >Italiano</option><option value="/ja" >日本語</option><option value="/ko" >한국어</option><option value="/pt-br" >Português (Brasil)</option><option value="/ru" >Русский</option><option value="/es" >Español</option><option value="/en" selected>English</option>                </select>
+              </div>
+            </div>
+          
+          
+
+      <p class="brand-family-title">Wizards Brand Family</p>
+    <p class="brand-family-menu"><a href="http://magic.wizards.com" target="_blank">magic</a> <em>|</em> <a href="http://www.wizards.com/dnd" target="_blank">d&amp;d</a> <em>|</em> <a href="http://www.wizards.com/wpn" target="_blank">wpn</a> <em>|</em> <a href="http://dm.takaratomy.co.jp" target="_blank">duel masters</a> <em>|</em> <a href="http://www.wizards.com/default.asp?x=ah/welcome" target="_blank">avalon hill</a></p>
+  <p><a href="http://company.wizards.com/tou" target="_blank">Terms of Use</a> <em>|</em> <a href="http://company.wizards.com/conduct" target="_blank">Code of Conduct</a> <em>|</em> <a href="http://company.wizards.com/policy" target="_blank">Privacy Policy</a> <em>|</em> <a href="http://www.wizards.com/customerservice" target="_blank">Customer Service</a> <em>|</em> <a href="/en/articles/archive/our-cookie-policy-2013-10-28">Cookies</a></p>
+  <p class="copyright">© 1995-2016 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved.</p>
+
+        </div>
+        
+
+      <p class="logo wizard">
+      <a href="http://company.wizards.com"
+         target="_blank"
+         title="Wizards of the Coast"
+        ><img src="/sites/all/themes/wiz_mtg/img/interface/wizard-of-the-coast-logo.png" alt="Wizards of the Coast" /></a>
+    </p>
+  
+      <p class="logo hasbro">
+      <a href="http://www.hasbro.com"
+         target="_blank"
+         title="Hasbro"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/hasbro-logo.svg" alt="Hasbro" /></a>
+    </p>
+  
+      <p class="logo privacy">
+      <a href="http://www.esrb.org/confirm/wizards-confirmation.aspx"
+         target="_blank"
+         title="ESRB Privacy Certified"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/esrb-badge.png" alt="ESRB Privacy Certified" /></a>
+    </p>
+  
+      </div>
+    </div>
+  </footer>
+  </div>
+
+<div id="cookies-warning">
+	<div class="wrap page-width">
+		<div class="text">
+			<p>
+        We use cookies on this site to enhance your user experience. By clicking any link on this page or by clicking <strong>Yes</strong>, you are giving your consent for us to set cookies.        <a href="http://company.wizards.com/policies/web/cookie" target="_blank"> (Learn more about cookies)</a>
+      </p>
+		</div>
+		<p class="actions">
+			<button type="button" class="button agree">Yes, I agree</button>
+			<a href="http://company.wizards.com/policies/web/cookie" target="_blank" class="button disagree">No, I want to find out more</a>
+		</p>
+	</div>
+</div>      <div class="region region-page-bottom">
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>  </div>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_oi0ujkYeWtu_4YlJE5uYvltQ88urtOHuaNRm2scTWco.js"></script>
+  </div>
+
+	<!-- Crazy Egg -->
+	<script type="text/javascript">
+		setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName("script")[0];
+		a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0009/9185.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+	</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d92d812ac7","applicationID":"22111946","transactionName":"YVNXMkcAD0sHAUdcXFgZdAVBCA5WSRJSUlZpW1QIVAYESjkMXFFWaUBcA0I+EVkBBw==","queueTime":0,"applicationTime":650,"atts":"TRRURA8aHEU=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

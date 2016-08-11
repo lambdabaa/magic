@@ -1,0 +1,1244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+  <title>ROUND 13 RESULTS | MAGIC: THE GATHERING</title>
+
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"/>
+  <meta name="format-detection" content="telephone=no"/>
+	<meta name="google-site-verification" content="WquIfqfWtlm2X62GTeJ-5vDtRrbOVOIT6mFc3vAP5BQ" />
+
+  <link rel="icon" type="image/png" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/sites/all/themes/wiz_mtg/icons/favicon.ico"/>
+  <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/wiz_mtg/icons/touch-icon-57.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/wiz_mtg/icons/touch-icon-72.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/wiz_mtg/touch-icon-114.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://magic.wizards.com/sites/all/themes/wiz_mtg/favicon.ico" type="image/vnd.microsoft.icon" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="description" content="Table&amp;#13; Player&amp;#13; Result&amp;#13; &amp;#13; Opponent&amp;#13; 613&amp;#13; Malone, Michael R&amp;#13; Won 2-0&amp;#13; vs.&amp;#13; Ingram, Michael P&amp;#13; 614&amp;#13; Elderfield, Darien C&amp;#13; Won 2-0&amp;#13; vs.&amp;#13; Van Sciver, Ken&amp;#13; 615&amp;#13; Pardee, Samuel&amp;#13; Won 2-0&amp;#13;" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://magic.wizards.com/en/events/coverage/gpcha15/round-13-results-2015-06-14" />
+<link rel="shortlink" href="http://magic.wizards.com/en/node/402671" />
+<meta property="og:site_name" content="MAGIC: THE GATHERING" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://magic.wizards.com/en/events/coverage/gpcha15/round-13-results-2015-06-14" />
+<meta property="og:title" content="ROUND 13 RESULTS" />
+<meta property="og:description" content="Table&amp;#13; Player&amp;#13; Result&amp;#13; &amp;#13; Opponent&amp;#13; 613&amp;#13; Malone, Michael R&amp;#13; Won 2-0&amp;#13; vs.&amp;#13; Ingram, Michael P&amp;#13; 614&amp;#13; Elderfield, Darien C&amp;#13; Won 2-0&amp;#13; vs.&amp;#13; Van Sciver, Ken&amp;#13; 615&amp;#13; Pardee, Samuel&amp;#13; Won 2-0&amp;#13;" />
+<meta property="og:image" content="http://magic.wizards.com/sites/mtg/files/images/hero/DailyMTG_Generic_Icon.jpg" />
+  <link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_DHcXHPYBSjIVaCQZEG4ZlpLkvslnFlBCnQUCzlbRBio.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_jqLG8JVbJuXMDDISe4UsZMUj_1qh-z0BGGAnA4OQvrA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_IIxgQdBS3hICu6Ps9jWiboRWYhCChZSb8zy58PRgH-8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_sELblXm0HE9iYxNNwDufKAxxNQ7ZkF6_ABbBSpg1HBE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/1.10.5/css/jquery.dataTables.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/responsive/1.0.4/css/dataTables.responsive.css" media="all" />
+  <script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_melyhmK_eh6sYXp2z9ljBIs419nCvgG6X4XWQKGJjng.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_yRh3TUp_QoC2vC9PitxLvVXRHsQUtJt-ObNFP_v6h-k.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_1swqkjOwmrPjTNzECJhtuekK-QJ_S5vc3xlUxa4gvEI.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_V7ygvngkUS6TCF6pK434j1Pj29d0hmeDnqUTPlcHIsw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-15020098-13", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "pathToTheme": "sites/all/themes/wiz_mtg" });
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://accounts.wizards.com/Widget/Widget.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_tuIsI7hTJyYf1XxjjnXVjPFwG177VUndBDGTmD13oH0.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_JIa4YdILIwnQQfsYZSjX1gz9IUt6emOIXEvyA44TWDI.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/responsive/1.0.4/js/dataTables.responsive.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"wiz_mtg","theme_token":"2MJTyEP3o1qxhfW9d0-mBayNkSfK6T2nL1CvfTcs0lw","jquery_version":"1.8","js":{"sites\/all\/themes\/wiz_mtg\/js\/ShareButton.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/masonry.pkgd.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/wiz_autocard.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/d3.v3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.charts.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/wiz_decklist_filter\/js\/wiz_decklist_filter.js":1,"sites\/all\/modules\/custom\/wiz_show_period\/js\/moment.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper-2.1.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper.scrollbar-2.1.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/custom.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/deletecookies.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"https:\/\/accounts.wizards.com\/Widget\/Widget.js":1,"sites\/all\/modules\/custom\/wiz_npsu\/js\/npsu_widget.js":1,"sites\/all\/themes\/wiz_mtg\/js\/image-comparison-slider.js":1,"sites\/all\/libraries\/foresee\/foresee-trigger.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery-ui.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/content-gallery-grid\/modernizr.custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.fancybox.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.scrollbar.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.mmenu.oncanvas.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.columnlist.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/dropdown.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/owl.carousel.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/stacktable.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/arketype.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-homepage-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-event-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/interstitials.js":1,"sites\/all\/themes\/wiz_mtg\/js\/community.js":1,"sites\/all\/themes\/wiz_mtg\/js\/inline-features.js":1,"sites\/all\/themes\/wiz_mtg\/js\/MainMenu.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ParallaxBackground.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ShowHideListItems.js":1,"sites\/all\/themes\/wiz_mtg\/js\/core.js":1,"sites\/all\/themes\/wiz_mtg\/js\/mx.js":1,"\/\/cdn.datatables.net\/1.10.5\/js\/jquery.dataTables.min.js":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/js\/dataTables.responsive.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.scrollbar.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/chartbeat\/chartbeat.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/wiz_npsu\/css\/npsu.css":1,"sites\/all\/modules\/custom\/wiz_npsu_mtg\/css\/npsu_mtg.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery-ui-mod.css":1,"sites\/all\/themes\/wiz_mtg\/css\/owl.carousel.css":1,"sites\/all\/themes\/wiz_mtg\/css\/scrollbars.css":1,"sites\/all\/themes\/wiz_mtg\/css\/fonts.css":1,"sites\/all\/themes\/wiz_mtg\/css\/core.css":1,"sites\/all\/themes\/wiz_mtg\/css\/header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/footer.css":1,"sites\/all\/themes\/wiz_mtg\/css\/page-header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/medias.css":1,"sites\/all\/themes\/wiz_mtg\/css\/search.css":1,"sites\/all\/themes\/wiz_mtg\/css\/decklist.css":1,"sites\/all\/themes\/wiz_mtg\/css\/articles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/game-info.css":1,"sites\/all\/themes\/wiz_mtg\/css\/events.css":1,"sites\/all\/themes\/wiz_mtg\/css\/community.css":1,"sites\/all\/themes\/wiz_mtg\/css\/mx.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/immersive.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/interstitials.css":1,"sites\/all\/themes\/wiz_mtg\/css\/styles-extended.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacy.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacyStyles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/_theme-override.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic":1,"\/\/cdn.datatables.net\/1.10.5\/css\/jquery.dataTables.css":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/css\/dataTables.responsive.css":1}},"chartbeat":{"uid":51341,"domain":"http:\/\/magiccv2stg.prod.acquia-sites.com\/","useCanonical":true,"noCookies":false},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":330,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"wiz_core":{"wiz_core_switch_in_days":14,"wiz_core_switch_in_visits":10,"wiz_core_switch_b_path":"home"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"npsu_widget":{"enabled":true,"logged_in":"false"},"urlIsAjaxTrusted":{"\/en\/events\/coverage\/gpcha15\/round-13-results-2015-06-14":true}});
+//--><!]]>
+</script>
+
+  
+        <style>
+      @media all {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png) no-repeat;
+          background-size: 100% 100px;
+
+        }
+        #mobile-menu .header .logo a {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 100%;
+        }
+        #page.snap-menu header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+      @media (max-width: 1200px) {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+    </style>
+  	
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-402671 node-type-article i18n-en content-non-panels role-anonymous-user with-subnav page-events-coverage-gpcha15-round-13-results-2015-06-14 section-events" >
+  <script>
+  /* Interstitials variables */
+  var Interstitials = {
+    list: [
+                        ]
+  };
+  </script>
+
+  <div id="page" class="section_articles article_detail">
+    
+        <div id="mobile-menu">
+  <div class="header">
+    <div class="logo"></div>
+    <div class="toggle-menu-button"></div>
+  </div>
+  <nav>
+    <div class="menu-wrapper" data-back-label="Back"></div>
+  </nav>
+</div>
+
+<div id="viewport">
+  <!-- Header -->
+  <header>
+    <div class="wrapper">
+      <div id="utils">
+        <a href="http://locator.wizards.com/" class="locator">Locator</a> <a href="http://gatherer.wizards.com" class="gatherer">Card Database</a>        <a href="/en" title="Sign In" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;SignIn&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showLoginModal();" id="SignInButton" class="login">Sign In</a> | <a href="/en" title="Sign Up" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Signup&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showJoinModal();" id="RegisterButton" class="register">Sign Up</a>        <div id="search-form">
+          <form action="/en/events/coverage/gpcha15/round-13-results-2015-06-14" method="post" id="wiz-search-bar-form--2" accept-charset="UTF-8"><div><input type="hidden" name="search-site" value="acquia_search" />
+<div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Search Anything" type="text" id="edit-search-string--3" name="search-string" value="" size="25" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-search-button--3" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-K6cCBhQVZ_yKAy4SOfGDkVm3K_LG6eqRMkbtTqAMWi8" />
+<input type="hidden" name="form_id" value="wiz_search_bar_form" />
+</div></form>        </div>
+      </div>
+
+      <!-- Menu -->
+      <nav id="menu">
+        <a class="home" href="/en"><span>Magic the Gathering</span></a>
+
+        <div class="menu-wrapper">
+          <ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#signinbutton').attr('onclick',-'return-wotcaccountwidget.showloginmodal();');</script> has-children"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#SignInButton').attr('onclick', 'return wotcAccountWidget.showLoginModal();');</script></span></a><ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#registerbutton').attr('onclick',-'return-wotcaccountwidget.showjoinmodal();');</script>"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#RegisterButton').attr('onclick', 'return wotcAccountWidget.showJoinModal();');</script></span></a></li>
+<li class="mn_section_strategy"><a href="/en/content/strategy"><span>Strategy</span></a></li>
+<li class="mn_section_lore"><a href="/en/content/new-to-magic/lore"><span>Lore</span></a></li>
+<li class="mn_section_community"><a href="/en/content/new-to-magic/community"><span>Community</span></a></li>
+</ul></li>
+<li class="mn_section_game-info has-children"><a href="/en/game-information"><span>GAME INFO</span></a><ul class="menu"><li class="hub-link GAME INFO"><a href="/en/game-information"><span>GAME INFO</span></a></li>
+<li class="mn_section_gameplay has-children"><a class="nolink"><span>GAMEPLAY</span></a><ul class="menu"><li class="mn_section_about-the-game"><a href="/en/game-info/gameplay/about-the-game"><span>ABOUT THE GAME</span></a></li>
+<li class="mn_section_how-to-play"><a href="/en/game-info/gameplay/how-to-play"><span>HOW TO PLAY</span></a></li>
+<li class="mn_section_how-to-build-a-deck"><a href="/en/game-info/gameplay/how-to-build-a-deck"><span>HOW TO BUILD A DECK</span></a></li>
+<li class="mn_section_improve-your-game"><a href="/en/game-info/gameplay/improve-your-game"><span>IMPROVE YOUR GAME</span></a></li>
+<li class="mn_section_rules-&-formats"><a href="/en/game-info/gameplay/rules-and-formats"><span>RULES & FORMATS</span></a></li>
+</ul></li>
+<li class="mn_section_products has-children"><a class="nolink"><span>PRODUCTS</span></a><ul class="menu"><li class="mn_section_featured-<br>releases"><a href="/en/game-info/products/featured-releases"><span>FEATURED <BR>RELEASES</span></a></li>
+<li class="mn_section_coming-soon"><a href="/en/game-info/products/coming-soon"><span>COMING SOON</span></a></li>
+<li class="mn_section_magic-duels"><a href="/en/content/magic-duels"><span>MAGIC DUELS</span></a></li>
+<li class="mn_section_magic-online"><a href="/en/content/magic-online-products-game-info"><span>MAGIC ONLINE</span></a></li>
+<li class="mn_section_card-set-archive"><a href="/en/game-info/products/card-set-archive"><span>CARD SET ARCHIVE</span></a></li>
+</ul></li>
+<li class="mn_section_story has-children"><a class="nolink"><span>STORY</span></a><ul class="menu"><li class="mn_section_magic's-story"><a href="/en/game-info/story/magic-story"><span>MAGIC'S STORY</span></a></li>
+<li class="mn_section_planeswalkers"><a href="/en/game-info/story/planeswalkers"><span>PLANESWALKERS</span></a></li>
+<li class="mn_section_planes"><a href="/en/game-info/story/planes"><span>PLANES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_events has-children current"><a href="/en/events" class="active-trail"><span>EVENTS</span></a><ul class="menu"><li class="hub-link EVENTS"><a href="/en/events"><span>EVENTS</span></a></li>
+<li class="mn_section_events-home"><a href="/en/events"><span>EVENTS HOME</span></a></li>
+<li class="mn_section_what-is-<br>organized-play"><a href="/en/events/what-is-organized-play"><span>WHAT IS <br>ORGANIZED PLAY?</span></a></li>
+<li class="mn_section_event<br>-types"><a href="/en/events/event-types"><span>EVENT<br> TYPES</span></a></li>
+<li class="mn_section_coverage has-children current"><a class="active-trail nolink"><span>COVERAGE</span></a><ul class="menu"><li class="mn_section_coverage-archive current"><a href="/en/events/coverage" class="active-trail"><span>COVERAGE ARCHIVE</span></a></li>
+<li class="mn_section_top-players"><a href="/en/events/coverage/top-players"><span>TOP PLAYERS</span></a></li>
+</ul></li>
+<li class="mn_section_schedules"><a href="/en/content/premier-events-schedule#/overview"><span>SCHEDULES</span></a></li>
+<li class="mn_section_resources has-children"><a class="nolink"><span>RESOURCES</span></a><ul class="menu"><li class="mn_section_planeswalker-points"><a href="/en/events/resources/planeswalker-points"><span>PLANESWALKER POINTS</span></a></li>
+<li class="mn_section_judges"><a href="/en/events/resources/judges"><span>JUDGES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_articles has-children"><a href="/en/content/articles"><span>ARTICLES</span></a><ul class="menu"><li class="hub-link ARTICLES"><a href="/en/content/articles"><span>ARTICLES</span></a></li>
+<li class="mn_section_articles-home"><a href="/en/content/articles"><span>ARTICLES HOME</span></a></li>
+<li class="mn_section_columns has-children"><a id="columns" class="nolink"><span>COLUMNS</span></a><ul class="menu"><li class="mn_section_columnists"><a href="/en/articles/columns/columnists"><span>COLUMNISTS</span></a></li>
+<li class="mn_section_making-magic"><a href="/en/articles/columns/making-magic-archive"><span>MAKING MAGIC</span></a></li>
+<li class="mn_section_magic-story"><a href="/en/articles/columns/magic-story-archive"><span>MAGIC STORY</span></a></li>
+<li class="mn_section_top-decks"><a href="/en/articles/columns/top-decks-archive"><span>TOP DECKS</span></a></li>
+<li class="mn_section_organized-<br>play"><a href="/en/articles/columns/organized-play-archive" title="Organized Play"><span>ORGANIZED <br>PLAY</span></a></li>
+<li class="mn_section_latest-<br>developments"><a href="/en/articles/columns/latest-developments-archive"><span>LATEST <br>DEVELOPMENTS</span></a></li>
+</ul></li>
+<li class="mn_section_archives"><a href="/en/articles/archive"><span>ARCHIVES</span></a></li>
+<li class="mn_section_winning-decks"><a href="/en/articles/winning-decks"><span>WINNING DECKS</span></a></li>
+<li class="mn_section_media has-children"><a class="nolink"><span>MEDIA</span></a><ul class="menu"><li class="mn_section_videos"><a href="/en/articles/media/videos"><span>VIDEOS</span></a></li>
+<li class="mn_section_podcasts"><a href="/en/articles/media/podcasts"><span>PODCASTS</span></a></li>
+<li class="mn_section_wallpapers"><a href="/en/articles/media/wallpapers"><span>WALLPAPERS</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_community has-children"><a href="/en/community"><span>COMMUNITY</span></a><ul class="menu"><li class="hub-link COMMUNITY"><a href="/en/community"><span>COMMUNITY</span></a></li>
+<li class="mn_section_community-home"><a href="/en/community"><span>COMMUNITY HOME</span></a></li>
+<li class="mn_section_fan-kits"><a href="/en/community/fan-kits"><span>FAN KITS</span></a></li>
+</ul></li>
+<li class="mn_section_my-accounts"><a href="/en/content/my-accounts"><span>MY ACCOUNTS</span></a></li>
+</ul>        </div>
+      </nav>
+    </div>
+  </header>
+
+  
+  <div id="content-wrapper">
+      <div class="region region-content">
+    
+<div id="block-system-main" class=" block block-system block-odd first last main clearfix">
+  <div class="block-inner">
+                <div class="content" >
+      <div id="content" class="page-width">
+
+  <div id="main-content">
+    <div id="breadcrumb">
+              <span ><a href="/en/events">EVENTS</a></span>
+              <span ><a href="/en/events/coverage">COVERAGE ARCHIVE</a></span>
+              <span ><a href="/en/events/coverage/gpcha15">GRAND PRIX CHARLOTTE 2015</a></span>
+              <span class="current"><strong class="breadcrumb-no-link">Event Coverage</strong></span>
+          </div>
+    <h1>ROUND 13 RESULTS</h1>
+    <p class="posted-in">
+      Posted in      <strong class="breadcrumb-no-link">Event Coverage</strong>
+      on June 15, 2015    </p>
+
+    <!-- BEGIN :: ARTICLE -->
+    <article>
+      <div class="article-header">
+
+                  <div class="author">
+            <img src="http://magic.wizards.com/sites/mtg/files/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg?itok=KENOTqfD" alt="" />
+            <p>By Wizards of the Coast</p>
+            <p class="links">
+                                            <span><a href="/en/articles/archive/184956" onClick="_gaq.push(['_trackEvent', 'Article', 'Author', 'Wizards of the Coast-Archive']);">Archive</a></span>
+                                        </p>
+            <div id="author-biography">
+                          </div>
+          </div>
+        
+        <div class="sharing">
+          <div class="social-share">
+            <a class="facebook" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpcha15/round-13-results-2015-06-14"><span class="share-count">0</span><span>&nbsp;Shares</span></a>
+            <a class="twitter" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpcha15/round-13-results-2015-06-14"><span class="share-count">0</span><span>&nbsp;Tweets</span></a>
+            <a class="google" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpcha15/round-13-results-2015-06-14"><span class="share-count">0</span><span>&nbsp;+</span></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div id="content-detail-page-of-an-article">
+        <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><sortrow></sortrow><table class="sortable-table" shade="1" shadecolor="#ffffcc" w="500"><tbody><tr><td><b>Table</b></td>
+			<td><b>Player</b></td>
+			<td><b>Result</b></td>
+			<td></td>
+			<td><b>Opponent</b></td>
+		</tr><tr><td>613</td>
+			<td>Malone, Michael R</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ingram, Michael P</td>
+		</tr><tr><td>614</td>
+			<td>Elderfield, Darien C</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Van Sciver, Ken</td>
+		</tr><tr><td>615</td>
+			<td>Pardee, Samuel</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Spencer, Jeremy B</td>
+		</tr><tr><td>616</td>
+			<td>Bosley, Ian</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>(13) Nelson, Brad J</td>
+		</tr><tr><td>617</td>
+			<td>Robinson, Bradley</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Parente, Justin M</td>
+		</tr><tr><td>618</td>
+			<td>Huttman, Mike</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Jesse, Zach</td>
+		</tr><tr><td>619</td>
+			<td>Umberson, John D</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Crane, Paul A</td>
+		</tr><tr><td>620</td>
+			<td>Johnson, Courtney</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Murphy, Max</td>
+		</tr><tr><td>621</td>
+			<td>(21) Hayne, Alexander</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ward, Daniel R</td>
+		</tr><tr><td>622</td>
+			<td>Mascioli, Chris M</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Michaels, Lucas</td>
+		</tr><tr><td>623</td>
+			<td>Wagoner, Andrew</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Leutz, Joshua</td>
+		</tr><tr><td>624</td>
+			<td>Rolfes, Lyle</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Rubin, Steve</td>
+		</tr><tr><td>625</td>
+			<td>Daniel, David C</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Boswell, Andrew</td>
+		</tr><tr><td>626</td>
+			<td>Carter, Dalton</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>See, Wesley</td>
+		</tr><tr><td>627</td>
+			<td>Taylor, Joshua D</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sotter, Paul H</td>
+		</tr><tr><td>628</td>
+			<td>Sperling, Matthew</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Farnung, Ian</td>
+		</tr><tr><td>629</td>
+			<td>Battisti, Andrew</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Meikle, Jeremy T</td>
+		</tr><tr><td>630</td>
+			<td>Winokur, Ben I</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>(9) Rietzl, Paul R</td>
+		</tr><tr><td>631</td>
+			<td>Perlee, Travis</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Curran, Riley T</td>
+		</tr><tr><td>632</td>
+			<td>Darley, Garrett W</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>(16) Jensen, William</td>
+		</tr><tr><td>633</td>
+			<td>Burns, Dick H</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>(14) Utter-Leyton, Josh W</td>
+		</tr><tr><td>634</td>
+			<td>Zyla, Sarah</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Smith, Donald W</td>
+		</tr><tr><td>635</td>
+			<td>Blanchard, Mac W</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Rospierski, Donny E</td>
+		</tr><tr><td>636</td>
+			<td>Collins, Jason</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wienburg, Ben</td>
+		</tr><tr><td>637</td>
+			<td>Turner, Tim</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Chapin, Patrick A</td>
+		</tr><tr><td>638</td>
+			<td>Dickmann, Patrick</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Severson, Eric</td>
+		</tr><tr><td>639</td>
+			<td>Moffitt, James</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Price, Jesse A</td>
+		</tr><tr><td>640</td>
+			<td>Kail, Alex</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fournier, Daniel</td>
+		</tr><tr><td>641</td>
+			<td>Ketter, Kent A</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Koeppel, Aeron H</td>
+		</tr><tr><td>642</td>
+			<td>Rittiner, Joe</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Wright, Scotty</td>
+		</tr><tr><td>643</td>
+			<td>Perez, Ruben</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Huang, Hao-Shan</td>
+		</tr><tr><td>644</td>
+			<td>(5) Turtenwald, Owen R</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Garnier, Spencer C</td>
+		</tr><tr><td>645</td>
+			<td>Cho, Joshua J</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lorren, Phillip D</td>
+		</tr><tr><td>646</td>
+			<td>Genzman, Tom M</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Klusa, Mark A</td>
+		</tr><tr><td>647</td>
+			<td>Elsik, Zac</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tobaben, Alex</td>
+		</tr><tr><td>648</td>
+			<td>Jeyakaran, Zach</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Roman, Filip</td>
+		</tr><tr><td>649</td>
+			<td>League, Charles T</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Throop, Adrian</td>
+		</tr><tr><td>650</td>
+			<td>Wildes, Julian R</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Betesh, Ralph D</td>
+		</tr><tr><td>651</td>
+			<td>Lin, David</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rong, Kei</td>
+		</tr><tr><td>652</td>
+			<td>Cothrine, Matthew A</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Brown, Eric M</td>
+		</tr><tr><td>653</td>
+			<td>Gibbs, James</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Konishi, Keahi S</td>
+		</tr><tr><td>654</td>
+			<td>Black, Samir</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Woolwine, Michael W</td>
+		</tr><tr><td>655</td>
+			<td>Parker, James R</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>(24) Calcano, Christian</td>
+		</tr><tr><td>656</td>
+			<td>Barich, Aaron R</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Vaughan, Robert</td>
+		</tr><tr><td>657</td>
+			<td>Guy, Stacy A</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Vanmeter, Chris E</td>
+		</tr><tr><td>658</td>
+			<td>Walter, Royce</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Flury, Julian F</td>
+		</tr><tr><td>659</td>
+			<td>Lates, Christopher J</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bailes, William B</td>
+		</tr><tr><td>660</td>
+			<td>Kunin, Alex B</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Long, David</td>
+		</tr><tr><td>661</td>
+			<td>Longlais, Lucien R</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Roberts, Alexander J</td>
+		</tr><tr><td>662</td>
+			<td>Mayer, Krieg R</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Henry, Jeremy</td>
+		</tr><tr><td>663</td>
+			<td>Grissom, Koelten M</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Desautels, Carlin</td>
+		</tr><tr><td>664</td>
+			<td>Le-Dang, Tan</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nam, Sung Wook</td>
+		</tr><tr><td>665</td>
+			<td>Bowles, Richard</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Becker, Eric C</td>
+		</tr><tr><td>666</td>
+			<td>Conley, Kieran X</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Moskal, Greg</td>
+		</tr><tr><td>667</td>
+			<td>Saito, Tomoharu</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gwirtsman, Benjamin E</td>
+		</tr><tr><td>668</td>
+			<td>Fitzgerald, Brian J</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Martell, Tom</td>
+		</tr><tr><td>669</td>
+			<td>Freemon, Wallace G</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Smith, Jason A</td>
+		</tr><tr><td>670</td>
+			<td>Sakakini, Thomas J</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Williams, Rich L</td>
+		</tr><tr><td>671</td>
+			<td>Tibbitts, Nick A</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hatch, Ben D</td>
+		</tr><tr><td>672</td>
+			<td>Crowley, Nicholas W</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mcclain, Josh</td>
+		</tr><tr><td>673</td>
+			<td>Carvalho, Pedro</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Huang, Sheng</td>
+		</tr><tr><td>674</td>
+			<td>(8) Manfield, Seth</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Petre, Evan</td>
+		</tr><tr><td>675</td>
+			<td>Cuvelier, John P</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hirliman, Nicholas</td>
+		</tr><tr><td>676</td>
+			<td>Schrantz, Mac S</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Maciag, Daniel J</td>
+		</tr><tr><td>677</td>
+			<td>Palevac, Robert</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kenney, Michael</td>
+		</tr><tr><td>678</td>
+			<td>Edel, Willy</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Shaffer, Matthew</td>
+		</tr><tr><td>679</td>
+			<td>Johnson, Adam S</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ulanov, Denis</td>
+		</tr><tr><td>680</td>
+			<td>Ozmun, Dalton</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Blanchet, Eric</td>
+		</tr><tr><td>681</td>
+			<td>Shepard, Jacob L</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Meyer, Benjamin</td>
+		</tr><tr><td>682</td>
+			<td>Coon, Robert L</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Savage, Sam J</td>
+		</tr><tr><td>683</td>
+			<td>Kegley, Benjamin</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Williams, Robert</td>
+		</tr><tr><td>684</td>
+			<td>Harris, Edwin A</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tobin, Conor J</td>
+		</tr><tr><td>685</td>
+			<td>Smith 5592, Nathaniel A</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Louie, Justin</td>
+		</tr><tr><td>686</td>
+			<td>Cheseldine, Robert</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Holmes, Evan</td>
+		</tr><tr><td>687</td>
+			<td>Dilks, Matthew</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Johnson, Peter J</td>
+		</tr><tr><td>688</td>
+			<td>Sigrist, Mike</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Song, Jungin</td>
+		</tr><tr><td>689</td>
+			<td>Duan, Jiana</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Johnson, Erik</td>
+		</tr><tr><td>690</td>
+			<td>Koerschner, Nathan A</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Demars, Brian M</td>
+		</tr><tr><td>691</td>
+			<td>Severa, Matt</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cohen, Justin D</td>
+		</tr><tr><td>692</td>
+			<td>Friedman, Ben S</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Butler, Jessie A</td>
+		</tr><tr><td>693</td>
+			<td>French-Dubois, Seth</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Forst, Mitchell G</td>
+		</tr><tr><td>694</td>
+			<td>Bohn, Matt D</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Berry, Maxwell J</td>
+		</tr><tr><td>695</td>
+			<td>Fleming, Joshua S</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Mccoury, James M</td>
+		</tr><tr><td>696</td>
+			<td>Strauss, Thilo</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rusch, Robert</td>
+		</tr><tr><td>697</td>
+			<td>Tenjum, Andrew</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mize, Logan G</td>
+		</tr><tr><td>698</td>
+			<td>Funk, Jaelin</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Legrand, Brian M</td>
+		</tr><tr><td>699</td>
+			<td>Rowe, Taylor</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Smith, Benjamin P</td>
+		</tr><tr><td>700</td>
+			<td>Clutter, Matt</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Orange, Gregory S</td>
+		</tr><tr><td>701</td>
+			<td>Damo Da Rosa, Paulo Vitor</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hartbarger, Lance O</td>
+		</tr><tr><td>702</td>
+			<td>Malone, Andrew J</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cheatham, Adam T</td>
+		</tr><tr><td>703</td>
+			<td>Kwan, Michael</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Fogle, Jack</td>
+		</tr><tr><td>704</td>
+			<td>Trillow, Weslee S</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Roberts, Josh</td>
+		</tr><tr><td>705</td>
+			<td>Holmes, Trevor</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Jansen, Adam</td>
+		</tr><tr><td>706</td>
+			<td>Morgan, Sean</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tsao, Jeffrey</td>
+		</tr><tr><td>707</td>
+			<td>Hill, Phillip T</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Paskuly, Mark</td>
+		</tr><tr><td>708</td>
+			<td>Castellanos, Xavier A</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Feng, Michael</td>
+		</tr><tr><td>709</td>
+			<td>Rosenfeld, Ian N</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Margolis, Max</td>
+		</tr><tr><td>710</td>
+			<td>Boisvert, Jordan</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tiu, Timothy C</td>
+		</tr><tr><td>711</td>
+			<td>Heath, Jeffrey W</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Janus, Chris</td>
+		</tr><tr><td>712</td>
+			<td>Steady, Anthony F</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tanner, Branden S</td>
+		</tr><tr><td>713</td>
+			<td>Caliguiri, Frank J</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Horner, Justin M</td>
+		</tr><tr><td>714</td>
+			<td>Rhom, Casey J</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sirkis, Jeff</td>
+		</tr><tr><td>715</td>
+			<td>Johnson, Nicholas D</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Crowley, Jesse</td>
+		</tr><tr><td>716</td>
+			<td>Nightingale, Tyler A</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Boozer, Chris</td>
+		</tr><tr><td>717</td>
+			<td>Fitzgerald, Marcus C</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cornwell, Kyle</td>
+		</tr><tr><td>718</td>
+			<td>Shaffer, Jonathan</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sadowsky, Joel A</td>
+		</tr><tr><td>719</td>
+			<td>Allen, Jake M</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Droggitis, Dustin</td>
+		</tr><tr><td>720</td>
+			<td>Warren, Joshua</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Dreher, Gregory A</td>
+		</tr><tr><td>721</td>
+			<td>Stark, Benjamin</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Goanos, Jonathan D</td>
+		</tr><tr><td>722</td>
+			<td>Mullin, Geoffrey</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Briksza, Rudy</td>
+		</tr><tr><td>723</td>
+			<td>Dollaway, Brandon M</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mironovich, Andrew</td>
+		</tr><tr><td>724</td>
+			<td>Whitley, Ryder D</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gniadek, John P</td>
+		</tr><tr><td>725</td>
+			<td>Hinckley, Scott A</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mendolia, Joseph</td>
+		</tr><tr><td>726</td>
+			<td>Kilgore, Jared S</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Scott-Vargas, Luis</td>
+		</tr><tr><td>727</td>
+			<td>Turben, Eric M</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gostek, Ryan S</td>
+		</tr><tr><td>728</td>
+			<td>Williams, Grey A</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Piotrowiak, Matthew R</td>
+		</tr><tr><td>729</td>
+			<td>Krause, Joseph M</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cholewa, Marius</td>
+		</tr><tr><td>730</td>
+			<td>Keil, Evan</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Engrav, Miles E</td>
+		</tr><tr><td>731</td>
+			<td>Aminto, Marco A</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Spurlock, Brian G</td>
+		</tr><tr><td>732</td>
+			<td>Sardanelli, Thomas J</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lisac, Chris</td>
+		</tr><tr><td>733</td>
+			<td>Diprinzio, Nicholas</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Carino, Joseph</td>
+		</tr><tr><td>734</td>
+			<td>Davidson, John H</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Arp, Jason</td>
+		</tr><tr><td>735</td>
+			<td>Anderson, Travis E</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gaumond, Daniel A</td>
+		</tr><tr><td>736</td>
+			<td>Reznikov, Eugene</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Collins, Justin</td>
+		</tr><tr><td>737</td>
+			<td>Kucera, Christopher</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Meshew, Jed K</td>
+		</tr><tr><td>738</td>
+			<td>Daniels, Brendan</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>(12) Shenhar, Shahar</td>
+		</tr><tr><td>739</td>
+			<td>Dragone, Matt D</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Delaney, Connor F</td>
+		</tr><tr><td>740</td>
+			<td>Szablak, Jeff</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Herrera, Joseph</td>
+		</tr><tr><td>741</td>
+			<td>Parks, James</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Janssen, John</td>
+		</tr><tr><td>742</td>
+			<td>Thornton, Dustin</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lambaz, Khair Z</td>
+		</tr><tr><td>743</td>
+			<td>Pogarcic, Damir</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Benton, William D</td>
+		</tr><tr><td>744</td>
+			<td>Matthews, Steven W</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Deylius, Matt</td>
+		</tr><tr><td>745</td>
+			<td>Wyatt, Colin J</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Majors, Michael J</td>
+		</tr><tr><td>746</td>
+			<td>Eaton, Cameron</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Thompson, Bradley J</td>
+		</tr><tr><td>747</td>
+			<td>Flinn, Ian</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Repta, Joel L</td>
+		</tr><tr><td>748</td>
+			<td>Delaney, Brent</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Dykman, Stephen</td>
+		</tr><tr><td>749</td>
+			<td>Fulk, David C</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Handy, Sean M</td>
+		</tr><tr><td>750</td>
+			<td>Vidugiris, Gaudenis</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Chinlund, Kit C</td>
+		</tr><tr><td>751</td>
+			<td>Maginnis, Peter</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Roper, Derrick S</td>
+		</tr><tr><td>752</td>
+			<td>Spurlock, Brandon</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mcabee, Logan D</td>
+		</tr><tr><td>753</td>
+			<td>Moskal, Erik</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Horn, Andrew</td>
+		</tr><tr><td>754</td>
+			<td>Aucoin, Ryan M</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cloutier, Chuck</td>
+		</tr><tr><td>755</td>
+			<td>Yurchick, Adam M</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Phillips, Bert O</td>
+		</tr><tr><td>756</td>
+			<td>Becker, Jason</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Carrick, Emily S</td>
+		</tr><tr><td>757</td>
+			<td>Manges, James B</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Canfield, Jonathan</td>
+		</tr><tr><td>758</td>
+			<td>Zhang, Tian</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Baxter Iii, Lincoln</td>
+		</tr></tbody></table></body></html>
+      </div>
+
+      <!-- BEGIN :: Article footer -->
+      <div class="article-footer">
+        <p class="posted-in">
+          Posted in          <strong class="breadcrumb-no-link">Event Coverage</strong>
+          on June 15, 2015        </p>
+      </div>
+      <!-- END :: Article footer -->
+
+    </article>
+  </div>
+
+  <!-- BEGIN :: ASIDE -->
+        <aside>
+      <div class="aside-wrapper">
+        
+
+            <h2><span>FEATURED ARTICLES</span></h2>
+      <div class="articles-bloc">
+            <div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/uvddkUU1DO_dmu_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/daily-magic-update/update-2016-08-10" class="cat">DAILY MAGIC UPDATE</a>
+      <p class="date">August 10, 2016</p>
+      <a href="/en/articles/archive/daily-magic-update/update-2016-08-10" class="title">The August 10, 2016 Update</a>
+              <a href="/en/articles/archive/daily-magic-update/update-2016-08-10" class="auth">Blake Rasmussen</a>
+      
+      <div class="infos">
+                  <p>The Daily Magic Update is a roundup of everything you should know for today from throughout the Magic community.
+</p>
+                <p><a href="/en/articles/archive/daily-magic-update/update-2016-08-10" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div><div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/WtP20160809_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/ways-play/kitchen-table-friday-night-magic-2016-08-09" class="cat">WAYS TO PLAY</a>
+      <p class="date">August 9, 2016</p>
+      <a href="/en/articles/archive/ways-play/kitchen-table-friday-night-magic-2016-08-09" class="title">From the Kitchen Table to Friday Night Magic</a>
+              <a href="/en/articles/archive/ways-play/kitchen-table-friday-night-magic-2016-08-09" class="auth">Quinn Murphy</a>
+      
+      <div class="infos">
+                  <p>The kitchen table is great, but where should you look if you want to broaden your Magic community?
+</p>
+                <p><a href="/en/articles/archive/ways-play/kitchen-table-friday-night-magic-2016-08-09" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div><div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/WtP20160809_icon_0.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/ways-play/attending-your-first-grand-prix-2016-08-09" class="cat">WAYS TO PLAY</a>
+      <p class="date">August 9, 2016</p>
+      <a href="/en/articles/archive/ways-play/attending-your-first-grand-prix-2016-08-09" class="title">Attending Your First Grand Prix</a>
+              <a href="/en/articles/archive/ways-play/attending-your-first-grand-prix-2016-08-09" class="auth">Maria Bartholdi</a>
+      
+      <div class="infos">
+                  <p>Thinking of taking the leap and joining your first Grand Prix? Maria thinks you should go for it, and she's here to tell you why.
+</p>
+                <p><a href="/en/articles/archive/ways-play/attending-your-first-grand-prix-2016-08-09" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div>          </div>
+                  
+      <div class="articles-bloc">
+    <div class="article static pub-event "
+         style="background-image: url(http://magic.wizards.com/sites/mtg/files/Ad_FNM_Crumbling-Vestige.jpg)">
+      <div class="wrap details">
+                  <img src="http://magic.wizards.com/sites/mtg/files/Ad_Logo_FNM.png" />
+                <p class="date"></p>
+                  <p class="description">Battle against your friends and you could earn a Promo Crumbling Vestige!</p>
+                          <p>
+            <a class="learn-more " href="http://magic.wizards.com/en/events/event-types/friday-night-magic" data-video-url="">
+              More Info            </a>
+          </p>
+              </div>
+    </div>
+  </div>
+      
+      <h2><span>GAME DAY</span></h2>
+      <div class="articles-bloc">
+    <div class="article static pub-event "
+         style="background-image: url(http://magic.wizards.com/sites/mtg/files/Ad_EMN_Key-Art.jpg)">
+      <div class="wrap details">
+                  <img src="http://magic.wizards.com/sites/mtg/files/Ad_Logo_EMN.png" />
+                <p class="date"></p>
+                  <p class="description">Become the Champion of your favorite game store this weekend at Game Day!</p>
+                          <p>
+            <a class="learn-more " href="http://magic.wizards.com/en/events/event-types/gameday" data-video-url="">
+              More Info            </a>
+          </p>
+              </div>
+    </div>
+  </div>
+                </div>
+    </aside>
+    <!-- END :: ASIDE -->
+
+  
+  <h2><span>Latest Event Coverage Articles</span></h2>
+  <div class="articles-bloc releated">
+
+              <div class="article">
+          <div class="wrap">
+                          <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/essay_hero.jpg);"></div>
+                        <div class="details">
+                              <a href="#" class="cat">PRO TOUR ELDRITCH MOON</a>
+                            <p class="date">August 7, 2016</p>
+              <a href="#" class="title">Pro Tour Eldritch Moon Photo Essay</a>
+                              <a href="#" class="auth">by, Ray “blisterguy” Walkinshaw</a>
+                            <div class="infos">
+                                  <p>There's always so much more to a Pro Tour than you see on the website or social media or the live stream, so we've collected some of Pro Tour Photographer Craig Gibson's more interesting ...</p>
+                                <p><a href="/en/events/coverage/ptemn/pro-tour-eldritch-moon-photo-essay-2016-08-07" class="learn-more">Learn More</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="article">
+          <div class="wrap">
+                          <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/PT_Icon_Top_Moments.jpg);"></div>
+                        <div class="details">
+                              <a href="#" class="cat">PRO TOUR ELDRITCH MOON</a>
+                            <p class="date">August 7, 2016</p>
+              <a href="#" class="title">TOP 5 MOMENTS</a>
+                              <a href="#" class="auth">by, Chapman Sim</a>
+                            <div class="infos">
+                                  <p>Pro Tour Eldritch Moon was unforgettable for numerous reasons, but here are the most rousing memories that we feel should be preserved in the annals of time. Let's take a quick trip down ...</p>
+                                <p><a href="/en/events/coverage/ptemn/top-5-moments-2016-08-07" class="learn-more">Learn More</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+            <div class="article static">
+        <div class="wrap">
+          <div class="visual" style="background-image: url(http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/reconstructedArchive.jpg);"></div>
+          <div class="details">
+            <p class="title"><span>Articles</span></p>
+            <div class="details">
+              <p class="title"><span>Articles</span></p>
+              <p class="sub-title">Event Coverage Archive</p>
+              <div class="infos">
+                <p>Consult the archives for more articles!</p>
+                <p><a href="/en/articles/archive" class="learn-more">See All</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+
+</div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+  </div>
+
+  <!-- Footer -->
+    <footer>
+    <div id="back-to-top">
+      <a href="#viewport">Back to top</a>
+    </div>
+    <div id="where-to-buy">
+      <div class="content page-width">
+        <form action="/en/events/coverage/gpcha15/round-13-results-2015-06-14" method="post" id="wiz-store-and-event-locator-search-form--2" accept-charset="UTF-8"><div><div class="intro"><div class="wrap"><h5>Where to Play and Buy</h5><p>Find a location to buy or play<br />Magic: The Gathering near you.</p></div></div><div class="form"><div class="wrap"><span class="column zip-code"><div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Enter your city or postal code" type="text" id="edit-search-string--4" name="search-string" value="" size="25" maxlength="128" class="form-text" />
+</div>
+</span><span class="column actions"><button class="action-button" type="submit">Find Now !</button></span></div></div><input class="hide form-submit" type="submit" id="edit-search-button--4" name="op" value="Find Now" /><input type="hidden" name="form_build_id" value="form-8lpD8WgxAyevwT9KorUKcnloXT-LuDF9rLNuFvgM3YQ" />
+<input type="hidden" name="form_id" value="wiz_store_and_event_locator_search_form" />
+</div></form>      </div>
+    </div>
+
+    <div class="main-footer">
+      <div class="content page-width">
+        <div class="text">
+                      <div id="locale-select">
+              <label for="locale-select-ddl">Select your language:</label>
+
+              <div class="select-wrapper">
+                <select id="locale-select-ddl">
+                  <option value="/zh-hans" >简体中文</option><option value="/zh-hant" >繁體中文</option><option value="/fr" >Français</option><option value="/de" >Deutsch</option><option value="/it" >Italiano</option><option value="/ja" >日本語</option><option value="/ko" >한국어</option><option value="/pt-br" >Português (Brasil)</option><option value="/ru" >Русский</option><option value="/es" >Español</option><option value="/en" selected>English</option>                </select>
+              </div>
+            </div>
+          
+          
+
+      <p class="brand-family-title">Wizards Brand Family</p>
+    <p class="brand-family-menu"><a href="http://magic.wizards.com" target="_blank">magic</a> <em>|</em> <a href="http://www.wizards.com/dnd" target="_blank">d&amp;d</a> <em>|</em> <a href="http://www.wizards.com/wpn" target="_blank">wpn</a> <em>|</em> <a href="http://dm.takaratomy.co.jp" target="_blank">duel masters</a> <em>|</em> <a href="http://www.wizards.com/default.asp?x=ah/welcome" target="_blank">avalon hill</a></p>
+  <p><a href="http://company.wizards.com/tou" target="_blank">Terms of Use</a> <em>|</em> <a href="http://company.wizards.com/conduct" target="_blank">Code of Conduct</a> <em>|</em> <a href="http://company.wizards.com/policy" target="_blank">Privacy Policy</a> <em>|</em> <a href="http://www.wizards.com/customerservice" target="_blank">Customer Service</a> <em>|</em> <a href="/en/articles/archive/our-cookie-policy-2013-10-28">Cookies</a></p>
+  <p class="copyright">© 1995-2016 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved.</p>
+
+        </div>
+        
+
+      <p class="logo wizard">
+      <a href="http://company.wizards.com"
+         target="_blank"
+         title="Wizards of the Coast"
+        ><img src="/sites/all/themes/wiz_mtg/img/interface/wizard-of-the-coast-logo.png" alt="Wizards of the Coast" /></a>
+    </p>
+  
+      <p class="logo hasbro">
+      <a href="http://www.hasbro.com"
+         target="_blank"
+         title="Hasbro"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/hasbro-logo.svg" alt="Hasbro" /></a>
+    </p>
+  
+      <p class="logo privacy">
+      <a href="http://www.esrb.org/confirm/wizards-confirmation.aspx"
+         target="_blank"
+         title="ESRB Privacy Certified"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/esrb-badge.png" alt="ESRB Privacy Certified" /></a>
+    </p>
+  
+      </div>
+    </div>
+  </footer>
+  </div>
+
+<div id="cookies-warning">
+	<div class="wrap page-width">
+		<div class="text">
+			<p>
+        We use cookies on this site to enhance your user experience. By clicking any link on this page or by clicking <strong>Yes</strong>, you are giving your consent for us to set cookies.        <a href="http://company.wizards.com/policies/web/cookie" target="_blank"> (Learn more about cookies)</a>
+      </p>
+		</div>
+		<p class="actions">
+			<button type="button" class="button agree">Yes, I agree</button>
+			<a href="http://company.wizards.com/policies/web/cookie" target="_blank" class="button disagree">No, I want to find out more</a>
+		</p>
+	</div>
+</div>      <div class="region region-page-bottom">
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>  </div>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_oi0ujkYeWtu_4YlJE5uYvltQ88urtOHuaNRm2scTWco.js"></script>
+  </div>
+
+	<!-- Crazy Egg -->
+	<script type="text/javascript">
+		setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName("script")[0];
+		a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0009/9185.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+	</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d92d812ac7","applicationID":"22111946","transactionName":"YVNXMkcAD0sHAUdcXFgZdAVBCA5WSRJSUlZpW1QIVAYESjkMXFFWaUBcA0I+EVkBBw==","queueTime":0,"applicationTime":999,"atts":"TRRURA8aHEU=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

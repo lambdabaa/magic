@@ -5,7 +5,6 @@ let hashUrl = require('../hashUrl');
 let maybeset = require('../maybeset');
 let stream = require('stream');
 
-let firebaseSecretToken = 'tTxh4X9b1gGIySp4XvSFvuTcf50Pt0XnSxoCYN49';
 let ref = new Firebase('https://mtgstats.firebaseio.com/events');
 
 class SaveEventToFirebase extends stream.Transform {
@@ -14,7 +13,6 @@ class SaveEventToFirebase extends stream.Transform {
     this._count = 0;
     this._oldest = null;
     this._newest = null;
-    this._auth = this._authenticate();
   }
 
   async _transform(event, encoding, callback) {
@@ -29,8 +27,6 @@ class SaveEventToFirebase extends stream.Transform {
   }
 
   async _saveEvent(event) {
-    // Err...
-    //await this._auth;
     this._updateStats(event);
 
     if (!event || typeof event.link !== 'string' || !event.link.length) {
@@ -41,10 +37,6 @@ class SaveEventToFirebase extends stream.Transform {
     let key = hashUrl(event.link);
     let child = ref.child(key);
     await maybeset(child, event);
-  }
-
-  _authenticate() {
-    return ref.authWithCustomToken(firebaseSecretToken);
   }
 
   _updateStats(event) {

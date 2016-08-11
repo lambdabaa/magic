@@ -3,7 +3,6 @@ let map = require('lodash/collection/map');
 let normalize = require('../normalize');
 let stream = require('stream');
 
-let firebaseSecretToken = 'tTxh4X9b1gGIySp4XvSFvuTcf50Pt0XnSxoCYN49';
 let ref = new Firebase('https://mtgstats.firebaseio.com/groups');
 
 let colors = [
@@ -119,7 +118,7 @@ function expandClans(obj) {
   }));
 }
 
-class DeckMerger extends stream.Writable {
+class DeckMerger extends stream.Transform {
   constructor() {
     super({objectMode: true});
     this._bad = 0;
@@ -130,7 +129,7 @@ class DeckMerger extends stream.Writable {
     };
   }
 
-  async _write(event, encoding, callback) {
+  async _transform(event, encoding, callback) {
     await Promise.all(
       event.decklists.map((deck, index) => {
         if (deck.name == null || !deck.name.length) {
@@ -155,6 +154,8 @@ class DeckMerger extends stream.Writable {
           format
         );
 
+        deck.normalized = normalized;
+
         if (!this._decks[format][normalized]) {
           this._decks[format][normalized] = [];
         }
@@ -174,7 +175,7 @@ class DeckMerger extends stream.Writable {
       })
     );
 
-    callback();
+    callback(null, event);
   }
 }
 

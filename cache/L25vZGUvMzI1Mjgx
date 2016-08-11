@@ -1,0 +1,2455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+  <title>ROUND 9 RESULTS | MAGIC: THE GATHERING</title>
+
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"/>
+  <meta name="format-detection" content="telephone=no"/>
+	<meta name="google-site-verification" content="WquIfqfWtlm2X62GTeJ-5vDtRrbOVOIT6mFc3vAP5BQ" />
+
+  <link rel="icon" type="image/png" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/sites/all/themes/wiz_mtg/icons/favicon.ico"/>
+  <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/wiz_mtg/icons/touch-icon-57.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/wiz_mtg/icons/touch-icon-72.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/wiz_mtg/touch-icon-114.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://magic.wizards.com/sites/all/themes/wiz_mtg/favicon.ico" type="image/vnd.microsoft.icon" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="description" content="Complete coverage of Grand Prix Manila&amp;#13; &amp;#13;" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://magic.wizards.com/en/events/coverage/gpman15/round-9-results-2015-01-03" />
+<link rel="shortlink" href="http://magic.wizards.com/en/node/325281" />
+<meta property="og:site_name" content="MAGIC: THE GATHERING" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://magic.wizards.com/en/events/coverage/gpman15/round-9-results-2015-01-03" />
+<meta property="og:title" content="ROUND 9 RESULTS" />
+<meta property="og:description" content="Complete coverage of Grand Prix Manila&amp;#13; &amp;#13;" />
+<meta property="og:image" content="http://magic.wizards.com/sites/mtg/files/images/hero/DailyMTG_Generic_Icon.jpg" />
+  <link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_DHcXHPYBSjIVaCQZEG4ZlpLkvslnFlBCnQUCzlbRBio.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_jqLG8JVbJuXMDDISe4UsZMUj_1qh-z0BGGAnA4OQvrA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_IIxgQdBS3hICu6Ps9jWiboRWYhCChZSb8zy58PRgH-8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_sELblXm0HE9iYxNNwDufKAxxNQ7ZkF6_ABbBSpg1HBE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/1.10.5/css/jquery.dataTables.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/responsive/1.0.4/css/dataTables.responsive.css" media="all" />
+  <script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_melyhmK_eh6sYXp2z9ljBIs419nCvgG6X4XWQKGJjng.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_yRh3TUp_QoC2vC9PitxLvVXRHsQUtJt-ObNFP_v6h-k.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_1swqkjOwmrPjTNzECJhtuekK-QJ_S5vc3xlUxa4gvEI.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_V7ygvngkUS6TCF6pK434j1Pj29d0hmeDnqUTPlcHIsw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-15020098-13", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "pathToTheme": "sites/all/themes/wiz_mtg" });
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://accounts.wizards.com/Widget/Widget.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_tuIsI7hTJyYf1XxjjnXVjPFwG177VUndBDGTmD13oH0.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_JIa4YdILIwnQQfsYZSjX1gz9IUt6emOIXEvyA44TWDI.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/responsive/1.0.4/js/dataTables.responsive.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"wiz_mtg","theme_token":"soymB7LMXtFv1Bv5vmtXytrMvNU-HkqS4-0CrBMgtfw","jquery_version":"1.8","js":{"sites\/all\/themes\/wiz_mtg\/js\/ShareButton.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/masonry.pkgd.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/wiz_autocard.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/d3.v3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.charts.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/wiz_decklist_filter\/js\/wiz_decklist_filter.js":1,"sites\/all\/modules\/custom\/wiz_show_period\/js\/moment.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper-2.1.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper.scrollbar-2.1.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/custom.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/deletecookies.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"https:\/\/accounts.wizards.com\/Widget\/Widget.js":1,"sites\/all\/modules\/custom\/wiz_npsu\/js\/npsu_widget.js":1,"sites\/all\/themes\/wiz_mtg\/js\/image-comparison-slider.js":1,"sites\/all\/libraries\/foresee\/foresee-trigger.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery-ui.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/content-gallery-grid\/modernizr.custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.fancybox.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.scrollbar.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.mmenu.oncanvas.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.columnlist.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/dropdown.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/owl.carousel.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/stacktable.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/arketype.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-homepage-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-event-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/interstitials.js":1,"sites\/all\/themes\/wiz_mtg\/js\/community.js":1,"sites\/all\/themes\/wiz_mtg\/js\/inline-features.js":1,"sites\/all\/themes\/wiz_mtg\/js\/MainMenu.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ParallaxBackground.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ShowHideListItems.js":1,"sites\/all\/themes\/wiz_mtg\/js\/core.js":1,"sites\/all\/themes\/wiz_mtg\/js\/mx.js":1,"\/\/cdn.datatables.net\/1.10.5\/js\/jquery.dataTables.min.js":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/js\/dataTables.responsive.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.scrollbar.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/chartbeat\/chartbeat.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/wiz_npsu\/css\/npsu.css":1,"sites\/all\/modules\/custom\/wiz_npsu_mtg\/css\/npsu_mtg.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery-ui-mod.css":1,"sites\/all\/themes\/wiz_mtg\/css\/owl.carousel.css":1,"sites\/all\/themes\/wiz_mtg\/css\/scrollbars.css":1,"sites\/all\/themes\/wiz_mtg\/css\/fonts.css":1,"sites\/all\/themes\/wiz_mtg\/css\/core.css":1,"sites\/all\/themes\/wiz_mtg\/css\/header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/footer.css":1,"sites\/all\/themes\/wiz_mtg\/css\/page-header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/medias.css":1,"sites\/all\/themes\/wiz_mtg\/css\/search.css":1,"sites\/all\/themes\/wiz_mtg\/css\/decklist.css":1,"sites\/all\/themes\/wiz_mtg\/css\/articles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/game-info.css":1,"sites\/all\/themes\/wiz_mtg\/css\/events.css":1,"sites\/all\/themes\/wiz_mtg\/css\/community.css":1,"sites\/all\/themes\/wiz_mtg\/css\/mx.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/immersive.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/interstitials.css":1,"sites\/all\/themes\/wiz_mtg\/css\/styles-extended.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacy.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacyStyles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/_theme-override.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic":1,"\/\/cdn.datatables.net\/1.10.5\/css\/jquery.dataTables.css":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/css\/dataTables.responsive.css":1}},"chartbeat":{"uid":51341,"domain":"http:\/\/magiccv2stg.prod.acquia-sites.com\/","useCanonical":true,"noCookies":false},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":330,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"wiz_core":{"wiz_core_switch_in_days":14,"wiz_core_switch_in_visits":10,"wiz_core_switch_b_path":"home"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"npsu_widget":{"enabled":true,"logged_in":"false"},"urlIsAjaxTrusted":{"\/en\/events\/coverage\/gpman15\/round-9-results-2015-01-03":true}});
+//--><!]]>
+</script>
+
+  
+        <style>
+      @media all {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png) no-repeat;
+          background-size: 100% 100px;
+
+        }
+        #mobile-menu .header .logo a {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 100%;
+        }
+        #page.snap-menu header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+      @media (max-width: 1200px) {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+    </style>
+  	
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-325281 node-type-article i18n-en content-non-panels role-anonymous-user with-subnav page-events-coverage-gpman15-round-9-results-2015-01-03 section-events" >
+  <script>
+  /* Interstitials variables */
+  var Interstitials = {
+    list: [
+                        ]
+  };
+  </script>
+
+  <div id="page" class="section_articles article_detail">
+    
+        <div id="mobile-menu">
+  <div class="header">
+    <div class="logo"></div>
+    <div class="toggle-menu-button"></div>
+  </div>
+  <nav>
+    <div class="menu-wrapper" data-back-label="Back"></div>
+  </nav>
+</div>
+
+<div id="viewport">
+  <!-- Header -->
+  <header>
+    <div class="wrapper">
+      <div id="utils">
+        <a href="http://locator.wizards.com/" class="locator">Locator</a> <a href="http://gatherer.wizards.com" class="gatherer">Card Database</a>        <a href="/en" title="Sign In" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;SignIn&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showLoginModal();" id="SignInButton" class="login">Sign In</a> | <a href="/en" title="Sign Up" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Signup&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showJoinModal();" id="RegisterButton" class="register">Sign Up</a>        <div id="search-form">
+          <form action="/en/events/coverage/gpman15/round-9-results-2015-01-03" method="post" id="wiz-search-bar-form--2" accept-charset="UTF-8"><div><input type="hidden" name="search-site" value="acquia_search" />
+<div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Search Anything" type="text" id="edit-search-string--3" name="search-string" value="" size="25" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-search-button--3" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-RygyIRr43xI-cP6wmj6CC-03t7DkFxc6cX9qopNwtHk" />
+<input type="hidden" name="form_id" value="wiz_search_bar_form" />
+</div></form>        </div>
+      </div>
+
+      <!-- Menu -->
+      <nav id="menu">
+        <a class="home" href="/en"><span>Magic the Gathering</span></a>
+
+        <div class="menu-wrapper">
+          <ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#signinbutton').attr('onclick',-'return-wotcaccountwidget.showloginmodal();');</script> has-children"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#SignInButton').attr('onclick', 'return wotcAccountWidget.showLoginModal();');</script></span></a><ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#registerbutton').attr('onclick',-'return-wotcaccountwidget.showjoinmodal();');</script>"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#RegisterButton').attr('onclick', 'return wotcAccountWidget.showJoinModal();');</script></span></a></li>
+<li class="mn_section_strategy"><a href="/en/content/strategy"><span>Strategy</span></a></li>
+<li class="mn_section_lore"><a href="/en/content/new-to-magic/lore"><span>Lore</span></a></li>
+<li class="mn_section_community"><a href="/en/content/new-to-magic/community"><span>Community</span></a></li>
+</ul></li>
+<li class="mn_section_game-info has-children"><a href="/en/game-information"><span>GAME INFO</span></a><ul class="menu"><li class="hub-link GAME INFO"><a href="/en/game-information"><span>GAME INFO</span></a></li>
+<li class="mn_section_gameplay has-children"><a class="nolink"><span>GAMEPLAY</span></a><ul class="menu"><li class="mn_section_about-the-game"><a href="/en/game-info/gameplay/about-the-game"><span>ABOUT THE GAME</span></a></li>
+<li class="mn_section_how-to-play"><a href="/en/game-info/gameplay/how-to-play"><span>HOW TO PLAY</span></a></li>
+<li class="mn_section_how-to-build-a-deck"><a href="/en/game-info/gameplay/how-to-build-a-deck"><span>HOW TO BUILD A DECK</span></a></li>
+<li class="mn_section_improve-your-game"><a href="/en/game-info/gameplay/improve-your-game"><span>IMPROVE YOUR GAME</span></a></li>
+<li class="mn_section_rules-&-formats"><a href="/en/game-info/gameplay/rules-and-formats"><span>RULES & FORMATS</span></a></li>
+</ul></li>
+<li class="mn_section_products has-children"><a class="nolink"><span>PRODUCTS</span></a><ul class="menu"><li class="mn_section_featured-<br>releases"><a href="/en/game-info/products/featured-releases"><span>FEATURED <BR>RELEASES</span></a></li>
+<li class="mn_section_coming-soon"><a href="/en/game-info/products/coming-soon"><span>COMING SOON</span></a></li>
+<li class="mn_section_magic-duels"><a href="/en/content/magic-duels"><span>MAGIC DUELS</span></a></li>
+<li class="mn_section_magic-online"><a href="/en/content/magic-online-products-game-info"><span>MAGIC ONLINE</span></a></li>
+<li class="mn_section_card-set-archive"><a href="/en/game-info/products/card-set-archive"><span>CARD SET ARCHIVE</span></a></li>
+</ul></li>
+<li class="mn_section_story has-children"><a class="nolink"><span>STORY</span></a><ul class="menu"><li class="mn_section_magic's-story"><a href="/en/game-info/story/magic-story"><span>MAGIC'S STORY</span></a></li>
+<li class="mn_section_planeswalkers"><a href="/en/game-info/story/planeswalkers"><span>PLANESWALKERS</span></a></li>
+<li class="mn_section_planes"><a href="/en/game-info/story/planes"><span>PLANES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_events has-children current"><a href="/en/events" class="active-trail"><span>EVENTS</span></a><ul class="menu"><li class="hub-link EVENTS"><a href="/en/events"><span>EVENTS</span></a></li>
+<li class="mn_section_events-home"><a href="/en/events"><span>EVENTS HOME</span></a></li>
+<li class="mn_section_what-is-<br>organized-play"><a href="/en/events/what-is-organized-play"><span>WHAT IS <br>ORGANIZED PLAY?</span></a></li>
+<li class="mn_section_event<br>-types"><a href="/en/events/event-types"><span>EVENT<br> TYPES</span></a></li>
+<li class="mn_section_coverage has-children current"><a class="active-trail nolink"><span>COVERAGE</span></a><ul class="menu"><li class="mn_section_coverage-archive current"><a href="/en/events/coverage" class="active-trail"><span>COVERAGE ARCHIVE</span></a></li>
+<li class="mn_section_top-players"><a href="/en/events/coverage/top-players"><span>TOP PLAYERS</span></a></li>
+</ul></li>
+<li class="mn_section_schedules"><a href="/en/content/premier-events-schedule#/overview"><span>SCHEDULES</span></a></li>
+<li class="mn_section_resources has-children"><a class="nolink"><span>RESOURCES</span></a><ul class="menu"><li class="mn_section_planeswalker-points"><a href="/en/events/resources/planeswalker-points"><span>PLANESWALKER POINTS</span></a></li>
+<li class="mn_section_judges"><a href="/en/events/resources/judges"><span>JUDGES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_articles has-children"><a href="/en/content/articles"><span>ARTICLES</span></a><ul class="menu"><li class="hub-link ARTICLES"><a href="/en/content/articles"><span>ARTICLES</span></a></li>
+<li class="mn_section_articles-home"><a href="/en/content/articles"><span>ARTICLES HOME</span></a></li>
+<li class="mn_section_columns has-children"><a id="columns" class="nolink"><span>COLUMNS</span></a><ul class="menu"><li class="mn_section_columnists"><a href="/en/articles/columns/columnists"><span>COLUMNISTS</span></a></li>
+<li class="mn_section_making-magic"><a href="/en/articles/columns/making-magic-archive"><span>MAKING MAGIC</span></a></li>
+<li class="mn_section_magic-story"><a href="/en/articles/columns/magic-story-archive"><span>MAGIC STORY</span></a></li>
+<li class="mn_section_top-decks"><a href="/en/articles/columns/top-decks-archive"><span>TOP DECKS</span></a></li>
+<li class="mn_section_organized-<br>play"><a href="/en/articles/columns/organized-play-archive" title="Organized Play"><span>ORGANIZED <br>PLAY</span></a></li>
+<li class="mn_section_latest-<br>developments"><a href="/en/articles/columns/latest-developments-archive"><span>LATEST <br>DEVELOPMENTS</span></a></li>
+</ul></li>
+<li class="mn_section_archives"><a href="/en/articles/archive"><span>ARCHIVES</span></a></li>
+<li class="mn_section_winning-decks"><a href="/en/articles/winning-decks"><span>WINNING DECKS</span></a></li>
+<li class="mn_section_media has-children"><a class="nolink"><span>MEDIA</span></a><ul class="menu"><li class="mn_section_videos"><a href="/en/articles/media/videos"><span>VIDEOS</span></a></li>
+<li class="mn_section_podcasts"><a href="/en/articles/media/podcasts"><span>PODCASTS</span></a></li>
+<li class="mn_section_wallpapers"><a href="/en/articles/media/wallpapers"><span>WALLPAPERS</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_community has-children"><a href="/en/community"><span>COMMUNITY</span></a><ul class="menu"><li class="hub-link COMMUNITY"><a href="/en/community"><span>COMMUNITY</span></a></li>
+<li class="mn_section_community-home"><a href="/en/community"><span>COMMUNITY HOME</span></a></li>
+<li class="mn_section_fan-kits"><a href="/en/community/fan-kits"><span>FAN KITS</span></a></li>
+</ul></li>
+<li class="mn_section_my-accounts"><a href="/en/content/my-accounts"><span>MY ACCOUNTS</span></a></li>
+</ul>        </div>
+      </nav>
+    </div>
+  </header>
+
+  
+  <div id="content-wrapper">
+      <div class="region region-content">
+    
+<div id="block-system-main" class=" block block-system block-odd first last main clearfix">
+  <div class="block-inner">
+                <div class="content" >
+      <div id="content" class="page-width">
+
+  <div id="main-content">
+    <div id="breadcrumb">
+              <span ><a href="/en/events">EVENTS</a></span>
+              <span ><a href="/en/events/coverage">COVERAGE ARCHIVE</a></span>
+              <span class="current"><a href="/en/events/coverage/gpman15">GRAND PRIX MANILA 2015</a></span>
+          </div>
+    <h1>ROUND 9 RESULTS</h1>
+    <p class="posted-in">
+      Posted in      <a href="/en/events/coverage/gpman15">GRAND PRIX MANILA 2015</a>
+      on January 4, 2015    </p>
+
+    <!-- BEGIN :: ARTICLE -->
+    <article>
+      <div class="article-header">
+
+                  <div class="author">
+            <img src="http://magic.wizards.com/sites/mtg/files/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg?itok=KENOTqfD" alt="" />
+            <p>By Wizards of the Coast</p>
+            <p class="links">
+                                            <span><a href="/en/articles/archive/184956" onClick="_gaq.push(['_trackEvent', 'Article', 'Author', 'Wizards of the Coast-Archive']);">Archive</a></span>
+                                        </p>
+            <div id="author-biography">
+                          </div>
+          </div>
+        
+        <div class="sharing">
+          <div class="social-share">
+            <a class="facebook" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpman15/round-9-results-2015-01-03"><span class="share-count">0</span><span>&nbsp;Shares</span></a>
+            <a class="twitter" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpman15/round-9-results-2015-01-03"><span class="share-count">0</span><span>&nbsp;Tweets</span></a>
+            <a class="google" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpman15/round-9-results-2015-01-03"><span class="share-count">0</span><span>&nbsp;+</span></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div id="content-detail-page-of-an-article">
+        <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><ul><li><a href="/node/324921">Complete coverage of Grand Prix Manila</a></li>
+</ul><p></p>
+<sortrow></sortrow><p></p>
+
+<table shade="1" shadecolor="#ffffcc" w="500"><tbody><tr><td><b>Table</b></td>
+			<td><b>Player</b></td>
+			<td><b>Result</b></td>
+			<td></td>
+			<td><b>Opponent</b></td>
+		</tr><tr><td>1</td>
+			<td>Pangasinan, Jay [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>MAKIHITO, MIHARA [JPN]</td>
+		</tr><tr><td>2</td>
+			<td>(2)Floch, Ivan [SVK]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tan, Jan Vincent [PHL]</td>
+		</tr><tr><td>3</td>
+			<td>Tada, Mitsuhiro [JPN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Calcano, Christian [USA]</td>
+		</tr><tr><td>4</td>
+			<td>Cayanong, Jherand [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sim, Kris [PHL]</td>
+		</tr><tr><td>5</td>
+			<td>Cabanag, Dino Amiel C [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>(10)Shi Tian, Lee [HKG]</td>
+		</tr><tr><td>6</td>
+			<td>Enriquez, Emil Gabriel [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mamokhan, Van Yusoph [PHL]</td>
+		</tr><tr><td>7</td>
+			<td>Tan, Jimmy Jr. G [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lee, Jefferson [PHL]</td>
+		</tr><tr><td>8</td>
+			<td>Alloso, Mark Ian B [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wei Han, Chin [MYS]</td>
+		</tr><tr><td>9</td>
+			<td>Asinas, Rudi Jason [AFG]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Weng Sheng, Wong [MYS]</td>
+		</tr><tr><td>10</td>
+			<td>Quinacman, Menard [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gepana, Nick Jone [PHL]</td>
+		</tr><tr><td>11</td>
+			<td>Ozaki, Zax [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lee, Gil-Hwan [KOR]</td>
+		</tr><tr><td>12</td>
+			<td>Beley, Ronnie Paul T [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yong Wai Kin, Au [MYS]</td>
+		</tr><tr><td>13</td>
+			<td>Barron, Alex [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Canuto, Luie [PHL]</td>
+		</tr><tr><td>14</td>
+			<td>Tan, Ralph [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sclauzero, Joseph [AUS]</td>
+		</tr><tr><td>15</td>
+			<td>Tan, Richmond h [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Jbeili, Reginald [PHL]</td>
+		</tr><tr><td>16</td>
+			<td>Macasaet, Erick Gabrie [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pascual, Alfred Ceazar [PHL]</td>
+		</tr><tr><td>17</td>
+			<td>Rivero, Roy [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kuo, Tzu Ching [TWN]</td>
+		</tr><tr><td>18</td>
+			<td>Villar, Rey [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>wong, Christopher [HKG]</td>
+		</tr><tr><td>19</td>
+			<td>Biala, Mark Anthony C [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Soliveres, Roel [PHL]</td>
+		</tr><tr><td>20</td>
+			<td>Yu, Blas Anthony [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>tan, Raymond [MYS]</td>
+		</tr><tr><td>21</td>
+			<td>Cardenas, Daniel Aaron [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bueno, Paolo [PHL]</td>
+		</tr><tr><td>22</td>
+			<td>Pangan, Jayson M [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Rala, Melbert [PHL]</td>
+		</tr><tr><td>23</td>
+			<td>Tang, Roy [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>zzVIPSoh, Terry [MYS]</td>
+		</tr><tr><td>24</td>
+			<td>Serafica, Marco Philip [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ortega, Dominic [PHL]</td>
+		</tr><tr><td>25</td>
+			<td>Tubola, Mark Lawrence [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Villanueva, Raymond H [PHL]</td>
+		</tr><tr><td>26</td>
+			<td>Cantillana, Andrew R [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Chun Huat, Kua [MYS]</td>
+		</tr><tr><td>27</td>
+			<td>Lo, Josh Leander [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tud, Joshua [PHL]</td>
+		</tr><tr><td>28</td>
+			<td>Gonzales, John Benedic [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ong, Wilhelm Moises [PHL]</td>
+		</tr><tr><td>29</td>
+			<td>De Rueda, Randolph [PHL]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Liew Ming Wai, Kevin [MYS]</td>
+		</tr><tr><td>30</td>
+			<td>Gonzales, Kevin [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Aquende, John Robert [PHL]</td>
+		</tr><tr><td>31</td>
+			<td>Tanglao, Paolo [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Canlas, John Remell [PHL]</td>
+		</tr><tr><td>32</td>
+			<td>Juza, Martin [CZE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sato, Sho [PHL]</td>
+		</tr><tr><td>33</td>
+			<td>Ubay, Carmelo [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Mastilero, Oliver G [PHL]</td>
+		</tr><tr><td>34</td>
+			<td>Yong, Jung [KOR]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Cuartero, John Michael [PHL]</td>
+		</tr><tr><td>35</td>
+			<td>Falag-ey, John Anthony [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Abaya, Arjay [PHL]</td>
+		</tr><tr><td>36</td>
+			<td>Kim, Chang-hoi [KOR]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Chun HO, Fong [HKG]</td>
+		</tr><tr><td>37</td>
+			<td>teruya, Kakumae [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>zzVIPCapili, Tristan C [PHL]</td>
+		</tr><tr><td>38</td>
+			<td>zzVIPSetya, Steven Dir [IDN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Perry Winston, Uson L [PHL]</td>
+		</tr><tr><td>39</td>
+			<td>Malicdem, Kevin Jan [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lim, Richmund [PHL]</td>
+		</tr><tr><td>40</td>
+			<td>zzVIPKintanar, Celsus [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>zzVIPRamirez, Bryan Al [PHL]</td>
+		</tr><tr><td>41</td>
+			<td>Du Alo, Lawrence [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Luces, Jonathan Justin [PHL]</td>
+		</tr><tr><td>42</td>
+			<td>Takahashi, Yuuta [JPN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ikmal Bin Mohd Nasir, [MYS]</td>
+		</tr><tr><td>43</td>
+			<td>Amowas, Christopher B. [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sanchez, Rizalino Jose [PHL]</td>
+		</tr><tr><td>44</td>
+			<td>Park, Bi-O [KOR]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>De La Paz, Vitto Karlo [PHL]</td>
+		</tr><tr><td>45</td>
+			<td>Asi, Leonard Emerson [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lanot, Gideon L [PHL]</td>
+		</tr><tr><td>46</td>
+			<td>San Juan, Jamie Robert [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ybanez, Alphonse [PHL]</td>
+		</tr><tr><td>47</td>
+			<td>Willems, Sjoerd [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ramos, Paulo Joon M [PHL]</td>
+		</tr><tr><td>48</td>
+			<td>Mendoza, Paul [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Taghoy, Arnulfo Jr [PHL]</td>
+		</tr><tr><td>49</td>
+			<td>Ordonez, Arrian Ferric [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ngo, Carlo Angelo T [PHL]</td>
+		</tr><tr><td>50</td>
+			<td>Barcena, Timothy Jude [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Estera, Jon David [PHL]</td>
+		</tr><tr><td>51</td>
+			<td>Aguilar, Melvin [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Carlos, Aaron [PHL]</td>
+		</tr><tr><td>52</td>
+			<td>Serrano, Ninoy [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Balce, Andrei [PHL]</td>
+		</tr><tr><td>53</td>
+			<td>Ramos, Edsel [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fabia, Jose Luis P [PHL]</td>
+		</tr><tr><td>54</td>
+			<td>Wiegersma, Jelger [ANT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Borromeo, Eric [PHL]</td>
+		</tr><tr><td>55</td>
+			<td>Profeta, Francis [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>De Mesa, Reynaldo [PHL]</td>
+		</tr><tr><td>56</td>
+			<td>Taguilig, Peter [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Dizon, Michael Christo [PHL]</td>
+		</tr><tr><td>57</td>
+			<td>Canlas, Christopher T [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>miyasaka, bon [PHL]</td>
+		</tr><tr><td>58</td>
+			<td>Ong, Richie Robert C [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Co, Lei M [PHL]</td>
+		</tr><tr><td>59</td>
+			<td>Chan, Anthony [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Quimson, Emmanuel A [PHL]</td>
+		</tr><tr><td>60</td>
+			<td>Santos, Ralf Allen [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>zzVIPCastaneda, Juanit [PHL]</td>
+		</tr><tr><td>61</td>
+			<td>James, Nicholas [MYS]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lee, Dongkyu [KOR]</td>
+		</tr><tr><td>62</td>
+			<td>De Ramos, Joseph Dean [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Oh, Joo Hyun [KOR]</td>
+		</tr><tr><td>63</td>
+			<td>Soon yong, Yeap [MYS]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>hafiz mokhtaruddin, Mo [MYS]</td>
+		</tr><tr><td>64</td>
+			<td>Romero, Angelo [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lim, Mickail Joseph [PHL]</td>
+		</tr><tr><td>65</td>
+			<td>rebullida, georgio [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Macaso, Aaron J [PHL]</td>
+		</tr><tr><td>66</td>
+			<td>Bang, Hyun-Jung [KOR]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Natividad, Paul John [PHL]</td>
+		</tr><tr><td>67</td>
+			<td>Schafer, Ross [AUS]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Matriano, Krister Mart [PHL]</td>
+		</tr><tr><td>68</td>
+			<td>Kai Che, Koh [MYS]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>zzVIPBatac, Michael To [PHL]</td>
+		</tr><tr><td>69</td>
+			<td>wong ling guan, James [SGP]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rama, Philip Christoph [PHL]</td>
+		</tr><tr><td>70</td>
+			<td>Jaro, Ogie [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Almendarez, Carl Louis [PHL]</td>
+		</tr><tr><td>71</td>
+			<td>Del Rosario, Rod Ray [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tan, Morris [PHL]</td>
+		</tr><tr><td>72</td>
+			<td>Park, Young Jin [KOR]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bugayong, Jr E [PHL]</td>
+		</tr><tr><td>73</td>
+			<td>Sabater, Aldin [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cervantes, Steven B [PHL]</td>
+		</tr><tr><td>74</td>
+			<td>Ikawa, Yoshihiko [JPN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Penafuerte, Jan [PHL]</td>
+		</tr><tr><td>75</td>
+			<td>Ruiz, Jose Ricardo [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Santos, Alexis Andrew [PHL]</td>
+		</tr><tr><td>76</td>
+			<td>Rod, Ian Paul [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rubio, Michael [PHL]</td>
+		</tr><tr><td>77</td>
+			<td>Maglantay, Ranier S [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cirujales, Earl [PHL]</td>
+		</tr><tr><td>78</td>
+			<td>Soriano, Robert Willia [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Coquia, Mark Joseph [PHL]</td>
+		</tr><tr><td>79</td>
+			<td>Santos, Ricky John [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Damian, Jose Jr [PHL]</td>
+		</tr><tr><td>80</td>
+			<td>Hoon won, DAE [KOR]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>lee hup beng, rick [MYS]</td>
+		</tr><tr><td>81</td>
+			<td>Alcantara, Danniel [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dela Cruz, Jack [PHL]</td>
+		</tr><tr><td>82</td>
+			<td>Roman, Ar-Jay [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Villanueva, Kevin [PHL]</td>
+		</tr><tr><td>83</td>
+			<td>Oca, Ramon Allan Jr [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Martinez, Morris Matth [PHL]</td>
+		</tr><tr><td>84</td>
+			<td>Co, Kim Angelo [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cabrera, Michael Angel [PHL]</td>
+		</tr><tr><td>85</td>
+			<td>Baeyens, Mark [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tenorio, Rexel Allan C [PHL]</td>
+		</tr><tr><td>86</td>
+			<td>Perez, Joe Japheth [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Zakaria, Zaiham Fazly [PHL]</td>
+		</tr><tr><td>87</td>
+			<td>Baligaya, Raymond [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Galiste, Bryan Erd [PHL]</td>
+		</tr><tr><td>88</td>
+			<td>Carbonell, John Stephe [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dones, Luigi [PHL]</td>
+		</tr><tr><td>89</td>
+			<td>Yoon, Je Yeon [KOR]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Padua, Ronald [PHL]</td>
+		</tr><tr><td>90</td>
+			<td>Legaspi, Gilbert [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sugaya, Hironobu [JPN]</td>
+		</tr><tr><td>91</td>
+			<td>Yap, Mark Christopher [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>m. Ramos, jr., Robert [PHL]</td>
+		</tr><tr><td>92</td>
+			<td>Dimalanta, Franz Angel [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hong, Seung-Oh [KOR]</td>
+		</tr><tr><td>93</td>
+			<td>Arogo, Irwin Jansen [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bahrin Zainudin, Shams [MYS]</td>
+		</tr><tr><td>94</td>
+			<td>Law Chang Teck, Charle [SGP]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>De Guzman, Ray A [PHL]</td>
+		</tr><tr><td>95</td>
+			<td>Estrella, Ron Kerrshey [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nam, Sung-wook [KOR]</td>
+		</tr><tr><td>96</td>
+			<td>Dimaranan, Alexson [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Manliclic, Christian J [PHL]</td>
+		</tr><tr><td>97</td>
+			<td>Say, John [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Regino, Jaime Lorenzo [PHL]</td>
+		</tr><tr><td>98</td>
+			<td>leo ferrer cunanan, Ch [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ang, Arnel Jose [PHL]</td>
+		</tr><tr><td>99</td>
+			<td>Williamson, Van Richar [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Frigillana, Nino [PHL]</td>
+		</tr><tr><td>100</td>
+			<td>Deriquito, Rodolfo [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>hafiz, Javed [AUS]</td>
+		</tr><tr><td>101</td>
+			<td>zzVIPBasconcillo, Marc [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cuico, Ron Frederick [PHL]</td>
+		</tr><tr><td>102</td>
+			<td>Galang, Axel [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Salvatierra, Victor [PHL]</td>
+		</tr><tr><td>103</td>
+			<td>Eustaquio, Elzar B [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>De Las Alas, Allan [PHL]</td>
+		</tr><tr><td>104</td>
+			<td>Santana, Mark Anthony [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>PAUL BORJA, JOHN [QAT]</td>
+		</tr><tr><td>105</td>
+			<td>Dungan, Conrad [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Denilla, Erwin Mu&ntilde;oz [PHL]</td>
+		</tr><tr><td>106</td>
+			<td>Reynoso, Bryann Kim [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Deanon, Cheljohn [PHL]</td>
+		</tr><tr><td>107</td>
+			<td>Bayrante, Albert [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Junio, Julius [PHL]</td>
+		</tr><tr><td>108</td>
+			<td>Sison, Nikko [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Celestino, Elizer P [PHL]</td>
+		</tr><tr><td>109</td>
+			<td>Guevarra, Jerrymel Lub [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sy, Daniel [PHL]</td>
+		</tr><tr><td>110</td>
+			<td>Cho, Bu-Hong [KOR]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Meneses, Kenneth Benja [PHL]</td>
+		</tr><tr><td>111</td>
+			<td>Brion, Wencie [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sison, Ezra Eleazar [PHL]</td>
+		</tr><tr><td>112</td>
+			<td>Reyes, Ray Christian [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Price, Nicholas [PHL]</td>
+		</tr><tr><td>113</td>
+			<td>Wong, Mark [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>LIANG CHOONG, POH [MYS]</td>
+		</tr><tr><td>114</td>
+			<td>zzVIPValle, Eduardo [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Follero, Lawrence [PHL]</td>
+		</tr><tr><td>115</td>
+			<td>Lim, Exequiel Bryan [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Alba, Alberto Jr. M [PHL]</td>
+		</tr><tr><td>116</td>
+			<td>Uy, Jeff [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ngo, Richson [PHL]</td>
+		</tr><tr><td>117</td>
+			<td>zzVIPCo, Sherdon [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Santiago, Jester [PHL]</td>
+		</tr><tr><td>118</td>
+			<td>Cabanos, Lorenz [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hernandez, Jeffrey [PHL]</td>
+		</tr><tr><td>119</td>
+			<td>Aquino, Fahad [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ortega, Oliver J [PHL]</td>
+		</tr><tr><td>120</td>
+			<td>Lili, Mark Arnold [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ampo, Orlando [PHL]</td>
+		</tr><tr><td>121</td>
+			<td>Chua, Raymond Anthony [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Flores, Jomer [PHL]</td>
+		</tr><tr><td>122</td>
+			<td>Tabisora, Irwin [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>San Juan, Yaks [PHL]</td>
+		</tr><tr><td>123</td>
+			<td>Tan, Christopher [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Jamir, Joselito Albert [PHL]</td>
+		</tr><tr><td>124</td>
+			<td>Ezberto, Alvin Emil [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Pablico, Christopher [PHL]</td>
+		</tr><tr><td>125</td>
+			<td>Suarez, John Brian F [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tolentino, Diolouie M [PHL]</td>
+		</tr><tr><td>126</td>
+			<td>Yu, Ronald [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cuello, Anthony [PHL]</td>
+		</tr><tr><td>127</td>
+			<td>Villa, Francis Christo [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Diego, Ferdinand [PHL]</td>
+		</tr><tr><td>128</td>
+			<td>Layson, John Paul [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Miclat, Alyssa Chrizel [PHL]</td>
+		</tr><tr><td>129</td>
+			<td>zzVIPSiagian, Yohannes [IDN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Delmoro, Emmanuel Clar [PHL]</td>
+		</tr><tr><td>130</td>
+			<td>Beltran, Robert [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Orceo Jr, Antonio Manu [PHL]</td>
+		</tr><tr><td>131</td>
+			<td>Madrinan, Dale [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sahagun, John Daroen [PHL]</td>
+		</tr><tr><td>132</td>
+			<td>Suarez, Robert Gerald [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Espinoza, Eugene Jose [PHL]</td>
+		</tr><tr><td>133</td>
+			<td>Dazo Montero jr, Simon [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Azhar, Hazeril Ezme [MYS]</td>
+		</tr><tr><td>134</td>
+			<td>Go, Aaron Kendrick [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>De Leon, Luis Antonio [PHL]</td>
+		</tr><tr><td>135</td>
+			<td>Villa, Ralph Joseph [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ang, Jan [PHL]</td>
+		</tr><tr><td>136</td>
+			<td>Ordonez, Alejandro [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Flores, Paolo Mari M [PHL]</td>
+		</tr><tr><td>137</td>
+			<td>Purificacion, Frangeli [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Garcia, Paolo Jonathan [PHL]</td>
+		</tr><tr><td>138</td>
+			<td>Chee Chong, Hiew [MYS]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Jimenez, Icon Anthony [PHL]</td>
+		</tr><tr><td>139</td>
+			<td>Inocentes, Raymond [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Reyes, Pamela [PHL]</td>
+		</tr><tr><td>140</td>
+			<td>Pagtakhan, Werick [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Macayan, Raymond Josep [PHL]</td>
+		</tr><tr><td>141</td>
+			<td>Herrera, Maki [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mamboyo, Jose Joshua [PHL]</td>
+		</tr><tr><td>142</td>
+			<td>Hernandez, Levy [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Salazar, Frederick [PHL]</td>
+		</tr><tr><td>143</td>
+			<td>Del Rosario, Simone [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gragasin, Billy [PHL]</td>
+		</tr><tr><td>144</td>
+			<td>David, Renato [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Caluste, Ronald Allan [PHL]</td>
+		</tr><tr><td>145</td>
+			<td>Beley, Ryan Mark T [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Babiano, Donaran [PHL]</td>
+		</tr><tr><td>146</td>
+			<td>Nedic, Nolan [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>So, Paul Richard [PHL]</td>
+		</tr><tr><td>147</td>
+			<td>Santos, Virgilio III [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Llanos, David Benjamin [PHL]</td>
+		</tr><tr><td>148</td>
+			<td>Castillo, Dar Francis [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Barabona, Herbert [PHL]</td>
+		</tr><tr><td>149</td>
+			<td>Abris, Joey [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Patdu, Thiery [PHL]</td>
+		</tr><tr><td>150</td>
+			<td>Lingayo, Jose Glenn [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Payad, Reynald Jay [PHL]</td>
+		</tr><tr><td>151</td>
+			<td>Manahan, Marco Paulo [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>baclig, Jonathan [SGP]</td>
+		</tr><tr><td>152</td>
+			<td>Samot, Randell John [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lim, Redmond James [PHL]</td>
+		</tr><tr><td>153</td>
+			<td>Panizales, Rubin Jr [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ferrer, John Reuben [PHL]</td>
+		</tr><tr><td>154</td>
+			<td>Lagman, Peter Kenneth [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Dela Cruz, Michael Joh [PHL]</td>
+		</tr><tr><td>155</td>
+			<td>Pilapil, Bibiano [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lim, Victoriano [PHL]</td>
+		</tr><tr><td>156</td>
+			<td>Berana, Kenneth [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Alviar, Lydon S [PHL]</td>
+		</tr><tr><td>157</td>
+			<td>Hilario, Ken Randolf [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>buelo, neil [PHL]</td>
+		</tr><tr><td>158</td>
+			<td>Abiog, Daryl [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>WADA, TAKAHIDE [JPN]</td>
+		</tr><tr><td>159</td>
+			<td>Go, Carlson [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Llantada, Rommel O [PHL]</td>
+		</tr><tr><td>160</td>
+			<td>Eamilao, John Victor [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Yian Hsiang, Chye [MYS]</td>
+		</tr><tr><td>161</td>
+			<td>Nisperos, Ricardo [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Matibag, Danielle [PHL]</td>
+		</tr><tr><td>162</td>
+			<td>zzVIPRamenda, Elmer [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Angeles, Ulysses [PHL]</td>
+		</tr><tr><td>163</td>
+			<td>zzVIPAmor, Martin Migu [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mindaro, Joshua [PHL]</td>
+		</tr><tr><td>164</td>
+			<td>Carganillo, Ericson F [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Orlina, Benjamin [PHL]</td>
+		</tr><tr><td>165</td>
+			<td>Perez, Joshua M [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>patrick p. erana, jaso [AFG]</td>
+		</tr><tr><td>166</td>
+			<td>Matienzo, Glenn [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pineda, Johnne Benedic [PHL]</td>
+		</tr><tr><td>167</td>
+			<td>De Leon, Percival [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Don August V Castro, F [PHL]</td>
+		</tr><tr><td>168</td>
+			<td>Felipe, Alexander II [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Relucio, Miguel [PHL]</td>
+		</tr><tr><td>169</td>
+			<td>Dankin, Mark Anthony [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>oneall molina, michael [PHL]</td>
+		</tr><tr><td>170</td>
+			<td>Anigan, Alberto V [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Majul, Mathew [PHL]</td>
+		</tr><tr><td>171</td>
+			<td>Quimbo, Glenn Ian [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Godeloson, Glemco [PHL]</td>
+		</tr><tr><td>172</td>
+			<td>dulawan, Alex M [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Glenal, Yves [PHL]</td>
+		</tr><tr><td>173</td>
+			<td>Khoo, Shawn [MYS]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hamidon, Mohamad Hafiz [MYS]</td>
+		</tr><tr><td>174</td>
+			<td>Samson, Jhesthee [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Baylen Lemuel, Francis [PHL]</td>
+		</tr><tr><td>175</td>
+			<td>Yulo, Ezekiel John [PHL]</td>
+			<td>Drew 0-0-0</td>
+			<td>vs.</td>
+			<td>Agulto, Erich [PHL]</td>
+		</tr><tr><td>176</td>
+			<td>Poblete, Matt [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ocampo, Rafael [PHL]</td>
+		</tr><tr><td>177</td>
+			<td>Rante, Jeff Ronald Aio [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bonggo, Francis Gene [PHL]</td>
+		</tr><tr><td>178</td>
+			<td>Casabona, Mark Anthony [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Baldoza, JR M [PHL]</td>
+		</tr><tr><td>179</td>
+			<td>Ong, Noel Davis S [PHL]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Cruz, Marlon Kane [PHL]</td>
+		</tr><tr><td>180</td>
+			<td>Perez, Rico V [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Leviste, Mark [PHL]</td>
+		</tr><tr><td>181</td>
+			<td>Gonzales, Roberto [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>arriola, Mark [AFG]</td>
+		</tr><tr><td>182</td>
+			<td>Ople, Ken [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Duenas, John Darwin [PHL]</td>
+		</tr><tr><td>183</td>
+			<td>Sykioco, Angelo [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Uchida, Jeffry [PHL]</td>
+		</tr><tr><td>184</td>
+			<td>Hilario, Abi [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lim, Rey [PHL]</td>
+		</tr><tr><td>185</td>
+			<td>Advento, Vic [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Abrina, Miko [PHL]</td>
+		</tr><tr><td>186</td>
+			<td>Borrero, Arno B [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Carrillo, Jm [PHL]</td>
+		</tr><tr><td>187</td>
+			<td>yun cheong, yang [MYS]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cajigal, Erwin Rommel [PHL]</td>
+		</tr><tr><td>188</td>
+			<td>Alfane, Daryl Anthony [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rosaldo, Aristotle H [PHL]</td>
+		</tr><tr><td>189</td>
+			<td>Estrella, Luis T [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>yew woh, Hui [MYS]</td>
+		</tr><tr><td>190</td>
+			<td>Maceda, Max [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Galindez, Martin [PHL]</td>
+		</tr><tr><td>191</td>
+			<td>Superticioso, Mars [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Almendarez, Christian [PHL]</td>
+		</tr><tr><td>192</td>
+			<td>Tanhueco, Jose Florenc [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bartolome, Alvin [PHL]</td>
+		</tr><tr><td>193</td>
+			<td>Hidawa, Martin Jacob [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bitong, John Elimar O [PHL]</td>
+		</tr><tr><td>194</td>
+			<td>zulkarnaen, Onny [MYS]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Manangan, Michael [PHL]</td>
+		</tr><tr><td>195</td>
+			<td>Burgos, John Ryan E [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>manalo, aristotle [PHL]</td>
+		</tr><tr><td>196</td>
+			<td>ian l. Cabillos, Manue [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gonzales, Orson [PHL]</td>
+		</tr><tr><td>197</td>
+			<td>Galarpe, Mark Jason G [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Chu, Jose Mari [PHL]</td>
+		</tr><tr><td>198</td>
+			<td>Corpuz, Cilbert D [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Syson, Teddy Clarence [PHL]</td>
+		</tr><tr><td>199</td>
+			<td>Porter, James Serafin [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lim, Edwin [MYS]</td>
+		</tr><tr><td>200</td>
+			<td>chong, edwin [HKG]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>De Los Santos, Kerwin [PHL]</td>
+		</tr><tr><td>201</td>
+			<td>Gutierrez, Ian Mark [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nave, John Marvyn [PHL]</td>
+		</tr><tr><td>202</td>
+			<td>Data, Ryan [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Medina, Miguel [PHL]</td>
+		</tr><tr><td>203</td>
+			<td>Davantes, Gilbert [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Huang, Hao-Shan [TWN]</td>
+		</tr><tr><td>204</td>
+			<td>Tabora, Jhon Paul [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Jaranilla, David D [PHL]</td>
+		</tr><tr><td>205</td>
+			<td>Chua, Marty Spencer [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nilo, Rico Nino [PHL]</td>
+		</tr><tr><td>206</td>
+			<td>Go, Paolo [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Valerio, Imman Van [PHL]</td>
+		</tr><tr><td>207</td>
+			<td>Tanion, Arthur [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gotengco, Jay [PHL]</td>
+		</tr><tr><td>208</td>
+			<td>Demavivas, Arthur [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Calucag, Richard [PHL]</td>
+		</tr><tr><td>209</td>
+			<td>Malsin, Ray Roger [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Choi, JaeJoon [KOR]</td>
+		</tr><tr><td>210</td>
+			<td>Tan, Lloyd Ryan [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Dizon, Aaron James [PHL]</td>
+		</tr><tr><td>211</td>
+			<td>Guevarra, Rey Gene [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ramadhan Indrakesuma, [AFG]</td>
+		</tr><tr><td>212</td>
+			<td>pe&ntilde;a, mikko [AFG]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Navarro, Lawrence [PHL]</td>
+		</tr><tr><td>213</td>
+			<td>Lingling, Ken [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Doncillo, Jim [PHL]</td>
+		</tr><tr><td>214</td>
+			<td>Salcedo, Alan [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Villamayor, Michael Ry [PHL]</td>
+		</tr><tr><td>215</td>
+			<td>Medalla, Argel Joseph [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hernandez, Miko Domini [PHL]</td>
+		</tr><tr><td>216</td>
+			<td>bartolome, arvin c [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lucas, Paolo Ceasar [PHL]</td>
+		</tr><tr><td>217</td>
+			<td>Riguerra, Ryan F [PHL]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Solon, Kurt Dominic [PHL]</td>
+		</tr><tr><td>218</td>
+			<td>Guilatco, Marlino [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Botin, Arvin [PHL]</td>
+		</tr><tr><td>219</td>
+			<td>Jimenez, Nikki [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Raymund jaldon jr, Imm [PHL]</td>
+		</tr><tr><td>220</td>
+			<td>Eusebio, Mylene [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ramos, Oscar Keene [PHL]</td>
+		</tr><tr><td>221</td>
+			<td>Dozina, Ronnie [PHL]</td>
+			<td>Lost 0-1</td>
+			<td>vs.</td>
+			<td>Cabrera, Alphonsous [PHL]</td>
+		</tr><tr><td>222</td>
+			<td>Espiritu, John Leo [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Manuel, Frederick [PHL]</td>
+		</tr><tr><td>223</td>
+			<td>Monteverde, Jhonel [PHL]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Torres, Romulo [PHL]</td>
+		</tr><tr><td>224</td>
+			<td>Alejandrino, Miguel Ed [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Berones, Jed [PHL]</td>
+		</tr><tr><td>225</td>
+			<td>Natividad, Frederick [PHL]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>cortezo, lorenz [PHL]</td>
+		</tr><tr><td>226</td>
+			<td>Rama, Harry [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>De Los Trinos, Jonatha [PHL]</td>
+		</tr><tr><td>227</td>
+			<td>Ayalin, Noel Leonard [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kimizu, Roniel Hisao [PHL]</td>
+		</tr><tr><td>228</td>
+			<td>Berka, David [CZE]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Regalado, Franco Anton [PHL]</td>
+		</tr><tr><td>229</td>
+			<td>Bausa, Patrick A [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lizano, Ralph Carlo M [PHL]</td>
+		</tr><tr><td>230</td>
+			<td>Roman, Mitchell [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>zzVIPrippe, Dustin [USA]</td>
+		</tr><tr><td>231</td>
+			<td>Sison, Julian [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Usman, Ken Aldren [PHL]</td>
+		</tr><tr><td>232</td>
+			<td>Anuar, Khairul [MYS]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Crema, Jessieco [PHL]</td>
+		</tr><tr><td>233</td>
+			<td>Mendoza, Albert [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cristobal, Francis [PHL]</td>
+		</tr><tr><td>234</td>
+			<td>Mendoza, Nori Benjamin [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sauza, Oscar John [PHL]</td>
+		</tr><tr><td>235</td>
+			<td>Lopezgo, Charleston [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Policarpio, Kenneth [PHL]</td>
+		</tr><tr><td>236</td>
+			<td>Dela Merced, John Nino [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Payumo, Kristoffer [PHL]</td>
+		</tr><tr><td>237</td>
+			<td>Vallejos, Jayhar [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cacho, Aldrin [PHL]</td>
+		</tr><tr><td>238</td>
+			<td>Obed, Joseph Martin L [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ngosiok, Kennard L [PHL]</td>
+		</tr><tr><td>239</td>
+			<td>Nebriaga, Robert Carlo [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Suarez, Roberto [PHL]</td>
+		</tr><tr><td>240</td>
+			<td>Raymundo, Stefan [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Garcia, Mark Benedict [PHL]</td>
+		</tr><tr><td>241</td>
+			<td>Perez, Rafael [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Malasaga, Edward [PHL]</td>
+		</tr><tr><td>242</td>
+			<td>Cantaros, Ivan Edward [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>zzVIPAng, Peter Paul [PHL]</td>
+		</tr><tr><td>243</td>
+			<td>Perez, Jose Delano [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Espiritu, Michael John [PHL]</td>
+		</tr><tr><td>244</td>
+			<td>Nismal, Michael Andrew [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Asca&ntilde;o, Chris Brian B [PHL]</td>
+		</tr><tr><td>245</td>
+			<td>Taira, Jose [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Chan, Charles Vincent [PHL]</td>
+		</tr><tr><td>246</td>
+			<td>So, Johaness James [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>zzVIPsAWADA, KEN [JPN]</td>
+		</tr><tr><td>247</td>
+			<td>Dimaranan, Jayson [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>De Ocampo, Conrado III [PHL]</td>
+		</tr><tr><td>248</td>
+			<td>Co, Rolando [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>john royce e. cequi&ntilde;a, [PHL]</td>
+		</tr><tr><td>249</td>
+			<td>Porter, Kurt [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Camangon, Gerald [PHL]</td>
+		</tr><tr><td>250</td>
+			<td>Villar, Bryan Jay [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Laude, John Paolo [PHL]</td>
+		</tr><tr><td>251</td>
+			<td>Cardenas, Charles [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Delos Santos, Jonathan [PHL]</td>
+		</tr><tr><td>252</td>
+			<td>Coilan, Marchad [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Balajadia, Jonji [PHL]</td>
+		</tr><tr><td>253</td>
+			<td>Maligayo, Juanimar [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Villano, Michael Josep [PHL]</td>
+		</tr><tr><td>254</td>
+			<td>Alba, Merbert [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>abellana, linneaus [PHL]</td>
+		</tr><tr><td>255</td>
+			<td>Manuel, Michael [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Manalang, Jo Angelo [PHL]</td>
+		</tr><tr><td>256</td>
+			<td>Singian, Joseph Martin [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>cortezo, Guillermo [PHL]</td>
+		</tr><tr><td>257</td>
+			<td>Pangilinan, Aurelio [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rosales, Roldan [PHL]</td>
+		</tr><tr><td>258</td>
+			<td>Brown, timothy [HKG]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Abdul Rahim, Adnan Fai [MYS]</td>
+		</tr><tr><td>259</td>
+			<td>Encarnacion, Alain [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tan, Emerson [PHL]</td>
+		</tr><tr><td>260</td>
+			<td>Earl Bertuldo A, Willi [AFG]</td>
+			<td>Drew 0-0-0</td>
+			<td>vs.</td>
+			<td>Villo, Charlton [PHL]</td>
+		</tr><tr><td>261</td>
+			<td>Cabanilla, Christopher [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Imai, Ayato [JPN]</td>
+		</tr><tr><td>262</td>
+			<td>Barrientos, Raymond [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Formalejo, Zyrus [PHL]</td>
+		</tr><tr><td>263</td>
+			<td>Leonidas, Richard [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>De Vera, Alfredo [PHL]</td>
+		</tr><tr><td>264</td>
+			<td>Egalla, Neil Chester [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Titic, John Paul [PHL]</td>
+		</tr><tr><td>265</td>
+			<td>ryan gayomali, Luji [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>zzVIPSan juan, James [PHL]</td>
+		</tr><tr><td>266</td>
+			<td>Engalla, Joseph [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Osal, Rod M [PHL]</td>
+		</tr><tr><td>267</td>
+			<td>Azarcon, Jackson I [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Balisi, Robert [PHL]</td>
+		</tr><tr><td>268</td>
+			<td>Bulawan, Jeferson [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Belches, Michael [PHL]</td>
+		</tr><tr><td>269</td>
+			<td>Torres, Miguel [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Guasch, Eli [PHL]</td>
+		</tr><tr><td>270</td>
+			<td>Ilagan, Marco [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>De Jesus, Edmark [PHL]</td>
+		</tr><tr><td>271</td>
+			<td>Liaol, Yee Nan N [TWN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Canlas, Liam Daniel [PHL]</td>
+		</tr><tr><td>272</td>
+			<td>Carrillo, JL Nichole [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Marquez-Lim, Andrew [PHL]</td>
+		</tr><tr><td>273</td>
+			<td>Jaro, John [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>De Mesa, Vincent [SGP]</td>
+		</tr><tr><td>274</td>
+			<td>Ocbina, Michael [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Moreno, Ron [PHL]</td>
+		</tr><tr><td>275</td>
+			<td>Lopez, Stephen Michael [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gorospe, Kaiko [PHL]</td>
+		</tr><tr><td>276</td>
+			<td>Bulotano, Kevin [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Alonzo, Jayson [PHL]</td>
+		</tr><tr><td>277</td>
+			<td>zzVIPRala, Rommel [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yusi, Alexander L [PHL]</td>
+		</tr><tr><td>278</td>
+			<td>Pioquinto, Raymund C [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wong, Sain Lup [PHL]</td>
+		</tr><tr><td>279</td>
+			<td>Adona, Florencci [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Warren, Luis Anthony [PHL]</td>
+		</tr><tr><td>280</td>
+			<td>Jose, Josef [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Warren, Raphael Angelo [PHL]</td>
+		</tr><tr><td>281</td>
+			<td>Rama, Oliver [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Caluza, Allan [PHL]</td>
+		</tr><tr><td>282</td>
+			<td>Ebreo, James [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Dela Pe&ntilde;a, Michael Ang [PHL]</td>
+		</tr><tr><td>283</td>
+			<td>Dealca, Zachary Manuel [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rodriguez, Michael [PHL]</td>
+		</tr><tr><td>284</td>
+			<td>Eusebio, Ariel [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bukuhan, Albert [PHL]</td>
+		</tr><tr><td>285</td>
+			<td>Dizon, Aian [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>teh, Ian [MYS]</td>
+		</tr><tr><td>286</td>
+			<td>Hernandez, Mark Daniel [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>zzVIPSy, Sandy [PHL]</td>
+		</tr><tr><td>287</td>
+			<td>Martin, Joel [PHL]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Bueno, Denis [PHL]</td>
+		</tr><tr><td>288</td>
+			<td>Carriaga, Vonn [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>zzVIPsy, Sherwin [PHL]</td>
+		</tr><tr><td>289</td>
+			<td>Chan, Ron [MYS]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>zzVIPValois, Franz Arn [PHL]</td>
+		</tr><tr><td>290</td>
+			<td>Evangelio, Michael Ang [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sincero, Ramer [PHL]</td>
+		</tr><tr><td>291</td>
+			<td>Yu, Joseph Cassidy [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Del Pilar, Christian [PHL]</td>
+		</tr><tr><td>292</td>
+			<td>David, Ace York [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cuyco, Francisco Paolo [PHL]</td>
+		</tr><tr><td>293</td>
+			<td>Sinsuat, Sayyid Ahmad [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Valdez, Chriz Albynne [PHL]</td>
+		</tr><tr><td>294</td>
+			<td>David, Edward [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dilao, Marvin [PHL]</td>
+		</tr><tr><td>295</td>
+			<td>Salcedo, Alden [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>San Andres, Dennis [PHL]</td>
+		</tr><tr><td>296</td>
+			<td>Gamurot, Timothy Ralph [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>De Quiros, Paul Michae [PHL]</td>
+		</tr><tr><td>297</td>
+			<td>Quinitio, Joseph [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Chan, Jacky [PHL]</td>
+		</tr><tr><td>298</td>
+			<td>Torralba, Samuel [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Madrigal, Ricky [PHL]</td>
+		</tr><tr><td>299</td>
+			<td>Monforte, Roel Angelo [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Caguiat, Froilan Archi [PHL]</td>
+		</tr><tr><td>300</td>
+			<td>Lao, Nel Anthony [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sy, Darwin Johnson [PHL]</td>
+		</tr><tr><td>301</td>
+			<td>De La Cruz, Mark Brian [PHL]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Gallego, Joel [PHL]</td>
+		</tr><tr><td>302</td>
+			<td>Ang, Nathaniel Y [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Paterter, John Patrick [PHL]</td>
+		</tr><tr><td>303</td>
+			<td>zzVIPGo, Patrick Lian [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>De Leon, Earl Christop [PHL]</td>
+		</tr><tr><td>304</td>
+			<td>Santiago, Kyle Christi [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cepeda, Jesus Hayri [PHL]</td>
+		</tr><tr><td>305</td>
+			<td>Albaran, Noriel [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Roca, Maria C [PHL]</td>
+		</tr><tr><td>306</td>
+			<td>Almendral, Adrian Karl [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Caquioa, Enrique Ray [PHL]</td>
+		</tr><tr><td>307</td>
+			<td>Qui&ntilde;a, Mark Emmanuel [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Maramba, Emmanuel John [PHL]</td>
+		</tr><tr><td>308</td>
+			<td>Eco, Edencio Quincy B [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sacluti, Aldous Sandro [PHL]</td>
+		</tr><tr><td>309</td>
+			<td>Cabrera, Mon [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>tong, Eugene [MYS]</td>
+		</tr><tr><td>310</td>
+			<td>Felalvero, Melvin Ryan [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Celera, Carl Cedric [PHL]</td>
+		</tr><tr><td>311</td>
+			<td>Reloj, Jeremy [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Espa&ntilde;ol, James Lawrenc [PHL]</td>
+		</tr><tr><td>312</td>
+			<td>Bautista, Victor [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Reyes, Marcel [PHL]</td>
+		</tr><tr><td>313</td>
+			<td>zzVIPAustria, Dennis [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Belludo, Allan Paolo [PHL]</td>
+		</tr><tr><td>314</td>
+			<td>Ong, Bryan K [MYS]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>valmadrid, Carmelo [PHL]</td>
+		</tr><tr><td>315</td>
+			<td>Castillo, Ni&ntilde;o Romano [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Villafuerte, Jaime V. [PHL]</td>
+		</tr><tr><td>316</td>
+			<td>Cariaso, Dave [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Espeso, John [PHL]</td>
+		</tr><tr><td>317</td>
+			<td>Lincod, Dedan [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Coo, Rei Anthony V [PHL]</td>
+		</tr><tr><td>318</td>
+			<td>Barcena, Anthony James [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Arig, Loki [PHL]</td>
+		</tr><tr><td>319</td>
+			<td>Relucio, Jonathan [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Pancho, Monico Jr [PHL]</td>
+		</tr><tr><td>320</td>
+			<td>Manangu, Michael [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lemmon, Andrew [KOR]</td>
+		</tr><tr><td>321</td>
+			<td>zzVIPadolfo E, Larry [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sanchez, Paul Johansen [PHL]</td>
+		</tr><tr><td>322</td>
+			<td>Ramos, Mark [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Salem, Josep S [PHL]</td>
+		</tr><tr><td>323</td>
+			<td>zzVIPkumar, Mylen [MYS]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mendoza, Mykiel [PHL]</td>
+		</tr><tr><td>324</td>
+			<td>Segovia, Dennis Guy [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bustamante, Richard [PHL]</td>
+		</tr><tr><td>325</td>
+			<td>Rombawa, Julius Adrian [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Karim N. Padilla, Patr [PHL]</td>
+		</tr><tr><td>326</td>
+			<td>Ham, Vincent Ryan [PHL]</td>
+			<td>Lost 0-1</td>
+			<td>vs.</td>
+			<td>Miguel Padaca, Frederi [PHL]</td>
+		</tr><tr><td>327</td>
+			<td>Prudente, Marvin [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Amon, Jay [PHL]</td>
+		</tr><tr><td>328</td>
+			<td>Avecilla, Franklin [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Santiago, Kevin [PHL]</td>
+		</tr><tr><td>329</td>
+			<td>Lapitan, Mark Christia [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Avedillo, Kevin [PHL]</td>
+		</tr><tr><td>330</td>
+			<td>Evacula, Egie [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Morente, Karl Jason [PHL]</td>
+		</tr><tr><td>331</td>
+			<td>Patio, Mark Donnel [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lajom, Anthony [PHL]</td>
+		</tr><tr><td>332</td>
+			<td>Dolor, Jose Florencio [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Evangelista, Jandell [PHL]</td>
+		</tr><tr><td>333</td>
+			<td>Paul manuel, James [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Santiago, Emerson [PHL]</td>
+		</tr><tr><td>334</td>
+			<td>Osila, Raul Jr [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Yap, Frederick Allen [PHL]</td>
+		</tr><tr><td>335</td>
+			<td>Malinao, Joseph Elijah [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ang, Jorrell [PHL]</td>
+		</tr><tr><td>336</td>
+			<td>Chuateco, Kenneth [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Dela Riva, Mark Christ [PHL]</td>
+		</tr><tr><td>337</td>
+			<td>Constantino, Japhet Ky [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Erick C. Vi&ntilde;alon, John [PHL]</td>
+		</tr><tr><td>338</td>
+			<td>Barrameda, Spencer Ben [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Arroyo, Andrew [PHL]</td>
+		</tr><tr><td>339</td>
+			<td>Macaranas, John [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nocon, Ivan Ian [PHL]</td>
+		</tr><tr><td>340</td>
+			<td>Retazo, Reynan [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ledon, Joseph Ryan q [PHL]</td>
+		</tr><tr><td>341</td>
+			<td>Fortaleza, Floyd Paul [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Mendoza, Fiona Nika [PHL]</td>
+		</tr><tr><td>342</td>
+			<td>sheng kWang, Hang [MYS]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Piquero, Giancarlo [PHL]</td>
+		</tr><tr><td>343</td>
+			<td>Viclar, Ferdinand [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sadian, Dennis Albert [PHL]</td>
+		</tr><tr><td>344</td>
+			<td>Tobias, Charles [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Briones, Marion [PHL]</td>
+		</tr><tr><td>345</td>
+			<td>Ta&ntilde;eza, Dexter Allan D [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gutierrez, Paolo Marti [PHL]</td>
+		</tr><tr><td>346</td>
+			<td>Lim, Jamin [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Laureta, Martin [PHL]</td>
+		</tr><tr><td>347</td>
+			<td>Francisco, Mark Philip [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Vargas, Mark Jayson [PHL]</td>
+		</tr><tr><td>348</td>
+			<td>Plimaco, Dennis [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Egalla, Jay-Ar [PHL]</td>
+		</tr><tr><td>349</td>
+			<td>Vistro, Carlo [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>sindayen, marconee p [PHL]</td>
+		</tr><tr><td>350</td>
+			<td>Layson, Jannah Red [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>De Castro, Tyrell Kier [PHL]</td>
+		</tr><tr><td>351</td>
+			<td>Hernando, Hervin [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Labrador, Michael [PHL]</td>
+		</tr><tr><td>352</td>
+			<td>Rombada, Jayson [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Panopio, Richel [PHL]</td>
+		</tr><tr><td>353</td>
+			<td>Solleza, Rogelio III [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yap Lee Wei, Jeffrey [MYS]</td>
+		</tr><tr><td>354</td>
+			<td>Magpantay, Marlon [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Datuin, Mark David [PHL]</td>
+		</tr><tr><td>355</td>
+			<td>Caravana, Marlon [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Boy, Guillermo Jr [PHL]</td>
+		</tr><tr><td>356</td>
+			<td>Fernandez, Alvin John [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Granado, John Kenneth [PHL]</td>
+		</tr><tr><td>357</td>
+			<td>Guevarra, Jerome [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Alhambra, Patrick [PHL]</td>
+		</tr><tr><td>358</td>
+			<td>Zafra, Jaf [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tungol, John Paulo [PHL]</td>
+		</tr><tr><td>359</td>
+			<td>Vallesteros, Xezur T [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Aron, Michael [PHL]</td>
+		</tr><tr><td>360</td>
+			<td>Alejandro, Abiel A [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Dangan, Ralph [PHL]</td>
+		</tr><tr><td>361</td>
+			<td>Ibeas, Emmanuel [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cayubit, Aries [PHL]</td>
+		</tr><tr><td>362</td>
+			<td>Guerrero, Raphael [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Calaycay, Dan Arthur [PHL]</td>
+		</tr><tr><td>363</td>
+			<td>Hermoso, Vitto [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gante, Ernest Jesi [PHL]</td>
+		</tr><tr><td>364</td>
+			<td>Dacion, Franch [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Alaba, Jan Ivan [PHL]</td>
+		</tr><tr><td>365</td>
+			<td>zzVIPMedalla, Rolando [PHL]</td>
+			<td>Drew 0-0-0</td>
+			<td>vs.</td>
+			<td>Lee, Bobby [PHL]</td>
+		</tr><tr><td>366</td>
+			<td>Ignacio, Josep Benedic [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cruz, Paolo [PHL]</td>
+		</tr><tr><td>367</td>
+			<td>Montrias, Louie Mart [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>reyes cruz, gervin [PHL]</td>
+		</tr><tr><td>368</td>
+			<td>Wong, Louise Tse Yan T [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Duller, Mar John [PHL]</td>
+		</tr><tr><td>369</td>
+			<td>Toh, Shawn [SGP]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mendoza, John Wilkins [PHL]</td>
+		</tr><tr><td>370</td>
+			<td>Nebres, Michael [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Alegro, Valrey Marthe [PHL]</td>
+		</tr><tr><td>371</td>
+			<td>Gomez, Reinard Luis M [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Narbasa, Christian Eri [PHL]</td>
+		</tr><tr><td>372</td>
+			<td>Tabaosares, Adrian [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Santiago, Ram [PHL]</td>
+		</tr><tr><td>373</td>
+			<td>Alejandro, Jose Mari [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wong, James Vincent [PHL]</td>
+		</tr><tr><td>374</td>
+			<td>Uy, Jason [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Casipit, Ace [PHL]</td>
+		</tr><tr><td>375</td>
+			<td>Estandarte, Jemuel [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Evangelista, John [PHL]</td>
+		</tr><tr><td>376</td>
+			<td>I&ntilde;igo, Jose Luis A [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Decon, Rexson [PHL]</td>
+		</tr><tr><td>377</td>
+			<td>Ronquillo, Juan Carlo [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Macas, David Hyon [PHL]</td>
+		</tr><tr><td>378</td>
+			<td>Olivete, Jayron C [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Peyra, Christopher [PHL]</td>
+		</tr><tr><td>379</td>
+			<td>Rosales, Orlando [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Brinas, Richard [PHL]</td>
+		</tr><tr><td>380</td>
+			<td>Vicencio, Wyngard [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Enriquez, Jerome [PHL]</td>
+		</tr><tr><td>381</td>
+			<td>Baustista, Nino [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>jeffrey cantillas, jay [PHL]</td>
+		</tr><tr><td>382</td>
+			<td>Ere&ntilde;eta, Kevin Christi [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Benitez, Erick [PHL]</td>
+		</tr><tr><td>383</td>
+			<td>Pusta, Paolo Louise [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Redoblado, Jorel [PHL]</td>
+		</tr><tr><td>384</td>
+			<td>Alonzo, Criztal Gale [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cuales, Rod Mart [PHL]</td>
+		</tr><tr><td>385</td>
+			<td>Oliver P Hugo, Sean [AFG]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>De Ocampo, Liezl [PHL]</td>
+		</tr><tr><td>386</td>
+			<td>zzVIPTaylor, September [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Del Rosario, Robi [PHL]</td>
+		</tr><tr><td>387</td>
+			<td>Abawan, Reynaldo [PHL]</td>
+			<td>Drew 0-0-0</td>
+			<td>vs.</td>
+			<td>Pueblo, Garielond [PHL]</td>
+		</tr><tr><td>388</td>
+			<td>Reyes, Arnold [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Natividad, Lawrence [PHL]</td>
+		</tr><tr><td>389</td>
+			<td>Bonga, Arnold Irving [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Reyes, Kyle [PHL]</td>
+		</tr><tr><td>390</td>
+			<td>Almario, Jose Manuel [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rodelas, Earl [PHL]</td>
+		</tr><tr><td>391</td>
+			<td>Francisco, Erwin D [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Go, Christopher6879 [PHL]</td>
+		</tr><tr><td>392</td>
+			<td>Javellana, Joshua [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Biocarles, Joenasky [PHL]</td>
+		</tr><tr><td>393</td>
+			<td>Cazudo, Jun Era [PHL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Reyes, Angelo [PHL]</td>
+		</tr><tr><td>394</td>
+			<td>Barrios, Rheymar [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Guillen, Mark [PHL]</td>
+		</tr><tr><td>395</td>
+			<td>Lobitos, Juanito Jr [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lazo, Johnson Robert A [PHL]</td>
+		</tr><tr><td>396</td>
+			<td>Tolentino, Ernesto Jr [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Urian, John Paul [PHL]</td>
+		</tr><tr><td>397</td>
+			<td>Soon, Joshua [PHL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Parra, John Joseph [PHL]</td>
+		</tr><tr><td>398</td>
+			<td>Guevara, Alfred [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tam, Jeffrey [PHL]</td>
+		</tr><tr><td>399</td>
+			<td>Noblefranca, Emerson L [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mendoza, Barleon [PHL]</td>
+		</tr><tr><td>400</td>
+			<td>Balisi, Wilson Lim [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Torres, Lex [PHL]</td>
+		</tr><tr><td>401</td>
+			<td>Ivan Molina, Lester [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Diaz, Michael Guezzo [PHL]</td>
+		</tr><tr><td>402</td>
+			<td>David, Elgene [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Palis, Emmanuel Ravell [PHL]</td>
+		</tr><tr><td>403</td>
+			<td>Paglinawan, Donardo II [PHL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>moralina, jesse l [PHL]</td>
+		</tr><tr><td></td>
+			<td>Cuevas, Exequiel [PHL]</td>
+			<td></td>
+			<td></td>
+			<td>* BYE *</td>
+		</tr></tbody></table><p></p></body></html>
+      </div>
+
+      <!-- BEGIN :: Article footer -->
+      <div class="article-footer">
+        <p class="posted-in">
+          Posted in          <a href="/en/events/coverage/gpman15">GRAND PRIX MANILA 2015</a>
+          on January 4, 2015        </p>
+      </div>
+      <!-- END :: Article footer -->
+
+    </article>
+  </div>
+
+  <!-- BEGIN :: ASIDE -->
+        <aside>
+      <div class="aside-wrapper">
+        
+
+            <h2><span>FEATURED ARTICLE</span></h2>
+      <div class="articles-bloc">
+            <div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/UR20150402_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="cat">UNCHARTED REALMS</a>
+      <p class="date">April 2, 2015</p>
+      <a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="title">The Guardian</a>
+              <a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="auth">Ari Levitch</a>
+      
+      <div class="infos">
+                  <p>Anafenza's fate has been less kind in this Tarkir, but no less grand…
+</p>
+                <p><a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div><div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/ARC20150402_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="cat">ARCANA</a>
+      <p class="date">April 2, 2015</p>
+      <a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="title">Art Descriptions of the Not-Khans</a>
+              <a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="auth">Blake Rasmussen</a>
+      
+      <div class="infos">
+                  <p>The descriptions that drove the art of the non-khans of Tarkir in Dragons of Tarkir.
+</p>
+                <p><a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div>          </div>
+            
+      <h2><span>EVENTS</span></h2>
+      <div class="articles-bloc">
+    <div class="article static pub-event "
+         style="background-image: url(http://magic.wizards.com/sites/mtg/files/FNMFeb_GutterAd_A.jpg)">
+      <div class="wrap details">
+                  <img src="http://magic.wizards.com/sites/mtg/files/FNMFeb_GutterAd_B.png" />
+                <p class="date"></p>
+                  <p class="description">Get an alternative-art promo of Disdainful Stroke!</p>
+                          <p>
+            <a class="learn-more " href="http://magic.wizards.com/en/events/event-types/friday-night-magic" data-video-url="">
+              Friday Night Magic            </a>
+          </p>
+              </div>
+    </div>
+  </div>
+              <h2><span>PRODUCTS</span></h2>
+            </div>
+    </aside>
+    <!-- END :: ASIDE -->
+
+  </div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+  </div>
+
+  <!-- Footer -->
+    <footer>
+    <div id="back-to-top">
+      <a href="#viewport">Back to top</a>
+    </div>
+    <div id="where-to-buy">
+      <div class="content page-width">
+        <form action="/en/events/coverage/gpman15/round-9-results-2015-01-03" method="post" id="wiz-store-and-event-locator-search-form--2" accept-charset="UTF-8"><div><div class="intro"><div class="wrap"><h5>Where to Play and Buy</h5><p>Find a location to buy or play<br />Magic: The Gathering near you.</p></div></div><div class="form"><div class="wrap"><span class="column zip-code"><div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Enter your city or postal code" type="text" id="edit-search-string--4" name="search-string" value="" size="25" maxlength="128" class="form-text" />
+</div>
+</span><span class="column actions"><button class="action-button" type="submit">Find Now !</button></span></div></div><input class="hide form-submit" type="submit" id="edit-search-button--4" name="op" value="Find Now" /><input type="hidden" name="form_build_id" value="form-u9N9tBMLUllRSIuIZYbJQHrOChVn4UPbufEbBOpOKtk" />
+<input type="hidden" name="form_id" value="wiz_store_and_event_locator_search_form" />
+</div></form>      </div>
+    </div>
+
+    <div class="main-footer">
+      <div class="content page-width">
+        <div class="text">
+                      <div id="locale-select">
+              <label for="locale-select-ddl">Select your language:</label>
+
+              <div class="select-wrapper">
+                <select id="locale-select-ddl">
+                  <option value="/zh-hans" >简体中文</option><option value="/zh-hant" >繁體中文</option><option value="/fr" >Français</option><option value="/de" >Deutsch</option><option value="/it" >Italiano</option><option value="/ja" >日本語</option><option value="/ko" >한국어</option><option value="/pt-br" >Português (Brasil)</option><option value="/ru" >Русский</option><option value="/es" >Español</option><option value="/en" selected>English</option>                </select>
+              </div>
+            </div>
+          
+          
+
+      <p class="brand-family-title">Wizards Brand Family</p>
+    <p class="brand-family-menu"><a href="http://magic.wizards.com" target="_blank">magic</a> <em>|</em> <a href="http://www.wizards.com/dnd" target="_blank">d&amp;d</a> <em>|</em> <a href="http://www.wizards.com/wpn" target="_blank">wpn</a> <em>|</em> <a href="http://dm.takaratomy.co.jp" target="_blank">duel masters</a> <em>|</em> <a href="http://www.wizards.com/default.asp?x=ah/welcome" target="_blank">avalon hill</a></p>
+  <p><a href="http://company.wizards.com/tou" target="_blank">Terms of Use</a> <em>|</em> <a href="http://company.wizards.com/conduct" target="_blank">Code of Conduct</a> <em>|</em> <a href="http://company.wizards.com/policy" target="_blank">Privacy Policy</a> <em>|</em> <a href="http://www.wizards.com/customerservice" target="_blank">Customer Service</a> <em>|</em> <a href="/en/articles/archive/our-cookie-policy-2013-10-28">Cookies</a></p>
+  <p class="copyright">© 1995-2016 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved.</p>
+
+        </div>
+        
+
+      <p class="logo wizard">
+      <a href="http://company.wizards.com"
+         target="_blank"
+         title="Wizards of the Coast"
+        ><img src="/sites/all/themes/wiz_mtg/img/interface/wizard-of-the-coast-logo.png" alt="Wizards of the Coast" /></a>
+    </p>
+  
+      <p class="logo hasbro">
+      <a href="http://www.hasbro.com"
+         target="_blank"
+         title="Hasbro"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/hasbro-logo.svg" alt="Hasbro" /></a>
+    </p>
+  
+      <p class="logo privacy">
+      <a href="http://www.esrb.org/confirm/wizards-confirmation.aspx"
+         target="_blank"
+         title="ESRB Privacy Certified"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/esrb-badge.png" alt="ESRB Privacy Certified" /></a>
+    </p>
+  
+      </div>
+    </div>
+  </footer>
+  </div>
+
+<div id="cookies-warning">
+	<div class="wrap page-width">
+		<div class="text">
+			<p>
+        We use cookies on this site to enhance your user experience. By clicking any link on this page or by clicking <strong>Yes</strong>, you are giving your consent for us to set cookies.        <a href="http://company.wizards.com/policies/web/cookie" target="_blank"> (Learn more about cookies)</a>
+      </p>
+		</div>
+		<p class="actions">
+			<button type="button" class="button agree">Yes, I agree</button>
+			<a href="http://company.wizards.com/policies/web/cookie" target="_blank" class="button disagree">No, I want to find out more</a>
+		</p>
+	</div>
+</div>      <div class="region region-page-bottom">
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>  </div>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_oi0ujkYeWtu_4YlJE5uYvltQ88urtOHuaNRm2scTWco.js"></script>
+  </div>
+
+	<!-- Crazy Egg -->
+	<script type="text/javascript">
+		setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName("script")[0];
+		a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0009/9185.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+	</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d92d812ac7","applicationID":"22111946","transactionName":"YVNXMkcAD0sHAUdcXFgZdAVBCA5WSRJSUlZpW1QIVAYESjkMXFFWaUBcA0I+EVkBBw==","queueTime":0,"applicationTime":651,"atts":"TRRURA8aHEU=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

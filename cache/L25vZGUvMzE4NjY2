@@ -1,0 +1,3673 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+  <title>GROUP 1, ROUND 6 RESULTS | MAGIC: THE GATHERING</title>
+
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"/>
+  <meta name="format-detection" content="telephone=no"/>
+	<meta name="google-site-verification" content="WquIfqfWtlm2X62GTeJ-5vDtRrbOVOIT6mFc3vAP5BQ" />
+
+  <link rel="icon" type="image/png" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/sites/all/themes/wiz_mtg/icons/favicon.ico"/>
+  <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/wiz_mtg/icons/touch-icon-57.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/wiz_mtg/icons/touch-icon-72.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/wiz_mtg/touch-icon-114.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://magic.wizards.com/sites/all/themes/wiz_mtg/favicon.ico" type="image/vnd.microsoft.icon" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="description" content="Complete coverage of Grand Prix Milan&amp;#13; &amp;#13; &amp;#13; &amp;#13; &amp;#13; &amp;#13;" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://magic.wizards.com/en/events/coverage/gpmil15/group-1-round-6-results-2014-12-13" />
+<link rel="shortlink" href="http://magic.wizards.com/en/node/318666" />
+<meta property="og:site_name" content="MAGIC: THE GATHERING" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://magic.wizards.com/en/events/coverage/gpmil15/group-1-round-6-results-2014-12-13" />
+<meta property="og:title" content="GROUP 1, ROUND 6 RESULTS" />
+<meta property="og:description" content="Complete coverage of Grand Prix Milan&amp;#13; &amp;#13; &amp;#13; &amp;#13; &amp;#13; &amp;#13;" />
+<meta property="og:image" content="http://magic.wizards.com/sites/mtg/files/images/hero/icon_generic_wizards_purple.jpg" />
+  <link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_DHcXHPYBSjIVaCQZEG4ZlpLkvslnFlBCnQUCzlbRBio.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_jqLG8JVbJuXMDDISe4UsZMUj_1qh-z0BGGAnA4OQvrA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_IIxgQdBS3hICu6Ps9jWiboRWYhCChZSb8zy58PRgH-8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_sELblXm0HE9iYxNNwDufKAxxNQ7ZkF6_ABbBSpg1HBE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/1.10.5/css/jquery.dataTables.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/responsive/1.0.4/css/dataTables.responsive.css" media="all" />
+  <script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_melyhmK_eh6sYXp2z9ljBIs419nCvgG6X4XWQKGJjng.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_yRh3TUp_QoC2vC9PitxLvVXRHsQUtJt-ObNFP_v6h-k.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_1swqkjOwmrPjTNzECJhtuekK-QJ_S5vc3xlUxa4gvEI.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_V7ygvngkUS6TCF6pK434j1Pj29d0hmeDnqUTPlcHIsw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-15020098-13", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "pathToTheme": "sites/all/themes/wiz_mtg" });
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://accounts.wizards.com/Widget/Widget.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_tuIsI7hTJyYf1XxjjnXVjPFwG177VUndBDGTmD13oH0.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_JIa4YdILIwnQQfsYZSjX1gz9IUt6emOIXEvyA44TWDI.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/responsive/1.0.4/js/dataTables.responsive.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"wiz_mtg","theme_token":"ciUEUZL_4wkvrteMk8-EeX9Fl0hAFF6zkcefOZh_ZhE","jquery_version":"1.8","js":{"sites\/all\/themes\/wiz_mtg\/js\/ShareButton.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/masonry.pkgd.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/wiz_autocard.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/d3.v3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.charts.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/wiz_decklist_filter\/js\/wiz_decklist_filter.js":1,"sites\/all\/modules\/custom\/wiz_show_period\/js\/moment.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper-2.1.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper.scrollbar-2.1.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/custom.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/deletecookies.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"https:\/\/accounts.wizards.com\/Widget\/Widget.js":1,"sites\/all\/modules\/custom\/wiz_npsu\/js\/npsu_widget.js":1,"sites\/all\/themes\/wiz_mtg\/js\/image-comparison-slider.js":1,"sites\/all\/libraries\/foresee\/foresee-trigger.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery-ui.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/content-gallery-grid\/modernizr.custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.fancybox.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.scrollbar.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.mmenu.oncanvas.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.columnlist.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/dropdown.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/owl.carousel.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/stacktable.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/arketype.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-homepage-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-event-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/interstitials.js":1,"sites\/all\/themes\/wiz_mtg\/js\/community.js":1,"sites\/all\/themes\/wiz_mtg\/js\/inline-features.js":1,"sites\/all\/themes\/wiz_mtg\/js\/MainMenu.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ParallaxBackground.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ShowHideListItems.js":1,"sites\/all\/themes\/wiz_mtg\/js\/core.js":1,"sites\/all\/themes\/wiz_mtg\/js\/mx.js":1,"\/\/cdn.datatables.net\/1.10.5\/js\/jquery.dataTables.min.js":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/js\/dataTables.responsive.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.scrollbar.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/chartbeat\/chartbeat.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/wiz_npsu\/css\/npsu.css":1,"sites\/all\/modules\/custom\/wiz_npsu_mtg\/css\/npsu_mtg.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery-ui-mod.css":1,"sites\/all\/themes\/wiz_mtg\/css\/owl.carousel.css":1,"sites\/all\/themes\/wiz_mtg\/css\/scrollbars.css":1,"sites\/all\/themes\/wiz_mtg\/css\/fonts.css":1,"sites\/all\/themes\/wiz_mtg\/css\/core.css":1,"sites\/all\/themes\/wiz_mtg\/css\/header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/footer.css":1,"sites\/all\/themes\/wiz_mtg\/css\/page-header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/medias.css":1,"sites\/all\/themes\/wiz_mtg\/css\/search.css":1,"sites\/all\/themes\/wiz_mtg\/css\/decklist.css":1,"sites\/all\/themes\/wiz_mtg\/css\/articles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/game-info.css":1,"sites\/all\/themes\/wiz_mtg\/css\/events.css":1,"sites\/all\/themes\/wiz_mtg\/css\/community.css":1,"sites\/all\/themes\/wiz_mtg\/css\/mx.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/immersive.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/interstitials.css":1,"sites\/all\/themes\/wiz_mtg\/css\/styles-extended.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacy.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacyStyles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/_theme-override.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic":1,"\/\/cdn.datatables.net\/1.10.5\/css\/jquery.dataTables.css":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/css\/dataTables.responsive.css":1}},"chartbeat":{"uid":51341,"domain":"http:\/\/magiccv2stg.prod.acquia-sites.com\/","useCanonical":true,"noCookies":false},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":330,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"wiz_core":{"wiz_core_switch_in_days":14,"wiz_core_switch_in_visits":10,"wiz_core_switch_b_path":"home"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"npsu_widget":{"enabled":true,"logged_in":"false"},"urlIsAjaxTrusted":{"\/en\/events\/coverage\/gpmil15\/group-1-round-6-results-2014-12-13":true}});
+//--><!]]>
+</script>
+
+  
+        <style>
+      @media all {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png) no-repeat;
+          background-size: 100% 100px;
+
+        }
+        #mobile-menu .header .logo a {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 100%;
+        }
+        #page.snap-menu header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+      @media (max-width: 1200px) {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+    </style>
+  	
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-318666 node-type-article i18n-en content-non-panels role-anonymous-user with-subnav page-events-coverage-gpmil15-group-1-round-6-results-2014-12-13 section-events" >
+  <script>
+  /* Interstitials variables */
+  var Interstitials = {
+    list: [
+                        ]
+  };
+  </script>
+
+  <div id="page" class="section_articles article_detail">
+    
+        <div id="mobile-menu">
+  <div class="header">
+    <div class="logo"></div>
+    <div class="toggle-menu-button"></div>
+  </div>
+  <nav>
+    <div class="menu-wrapper" data-back-label="Back"></div>
+  </nav>
+</div>
+
+<div id="viewport">
+  <!-- Header -->
+  <header>
+    <div class="wrapper">
+      <div id="utils">
+        <a href="http://locator.wizards.com/" class="locator">Locator</a> <a href="http://gatherer.wizards.com" class="gatherer">Card Database</a>        <a href="/en" title="Sign In" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;SignIn&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showLoginModal();" id="SignInButton" class="login">Sign In</a> | <a href="/en" title="Sign Up" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Signup&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showJoinModal();" id="RegisterButton" class="register">Sign Up</a>        <div id="search-form">
+          <form action="/en/events/coverage/gpmil15/group-1-round-6-results-2014-12-13" method="post" id="wiz-search-bar-form--2" accept-charset="UTF-8"><div><input type="hidden" name="search-site" value="acquia_search" />
+<div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Search Anything" type="text" id="edit-search-string--3" name="search-string" value="" size="25" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-search-button--3" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-zewMRcr8re0L14jwBmF-LENORx4Ssvl_585sc6ug3ig" />
+<input type="hidden" name="form_id" value="wiz_search_bar_form" />
+</div></form>        </div>
+      </div>
+
+      <!-- Menu -->
+      <nav id="menu">
+        <a class="home" href="/en"><span>Magic the Gathering</span></a>
+
+        <div class="menu-wrapper">
+          <ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#signinbutton').attr('onclick',-'return-wotcaccountwidget.showloginmodal();');</script> has-children"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#SignInButton').attr('onclick', 'return wotcAccountWidget.showLoginModal();');</script></span></a><ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#registerbutton').attr('onclick',-'return-wotcaccountwidget.showjoinmodal();');</script>"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#RegisterButton').attr('onclick', 'return wotcAccountWidget.showJoinModal();');</script></span></a></li>
+<li class="mn_section_strategy"><a href="/en/content/strategy"><span>Strategy</span></a></li>
+<li class="mn_section_lore"><a href="/en/content/new-to-magic/lore"><span>Lore</span></a></li>
+<li class="mn_section_community"><a href="/en/content/new-to-magic/community"><span>Community</span></a></li>
+</ul></li>
+<li class="mn_section_game-info has-children"><a href="/en/game-information"><span>GAME INFO</span></a><ul class="menu"><li class="hub-link GAME INFO"><a href="/en/game-information"><span>GAME INFO</span></a></li>
+<li class="mn_section_gameplay has-children"><a class="nolink"><span>GAMEPLAY</span></a><ul class="menu"><li class="mn_section_about-the-game"><a href="/en/game-info/gameplay/about-the-game"><span>ABOUT THE GAME</span></a></li>
+<li class="mn_section_how-to-play"><a href="/en/game-info/gameplay/how-to-play"><span>HOW TO PLAY</span></a></li>
+<li class="mn_section_how-to-build-a-deck"><a href="/en/game-info/gameplay/how-to-build-a-deck"><span>HOW TO BUILD A DECK</span></a></li>
+<li class="mn_section_improve-your-game"><a href="/en/game-info/gameplay/improve-your-game"><span>IMPROVE YOUR GAME</span></a></li>
+<li class="mn_section_rules-&-formats"><a href="/en/game-info/gameplay/rules-and-formats"><span>RULES & FORMATS</span></a></li>
+</ul></li>
+<li class="mn_section_products has-children"><a class="nolink"><span>PRODUCTS</span></a><ul class="menu"><li class="mn_section_featured-<br>releases"><a href="/en/game-info/products/featured-releases"><span>FEATURED <BR>RELEASES</span></a></li>
+<li class="mn_section_coming-soon"><a href="/en/game-info/products/coming-soon"><span>COMING SOON</span></a></li>
+<li class="mn_section_magic-duels"><a href="/en/content/magic-duels"><span>MAGIC DUELS</span></a></li>
+<li class="mn_section_magic-online"><a href="/en/content/magic-online-products-game-info"><span>MAGIC ONLINE</span></a></li>
+<li class="mn_section_card-set-archive"><a href="/en/game-info/products/card-set-archive"><span>CARD SET ARCHIVE</span></a></li>
+</ul></li>
+<li class="mn_section_story has-children"><a class="nolink"><span>STORY</span></a><ul class="menu"><li class="mn_section_magic's-story"><a href="/en/game-info/story/magic-story"><span>MAGIC'S STORY</span></a></li>
+<li class="mn_section_planeswalkers"><a href="/en/game-info/story/planeswalkers"><span>PLANESWALKERS</span></a></li>
+<li class="mn_section_planes"><a href="/en/game-info/story/planes"><span>PLANES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_events has-children current"><a href="/en/events" class="active-trail"><span>EVENTS</span></a><ul class="menu"><li class="hub-link EVENTS"><a href="/en/events"><span>EVENTS</span></a></li>
+<li class="mn_section_events-home"><a href="/en/events"><span>EVENTS HOME</span></a></li>
+<li class="mn_section_what-is-<br>organized-play"><a href="/en/events/what-is-organized-play"><span>WHAT IS <br>ORGANIZED PLAY?</span></a></li>
+<li class="mn_section_event<br>-types"><a href="/en/events/event-types"><span>EVENT<br> TYPES</span></a></li>
+<li class="mn_section_coverage has-children current"><a class="active-trail nolink"><span>COVERAGE</span></a><ul class="menu"><li class="mn_section_coverage-archive current"><a href="/en/events/coverage" class="active-trail"><span>COVERAGE ARCHIVE</span></a></li>
+<li class="mn_section_top-players"><a href="/en/events/coverage/top-players"><span>TOP PLAYERS</span></a></li>
+</ul></li>
+<li class="mn_section_schedules"><a href="/en/content/premier-events-schedule#/overview"><span>SCHEDULES</span></a></li>
+<li class="mn_section_resources has-children"><a class="nolink"><span>RESOURCES</span></a><ul class="menu"><li class="mn_section_planeswalker-points"><a href="/en/events/resources/planeswalker-points"><span>PLANESWALKER POINTS</span></a></li>
+<li class="mn_section_judges"><a href="/en/events/resources/judges"><span>JUDGES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_articles has-children"><a href="/en/content/articles"><span>ARTICLES</span></a><ul class="menu"><li class="hub-link ARTICLES"><a href="/en/content/articles"><span>ARTICLES</span></a></li>
+<li class="mn_section_articles-home"><a href="/en/content/articles"><span>ARTICLES HOME</span></a></li>
+<li class="mn_section_columns has-children"><a id="columns" class="nolink"><span>COLUMNS</span></a><ul class="menu"><li class="mn_section_columnists"><a href="/en/articles/columns/columnists"><span>COLUMNISTS</span></a></li>
+<li class="mn_section_making-magic"><a href="/en/articles/columns/making-magic-archive"><span>MAKING MAGIC</span></a></li>
+<li class="mn_section_magic-story"><a href="/en/articles/columns/magic-story-archive"><span>MAGIC STORY</span></a></li>
+<li class="mn_section_top-decks"><a href="/en/articles/columns/top-decks-archive"><span>TOP DECKS</span></a></li>
+<li class="mn_section_organized-<br>play"><a href="/en/articles/columns/organized-play-archive" title="Organized Play"><span>ORGANIZED <br>PLAY</span></a></li>
+<li class="mn_section_latest-<br>developments"><a href="/en/articles/columns/latest-developments-archive"><span>LATEST <br>DEVELOPMENTS</span></a></li>
+</ul></li>
+<li class="mn_section_archives"><a href="/en/articles/archive"><span>ARCHIVES</span></a></li>
+<li class="mn_section_winning-decks"><a href="/en/articles/winning-decks"><span>WINNING DECKS</span></a></li>
+<li class="mn_section_media has-children"><a class="nolink"><span>MEDIA</span></a><ul class="menu"><li class="mn_section_videos"><a href="/en/articles/media/videos"><span>VIDEOS</span></a></li>
+<li class="mn_section_podcasts"><a href="/en/articles/media/podcasts"><span>PODCASTS</span></a></li>
+<li class="mn_section_wallpapers"><a href="/en/articles/media/wallpapers"><span>WALLPAPERS</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_community has-children"><a href="/en/community"><span>COMMUNITY</span></a><ul class="menu"><li class="hub-link COMMUNITY"><a href="/en/community"><span>COMMUNITY</span></a></li>
+<li class="mn_section_community-home"><a href="/en/community"><span>COMMUNITY HOME</span></a></li>
+<li class="mn_section_fan-kits"><a href="/en/community/fan-kits"><span>FAN KITS</span></a></li>
+</ul></li>
+<li class="mn_section_my-accounts"><a href="/en/content/my-accounts"><span>MY ACCOUNTS</span></a></li>
+</ul>        </div>
+      </nav>
+    </div>
+  </header>
+
+  
+  <div id="content-wrapper">
+      <div class="region region-content">
+    
+<div id="block-system-main" class=" block block-system block-odd first last main clearfix">
+  <div class="block-inner">
+                <div class="content" >
+      <div id="content" class="page-width">
+
+  <div id="main-content">
+    <div id="breadcrumb">
+              <span ><a href="/en/events">EVENTS</a></span>
+              <span ><a href="/en/events/coverage">COVERAGE ARCHIVE</a></span>
+              <span class="current"><a href="/en/events/coverage/gpmil15">GRAND PRIX MILAN 2015</a></span>
+          </div>
+    <h1>GROUP 1, ROUND 6 RESULTS</h1>
+    <p class="posted-in">
+      Posted in      <a href="/en/events/coverage/gpmil15">GRAND PRIX MILAN 2015</a>
+      on December 13, 2014    </p>
+
+    <!-- BEGIN :: ARTICLE -->
+    <article>
+      <div class="article-header">
+
+                  <div class="author">
+            <img src="http://magic.wizards.com/sites/mtg/files/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg?itok=KENOTqfD" alt="" />
+            <p>By Wizards of the Coast</p>
+            <p class="links">
+                                            <span><a href="/en/articles/archive/184956" onClick="_gaq.push(['_trackEvent', 'Article', 'Author', 'Wizards of the Coast-Archive']);">Archive</a></span>
+                                        </p>
+            <div id="author-biography">
+                          </div>
+          </div>
+        
+        <div class="sharing">
+          <div class="social-share">
+            <a class="facebook" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpmil15/group-1-round-6-results-2014-12-13"><span class="share-count">0</span><span>&nbsp;Shares</span></a>
+            <a class="twitter" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpmil15/group-1-round-6-results-2014-12-13"><span class="share-count">0</span><span>&nbsp;Tweets</span></a>
+            <a class="google" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpmil15/group-1-round-6-results-2014-12-13"><span class="share-count">0</span><span>&nbsp;+</span></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div id="content-detail-page-of-an-article">
+        <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><ul><li><a href="/node/317876">Complete coverage of Grand Prix Milan</a></li>
+</ul><p></p>
+<sortrow></sortrow><p></p>
+
+<p></p>
+
+<p></p>
+
+<table shade="1" shadecolor="#ffffcc" w="500"><tbody><tr><td><b>Table</b></td>
+			<td><b>Player</b></td>
+			<td><b>Result</b></td>
+			<td></td>
+			<td><b>Opponent</b></td>
+		</tr><tr><td>1</td>
+			<td>Don&eacute;s, Mayantigo [ESP]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Blasi, Matteo [ITA]</td>
+		</tr><tr><td>2</td>
+			<td>Kauerauf, Pascal [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Dominguez, Javier [ESP]</td>
+		</tr><tr><td>3</td>
+			<td>Martini, Bernardo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>de gradi, andrea [ITA]</td>
+		</tr><tr><td>4</td>
+			<td>Pace, Flavio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>pizzi, William [ITA]</td>
+		</tr><tr><td>5</td>
+			<td>Krautmann, Wenzel [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Telarov, Aleksa [SEN]</td>
+		</tr><tr><td>6</td>
+			<td>vanderhallen, nicolas [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Paulmaier, Benjamin [DEU]</td>
+		</tr><tr><td>7</td>
+			<td>Carvalho, Marcio [PRT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sajgalik, Eduardo [GIB]</td>
+		</tr><tr><td>8</td>
+			<td>Blessent, Claudio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mangione, Vincenzo [ITA]</td>
+		</tr><tr><td>9</td>
+			<td>STIHLE, Julien [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Trauer, Pierre [DEU]</td>
+		</tr><tr><td>10</td>
+			<td>Schmittb&uuml;ttner, Markus [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Adebo Diaz, Juan Carlo [ESP]</td>
+		</tr><tr><td>11</td>
+			<td>Koksch, Florian [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cislaghi, Giacomo [ITA]</td>
+		</tr><tr><td>12</td>
+			<td>Hiness, Patric [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Van Holsbeeck, Kristof [BEL]</td>
+		</tr><tr><td>13</td>
+			<td>Horvat, Vjeran [HRV]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>OLARTEO OVALLE, ALVARO [ESP]</td>
+		</tr><tr><td>14</td>
+			<td>Lehner, Bernhard [AUT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>zzzVIP Zatlkaj, Matej [SVK]</td>
+		</tr><tr><td>15</td>
+			<td>Bianciotto, Davide [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Fior, Daniel [VEN]</td>
+		</tr><tr><td>16</td>
+			<td>Gr&uuml;ber, Klaas [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lippmann, Robert [DEU]</td>
+		</tr><tr><td>17</td>
+			<td>Quercetani, Massimilia [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Poroszkai, Laszlo [HUN]</td>
+		</tr><tr><td>18</td>
+			<td>Deltour, Louis Samuel [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>zzzVIP ucuzal, batuhan [TUR]</td>
+		</tr><tr><td>19</td>
+			<td>Crispino, Paolo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>zzz Lantto, Magnus [SWE]</td>
+		</tr><tr><td>20</td>
+			<td>CESATTI, MARCO [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>De Filippis, Marino [ITA]</td>
+		</tr><tr><td>21</td>
+			<td>zzz (14)Wilson, Jacob A [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Blohon, Lukas [CZE]</td>
+		</tr><tr><td>22</td>
+			<td>Saracino, Alessandro [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Flury, Julian Felix [CHE]</td>
+		</tr><tr><td>23</td>
+			<td>Prlic, Stefan [AUT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>zzzVIP Hatto, Steve [LUX]</td>
+		</tr><tr><td>24</td>
+			<td>Mattioli, Alberto [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Malatesta, Marco [ITA]</td>
+		</tr><tr><td>25</td>
+			<td>Zedda, Davide [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Moschella, Gianluca [ITA]</td>
+		</tr><tr><td>26</td>
+			<td>Nystr&ouml;m, Per [SWE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>mancuso, antonino [ITA]</td>
+		</tr><tr><td>27</td>
+			<td>Ingallinera, Daniele [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Fermani, Marco [ITA]</td>
+		</tr><tr><td>28</td>
+			<td>Colleoni, Diego [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Barnini, Lorenzo [ITA]</td>
+		</tr><tr><td>29</td>
+			<td>caprioli, davide [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Montalto, Alessio [ITA]</td>
+		</tr><tr><td>30</td>
+			<td>zzz Dickmann, Patrick [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Fulgori, Matteo [ITA]</td>
+		</tr><tr><td>31</td>
+			<td>Schlechter, Leon [ZAF]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cattani, Alessandro [ITA]</td>
+		</tr><tr><td>32</td>
+			<td>Neri, Antonio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>stella, alessandro [ITA]</td>
+		</tr><tr><td>33</td>
+			<td>mulato, Daniel [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Vojta, Jakub [CZE]</td>
+		</tr><tr><td>34</td>
+			<td>Musto, michael [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rothen, Christian [CHE]</td>
+		</tr><tr><td>35</td>
+			<td>Cosi, Alessandro [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Michlits, Mario [AUT]</td>
+		</tr><tr><td>36</td>
+			<td>zzz Bo, Sun [CHN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Aur&eacute;jac, Alexandre [FRA]</td>
+		</tr><tr><td>37</td>
+			<td>Ballester Garcia, Carl [ESP]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>sabbatini, francesco [ITA]</td>
+		</tr><tr><td>38</td>
+			<td>Hauck, Christian [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Portaro, Alessandro [ITA]</td>
+		</tr><tr><td>39</td>
+			<td>Grimmer, Jasper [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ferri, Corrado [ITA]</td>
+		</tr><tr><td>40</td>
+			<td>Volturale, Nicola [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>meier, adrian [CHE]</td>
+		</tr><tr><td>41</td>
+			<td>Mozzillo, Alessandro [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kn&ouml;rr, Sebastian [DEU]</td>
+		</tr><tr><td>42</td>
+			<td>Nielsen, Andreas Bendi [DNK]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Chhen, Patrick [CHE]</td>
+		</tr><tr><td>43</td>
+			<td>zzz Reitbauer, David [AUT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gammaitoni, Eli [ITA]</td>
+		</tr><tr><td>44</td>
+			<td>Klutz, Andreas [AUT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Folloni, Marco [ITA]</td>
+		</tr><tr><td>45</td>
+			<td>Laurent, PETITDEMANGE [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Darras, Alexandre [BEL]</td>
+		</tr><tr><td>46</td>
+			<td>Barcelona Cabeza, Alfo [ESP]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Zhuber, Noli [AUT]</td>
+		</tr><tr><td>47</td>
+			<td>Raso Stoia, Francesco [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>carnevale, franco [ITA]</td>
+		</tr><tr><td>48</td>
+			<td>de Angelis, Luca [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>zzzVIP Moberg, Aron [SWE]</td>
+		</tr><tr><td>49</td>
+			<td>Hofmann, Mike [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gandolfi, Marco [ITA]</td>
+		</tr><tr><td>50</td>
+			<td>Lavermicocca, Luigi [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>kuo, tzu ching [TWN]</td>
+		</tr><tr><td>51</td>
+			<td>Nicosia, Alvaro [PAN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bontorno, Antonio [ITA]</td>
+		</tr><tr><td>52</td>
+			<td>zzz Karsten, Frank [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>K&eacute;vin, massy [FRA]</td>
+		</tr><tr><td>53</td>
+			<td>Pansanel, Pierre [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Fran&ccedil;ois, Avril [FRA]</td>
+		</tr><tr><td>54</td>
+			<td>Weilguni, Sascha [AUT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Steinborn, Robin [DEU]</td>
+		</tr><tr><td>55</td>
+			<td>zzzVIP Enevoldsen, Tho [DNK]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>zzzVIP Schumacher, Ste [DEU]</td>
+		</tr><tr><td>56</td>
+			<td>Armani, Andrea [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Vlahovic, Matija [HRV]</td>
+		</tr><tr><td>57</td>
+			<td>levitt, olivier [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ferretti, Luca [ITA]</td>
+		</tr><tr><td>58</td>
+			<td>Thibault, RIGOLET [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>tampieri, carlo [ITA]</td>
+		</tr><tr><td>59</td>
+			<td>verdoodt, philip [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Surkamp, Florian [DEU]</td>
+		</tr><tr><td>60</td>
+			<td>Hemmingsen, Frederik [DNK]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Favini, Mauro [ITA]</td>
+		</tr><tr><td>61</td>
+			<td>Oneto, Mattia [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Pedica, Alessandro [ITA]</td>
+		</tr><tr><td>62</td>
+			<td>Montresor, Gabriele [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>mango, gennaro [ITA]</td>
+		</tr><tr><td>63</td>
+			<td>picciafuochi, riccardo [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>costa, alessandro [ITA]</td>
+		</tr><tr><td>64</td>
+			<td>Filippi, Stefano [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Riboldi, Stefano [ITA]</td>
+		</tr><tr><td>65</td>
+			<td>Gheri, Marco [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>cibak, Andrea [ITA]</td>
+		</tr><tr><td>66</td>
+			<td>Labate, Mauro [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>zzz (22)Hayne, Alexander [CAN]</td>
+		</tr><tr><td>67</td>
+			<td>zzzVIP Rizzi, Mattia [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>rizzi, giuseppe [ITA]</td>
+		</tr><tr><td>68</td>
+			<td>Vingerhoets, S&eacute;bastien [CHE]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>di Noia, Domenico [ITA]</td>
+		</tr><tr><td>69</td>
+			<td>Mengucci, Andrea [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Henry, Julien [FRA]</td>
+		</tr><tr><td>70</td>
+			<td>Yi, Han [CHN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>zani, gianluca [ITA]</td>
+		</tr><tr><td>71</td>
+			<td>Mueller, Szymon [POL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>meier, Frederick [ITA]</td>
+		</tr><tr><td>72</td>
+			<td>Volpe, Mario [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ciccarelli, Enrico [ITA]</td>
+		</tr><tr><td>73</td>
+			<td>Mayer, Manuel [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>rivolta, matteo [ITA]</td>
+		</tr><tr><td>74</td>
+			<td>&Ouml;rnberg, Frej [SWE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Dagen, Pierre [FRA]</td>
+		</tr><tr><td>75</td>
+			<td>Matteo, Bruni [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gasso, Alessandro [ITA]</td>
+		</tr><tr><td>76</td>
+			<td>Picchi, Christian [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Fukala, Dalibor [CZE]</td>
+		</tr><tr><td>77</td>
+			<td>Faber, Manuel [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Schulz, Christian [DEU]</td>
+		</tr><tr><td>78</td>
+			<td>Andrade, Jo&atilde;o [PRT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Vinciguerra, Daniele [ITA]</td>
+		</tr><tr><td>79</td>
+			<td>Vardzik, Marek [SVK]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Grosso, Ronald Alan [ITA]</td>
+		</tr><tr><td>80</td>
+			<td>Cazzaniga, Attilio [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>nepote brandolin, dieg [ITA]</td>
+		</tr><tr><td>81</td>
+			<td>de Sanctis, pietro [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>faggin, ari [ITA]</td>
+		</tr><tr><td>82</td>
+			<td>marchetti, roberto [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bartolini, Valerio [ITA]</td>
+		</tr><tr><td>83</td>
+			<td>Pidutti, Paolo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>zzz Landgraf, Svante [SWE]</td>
+		</tr><tr><td>84</td>
+			<td>Cislaghi, Andrea [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Koska, Adam [CZE]</td>
+		</tr><tr><td>85</td>
+			<td>moscatelli, luigi [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fontana, Tomasz [ITA]</td>
+		</tr><tr><td>86</td>
+			<td>Calzolari, Lorenzo [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>De Matteis, Luca [ITA]</td>
+		</tr><tr><td>87</td>
+			<td>Amiguet, J&eacute;r&ocirc;me [CHE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kedrovic, Ondrej [SVK]</td>
+		</tr><tr><td>88</td>
+			<td>stella, silvio [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Londos, Ludvig [SWE]</td>
+		</tr><tr><td>89</td>
+			<td>Kytka, Petr [CZE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Duarte, Carlos [PRT]</td>
+		</tr><tr><td>90</td>
+			<td>G?ogowski, Piotr [POL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Castelli, Andrea [ITA]</td>
+		</tr><tr><td>91</td>
+			<td>Hei&szlig;, Marvin [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rausch, Oliver [DEU]</td>
+		</tr><tr><td>92</td>
+			<td>Cova, Stefano [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Szoke, Zoltan [HUN]</td>
+		</tr><tr><td>93</td>
+			<td>Cascioli, Davide [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Strautz, Marcel [DEU]</td>
+		</tr><tr><td>94</td>
+			<td>Piermarini, Alessio [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ashworth, James [ITA]</td>
+		</tr><tr><td>95</td>
+			<td>mariani, giovanni [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>BORRA, LUCA [ITA]</td>
+		</tr><tr><td>96</td>
+			<td>brusatori, giacomo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tambos, Rudy [ITA]</td>
+		</tr><tr><td>97</td>
+			<td>Oggioni, Carloalberto [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>D'Alterio, Emanuele [ITA]</td>
+		</tr><tr><td>98</td>
+			<td>Biondo, Dario [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tarditi, Luciano [ITA]</td>
+		</tr><tr><td>99</td>
+			<td>Falconetti, Matteo [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kocyigit, Sener [TUR]</td>
+		</tr><tr><td>100</td>
+			<td>Francavilla, Patrizio [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Muscio, Alessio [ITA]</td>
+		</tr><tr><td>101</td>
+			<td>Sartori, Andrea [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Munk, Troels [DNK]</td>
+		</tr><tr><td>102</td>
+			<td>Degan, Christian [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hellmann, Leon [CHE]</td>
+		</tr><tr><td>103</td>
+			<td>Kowalski, Grzegorz [POL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mascagni, Lorenzo [ITA]</td>
+		</tr><tr><td>104</td>
+			<td>prost, andrejs [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Blesa Moreno, Jorge [ESP]</td>
+		</tr><tr><td>105</td>
+			<td>ciurli, alessandro [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>PIOVANO, DANIELE [ITA]</td>
+		</tr><tr><td>106</td>
+			<td>zzzVIP Glied, Tamas [HUN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Asta, Angelo [ITA]</td>
+		</tr><tr><td>107</td>
+			<td>giusti, emanuele [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Marion, Damien [FRA]</td>
+		</tr><tr><td>108</td>
+			<td>Lampasona, Simone [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>zzzVIP Musarra, Antoni [ITA]</td>
+		</tr><tr><td>109</td>
+			<td>Tassinari, Matteo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>janda, kristian [CZE]</td>
+		</tr><tr><td>110</td>
+			<td>Rinaldi, Luca [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Marzolo, Mattia [ITA]</td>
+		</tr><tr><td>111</td>
+			<td>Mayor, Damien [CHE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Wellinger, Serafin [CHE]</td>
+		</tr><tr><td>112</td>
+			<td>Casamenti, Alessandro [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Senato, Armando [ITA]</td>
+		</tr><tr><td>113</td>
+			<td>Guglielmini, Enrico [CHE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lewandowski, Bart?omie [POL]</td>
+		</tr><tr><td>114</td>
+			<td>Sanvito, Alessandro [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Niznansky, Milan [SVK]</td>
+		</tr><tr><td>115</td>
+			<td>Moral, Carlos [ESP]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Oliveros, Carlos [ESP]</td>
+		</tr><tr><td>116</td>
+			<td>Mart&iacute;n Espada, Agust&iacute;n [ESP]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>giommi, danilo [ITA]</td>
+		</tr><tr><td>117</td>
+			<td>Eves, Rob [GIB]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Guido, Riccardo [ITA]</td>
+		</tr><tr><td>118</td>
+			<td>Wienand, Jonas [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Evangelisti, Simone [ITA]</td>
+		</tr><tr><td>119</td>
+			<td>Lamonaca, Fabio [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Atteneder, Simon [AUT]</td>
+		</tr><tr><td>120</td>
+			<td>Mill&aacute;n, Alex [ESP]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gian Vito, Garripoli [ITA]</td>
+		</tr><tr><td>121</td>
+			<td>Mochar, Gerrit [AUT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>La Gala, Pierluigi [ITA]</td>
+		</tr><tr><td>122</td>
+			<td>Saccomano, Fabio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Landini, Andrea [ITA]</td>
+		</tr><tr><td>123</td>
+			<td>Battaglia, Giacomo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Moyschewitz, Fabian [DEU]</td>
+		</tr><tr><td>124</td>
+			<td>D'Elia, Gerardo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>espargiliere, bastien [FRA]</td>
+		</tr><tr><td>125</td>
+			<td>Ponzanelli, Ruggero [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Riffert, Till [DEU]</td>
+		</tr><tr><td>126</td>
+			<td>Fornasari, Michele [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Strasky, Ondrej [CZE]</td>
+		</tr><tr><td>127</td>
+			<td>Pilurzu, Alessandro [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Erbetta, Michele [ITA]</td>
+		</tr><tr><td>128</td>
+			<td>Reling, Andreas [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>zzzVIP Koch, Florian [DEU]</td>
+		</tr><tr><td>129</td>
+			<td>Giani, Francesco [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>zzzVIP Song, Huachao [CHN]</td>
+		</tr><tr><td>130</td>
+			<td>Ridolfi, Alessio [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kenyeres, Akos [HUN]</td>
+		</tr><tr><td>131</td>
+			<td>Filippi, Eduardo [PRY]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Holzinger, Thomas [AUT]</td>
+		</tr><tr><td>132</td>
+			<td>OBRUCHEV, VLADIMIR [RUS]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Anceschi, Marco [ITA]</td>
+		</tr><tr><td>133</td>
+			<td>Canavesi, Daniele [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>icardi, francesco [ITA]</td>
+		</tr><tr><td>134</td>
+			<td>Caroli, Jimmy [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bolognesi, Matteo [ITA]</td>
+		</tr><tr><td>135</td>
+			<td>Landi, Luca [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cofalik, Szymon [POL]</td>
+		</tr><tr><td>136</td>
+			<td>corretti, leonardo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ohlrogge, Christoph [DEU]</td>
+		</tr><tr><td>137</td>
+			<td>Cappalunga, giulio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Riedel, Tim [DEU]</td>
+		</tr><tr><td>138</td>
+			<td>Ven&acirc;ncio, Ricardo [PRT]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>rondine, fabio [ITA]</td>
+		</tr><tr><td>139</td>
+			<td>Lehnert, Heiko [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>SANCHEZ ZABALA, FRANCI [ESP]</td>
+		</tr><tr><td>140</td>
+			<td>Karda?, Adrian [POL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Rovito, Edoardo [ITA]</td>
+		</tr><tr><td>141</td>
+			<td>KRIUCHKOV, ILIA [RUS]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>bruscoli, emiliano [ITA]</td>
+		</tr><tr><td>142</td>
+			<td>Passalacqua, Tommaso [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Giorgio, Giulio [ITA]</td>
+		</tr><tr><td>143</td>
+			<td>FICICCHIA, GIUSEPPE [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lunghi, Jacopo [ITA]</td>
+		</tr><tr><td>144</td>
+			<td>Quinto, Saverio [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Addario, Riccardo [ITA]</td>
+		</tr><tr><td>145</td>
+			<td>Fontana, Jacopo Mattia [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>bennardo, lorenzo [ITA]</td>
+		</tr><tr><td>146</td>
+			<td>Slavov, Miroslav [BGR]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>zzzVIP Robb, Justin [AUS]</td>
+		</tr><tr><td>147</td>
+			<td>Asarisi, Marco [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bianchi, Francesco [ITA]</td>
+		</tr><tr><td>148</td>
+			<td>zzz Tomelitsch, Patric [AUT]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bonilla, Sergio [PAN]</td>
+		</tr><tr><td>149</td>
+			<td>Reggiani, Samuele [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>zzzVIP Vu, Bach [AUS]</td>
+		</tr><tr><td>150</td>
+			<td>Albert, Marc [ESP]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Arosio, Daniele [ITA]</td>
+		</tr><tr><td>151</td>
+			<td>montagner, fabio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>fornaciari, fabio [ITA]</td>
+		</tr><tr><td>152</td>
+			<td>Huke, Lothar [AUT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rodrigues, Luis [PRT]</td>
+		</tr><tr><td>153</td>
+			<td>Alveirinho, Jo&atilde;o [PRT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Silvi, Nicola Copros [ITA]</td>
+		</tr><tr><td>154</td>
+			<td>Gatica, Miguel [CRI]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Requena Perez, Jose Sa [ESP]</td>
+		</tr><tr><td>155</td>
+			<td>Gaddi, Carlo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>lemaitre, francois [FRA]</td>
+		</tr><tr><td>156</td>
+			<td>Gajewski, Micha? [POL]</td>
+			<td>Lost 0-1-1</td>
+			<td>vs.</td>
+			<td>Steenhoek, Edwin [NLD]</td>
+		</tr><tr><td>157</td>
+			<td>Widmer, Tim [CHE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Renner, Mark [AUT]</td>
+		</tr><tr><td>158</td>
+			<td>Su?i?, Stjepan [HRV]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Garbuio, Mario [ITA]</td>
+		</tr><tr><td>159</td>
+			<td>Ivanov, Hristiyan [BGR]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nucifora, Sergio [ITA]</td>
+		</tr><tr><td>160</td>
+			<td>Bergamaschi, Alessio [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cassini, Gregory [FRA]</td>
+		</tr><tr><td>161</td>
+			<td>Simoncini, Stefano Fud [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Arosio, Federico [ITA]</td>
+		</tr><tr><td>162</td>
+			<td>totino, marco [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tapat, John [ITA]</td>
+		</tr><tr><td>163</td>
+			<td>Rossetti, Tommaso [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Donini, Mike [ITA]</td>
+		</tr><tr><td>164</td>
+			<td>V&aacute;zquez, Daniel [ESP]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ciuci, Matteo [ITA]</td>
+		</tr><tr><td>165</td>
+			<td>Maxime, GILLES [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Langer, Tim [DEU]</td>
+		</tr><tr><td>166</td>
+			<td>giarola, stefano [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kocsis, G&aacute;bor [HUN]</td>
+		</tr><tr><td>167</td>
+			<td>Mauri, Matteo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>canetti, alberto [ITA]</td>
+		</tr><tr><td>168</td>
+			<td>P&eacute;rez, Rub&eacute;n [ESP]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Vardaro, Nicola [ITA]</td>
+		</tr><tr><td>169</td>
+			<td>Albesiano, Enrico [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Orgera, Andrea [ITA]</td>
+		</tr><tr><td>170</td>
+			<td>Traarbach, Charly [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Schwarz, Stephan [DEU]</td>
+		</tr><tr><td>171</td>
+			<td>mastrodomenico, luigi [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Iannello, Giuseppe [ITA]</td>
+		</tr><tr><td>172</td>
+			<td>Genser, Jakob Alexande [AUT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Trobbiani, Lorenzo [ITA]</td>
+		</tr><tr><td>173</td>
+			<td>Valsecchi, Lorenzo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sevegnani, Michele [ITA]</td>
+		</tr><tr><td>174</td>
+			<td>Paciocco, Andrea [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Krasnitski, Mike [UKR]</td>
+		</tr><tr><td>175</td>
+			<td>Knoci?ski, Przemek [POL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Valenti, Ezio [ITA]</td>
+		</tr><tr><td>176</td>
+			<td>Kuntze, Max [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sushalskyy, Sergiy [UKR]</td>
+		</tr><tr><td>177</td>
+			<td>Stehno, Alexander [AUT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>zzzVIP Novoselova, Olg [RUS]</td>
+		</tr><tr><td>178</td>
+			<td>Rusch, Michael [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sala, Ilaria [ITA]</td>
+		</tr><tr><td>179</td>
+			<td>Planche, L&eacute;o [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ienco, Luca [ITA]</td>
+		</tr><tr><td>180</td>
+			<td>Bellini, Niccol&ograve; [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Paolucci, Matteo [ITA]</td>
+		</tr><tr><td>181</td>
+			<td>Sim, Chapman [SGP]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>zzzVIP ALONSO AZPIAZU, [ESP]</td>
+		</tr><tr><td>182</td>
+			<td>Wall, Oskar [SWE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Noormagi, Ants-Erik [EST]</td>
+		</tr><tr><td>183</td>
+			<td>Bouillot, Damien [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Magni, Luca [ITA]</td>
+		</tr><tr><td>184</td>
+			<td>Montresor, Fabio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Casadei, Mattia [ITA]</td>
+		</tr><tr><td>185</td>
+			<td>Ampollini, Davide [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Eggenschwiler, Etienne [CHE]</td>
+		</tr><tr><td>186</td>
+			<td>zzz Teppa, Michaele [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Regis, Giulio [ITA]</td>
+		</tr><tr><td>187</td>
+			<td>Aukenthaler, Christoph [AUT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Vaisitti, Niccol&ograve; [ITA]</td>
+		</tr><tr><td>188</td>
+			<td>Romano, Marco [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Pappaterra, Pedro [DOM]</td>
+		</tr><tr><td>189</td>
+			<td>Sidereo, Mattia [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>zzz nam, sung wook [KOR]</td>
+		</tr><tr><td>190</td>
+			<td>Menichetti, Mirko [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Abou Omar, Ashraf [DEU]</td>
+		</tr><tr><td>191</td>
+			<td>Gerardis, Stefano [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mineri, Claudio [ITA]</td>
+		</tr><tr><td>192</td>
+			<td>Barbero, Marco [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Arena, Yari [ITA]</td>
+		</tr><tr><td>193</td>
+			<td>Rolle, Damir Ettore [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Weber, Niels [DEU]</td>
+		</tr><tr><td>194</td>
+			<td>Monti, Gabriele [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>van der End, Martijn [NLD]</td>
+		</tr><tr><td>195</td>
+			<td>meoni, stefano [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Scarantino, Marco [ITA]</td>
+		</tr><tr><td>196</td>
+			<td>moser, florian [AUT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Francato, Davide [ITA]</td>
+		</tr><tr><td>197</td>
+			<td>Rinnen, Davide [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Montefiori, Giovanni [ITA]</td>
+		</tr><tr><td>198</td>
+			<td>Gorokhovskyy, Kostyant [UKR]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Agosto, Matteo [ITA]</td>
+		</tr><tr><td>199</td>
+			<td>L&uuml;scher, Sascha [CHE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hottmann, Alexander [DEU]</td>
+		</tr><tr><td>200</td>
+			<td>Watsfeldt, Elias [SWE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Marty, Kevin [CHE]</td>
+		</tr><tr><td>201</td>
+			<td>Casarin, Valerio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Manzonato, Stefano [ITA]</td>
+		</tr><tr><td>202</td>
+			<td>Nocci, Federico [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>zzzVIP Faenza, Federic [ITA]</td>
+		</tr><tr><td>203</td>
+			<td>Kourimsky, Marek [CZE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nicolas, Chabriac [FRA]</td>
+		</tr><tr><td>204</td>
+			<td>de cesare, lucio raffa [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>ERDOGAN, CEM [TUR]</td>
+		</tr><tr><td>205</td>
+			<td>Caron, JeanMarc [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mustone, Massimo [ITA]</td>
+		</tr><tr><td>206</td>
+			<td>Larsen, S&oslash;ren [DNK]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ruffinazzi, Michele [ITA]</td>
+		</tr><tr><td>207</td>
+			<td>baglin, arnaud [FRA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>cecilia, manuel [ITA]</td>
+		</tr><tr><td>208</td>
+			<td>zzzVIP Dolar, Robin [SVN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Del Nero, Stefano [ITA]</td>
+		</tr><tr><td>209</td>
+			<td>Hocquemiller, Arnaud [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Scataglini, Matteo [ITA]</td>
+		</tr><tr><td>210</td>
+			<td>Valderrama, Jes&uacute;s [ESP]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>L&aelig;ss&oslash;e, S&oslash;ren [DNK]</td>
+		</tr><tr><td>211</td>
+			<td>Saulacher, Sebastian [AUT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Schiano, Diego [ITA]</td>
+		</tr><tr><td>212</td>
+			<td>Eggersgl&uuml;&szlig;, Jarno [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Galli, Luca [ITA]</td>
+		</tr><tr><td>213</td>
+			<td>del basso, federico [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Rakovas, Andrius [LTU]</td>
+		</tr><tr><td>214</td>
+			<td>Della Giustina, Piero [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>KARA, Osman Deniz [TUR]</td>
+		</tr><tr><td>215</td>
+			<td>Anders, Torsten [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bernava, Giacomo [ITA]</td>
+		</tr><tr><td>216</td>
+			<td>Cavaglieri, William [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bruno, Gerardo [ITA]</td>
+		</tr><tr><td>217</td>
+			<td>bollati, matias [ARG]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Clauser, Giorgio [ITA]</td>
+		</tr><tr><td>218</td>
+			<td>schito, gabriele [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Beltramo, Luca [ITA]</td>
+		</tr><tr><td>219</td>
+			<td>Bergamo, Francesco [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>MIADZVEDSKI, PAVEL [BLR]</td>
+		</tr><tr><td>220</td>
+			<td>Ciechowicz, Rafa? [POL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>M&uuml;hlb&ouml;ck, Marc [AUT]</td>
+		</tr><tr><td>221</td>
+			<td>kovacs, gabor [GIB]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Schmidt, Philipp [DEU]</td>
+		</tr><tr><td>222</td>
+			<td>Marco, Danilo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lessmann, Richard [DEU]</td>
+		</tr><tr><td>223</td>
+			<td>Giordano, Luca Valerio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Mattarei, Alberto [ITA]</td>
+		</tr><tr><td>224</td>
+			<td>Rege, Kevin [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cetrullo, Luca [ITA]</td>
+		</tr><tr><td>225</td>
+			<td>Gollmann, Philip [AUT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kone, Ismael [ITA]</td>
+		</tr><tr><td>226</td>
+			<td>Morrone, Diego [ITA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>zzz Robesyn, Sean [BEL]</td>
+		</tr><tr><td>227</td>
+			<td>Rutar, Andrej [SVN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Zansavio, Nicola [ITA]</td>
+		</tr><tr><td>228</td>
+			<td>Cal, Bugra [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yanguas, Fernando [ESP]</td>
+		</tr><tr><td>229</td>
+			<td>Einaudi, Giacomo [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hercezi, Mario [SVN]</td>
+		</tr><tr><td>230</td>
+			<td>Rosi, Giovanni [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sajjad, Usama [ITA]</td>
+		</tr><tr><td>231</td>
+			<td>Vergoni, Davide [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Vigne, Bertrand [FRA]</td>
+		</tr><tr><td>232</td>
+			<td>Tomcani, Jan [SVK]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Preiml, Stefan [AUT]</td>
+		</tr><tr><td>233</td>
+			<td>Campanino, Fabrizio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Paone, Antonio [ITA]</td>
+		</tr><tr><td>234</td>
+			<td>Cuomo, Vittorio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Martinez, Andres [ITA]</td>
+		</tr><tr><td>235</td>
+			<td>Sauvageon, Kevin [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Trejtnar, andreas [AUT]</td>
+		</tr><tr><td>236</td>
+			<td>Lupalo, Kirill [RUS]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cadei, Angelo [ITA]</td>
+		</tr><tr><td>237</td>
+			<td>Catti, Fabio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ziegler, Mike [DEU]</td>
+		</tr><tr><td>238</td>
+			<td>Lucifora, Domenico Car [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Angelozzi, Nicola [ITA]</td>
+		</tr><tr><td>239</td>
+			<td>Bucci, Enrico [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Boussaud, Eliott [FRA]</td>
+		</tr><tr><td>240</td>
+			<td>Ehrismann, Tobias [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>fragnelli, walter [ITA]</td>
+		</tr><tr><td>241</td>
+			<td>Pistamiglio, Ivan [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Luks, Luis [VEN]</td>
+		</tr><tr><td>242</td>
+			<td>Fresia, Emanuele [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>zzzVIP Arushanyan, Ars [RUS]</td>
+		</tr><tr><td>243</td>
+			<td>Trezzi, Federico [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>balanzoni, Lorenzo [ITA]</td>
+		</tr><tr><td>244</td>
+			<td>Montani, Marco [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Almanzar, Jonnathan [DOM]</td>
+		</tr><tr><td>245</td>
+			<td>Tomatis, Davide [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Viniczai, Tibor [HUN]</td>
+		</tr><tr><td>246</td>
+			<td>Genesio, Stefano [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Zorzi, Giulio [ITA]</td>
+		</tr><tr><td>247</td>
+			<td>Gasso, Riccardo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>barbou, lucien [CHE]</td>
+		</tr><tr><td>248</td>
+			<td>Di Siero, Domenico [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>drakulic, marco [ITA]</td>
+		</tr><tr><td>249</td>
+			<td>Penato, Edoardo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>morello, Helaman [ITA]</td>
+		</tr><tr><td>250</td>
+			<td>Morge, Thomas [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Jean-Mairet, Guillaume [CHE]</td>
+		</tr><tr><td>251</td>
+			<td>Kotila, Pietu [FIN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Puglia, Ottavio [ITA]</td>
+		</tr><tr><td>252</td>
+			<td>Salvi, David [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Filomena, Daniele [ITA]</td>
+		</tr><tr><td>253</td>
+			<td>Vichi, Stefano [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Budde, Christopher [DEU]</td>
+		</tr><tr><td>254</td>
+			<td>Mart&iacute;nez Navarro, &Aacute;lva [ESP]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Merlo, Gianluca [ITA]</td>
+		</tr><tr><td>255</td>
+			<td>Selis, Enrico [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>bonnet, vincent [CHE]</td>
+		</tr><tr><td>256</td>
+			<td>Norcino, Yuri [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Luposchainsky, Simon [DEU]</td>
+		</tr><tr><td>257</td>
+			<td>Roj, Marcin [POL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Jacques-Pierre, Poutou [FRA]</td>
+		</tr><tr><td>258</td>
+			<td>Cristina, Niccol&ograve; [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fontana, Christian [ITA]</td>
+		</tr><tr><td>259</td>
+			<td>Dybov, Denis [RUS]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Blanc, Regis [CHE]</td>
+		</tr><tr><td>260</td>
+			<td>Pellegrini, Lorenzo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rogers, Matthew [NZL]</td>
+		</tr><tr><td>261</td>
+			<td>Novellini, Guglielmo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ricciardi, Mauro [ITA]</td>
+		</tr><tr><td>262</td>
+			<td>zzz Semkin, Alexander [AFG]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Albrand, Loic [FRA]</td>
+		</tr><tr><td>263</td>
+			<td>malisia, fabio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>K&ouml;nigsmark, Dennis [DEU]</td>
+		</tr><tr><td>264</td>
+			<td>Vitali, Simone [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bortolotti, Claudio [ITA]</td>
+		</tr><tr><td>265</td>
+			<td>Reimche, Wadim [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Clemente, Stefano [ITA]</td>
+		</tr><tr><td>266</td>
+			<td>Bini, Paolo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Disperati, Riccardo [ITA]</td>
+		</tr><tr><td>267</td>
+			<td>ventura, f javier [AFG]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>delfino, marco [ITA]</td>
+		</tr><tr><td>268</td>
+			<td>Zacchini, Federico [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bremner, Maximilian [CHE]</td>
+		</tr><tr><td>269</td>
+			<td>Eggenschwiler, Simon [CHE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lim, Ming Han Sidney R [SGP]</td>
+		</tr><tr><td>270</td>
+			<td>Schroeder, Harald [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Varesi, Luca [ITA]</td>
+		</tr><tr><td>271</td>
+			<td>oliverio, salvatore [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Barberini, Simone [ITA]</td>
+		</tr><tr><td>272</td>
+			<td>Tombesi, jacopo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Babbi, Aureliano [ITA]</td>
+		</tr><tr><td>273</td>
+			<td>Cervi, Cesidio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Romay, Lucas [ESP]</td>
+		</tr><tr><td>274</td>
+			<td>Elez, Goran [HRV]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lombardi, Stefano [ITA]</td>
+		</tr><tr><td>275</td>
+			<td>Alfiniti, Nicol&ograve; [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nilsson, Andreas [DNK]</td>
+		</tr><tr><td>276</td>
+			<td>Sepe, Francesco [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Calvaruso, Luca [ITA]</td>
+		</tr><tr><td>277</td>
+			<td>Kronberger, Niklas [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gouzy, Jean [FRA]</td>
+		</tr><tr><td>278</td>
+			<td>Romani, Corrado [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Manzone, Ivan [ITA]</td>
+		</tr><tr><td>279</td>
+			<td>Fischer, Michael [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Faggion, Andrea [ITA]</td>
+		</tr><tr><td>280</td>
+			<td>Berner, Jakob [AUT]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cudia, Gianluca [ITA]</td>
+		</tr><tr><td>281</td>
+			<td>feo, andrea [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Dzia?ak, Wojciech [POL]</td>
+		</tr><tr><td>282</td>
+			<td>Borcevsky, Pavel [CZE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Villagrasa Roca, Didac [AFG]</td>
+		</tr><tr><td>283</td>
+			<td>Manenti, Giovanni [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nilsson, Rasmus [DNK]</td>
+		</tr><tr><td>284</td>
+			<td>carraro, cristian [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rossi, Davide [ITA]</td>
+		</tr><tr><td>285</td>
+			<td>De Benedetto, Andrea [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Crep, Aleksandar [HRV]</td>
+		</tr><tr><td>286</td>
+			<td>Mueller, Christoph [AUT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Reinhard, Christian [CHE]</td>
+		</tr><tr><td>287</td>
+			<td>Fidytek, Adrian [POL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>zzz Oh, JooHyun [ZAF]</td>
+		</tr><tr><td>288</td>
+			<td>Steinkamp, Paul [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Rizzo, Alessandro [ITA]</td>
+		</tr><tr><td>289</td>
+			<td>Pezza, Matteo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>dinnus, Philipp [DEU]</td>
+		</tr><tr><td>290</td>
+			<td>Mantovani, Edoardo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>locarini, riccardo [ITA]</td>
+		</tr><tr><td>291</td>
+			<td>Breviglieri, Massimo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nagy, Tamas [HUN]</td>
+		</tr><tr><td>292</td>
+			<td>Wagner, Pascal [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Barry, Olivier [FRA]</td>
+		</tr><tr><td>293</td>
+			<td>zzz (4)Dezani, Jeremy [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gianoli, Franco [ITA]</td>
+		</tr><tr><td>294</td>
+			<td>Hollos, Peter [HUN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ippoliti, Riccardo [ITA]</td>
+		</tr><tr><td>295</td>
+			<td>Sormani, Reto [CHE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tasselli, Pietro [ITA]</td>
+		</tr><tr><td>296</td>
+			<td>Vinci, Stefano [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>kolp, johann [DEU]</td>
+		</tr><tr><td>297</td>
+			<td>Battistutta, Maurizio [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ghiraldelli, Davide [ITA]</td>
+		</tr><tr><td>298</td>
+			<td>Romerio, Lorenzo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gschwandtner, Jan [AUT]</td>
+		</tr><tr><td>299</td>
+			<td>Butakov, Dmitriy [RUS]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Al Takrouri, karim [ITA]</td>
+		</tr><tr><td>300</td>
+			<td>Baroni, Stefano [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>marinotti, david [ITA]</td>
+		</tr><tr><td>301</td>
+			<td>Ceniviva, Giovanni [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>mezhoud, hakim [FRA]</td>
+		</tr><tr><td>302</td>
+			<td>Amerio, Matteo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Peter, Bj&ouml;rn [DEU]</td>
+		</tr><tr><td>303</td>
+			<td>Vergano, Andrea [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sista, Davide [ITA]</td>
+		</tr><tr><td>304</td>
+			<td>Maineri, Ivano [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Carabelli, Carlo Filip [ITA]</td>
+		</tr><tr><td>305</td>
+			<td>loffredo, luca [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Brunner, Christopher [DEU]</td>
+		</tr><tr><td>306</td>
+			<td>Mittendorfer, Lukas [AUT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Faraggiana, Simone [ITA]</td>
+		</tr><tr><td>307</td>
+			<td>Mignani, Andrea [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sodomirski, Tomasz [POL]</td>
+		</tr><tr><td>308</td>
+			<td>Vargas, Antonio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gorgoglione, Gianluca [ITA]</td>
+		</tr><tr><td>309</td>
+			<td>Scalia, Alessandro [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fink, Johann [AUT]</td>
+		</tr><tr><td>310</td>
+			<td>Frasca, Alessandro [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ghini, Davide [ITA]</td>
+		</tr><tr><td>311</td>
+			<td>degl'innocenti, tizian [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Costa, Frederico [PRT]</td>
+		</tr><tr><td>312</td>
+			<td>Polli, Dario [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>vecchio, claudio [ITA]</td>
+		</tr><tr><td>313</td>
+			<td>buresti, Andrea [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Maier, Daniel [DEU]</td>
+		</tr><tr><td>314</td>
+			<td>Fiabon, Alex [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Markovi?, Ivan [HRV]</td>
+		</tr><tr><td>315</td>
+			<td>Heibing, Kristian [DNK]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Vuorela, Lauri [SWE]</td>
+		</tr><tr><td>316</td>
+			<td>Orizio, Simone [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>d'orazio, pietro [ITA]</td>
+		</tr><tr><td>317</td>
+			<td>Baldinato, Giovanni [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Spinelli, Renato [ITA]</td>
+		</tr><tr><td>318</td>
+			<td>Hiltpolt, Maximilian [AUT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Archambault, Johann [FRA]</td>
+		</tr><tr><td>319</td>
+			<td>Z&uuml;ll, Stephan [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gabellini, Cristian [ITA]</td>
+		</tr><tr><td>320</td>
+			<td>Ganz, Andreas [CHE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Versari, Matteo [ITA]</td>
+		</tr><tr><td>321</td>
+			<td>Birsan, Mihai Alexandr [ROU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Siles loaiza, Emmanuel [CRI]</td>
+		</tr><tr><td>322</td>
+			<td>Brescianini, Omar [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>marino, giulio [ITA]</td>
+		</tr><tr><td>323</td>
+			<td>Matuszewski, Mateusz [POL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Panteghini, Marco [ITA]</td>
+		</tr><tr><td>324</td>
+			<td>Jurasinski, Piotr [POL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>zzzVIP Anteri, Fabriz [ENG]</td>
+		</tr><tr><td>325</td>
+			<td>Barbieri, Matteo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mirandola, Luca [ITA]</td>
+		</tr><tr><td>326</td>
+			<td>Burzio, Matteo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>macchi, gianluca [ITA]</td>
+		</tr><tr><td>327</td>
+			<td>Jathe, Nicolas [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>sparacio, alessandro [ITA]</td>
+		</tr><tr><td>328</td>
+			<td>DeBiasi, Samuel [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Giannecchino, Luca [ITA]</td>
+		</tr><tr><td>329</td>
+			<td>Borro, Errico [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lukaszyk, Tomasz [ITA]</td>
+		</tr><tr><td>330</td>
+			<td>Cantaro, Roberto Leona [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Re, Manfredi [ITA]</td>
+		</tr><tr><td>331</td>
+			<td>Bologna, Stefano [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>lancini, giacomo [ITA]</td>
+		</tr><tr><td>332</td>
+			<td>Vacca, Donato [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Salerno, Edoardo [ITA]</td>
+		</tr><tr><td>333</td>
+			<td>zzzVIP Golubtsov, Pave [RUS]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Starka, Jakub [CZE]</td>
+		</tr><tr><td>334</td>
+			<td>Schuringa, Sebastiaan [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>zzz Brandtner, Michael [AUT]</td>
+		</tr><tr><td>335</td>
+			<td>Szczepanowski, Lukasz [POL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Rondini, Gianmarco [ITA]</td>
+		</tr><tr><td>336</td>
+			<td>tarozzi, stefano [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ganna, Davide [ITA]</td>
+		</tr><tr><td>337</td>
+			<td>Laloshi, Erik [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>zzzVIP Schorr, Tilman [DEU]</td>
+		</tr><tr><td>338</td>
+			<td>Pellegrini, Daniele [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>zzz mrklic, zoran [HRV]</td>
+		</tr><tr><td>339</td>
+			<td>Diolaiuti, Alberto [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dati, Nicola [ITA]</td>
+		</tr><tr><td>340</td>
+			<td>NACOLIS, R&eacute;mi [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Rosati, Christian [ITA]</td>
+		</tr><tr><td>341</td>
+			<td>Raciti, Paolo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Graifenberg, Romeo [ITA]</td>
+		</tr><tr><td>342</td>
+			<td>Ghilardi, Simone [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cizmic, Nenad [HRV]</td>
+		</tr><tr><td>343</td>
+			<td>Huber, Andreas [CHE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Berio, Davide [ITA]</td>
+		</tr><tr><td>344</td>
+			<td>Guenzani, Riccardo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Maroni, Alberto [ITA]</td>
+		</tr><tr><td>345</td>
+			<td>Zachari&aacute;&scaron;, Jan [CZE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gorini, Alessio [ITA]</td>
+		</tr><tr><td>346</td>
+			<td>Percoco, Riccardo [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Guidotti, Giacomo [ITA]</td>
+		</tr><tr><td>347</td>
+			<td>Eberharter, Daniel [AUT]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sangalli, Kevin [ITA]</td>
+		</tr><tr><td>348</td>
+			<td>De Mola, Fabrizio [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Carrivick G&oacute;mez, Damie [ESP]</td>
+		</tr><tr><td>349</td>
+			<td>Ferrario, Cristian [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>MARINO, LUCA [ITA]</td>
+		</tr><tr><td>350</td>
+			<td>Pringiers, Sergei [ZAF]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Labruzzo, Ludovico [ITA]</td>
+		</tr><tr><td>351</td>
+			<td>Caccialanza, Davide [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Belvedere, Francesco [ITA]</td>
+		</tr><tr><td>352</td>
+			<td>Ilari, Michele [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>zzz Pestov, Evgeny [RUS]</td>
+		</tr><tr><td>353</td>
+			<td>Chinati, Giorgio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hristov, Lenard [BGR]</td>
+		</tr><tr><td>354</td>
+			<td>Pinter, Pietro [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nocci, Alessandro [ITA]</td>
+		</tr><tr><td>355</td>
+			<td>Idelfonso, Diony [CHE]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Juan Manuel, Savoini [ITA]</td>
+		</tr><tr><td>356</td>
+			<td>Gasparini, Francesco [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Vanek, Tomas [CZE]</td>
+		</tr><tr><td>357</td>
+			<td>Baldrati, Enrico [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bezzi, Dario [ITA]</td>
+		</tr><tr><td>358</td>
+			<td>Sutor, Emanuel [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bonometti, Eugenio [ITA]</td>
+		</tr><tr><td>359</td>
+			<td>Hubrich, Ren&eacute; [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fumagalli, Mattia [ITA]</td>
+		</tr><tr><td>360</td>
+			<td>Hoelker, David [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Vicardi, Simone [ITA]</td>
+		</tr><tr><td>361</td>
+			<td>zzz Summersberger, Hel [AUT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Garbuio, Matteo [ITA]</td>
+		</tr><tr><td>362</td>
+			<td>Jir&aacute;sek, David [CZE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Prajsnar, Pawe? [POL]</td>
+		</tr><tr><td>363</td>
+			<td>Peretti, David [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Biasio, Stefano [ITA]</td>
+		</tr><tr><td>364</td>
+			<td>La Porta, Alessandro [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cazzola, Alessio [ITA]</td>
+		</tr><tr><td>365</td>
+			<td>Franzoni, Riccardo [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cappellini, Federico [ITA]</td>
+		</tr><tr><td>366</td>
+			<td>Fumagalli, Francesco [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Laurenson, James [NZL]</td>
+		</tr><tr><td>367</td>
+			<td>Fussi, Johannes [AUT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Verri, Alessandro [ITA]</td>
+		</tr><tr><td>368</td>
+			<td>Gambardella, Nicol&ograve; [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>canicchi, alessandro [ITA]</td>
+		</tr><tr><td>369</td>
+			<td>TEMOINS, sylvain [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Petersdorf, Benjamin [DEU]</td>
+		</tr><tr><td>370</td>
+			<td>Francato, Gianluca [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Guglielmi, Saverio [ITA]</td>
+		</tr><tr><td>371</td>
+			<td>Grandi, Lorenzo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Guerini, Giada [ITA]</td>
+		</tr><tr><td>372</td>
+			<td>Mirko, Rendina [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mazzoleni, Stefano [ITA]</td>
+		</tr><tr><td>373</td>
+			<td>Salvad&egrave;, Luca [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Michelangeli, Gianmarc [ITA]</td>
+		</tr><tr><td>374</td>
+			<td>Bing, Han [CHN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>caccia, alberto [ITA]</td>
+		</tr><tr><td>375</td>
+			<td>N&ouml;tzel, Sebastian [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nicolas, Cr&eacute;pelle [FRA]</td>
+		</tr><tr><td>376</td>
+			<td>Interra, Luigi [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Mahler, Sebastian [DEU]</td>
+		</tr><tr><td>377</td>
+			<td>Hunkeler, Luca [CHE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Moreno Morales, Franci [ESP]</td>
+		</tr><tr><td>378</td>
+			<td>Sabbadini, Massimo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Zygar?owski, Witold [POL]</td>
+		</tr><tr><td>379</td>
+			<td>De Francesco, Michelan [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>zzz Kuehnel, Michael [AUT]</td>
+		</tr><tr><td>380</td>
+			<td>Pistorius, Raphael [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Galli, Stefano [ITA]</td>
+		</tr><tr><td>381</td>
+			<td>Russo, Alfio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cirigliano, Matteo [ITA]</td>
+		</tr><tr><td>382</td>
+			<td>Ciotta, Andrea [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>zzz PAYEN, Jeremy [FRA]</td>
+		</tr><tr><td>383</td>
+			<td>de togni, marco [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hitz, Michael [CHE]</td>
+		</tr><tr><td>384</td>
+			<td>Sch&ouml;nberger, Dennis [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>MAUGUIN, Thomas [CHE]</td>
+		</tr><tr><td>385</td>
+			<td>Benedetti, Alberto [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>David, Csente [SVK]</td>
+		</tr><tr><td>386</td>
+			<td>Heidenreich, Paul [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Rovati, Andrea [ITA]</td>
+		</tr><tr><td>387</td>
+			<td>Fulle, Dominic [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>MAUGUIN, Matthieu [CHE]</td>
+		</tr><tr><td>388</td>
+			<td>Rivoire, Jean-Luc Rivo [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Villa, Mauro [ITA]</td>
+		</tr><tr><td>389</td>
+			<td>Stone, Yonathan [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>De Rosa, Andrea [ITA]</td>
+		</tr><tr><td>390</td>
+			<td>Del Pivo, Marco [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Veneri, Dario [CHE]</td>
+		</tr><tr><td>391</td>
+			<td>Guagliano, Giuseppe [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sanchez Sampietro, Mar [ESP]</td>
+		</tr><tr><td>392</td>
+			<td>Valenza, Ezio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Garelli, Luca [ITA]</td>
+		</tr><tr><td>393</td>
+			<td>Avedano, Andrea [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ancona, Michele [ITA]</td>
+		</tr><tr><td>394</td>
+			<td>Jell, Philipp [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>kunic, peter [SVN]</td>
+		</tr><tr><td>395</td>
+			<td>galleani, Alessandro [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bal, Robbert [NLD]</td>
+		</tr><tr><td>397</td>
+			<td>Berdnicov, Vadim [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kosciuszko, Rudy [FRA]</td>
+		</tr><tr><td>398</td>
+			<td>Portolani, Elisa [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Correas Sanz, Sergio [ESP]</td>
+		</tr><tr><td>399</td>
+			<td>Lesch, Andreas [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mad&eacute;, Samuel Thomas [ITA]</td>
+		</tr><tr><td>400</td>
+			<td>lodato, lucio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>bondani, riccardo [ITA]</td>
+		</tr><tr><td>401</td>
+			<td>Rucci, Federico [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>mandaglio, simone [ITA]</td>
+		</tr><tr><td>402</td>
+			<td>Wald, Piotr [POL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>giallini, francesco [ITA]</td>
+		</tr><tr><td>403</td>
+			<td>Leigh, Simon [CHE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Magarotto, Francesco [ITA]</td>
+		</tr><tr><td>404</td>
+			<td>Esule, Gianluca [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lejeune, Olivier [FRA]</td>
+		</tr><tr><td>405</td>
+			<td>Talignani, Edoardo [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ciriaco, Mattia [ITA]</td>
+		</tr><tr><td>406</td>
+			<td>Martino, Claudio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Stefanini, Andrea [ITA]</td>
+		</tr><tr><td>407</td>
+			<td>Rossi, Marco [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>M&auml;rz, Julian [AUT]</td>
+		</tr><tr><td>408</td>
+			<td>Prato, Marco [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Macaya, Pablo [ESP]</td>
+		</tr><tr><td>409</td>
+			<td>Klar, Filip [SVN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Campos, Jose [ESP]</td>
+		</tr><tr><td>410</td>
+			<td>Bienk, Jeffrey [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Graziano, Antonio [ITA]</td>
+		</tr><tr><td>411</td>
+			<td>Santimaria, Andrea [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ubbiali, Francesco [ITA]</td>
+		</tr><tr><td>412</td>
+			<td>Cominoli, Massimo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lupo, Alessandro [ITA]</td>
+		</tr><tr><td>413</td>
+			<td>Litvak, Mark [AUT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tong, Wu [CHN]</td>
+		</tr><tr><td>414</td>
+			<td>Corwood, James [GIB]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ramirez, Jose Antonio [ESP]</td>
+		</tr><tr><td>415</td>
+			<td>Rassel, Alexis [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Maurer, Tobias [DEU]</td>
+		</tr><tr><td>416</td>
+			<td>Rossi, Stefano [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Foukarakis, Michalis [GRC]</td>
+		</tr><tr><td>417</td>
+			<td>Reusink, Paul [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gei&szlig;ler, Christian [DEU]</td>
+		</tr><tr><td>418</td>
+			<td>Radakovits, Michael [AUT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Monticelli, Fabio [ITA]</td>
+		</tr><tr><td>419</td>
+			<td>Lombardo, Lorenzo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>cicolin, cesare [ITA]</td>
+		</tr><tr><td>420</td>
+			<td>Rotondo, Riccardo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ivanov, Nikolay [BGR]</td>
+		</tr><tr><td>421</td>
+			<td>Vincenzi, Luca [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Violette, Aur&eacute;lie [FRA]</td>
+		</tr><tr><td>422</td>
+			<td>Cardoso, Almerindo [CHE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Corte, Marco [ITA]</td>
+		</tr><tr><td>423</td>
+			<td>MONET, Yves [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>mema, aurelio [ALB]</td>
+		</tr><tr><td>424</td>
+			<td>Gollor, Marcus [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Napoli, Sergio [ITA]</td>
+		</tr><tr><td>425</td>
+			<td>Modica, Danilo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Barbieri, Malbo [ITA]</td>
+		</tr><tr><td>426</td>
+			<td>Kirchler, Mattia [AUT]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>De Simone, Luca [ITA]</td>
+		</tr><tr><td>427</td>
+			<td>Palmero, Emanuele [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Marinelli, Matteo [ITA]</td>
+		</tr><tr><td>428</td>
+			<td>BEZZICCHERI, LEONARDO [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Campanella, Francesco [ITA]</td>
+		</tr><tr><td>429</td>
+			<td>Martino, Valerio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>chinello, yari [ITA]</td>
+		</tr><tr><td>430</td>
+			<td>Palmieri, Nicola [AUT]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Oswald, Marc [DEU]</td>
+		</tr><tr><td>431</td>
+			<td>Dozio, Fabio Matteo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Masznitz, Stefan [AUT]</td>
+		</tr><tr><td>432</td>
+			<td>Malaguti, Claudio [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hrycej, Martin [CZE]</td>
+		</tr><tr><td>433</td>
+			<td>Faraci, Paolo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ciaccia, Giovanni [ITA]</td>
+		</tr><tr><td>434</td>
+			<td>Luff, Andre [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Livraghi, Marco Lorenz [ITA]</td>
+		</tr><tr><td>435</td>
+			<td>Fioletti, NIccol&ograve; [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Scuderi, Walter [ITA]</td>
+		</tr><tr><td>436</td>
+			<td>orsoni, michele [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rancic, Isaac [ITA]</td>
+		</tr><tr><td>437</td>
+			<td>zzzVIP Bifero, Frances [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Salem, Justin Hamilton [CZE]</td>
+		</tr><tr><td>438</td>
+			<td>Bergonzoni, Luca [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Z&uacute;&ntilde;iga Vega, Cristian [CRI]</td>
+		</tr><tr><td>439</td>
+			<td>Senneca, Francesco [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bramati, Matteo [USA]</td>
+		</tr><tr><td>440</td>
+			<td>Rotanzi, Maurizio [CHE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hinrichsen, Jesper [DEU]</td>
+		</tr><tr><td>441</td>
+			<td>Martinelli, Andrea [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Reale, RIccardo [ITA]</td>
+		</tr><tr><td>442</td>
+			<td>Mori, Gianpietro [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Brinkmann, Marc [DEU]</td>
+		</tr><tr><td>443</td>
+			<td>D'Angelo, Fabio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gattolin, Stefano [ITA]</td>
+		</tr><tr><td>444</td>
+			<td>Consolo, Ottavio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Canaletto, Giacomo [ITA]</td>
+		</tr><tr><td>445</td>
+			<td>De Sio, Corrado [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Baietto, Davide [ITA]</td>
+		</tr><tr><td>446</td>
+			<td>Calabrese, Antonio [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>McMartin-Rosenquist, L [SWE]</td>
+		</tr><tr><td>447</td>
+			<td>Hacker, Christoph [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Giuseppe, Splendori [ITA]</td>
+		</tr><tr><td>448</td>
+			<td>Saracco, Marco [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mazzarino, Marcello [ITA]</td>
+		</tr><tr><td>449</td>
+			<td>Saval Marhuenda, Alber [ESP]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Urabl, Daniel [AUT]</td>
+		</tr><tr><td>450</td>
+			<td>Lapiccirella, Federico [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dragoni, Nicol&ograve; [ITA]</td>
+		</tr><tr><td>451</td>
+			<td>Pelagatti, Michele [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>borrelli, jacopo [ITA]</td>
+		</tr><tr><td>452</td>
+			<td>Caminada, Francesco [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Giuliani, Fabio [ITA]</td>
+		</tr><tr><td>453</td>
+			<td>zovi, matteo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ku&scaron;ar, Luka [SVN]</td>
+		</tr><tr><td>454</td>
+			<td>Castelli, Davide [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Zecchin, Umberto [ITA]</td>
+		</tr><tr><td>455</td>
+			<td>zzzVIP Severin, Thoral [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Perotti, Efrem [ITA]</td>
+		</tr><tr><td>456</td>
+			<td>crepaldi, thomas [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Marzocchi, Michele [ITA]</td>
+		</tr><tr><td>457</td>
+			<td>Dzino, Paul [AUT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kirchbacher, Florian [AUT]</td>
+		</tr><tr><td>458</td>
+			<td>Effendi, Sinan [ZAF]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Muntwyler, David [CHE]</td>
+		</tr><tr><td>459</td>
+			<td>Masuch, Norman [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>simone, roberto [ITA]</td>
+		</tr><tr><td>460</td>
+			<td>Zaccarelli, Raffaele [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bonaventura, Ciro [ITA]</td>
+		</tr><tr><td>461</td>
+			<td>Bampi, Nicolo [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sch&aacute;?ka, Martin [CZE]</td>
+		</tr><tr><td>462</td>
+			<td>zzzVIP Maiolini, Matte [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kn&auml;pper, Stefan [DEU]</td>
+		</tr><tr><td>463</td>
+			<td>Taroni, Roberto [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Trimarchi, Simone [ITA]</td>
+		</tr><tr><td>464</td>
+			<td>Ce', Adriano [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sangiorgio, Leda [ITA]</td>
+		</tr><tr><td>465</td>
+			<td>Felet, Marco [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>fenoglio, maurizio [ITA]</td>
+		</tr><tr><td>466</td>
+			<td>Salati, Davide [ALB]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Jakobs, Florian [DEU]</td>
+		</tr><tr><td>467</td>
+			<td>Bertoni, Michele [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Manzi, Gabriele [ITA]</td>
+		</tr><tr><td>468</td>
+			<td>zzz Lippi, alessandro [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Meleri, Stefano [ITA]</td>
+		</tr><tr><td>469</td>
+			<td>MONCALVO, LUCA [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Martucci, Carlo [ITA]</td>
+		</tr><tr><td>470</td>
+			<td>Bacci, Michele [ITA]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Moretto, Manuel [ITA]</td>
+		</tr><tr><td>471</td>
+			<td>Scquizato, Marco [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Zec, Nikola [HRV]</td>
+		</tr><tr><td>472</td>
+			<td>Adami, Alberto [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cacciato, Nicolas [ITA]</td>
+		</tr><tr><td>473</td>
+			<td>Matousek, Pavel [CZE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Rossetti, Filippo [ITA]</td>
+		</tr><tr><td>474</td>
+			<td>Negro, Christian [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gollmann, Fabian [AUT]</td>
+		</tr><tr><td>475</td>
+			<td>Marchesotti, Daniele [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Recchia, Francesco [ITA]</td>
+		</tr><tr><td>476</td>
+			<td>Porzionato, Gregorio [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>De Giosa, Sascja [ITA]</td>
+		</tr><tr><td>477</td>
+			<td>Voto, Antonello [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gatti, Lorenzo [ITA]</td>
+		</tr><tr><td>478</td>
+			<td>Grespi, Giampiero [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>mazzani, luca [ITA]</td>
+		</tr><tr><td>479</td>
+			<td>Coratella, Riccardo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Squarzoni, Davide [ITA]</td>
+		</tr><tr><td>480</td>
+			<td>zzz Velo, Marina [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pinna, Massimo [ITA]</td>
+		</tr><tr><td>481</td>
+			<td>Galimberti, Marcello [ITA]</td>
+			<td>Lost 0-1-1</td>
+			<td>vs.</td>
+			<td>Lerose, Danilo [ITA]</td>
+		</tr><tr><td>482</td>
+			<td>Bargiacchi, Michele [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nachbur, Mickael [CHE]</td>
+		</tr><tr><td>483</td>
+			<td>Caminiti, Roberto [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ancillotti, Alessandro [ITA]</td>
+		</tr><tr><td>484</td>
+			<td>Aichinger, Thomas [AUT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Amodei, Marco [ITA]</td>
+		</tr><tr><td>485</td>
+			<td>Gambuti, Omar [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Comboni, Davide [ITA]</td>
+		</tr><tr><td>486</td>
+			<td>Bilanzuoli, Gabriele [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Iuriciuc, Gabriel [ROU]</td>
+		</tr><tr><td>487</td>
+			<td>Lanteri, Michele [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Theiler, Ronny [CHE]</td>
+		</tr><tr><td>488</td>
+			<td>Szmyd, J?drzej [POL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>W&uuml;rtz, Alexander [DEU]</td>
+		</tr><tr><td>489</td>
+			<td>battistella, mattia [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Vincent, Dixmeras [FRA]</td>
+		</tr><tr><td>490</td>
+			<td>Urabl, Thomas [AUT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mytych, Francois [FRA]</td>
+		</tr><tr><td>491</td>
+			<td>Stanga, Giacomo [CHE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nguyen, Minh Toan [CHE]</td>
+		</tr><tr><td>492</td>
+			<td>Douglas, Michael [SCO]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Costagli, Matteo [ITA]</td>
+		</tr><tr><td>493</td>
+			<td>S&aacute;nchez, Pedro [ESP]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Campbell, Gary [SCO]</td>
+		</tr><tr><td>494</td>
+			<td>Schnobrich, Pablo [AUT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Schivardi, Francesco [ITA]</td>
+		</tr><tr><td>495</td>
+			<td>Fusar Poli, Pietro [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Colantoni, Giorgio [ITA]</td>
+		</tr><tr><td>496</td>
+			<td>Fabris, Davide [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bencreati, Ferdinando [ITA]</td>
+		</tr><tr><td>497</td>
+			<td>Izotau, Anton [BLR]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>D'Innocenzo, Andrea [ITA]</td>
+		</tr><tr><td>498</td>
+			<td>Buschi, Massimo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Parisi, Matteo [ITA]</td>
+		</tr><tr><td>499</td>
+			<td>bernardi, michele [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fokkema, Toon [NLD]</td>
+		</tr><tr><td>500</td>
+			<td>Ronca, Massimiliano [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Petersen, Andreas [DNK]</td>
+		</tr><tr><td>501</td>
+			<td>Di Chiara, Luca [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>De Iuliis, Francesco [ITA]</td>
+		</tr><tr><td>502</td>
+			<td>Bertuzzo, Matteo [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ferigo, Alvise [ITA]</td>
+		</tr><tr><td>503</td>
+			<td>Mialaret, Gary [FRA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Riccio, Stefano [ITA]</td>
+		</tr><tr><td>504</td>
+			<td>Cinquini, Riccardo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>cassina, tiziano [CHE]</td>
+		</tr><tr><td>505</td>
+			<td>Noorlander, Mark [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bentroudi, Galaad [FRA]</td>
+		</tr><tr><td>506</td>
+			<td>Tadini, Gabriele [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Garrido Salto, Felix [ESP]</td>
+		</tr><tr><td>507</td>
+			<td>pelosi, marco [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mares, Jiri [CZE]</td>
+		</tr><tr><td>508</td>
+			<td>Bisca, Dario [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Papakostas, Petros [GRC]</td>
+		</tr><tr><td>509</td>
+			<td>Diotto, Alessandro [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>aristo, alberto [ITA]</td>
+		</tr><tr><td>510</td>
+			<td>Eves, Tom [GIB]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Marchetti, Tommaso [ITA]</td>
+		</tr><tr><td>511</td>
+			<td>cellana, alessandro [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sharpe, Richard [USA]</td>
+		</tr><tr><td>512</td>
+			<td>notini, Luca [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mordeglia, Mattia [ITA]</td>
+		</tr><tr><td>513</td>
+			<td>Racca, Luca [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Canavesi, Emanuele [ITA]</td>
+		</tr><tr><td>514</td>
+			<td>Weiersm&uuml;ller, Fabian [CHE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Scentoni, Francesco [ITA]</td>
+		</tr><tr><td>515</td>
+			<td>Brazzoduro, Jacopo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sochurek, Petr [CZE]</td>
+		</tr><tr><td>516</td>
+			<td>Maccagnan, Luca [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Riverso, Mirko [ITA]</td>
+		</tr><tr><td>517</td>
+			<td>Mackl, Valentin [AUT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>zzz Reale, Giuseppe [ITA]</td>
+		</tr><tr><td>518</td>
+			<td>Gasperini, Simone [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cappiello, Davide [ITA]</td>
+		</tr><tr><td>519</td>
+			<td>Borsodi, Bal&aacute;zs [HUN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bartolini, Yuri [ITA]</td>
+		</tr><tr><td>520</td>
+			<td>Musi, Fabio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Menin, Simone [ITA]</td>
+		</tr><tr><td>521</td>
+			<td>Widmer, Lukas [CHE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>sinapi, laurent [FRA]</td>
+		</tr><tr><td>522</td>
+			<td>Micheloni, Enrico [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Palena, Marco [ITA]</td>
+		</tr><tr><td>523</td>
+			<td>Tami, Jordan [CHE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>van der End, Sander [NLD]</td>
+		</tr><tr><td>524</td>
+			<td>Amine, Benkirane [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>orsi, edoardo [ITA]</td>
+		</tr><tr><td>525</td>
+			<td>Ferrario, Andrea Marco [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Castellani, Antonio [ITA]</td>
+		</tr><tr><td>526</td>
+			<td>Martorana, Marco [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>quoti, claudio [ITA]</td>
+		</tr><tr><td>527</td>
+			<td>Schwarz, Dennis [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>weutzing, jens-f. [DEU]</td>
+		</tr><tr><td>528</td>
+			<td>Chelucci, Daniele [CHE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Albanese, Giorgio [ITA]</td>
+		</tr><tr><td>529</td>
+			<td>Aversa, gianmarco [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Peli, Dario [ITA]</td>
+		</tr><tr><td>530</td>
+			<td>colombo, davide [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Fera, Fabio [ITA]</td>
+		</tr><tr><td>531</td>
+			<td>zzzVIP Leber, Denis [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Dotti, Alessio [ITA]</td>
+		</tr><tr><td>532</td>
+			<td>Boldrini, Giulio [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Saez, Daniel [CHE]</td>
+		</tr><tr><td>533</td>
+			<td>Rosetta, Davide [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Varelija, Josip [HRV]</td>
+		</tr><tr><td>534</td>
+			<td>Sogus, Fabrizio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>bonoli, emanuele [ITA]</td>
+		</tr><tr><td>535</td>
+			<td>Rivoiro, Nicol&oacute; France [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Casabella, Dario [ITA]</td>
+		</tr><tr><td>536</td>
+			<td>Alfonzo, Daniele [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cariello, Gino [ITA]</td>
+		</tr><tr><td>537</td>
+			<td>Berselli, Johnatan [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Vornhusen, Gunnar [DEU]</td>
+		</tr><tr><td>538</td>
+			<td>Andreatta, Luca [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Robiso, Billy Joe [ITA]</td>
+		</tr><tr><td>539</td>
+			<td>Friggi, Matteo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>tenthof van noorden, j [NLD]</td>
+		</tr><tr><td>540</td>
+			<td>Mazibrada, Marko [SEN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bonvento, Marco [ITA]</td>
+		</tr><tr><td>541</td>
+			<td>Frost, Niks [DNK]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cavanna, Emanuele [ITA]</td>
+		</tr><tr><td>542</td>
+			<td>cellana, paolo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>ke, yong claudio [ITA]</td>
+		</tr><tr><td>543</td>
+			<td>Poli, Andrea [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Benjamin, LLOBET [FRA]</td>
+		</tr><tr><td>544</td>
+			<td>Bonde, Michael [DNK]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bressan, Daniele [ITA]</td>
+		</tr><tr><td>545</td>
+			<td>Taipan, Givanni Pace [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Reding, Johannes [DEU]</td>
+		</tr><tr><td>546</td>
+			<td>Martinez, Luciano [DOM]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Simonetta, Andrea [ITA]</td>
+		</tr><tr><td>547</td>
+			<td>Zuccaro, Richard [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>schito, francesco [ITA]</td>
+		</tr><tr><td>548</td>
+			<td>Farace, Rino [ITA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Cozzaglio, Enrico [ITA]</td>
+		</tr><tr><td>549</td>
+			<td>La Placa, Andrea [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Grassi, Alessandro [ITA]</td>
+		</tr><tr><td>550</td>
+			<td>gallo, andrea gaetano [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kopp, Daniel [DEU]</td>
+		</tr><tr><td>551</td>
+			<td>Ronco, Ermanno [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pisula, Marcin [POL]</td>
+		</tr><tr><td>552</td>
+			<td>Riccardi, Enrico [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Marchionne, Michele [ITA]</td>
+		</tr><tr><td>553</td>
+			<td>Amendola, Michele [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Viola, Carlo [ITA]</td>
+		</tr><tr><td>554</td>
+			<td>Saulle, Antonio [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Boffa, Andrea [ITA]</td>
+		</tr><tr><td>555</td>
+			<td>zzzVIP Gentile, France [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mazzucato, Manuele [ITA]</td>
+		</tr><tr><td>556</td>
+			<td>Macaione, Angelo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Marangoni, Thomas [ITA]</td>
+		</tr><tr><td>557</td>
+			<td>Lepore, Pietro [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Fiorini, davide [ITA]</td>
+		</tr><tr><td>558</td>
+			<td>blundo, carmelo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>FONTANA, OMAR [ITA]</td>
+		</tr><tr><td>559</td>
+			<td>Redolfi, Federico [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Trivisonno, Roberto [ITA]</td>
+		</tr><tr><td>560</td>
+			<td>Raffaele, Stefano [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>mencarelli, mattia jal [ITA]</td>
+		</tr><tr><td>561</td>
+			<td>Grbec, Alja&#382; [SVN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rimerici, Davide [ITA]</td>
+		</tr><tr><td>562</td>
+			<td>Bravi, Gianluca [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Longo, Alessandro [ITA]</td>
+		</tr><tr><td>563</td>
+			<td>Maury, Frederic [CHE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Pagnin, Davide [ITA]</td>
+		</tr><tr><td>564</td>
+			<td>Moretti, Andrea [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>ROCCIO, ENRICO [ITA]</td>
+		</tr><tr><td>565</td>
+			<td>Secchi, Pier Paolo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Costa, Manuel [ITA]</td>
+		</tr><tr><td>566</td>
+			<td>Borsari, Andrea [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Esule, Giancarlo [ITA]</td>
+		</tr><tr><td>567</td>
+			<td>Adolle, No&eacute;mie [FRA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Franco, Andrea [ITA]</td>
+		</tr><tr><td>568</td>
+			<td>Aguzzi, Evan [CHE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Pedon, Alessandro [ITA]</td>
+		</tr><tr><td>569</td>
+			<td>Folino, Leandro [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gatti, Andrea [ITA]</td>
+		</tr><tr><td>570</td>
+			<td>Hauri, No&euml;l [CHE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Papadakis, John [GRC]</td>
+		</tr><tr><td>571</td>
+			<td>zzzVIP Knelangen, Matt [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bernardi, Andrea Silvi [ITA]</td>
+		</tr><tr><td>572</td>
+			<td>Ehrler, Matthias [CHE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Siviero, Fabrizio [ITA]</td>
+		</tr><tr><td>573</td>
+			<td>Smanio, Alessandro [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Di Stefano, Umberto [ITA]</td>
+		</tr><tr><td>574</td>
+			<td>Pinamonti, Marco [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lampugnani, Gianmarco [ITA]</td>
+		</tr><tr><td>575</td>
+			<td>Barbieri, Adrian [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Barbieri, Saverio [ITA]</td>
+		</tr><tr><td>576</td>
+			<td>COSTA, ANDREA [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Quagliata, Francesco [ITA]</td>
+		</tr><tr><td>577</td>
+			<td>Cipollari, Riccardo [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Grippo, Luca [ITA]</td>
+		</tr><tr><td>578</td>
+			<td>Carli Maltinti, Lorenz [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ferrero, Cristian [ITA]</td>
+		</tr><tr><td>579</td>
+			<td>White, Peter [GIB]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Piletti, Jacopo [ITA]</td>
+		</tr><tr><td>580</td>
+			<td>Tautges, Ingo [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Festorazzi, Francesco [ITA]</td>
+		</tr><tr><td>581</td>
+			<td>Almeida, jorge [ESP]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Colombo, Flavio [ITA]</td>
+		</tr><tr><td>582</td>
+			<td>Castagna, Federico [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bagnoli, Carlo [ITA]</td>
+		</tr><tr><td>583</td>
+			<td>Ghiselli, Jean Marie [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gornishki, Venelin [BGR]</td>
+		</tr><tr><td>584</td>
+			<td>Sala, Federico Giovann [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>infranca, massimo [ITA]</td>
+		</tr><tr><td>585</td>
+			<td>Priscia, Marco [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Manieri, Matteo [ITA]</td>
+		</tr><tr><td>586</td>
+			<td>Baltensperger, Yves [CHE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tocchi, Gabriele [ITA]</td>
+		</tr><tr><td>587</td>
+			<td>Randisi, Valerio [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>capecce, luigi [ITA]</td>
+		</tr><tr><td>588</td>
+			<td>Gasperini, Giuliano [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bevilacqua, Davide [ITA]</td>
+		</tr><tr><td>589</td>
+			<td>Scotti, Giuseppe [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bovan, Kosta [HRV]</td>
+		</tr><tr><td>590</td>
+			<td>Bassan, Ilan [ISR]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fugallo, Alessandro [ITA]</td>
+		</tr><tr><td>591</td>
+			<td>Scava, Antonio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Vajdovics, Zsuzsanna [ITA]</td>
+		</tr><tr><td>592</td>
+			<td>valdivieso, henry [PER]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Goritschnig, Maximilia [AUT]</td>
+		</tr><tr><td>593</td>
+			<td>Lin, Zhi Huang [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Pellati, Andrea [ITA]</td>
+		</tr><tr><td>594</td>
+			<td>Nolan, Bevan [IRL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Etcheverry, Francois [FRA]</td>
+		</tr><tr><td>595</td>
+			<td>Tisi, Alberto [ITA]</td>
+			<td>Won 1-0</td>
+			<td>vs.</td>
+			<td>zzz sacco, sergio [ITA]</td>
+		</tr><tr><td>596</td>
+			<td>Fabio, Campagna [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Belloni, Stefano [ITA]</td>
+		</tr><tr><td>597</td>
+			<td>micheli, Davide [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Delbono, Filippo [ITA]</td>
+		</tr><tr><td>598</td>
+			<td>Stadler, Jan [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Candel&ugrave;, Yuri De Luigi [ITA]</td>
+		</tr><tr><td>599</td>
+			<td>Williams, Ryan [GIB]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>toninelli, andrea [ITA]</td>
+		</tr><tr><td>600</td>
+			<td>risso, luca [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>ZEIL, Jean-Julien [FRA]</td>
+		</tr><tr><td>601</td>
+			<td>Cantarutti, Nicola [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Marelli, Giorgio [ITA]</td>
+		</tr><tr><td>602</td>
+			<td>Invernizzi, Jacques [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>zappaterra, andrea [ITA]</td>
+		</tr><tr><td>603</td>
+			<td>zzzVIP Cascella, Tomma [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bedina, Andrea [ITA]</td>
+		</tr><tr><td>604</td>
+			<td>Berner, Matthias [CHE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gritti, Massimiliano [ITA]</td>
+		</tr><tr><td>605</td>
+			<td>Olivieri, Alessio [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>neri, ivan [ITA]</td>
+		</tr><tr><td>606</td>
+			<td>Novarese, Federico [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Engelhart, Fabian [AUT]</td>
+		</tr><tr><td>607</td>
+			<td>bertolino, liam [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Urzi, Pietro [ITA]</td>
+		</tr><tr><td>608</td>
+			<td>Nesello K&uuml;nzel, Paulo [BRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Eichenseer Herrera, Jo [AFG]</td>
+		</tr><tr><td>609</td>
+			<td>Croci, Marco [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Morselli, Demetrio [ITA]</td>
+		</tr><tr><td>610</td>
+			<td>Berio, Massimo [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Palumbo, Marcello [ITA]</td>
+		</tr><tr><td>611</td>
+			<td>Porcelli, Vincenzo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>URVOY, FREDERIC [FRA]</td>
+		</tr><tr><td>612</td>
+			<td>Hillmann, Alexander [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>repetto, stefano [ITA]</td>
+		</tr><tr><td>613</td>
+			<td>Trombini, Diego [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Imperatori, Alberto [ITA]</td>
+		</tr><tr><td>614</td>
+			<td>La Loggia, Matteo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Andreatini, Federico [ITA]</td>
+		</tr><tr><td>615</td>
+			<td>Belobrajdic, Allen [AUS]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Jakob, Tobias [AUT]</td>
+		</tr><tr><td>616</td>
+			<td>Di pierno, Mattia [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Viliani, Giacomo [ITA]</td>
+		</tr><tr><td>617</td>
+			<td>Lattuada, Martino [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Graziani, Luca [ITA]</td>
+		</tr><tr><td>618</td>
+			<td>Ferreri, Paolo [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Allevi, Emiliano [ITA]</td>
+		</tr><tr><td>619</td>
+			<td>Carlucci, Sandro [CHE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lavandier, Erick [USA]</td>
+		</tr><tr><td>620</td>
+			<td>Marmo, Mattia [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Foradini, Massimiliano [ITA]</td>
+		</tr><tr><td>621</td>
+			<td>Careghini, Alessandro [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ravinale, Riccardo [ITA]</td>
+		</tr><tr><td>622</td>
+			<td>Facondi, Federico [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tognon, Giada [ITA]</td>
+		</tr><tr><td>623</td>
+			<td>Knebel, Sebastian [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cabos, Lilian [FRA]</td>
+		</tr><tr><td>624</td>
+			<td>Schettino, Nicol&ograve; [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rustico, Lorenzo [ITA]</td>
+		</tr><tr><td>625</td>
+			<td>crifo', adriano [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>D'Alesio, Francesco [ITA]</td>
+		</tr><tr><td>626</td>
+			<td>Cuneo, Alessandro [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kapler, Robert [POL]</td>
+		</tr><tr><td>627</td>
+			<td>Carassai, Tommaso [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gala, Andrea [ITA]</td>
+		</tr><tr><td>628</td>
+			<td>Giacometti, Andrea [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>saettone, matteo [ITA]</td>
+		</tr><tr><td>629</td>
+			<td>Falzetti, Alessandro [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pastorelli, Antonio [ITA]</td>
+		</tr><tr><td>630</td>
+			<td>zzzVIP Serrano Oca&ntilde;a, [ESP]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Guidi, Alessio [ITA]</td>
+		</tr><tr><td>631</td>
+			<td>Santoro, Ernesto [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Boniello, Francesco Ma [ITA]</td>
+		</tr><tr><td>632</td>
+			<td>nisti, Luca [ITA]</td>
+			<td></td>
+			<td>vs.</td>
+			<td>Jansen, Alexandre [CHE]</td>
+		</tr><tr><td>633</td>
+			<td>Evangelisti, Niccol&ograve; [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Carrassi, Simon [ITA]</td>
+		</tr><tr><td>634</td>
+			<td>Cerutti, Daniele [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Atzrodt, Domenique [DEU]</td>
+		</tr><tr><td>635</td>
+			<td>zzzVIP Tousseau, John [USA]</td>
+			<td></td>
+			<td>vs.</td>
+			<td>karamanlis, pavlos [DEU]</td>
+		</tr><tr><td>636</td>
+			<td>Alessandrini, Daniele [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gaeni, Ilian [ITA]</td>
+		</tr><tr><td>637</td>
+			<td>Calligaro, Laurent [LUX]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Story, sidney [NLD]</td>
+		</tr><tr><td>638</td>
+			<td>Vlach, Vaclav [CZE]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hansen, Ronnie [DNK]</td>
+		</tr><tr><td>639</td>
+			<td>Bulla, Michele [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Boog, Rafael [CHE]</td>
+		</tr><tr><td>640</td>
+			<td>Venturi, Mattia [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lombardi, Michele [ITA]</td>
+		</tr><tr><td>641</td>
+			<td>Savina, Saverio [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Avataneo, Francesco [ITA]</td>
+		</tr><tr><td>642</td>
+			<td>Menichini, Luca [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Maccio', Daniele [ITA]</td>
+		</tr><tr><td>643</td>
+			<td>Benedetti, Alessandro [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Meloni, Daniele [ITA]</td>
+		</tr><tr><td>644</td>
+			<td>Popescu, Andrei [ROU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Marcialis, Riccardo [ITA]</td>
+		</tr><tr><td>645</td>
+			<td>Patronelli, Andrea [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Spadini, Fabio [CHE]</td>
+		</tr><tr><td></td>
+			<td>boccia, andrea [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* BYE *</td>
+		</tr><tr><td></td>
+			<td>Bouraoui, Myriam [CHE]</td>
+			<td></td>
+			<td></td>
+			<td>* BYE *</td>
+		</tr></tbody></table><p></p>
+
+<p></p>
+
+<p></p></body></html>
+      </div>
+
+      <!-- BEGIN :: Article footer -->
+      <div class="article-footer">
+        <p class="posted-in">
+          Posted in          <a href="/en/events/coverage/gpmil15">GRAND PRIX MILAN 2015</a>
+          on December 13, 2014        </p>
+      </div>
+      <!-- END :: Article footer -->
+
+    </article>
+  </div>
+
+  <!-- BEGIN :: ASIDE -->
+        <aside>
+      <div class="aside-wrapper">
+        
+
+            <h2><span>FEATURED ARTICLE</span></h2>
+      <div class="articles-bloc">
+            <div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/UR20150402_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="cat">UNCHARTED REALMS</a>
+      <p class="date">April 2, 2015</p>
+      <a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="title">The Guardian</a>
+              <a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="auth">Ari Levitch</a>
+      
+      <div class="infos">
+                  <p>Anafenza's fate has been less kind in this Tarkir, but no less grand…
+</p>
+                <p><a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div><div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/ARC20150402_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="cat">ARCANA</a>
+      <p class="date">April 2, 2015</p>
+      <a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="title">Art Descriptions of the Not-Khans</a>
+              <a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="auth">Blake Rasmussen</a>
+      
+      <div class="infos">
+                  <p>The descriptions that drove the art of the non-khans of Tarkir in Dragons of Tarkir.
+</p>
+                <p><a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div>          </div>
+            
+      <h2><span>EVENTS</span></h2>
+      <div class="articles-bloc">
+    <div class="article static pub-event "
+         style="background-image: url(http://magic.wizards.com/sites/mtg/files/FNMFeb_GutterAd_A.jpg)">
+      <div class="wrap details">
+                  <img src="http://magic.wizards.com/sites/mtg/files/FNMFeb_GutterAd_B.png" />
+                <p class="date"></p>
+                  <p class="description">Get an alternative-art promo of Disdainful Stroke!</p>
+                          <p>
+            <a class="learn-more " href="http://magic.wizards.com/en/events/event-types/friday-night-magic" data-video-url="">
+              Friday Night Magic            </a>
+          </p>
+              </div>
+    </div>
+  </div>
+              <h2><span>PRODUCTS</span></h2>
+            </div>
+    </aside>
+    <!-- END :: ASIDE -->
+
+  </div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+  </div>
+
+  <!-- Footer -->
+    <footer>
+    <div id="back-to-top">
+      <a href="#viewport">Back to top</a>
+    </div>
+    <div id="where-to-buy">
+      <div class="content page-width">
+        <form action="/en/events/coverage/gpmil15/group-1-round-6-results-2014-12-13" method="post" id="wiz-store-and-event-locator-search-form--2" accept-charset="UTF-8"><div><div class="intro"><div class="wrap"><h5>Where to Play and Buy</h5><p>Find a location to buy or play<br />Magic: The Gathering near you.</p></div></div><div class="form"><div class="wrap"><span class="column zip-code"><div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Enter your city or postal code" type="text" id="edit-search-string--4" name="search-string" value="" size="25" maxlength="128" class="form-text" />
+</div>
+</span><span class="column actions"><button class="action-button" type="submit">Find Now !</button></span></div></div><input class="hide form-submit" type="submit" id="edit-search-button--4" name="op" value="Find Now" /><input type="hidden" name="form_build_id" value="form-ootdnvIRb5PcsR47nYKMRpgBkgXBOkItcJY6emB5UCQ" />
+<input type="hidden" name="form_id" value="wiz_store_and_event_locator_search_form" />
+</div></form>      </div>
+    </div>
+
+    <div class="main-footer">
+      <div class="content page-width">
+        <div class="text">
+                      <div id="locale-select">
+              <label for="locale-select-ddl">Select your language:</label>
+
+              <div class="select-wrapper">
+                <select id="locale-select-ddl">
+                  <option value="/zh-hans" >简体中文</option><option value="/zh-hant" >繁體中文</option><option value="/fr" >Français</option><option value="/de" >Deutsch</option><option value="/it" >Italiano</option><option value="/ja" >日本語</option><option value="/ko" >한국어</option><option value="/pt-br" >Português (Brasil)</option><option value="/ru" >Русский</option><option value="/es" >Español</option><option value="/en" selected>English</option>                </select>
+              </div>
+            </div>
+          
+          
+
+      <p class="brand-family-title">Wizards Brand Family</p>
+    <p class="brand-family-menu"><a href="http://magic.wizards.com" target="_blank">magic</a> <em>|</em> <a href="http://www.wizards.com/dnd" target="_blank">d&amp;d</a> <em>|</em> <a href="http://www.wizards.com/wpn" target="_blank">wpn</a> <em>|</em> <a href="http://dm.takaratomy.co.jp" target="_blank">duel masters</a> <em>|</em> <a href="http://www.wizards.com/default.asp?x=ah/welcome" target="_blank">avalon hill</a></p>
+  <p><a href="http://company.wizards.com/tou" target="_blank">Terms of Use</a> <em>|</em> <a href="http://company.wizards.com/conduct" target="_blank">Code of Conduct</a> <em>|</em> <a href="http://company.wizards.com/policy" target="_blank">Privacy Policy</a> <em>|</em> <a href="http://www.wizards.com/customerservice" target="_blank">Customer Service</a> <em>|</em> <a href="/en/articles/archive/our-cookie-policy-2013-10-28">Cookies</a></p>
+  <p class="copyright">© 1995-2016 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved.</p>
+
+        </div>
+        
+
+      <p class="logo wizard">
+      <a href="http://company.wizards.com"
+         target="_blank"
+         title="Wizards of the Coast"
+        ><img src="/sites/all/themes/wiz_mtg/img/interface/wizard-of-the-coast-logo.png" alt="Wizards of the Coast" /></a>
+    </p>
+  
+      <p class="logo hasbro">
+      <a href="http://www.hasbro.com"
+         target="_blank"
+         title="Hasbro"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/hasbro-logo.svg" alt="Hasbro" /></a>
+    </p>
+  
+      <p class="logo privacy">
+      <a href="http://www.esrb.org/confirm/wizards-confirmation.aspx"
+         target="_blank"
+         title="ESRB Privacy Certified"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/esrb-badge.png" alt="ESRB Privacy Certified" /></a>
+    </p>
+  
+      </div>
+    </div>
+  </footer>
+  </div>
+
+<div id="cookies-warning">
+	<div class="wrap page-width">
+		<div class="text">
+			<p>
+        We use cookies on this site to enhance your user experience. By clicking any link on this page or by clicking <strong>Yes</strong>, you are giving your consent for us to set cookies.        <a href="http://company.wizards.com/policies/web/cookie" target="_blank"> (Learn more about cookies)</a>
+      </p>
+		</div>
+		<p class="actions">
+			<button type="button" class="button agree">Yes, I agree</button>
+			<a href="http://company.wizards.com/policies/web/cookie" target="_blank" class="button disagree">No, I want to find out more</a>
+		</p>
+	</div>
+</div>      <div class="region region-page-bottom">
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>  </div>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_oi0ujkYeWtu_4YlJE5uYvltQ88urtOHuaNRm2scTWco.js"></script>
+  </div>
+
+	<!-- Crazy Egg -->
+	<script type="text/javascript">
+		setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName("script")[0];
+		a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0009/9185.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+	</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d92d812ac7","applicationID":"22111946","transactionName":"YVNXMkcAD0sHAUdcXFgZdAVBCA5WSRJSUlZpW1QIVAYESjkMXFFWaUBcA0I+EVkBBw==","queueTime":0,"applicationTime":664,"atts":"TRRURA8aHEU=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

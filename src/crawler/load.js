@@ -6,6 +6,7 @@ function load(url) {
       url,
       {
         features: {
+          //FetchExternalResources: ['link']
           FetchExternalResources: []
         }
       },

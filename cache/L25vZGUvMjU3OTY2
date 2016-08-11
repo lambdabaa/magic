@@ -1,0 +1,4853 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+  <title>ROUND 2 RESULTS | MAGIC: THE GATHERING</title>
+
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"/>
+  <meta name="format-detection" content="telephone=no"/>
+	<meta name="google-site-verification" content="WquIfqfWtlm2X62GTeJ-5vDtRrbOVOIT6mFc3vAP5BQ" />
+
+  <link rel="icon" type="image/png" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/sites/all/themes/wiz_mtg/icons/favicon.ico"/>
+  <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/wiz_mtg/icons/touch-icon-57.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/wiz_mtg/icons/touch-icon-72.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/wiz_mtg/touch-icon-114.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://magic.wizards.com/sites/all/themes/wiz_mtg/favicon.ico" type="image/vnd.microsoft.icon" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="description" content="Complete coverage of Grand Prix Utrecht 2014&amp;#13;" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://magic.wizards.com/en/events/coverage/gputr14/round-2-results-2014-08-09" />
+<link rel="shortlink" href="http://magic.wizards.com/en/node/257966" />
+<meta property="og:site_name" content="MAGIC: THE GATHERING" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://magic.wizards.com/en/events/coverage/gputr14/round-2-results-2014-08-09" />
+<meta property="og:title" content="ROUND 2 RESULTS" />
+<meta property="og:description" content="Complete coverage of Grand Prix Utrecht 2014&amp;#13;" />
+<meta property="og:image" content="http://magic.wizards.com/sites/mtg/files/images/hero/icon_generic_wizards_purple.jpg" />
+  <link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_DHcXHPYBSjIVaCQZEG4ZlpLkvslnFlBCnQUCzlbRBio.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_jqLG8JVbJuXMDDISe4UsZMUj_1qh-z0BGGAnA4OQvrA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_IIxgQdBS3hICu6Ps9jWiboRWYhCChZSb8zy58PRgH-8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_sELblXm0HE9iYxNNwDufKAxxNQ7ZkF6_ABbBSpg1HBE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/1.10.5/css/jquery.dataTables.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/responsive/1.0.4/css/dataTables.responsive.css" media="all" />
+  <script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_melyhmK_eh6sYXp2z9ljBIs419nCvgG6X4XWQKGJjng.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_yRh3TUp_QoC2vC9PitxLvVXRHsQUtJt-ObNFP_v6h-k.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_1swqkjOwmrPjTNzECJhtuekK-QJ_S5vc3xlUxa4gvEI.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_V7ygvngkUS6TCF6pK434j1Pj29d0hmeDnqUTPlcHIsw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-15020098-13", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "pathToTheme": "sites/all/themes/wiz_mtg" });
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://accounts.wizards.com/Widget/Widget.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_tuIsI7hTJyYf1XxjjnXVjPFwG177VUndBDGTmD13oH0.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_JIa4YdILIwnQQfsYZSjX1gz9IUt6emOIXEvyA44TWDI.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/responsive/1.0.4/js/dataTables.responsive.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"wiz_mtg","theme_token":"d-MaI07-bF0YfhD7sEkQEgaPEUxz3LxVLIHDLOXZRL4","jquery_version":"1.8","js":{"sites\/all\/themes\/wiz_mtg\/js\/ShareButton.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/masonry.pkgd.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/wiz_autocard.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/d3.v3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.charts.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/wiz_decklist_filter\/js\/wiz_decklist_filter.js":1,"sites\/all\/modules\/custom\/wiz_show_period\/js\/moment.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper-2.1.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper.scrollbar-2.1.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/custom.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/deletecookies.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"https:\/\/accounts.wizards.com\/Widget\/Widget.js":1,"sites\/all\/modules\/custom\/wiz_npsu\/js\/npsu_widget.js":1,"sites\/all\/themes\/wiz_mtg\/js\/image-comparison-slider.js":1,"sites\/all\/libraries\/foresee\/foresee-trigger.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery-ui.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/content-gallery-grid\/modernizr.custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.fancybox.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.scrollbar.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.mmenu.oncanvas.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.columnlist.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/dropdown.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/owl.carousel.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/stacktable.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/arketype.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-homepage-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-event-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/interstitials.js":1,"sites\/all\/themes\/wiz_mtg\/js\/community.js":1,"sites\/all\/themes\/wiz_mtg\/js\/inline-features.js":1,"sites\/all\/themes\/wiz_mtg\/js\/MainMenu.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ParallaxBackground.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ShowHideListItems.js":1,"sites\/all\/themes\/wiz_mtg\/js\/core.js":1,"sites\/all\/themes\/wiz_mtg\/js\/mx.js":1,"\/\/cdn.datatables.net\/1.10.5\/js\/jquery.dataTables.min.js":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/js\/dataTables.responsive.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.scrollbar.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/chartbeat\/chartbeat.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/wiz_npsu\/css\/npsu.css":1,"sites\/all\/modules\/custom\/wiz_npsu_mtg\/css\/npsu_mtg.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery-ui-mod.css":1,"sites\/all\/themes\/wiz_mtg\/css\/owl.carousel.css":1,"sites\/all\/themes\/wiz_mtg\/css\/scrollbars.css":1,"sites\/all\/themes\/wiz_mtg\/css\/fonts.css":1,"sites\/all\/themes\/wiz_mtg\/css\/core.css":1,"sites\/all\/themes\/wiz_mtg\/css\/header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/footer.css":1,"sites\/all\/themes\/wiz_mtg\/css\/page-header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/medias.css":1,"sites\/all\/themes\/wiz_mtg\/css\/search.css":1,"sites\/all\/themes\/wiz_mtg\/css\/decklist.css":1,"sites\/all\/themes\/wiz_mtg\/css\/articles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/game-info.css":1,"sites\/all\/themes\/wiz_mtg\/css\/events.css":1,"sites\/all\/themes\/wiz_mtg\/css\/community.css":1,"sites\/all\/themes\/wiz_mtg\/css\/mx.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/immersive.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/interstitials.css":1,"sites\/all\/themes\/wiz_mtg\/css\/styles-extended.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacy.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacyStyles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/_theme-override.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic":1,"\/\/cdn.datatables.net\/1.10.5\/css\/jquery.dataTables.css":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/css\/dataTables.responsive.css":1}},"chartbeat":{"uid":51341,"domain":"http:\/\/magiccv2stg.prod.acquia-sites.com\/","useCanonical":true,"noCookies":false},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":330,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"wiz_core":{"wiz_core_switch_in_days":14,"wiz_core_switch_in_visits":10,"wiz_core_switch_b_path":"home"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"npsu_widget":{"enabled":true,"logged_in":"false"},"urlIsAjaxTrusted":{"\/en\/events\/coverage\/gputr14\/round-2-results-2014-08-09":true}});
+//--><!]]>
+</script>
+
+  
+        <style>
+      @media all {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png) no-repeat;
+          background-size: 100% 100px;
+
+        }
+        #mobile-menu .header .logo a {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 100%;
+        }
+        #page.snap-menu header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+      @media (max-width: 1200px) {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+    </style>
+  	
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-257966 node-type-article i18n-en content-non-panels role-anonymous-user with-subnav page-events-coverage-gputr14-round-2-results-2014-08-09 section-events" >
+  <script>
+  /* Interstitials variables */
+  var Interstitials = {
+    list: [
+                        ]
+  };
+  </script>
+
+  <div id="page" class="section_articles article_detail">
+    
+        <div id="mobile-menu">
+  <div class="header">
+    <div class="logo"></div>
+    <div class="toggle-menu-button"></div>
+  </div>
+  <nav>
+    <div class="menu-wrapper" data-back-label="Back"></div>
+  </nav>
+</div>
+
+<div id="viewport">
+  <!-- Header -->
+  <header>
+    <div class="wrapper">
+      <div id="utils">
+        <a href="http://locator.wizards.com/" class="locator">Locator</a> <a href="http://gatherer.wizards.com" class="gatherer">Card Database</a>        <a href="/en" title="Sign In" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;SignIn&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showLoginModal();" id="SignInButton" class="login">Sign In</a> | <a href="/en" title="Sign Up" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Signup&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showJoinModal();" id="RegisterButton" class="register">Sign Up</a>        <div id="search-form">
+          <form action="/en/events/coverage/gputr14/round-2-results-2014-08-09" method="post" id="wiz-search-bar-form--2" accept-charset="UTF-8"><div><input type="hidden" name="search-site" value="acquia_search" />
+<div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Search Anything" type="text" id="edit-search-string--3" name="search-string" value="" size="25" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-search-button--3" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-EvCe-ZDSI1H7FFfOpscpWzl_AEgNtAxNPiU5i1aKfgw" />
+<input type="hidden" name="form_id" value="wiz_search_bar_form" />
+</div></form>        </div>
+      </div>
+
+      <!-- Menu -->
+      <nav id="menu">
+        <a class="home" href="/en"><span>Magic the Gathering</span></a>
+
+        <div class="menu-wrapper">
+          <ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#signinbutton').attr('onclick',-'return-wotcaccountwidget.showloginmodal();');</script> has-children"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#SignInButton').attr('onclick', 'return wotcAccountWidget.showLoginModal();');</script></span></a><ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#registerbutton').attr('onclick',-'return-wotcaccountwidget.showjoinmodal();');</script>"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#RegisterButton').attr('onclick', 'return wotcAccountWidget.showJoinModal();');</script></span></a></li>
+<li class="mn_section_strategy"><a href="/en/content/strategy"><span>Strategy</span></a></li>
+<li class="mn_section_lore"><a href="/en/content/new-to-magic/lore"><span>Lore</span></a></li>
+<li class="mn_section_community"><a href="/en/content/new-to-magic/community"><span>Community</span></a></li>
+</ul></li>
+<li class="mn_section_game-info has-children"><a href="/en/game-information"><span>GAME INFO</span></a><ul class="menu"><li class="hub-link GAME INFO"><a href="/en/game-information"><span>GAME INFO</span></a></li>
+<li class="mn_section_gameplay has-children"><a class="nolink"><span>GAMEPLAY</span></a><ul class="menu"><li class="mn_section_about-the-game"><a href="/en/game-info/gameplay/about-the-game"><span>ABOUT THE GAME</span></a></li>
+<li class="mn_section_how-to-play"><a href="/en/game-info/gameplay/how-to-play"><span>HOW TO PLAY</span></a></li>
+<li class="mn_section_how-to-build-a-deck"><a href="/en/game-info/gameplay/how-to-build-a-deck"><span>HOW TO BUILD A DECK</span></a></li>
+<li class="mn_section_improve-your-game"><a href="/en/game-info/gameplay/improve-your-game"><span>IMPROVE YOUR GAME</span></a></li>
+<li class="mn_section_rules-&-formats"><a href="/en/game-info/gameplay/rules-and-formats"><span>RULES & FORMATS</span></a></li>
+</ul></li>
+<li class="mn_section_products has-children"><a class="nolink"><span>PRODUCTS</span></a><ul class="menu"><li class="mn_section_featured-<br>releases"><a href="/en/game-info/products/featured-releases"><span>FEATURED <BR>RELEASES</span></a></li>
+<li class="mn_section_coming-soon"><a href="/en/game-info/products/coming-soon"><span>COMING SOON</span></a></li>
+<li class="mn_section_magic-duels"><a href="/en/content/magic-duels"><span>MAGIC DUELS</span></a></li>
+<li class="mn_section_magic-online"><a href="/en/content/magic-online-products-game-info"><span>MAGIC ONLINE</span></a></li>
+<li class="mn_section_card-set-archive"><a href="/en/game-info/products/card-set-archive"><span>CARD SET ARCHIVE</span></a></li>
+</ul></li>
+<li class="mn_section_story has-children"><a class="nolink"><span>STORY</span></a><ul class="menu"><li class="mn_section_magic's-story"><a href="/en/game-info/story/magic-story"><span>MAGIC'S STORY</span></a></li>
+<li class="mn_section_planeswalkers"><a href="/en/game-info/story/planeswalkers"><span>PLANESWALKERS</span></a></li>
+<li class="mn_section_planes"><a href="/en/game-info/story/planes"><span>PLANES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_events has-children current"><a href="/en/events" class="active-trail"><span>EVENTS</span></a><ul class="menu"><li class="hub-link EVENTS"><a href="/en/events"><span>EVENTS</span></a></li>
+<li class="mn_section_events-home"><a href="/en/events"><span>EVENTS HOME</span></a></li>
+<li class="mn_section_what-is-<br>organized-play"><a href="/en/events/what-is-organized-play"><span>WHAT IS <br>ORGANIZED PLAY?</span></a></li>
+<li class="mn_section_event<br>-types"><a href="/en/events/event-types"><span>EVENT<br> TYPES</span></a></li>
+<li class="mn_section_coverage has-children current"><a class="active-trail nolink"><span>COVERAGE</span></a><ul class="menu"><li class="mn_section_coverage-archive current"><a href="/en/events/coverage" class="active-trail"><span>COVERAGE ARCHIVE</span></a></li>
+<li class="mn_section_top-players"><a href="/en/events/coverage/top-players"><span>TOP PLAYERS</span></a></li>
+</ul></li>
+<li class="mn_section_schedules"><a href="/en/content/premier-events-schedule#/overview"><span>SCHEDULES</span></a></li>
+<li class="mn_section_resources has-children"><a class="nolink"><span>RESOURCES</span></a><ul class="menu"><li class="mn_section_planeswalker-points"><a href="/en/events/resources/planeswalker-points"><span>PLANESWALKER POINTS</span></a></li>
+<li class="mn_section_judges"><a href="/en/events/resources/judges"><span>JUDGES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_articles has-children"><a href="/en/content/articles"><span>ARTICLES</span></a><ul class="menu"><li class="hub-link ARTICLES"><a href="/en/content/articles"><span>ARTICLES</span></a></li>
+<li class="mn_section_articles-home"><a href="/en/content/articles"><span>ARTICLES HOME</span></a></li>
+<li class="mn_section_columns has-children"><a id="columns" class="nolink"><span>COLUMNS</span></a><ul class="menu"><li class="mn_section_columnists"><a href="/en/articles/columns/columnists"><span>COLUMNISTS</span></a></li>
+<li class="mn_section_making-magic"><a href="/en/articles/columns/making-magic-archive"><span>MAKING MAGIC</span></a></li>
+<li class="mn_section_magic-story"><a href="/en/articles/columns/magic-story-archive"><span>MAGIC STORY</span></a></li>
+<li class="mn_section_top-decks"><a href="/en/articles/columns/top-decks-archive"><span>TOP DECKS</span></a></li>
+<li class="mn_section_organized-<br>play"><a href="/en/articles/columns/organized-play-archive" title="Organized Play"><span>ORGANIZED <br>PLAY</span></a></li>
+<li class="mn_section_latest-<br>developments"><a href="/en/articles/columns/latest-developments-archive"><span>LATEST <br>DEVELOPMENTS</span></a></li>
+</ul></li>
+<li class="mn_section_archives"><a href="/en/articles/archive"><span>ARCHIVES</span></a></li>
+<li class="mn_section_winning-decks"><a href="/en/articles/winning-decks"><span>WINNING DECKS</span></a></li>
+<li class="mn_section_media has-children"><a class="nolink"><span>MEDIA</span></a><ul class="menu"><li class="mn_section_videos"><a href="/en/articles/media/videos"><span>VIDEOS</span></a></li>
+<li class="mn_section_podcasts"><a href="/en/articles/media/podcasts"><span>PODCASTS</span></a></li>
+<li class="mn_section_wallpapers"><a href="/en/articles/media/wallpapers"><span>WALLPAPERS</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_community has-children"><a href="/en/community"><span>COMMUNITY</span></a><ul class="menu"><li class="hub-link COMMUNITY"><a href="/en/community"><span>COMMUNITY</span></a></li>
+<li class="mn_section_community-home"><a href="/en/community"><span>COMMUNITY HOME</span></a></li>
+<li class="mn_section_fan-kits"><a href="/en/community/fan-kits"><span>FAN KITS</span></a></li>
+</ul></li>
+<li class="mn_section_my-accounts"><a href="/en/content/my-accounts"><span>MY ACCOUNTS</span></a></li>
+</ul>        </div>
+      </nav>
+    </div>
+  </header>
+
+  
+  <div id="content-wrapper">
+      <div class="region region-content">
+    
+<div id="block-system-main" class=" block block-system block-odd first last main clearfix">
+  <div class="block-inner">
+                <div class="content" >
+      <div id="content" class="page-width">
+
+  <div id="main-content">
+    <div id="breadcrumb">
+              <span ><a href="/en/events">EVENTS</a></span>
+              <span ><a href="/en/events/coverage">COVERAGE ARCHIVE</a></span>
+              <span class="current"><a href="/en/events/coverage/gputr14">GRAND PRIX UTRECHT 2014 - COVERAGE - EVENTS </a></span>
+          </div>
+    <h1>ROUND 2 RESULTS</h1>
+    <p class="posted-in">
+      Posted in      <a href="/en/events/coverage/gputr14">GRAND PRIX UTRECHT 2014 - COVERAGE - EVENTS </a>
+      on August 9, 2014    </p>
+
+    <!-- BEGIN :: ARTICLE -->
+    <article>
+      <div class="article-header">
+
+                  <div class="author">
+            <img src="http://magic.wizards.com/sites/mtg/files/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg?itok=KENOTqfD" alt="" />
+            <p>By Wizards of the Coast</p>
+            <p class="links">
+                                            <span><a href="/en/articles/archive/184956" onClick="_gaq.push(['_trackEvent', 'Article', 'Author', 'Wizards of the Coast-Archive']);">Archive</a></span>
+                                        </p>
+            <div id="author-biography">
+                          </div>
+          </div>
+        
+        <div class="sharing">
+          <div class="social-share">
+            <a class="facebook" href="#" data-share-url="http://magic.wizards.com/events/coverage/gputr14/round-2-results-2014-08-09"><span class="share-count">0</span><span>&nbsp;Shares</span></a>
+            <a class="twitter" href="#" data-share-url="http://magic.wizards.com/events/coverage/gputr14/round-2-results-2014-08-09"><span class="share-count">0</span><span>&nbsp;Tweets</span></a>
+            <a class="google" href="#" data-share-url="http://magic.wizards.com/events/coverage/gputr14/round-2-results-2014-08-09"><span class="share-count">0</span><span>&nbsp;+</span></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div id="content-detail-page-of-an-article">
+        <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><ul><li><a href="http://magic.wizards.com/en/events/coverage/gputr14">Complete coverage of Grand Prix Utrecht 2014</a></li>
+</ul><p></p>
+<sortrow></sortrow><table shade="1" shadecolor="#ffffcc" w="500"><tbody><tr><td><b>Table</b></td>
+			<td><b>Player</b></td>
+			<td><b>Result</b></td>
+			<td></td>
+			<td><b>Opponent</b></td>
+		</tr><tr><td>1</td>
+			<td>Whyte, Davie [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Scott, David [ENG]</td>
+		</tr><tr><td>2</td>
+			<td>van Dalen, Marvin [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tollenaar, Willem [NLD]</td>
+		</tr><tr><td>3</td>
+			<td>Lopez, Oliver [ENG]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Wattel, Olivier [BEL]</td>
+		</tr><tr><td>4</td>
+			<td>Bangert, Jan [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>J&auml;ke, Markus [DEU]</td>
+		</tr><tr><td>5</td>
+			<td>Friedrich, Fabian [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>SCHNEIDER, Flavian [FRA]</td>
+		</tr><tr><td>6</td>
+			<td>Calligaro, Laurent [LUX]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Napierski, Kamil [POL]</td>
+		</tr><tr><td>7</td>
+			<td>Ehmann, Christian [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Prins, Wijnand [NLD]</td>
+		</tr><tr><td>8</td>
+			<td>Bornel&ouml;v, Susanne [SWE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Eschelbach, Torsten [DEU]</td>
+		</tr><tr><td>9</td>
+			<td>Groothuis, Tim [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Scholz, Daniel [DEU]</td>
+		</tr><tr><td>10</td>
+			<td>Smits, Erik [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sauerborn, Nico [DEU]</td>
+		</tr><tr><td>11</td>
+			<td>Pauwels, C&eacute;dryck [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>RIGOLET, THIBAULT [FRA]</td>
+		</tr><tr><td>12</td>
+			<td>Til, H.F. [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Aguzzi, Evan [CHE]</td>
+		</tr><tr><td>13</td>
+			<td>Gotfredsen, Anders [DNK]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cohen, Amit [ISR]</td>
+		</tr><tr><td>14</td>
+			<td>Korver, Joris [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hartvelt, Sytse [NLD]</td>
+		</tr><tr><td>15</td>
+			<td>Timmermans, hedzer [NLD]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Frenster, Jochen [DEU]</td>
+		</tr><tr><td>16</td>
+			<td>Schmitz, Daniel [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gwiasda, Marc [AFG]</td>
+		</tr><tr><td>17</td>
+			<td>Martins, Daniel [PRT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Verstraten, Teun [NLD]</td>
+		</tr><tr><td>18</td>
+			<td>Dhanpat, Amarnath [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gilligan, Daniel [IRL]</td>
+		</tr><tr><td>19</td>
+			<td>Stocker, Marcel [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gerth, Christopher [DEU]</td>
+		</tr><tr><td>20</td>
+			<td>Verhoeven, Nikolai [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Andersen, Rasmus [DNK]</td>
+		</tr><tr><td>21</td>
+			<td>Gerretsen, Jasper [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tuduri, Ricard [ESP]</td>
+		</tr><tr><td>22</td>
+			<td>Witte, Maarten [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Viniczai, Tibor [HUN]</td>
+		</tr><tr><td>23</td>
+			<td>Newman, Gerhard [AUS]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Wohlleber, Marcel [DEU]</td>
+		</tr><tr><td>24</td>
+			<td>van de Sande, Niels [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tel&ouml;ken, Jonny [DEU]</td>
+		</tr><tr><td>25</td>
+			<td>Filler, Michael [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Vaes, Maarten [NLD]</td>
+		</tr><tr><td>26</td>
+			<td>Van den Wouwer, Chris [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>van der yon, jordi [NLD]</td>
+		</tr><tr><td>27</td>
+			<td>Kopp, Bastian [CHE]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kaukoranta, Ville [FIN]</td>
+		</tr><tr><td>28</td>
+			<td>Oldeman, Dave [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kleerekooper, Leonard [NLD]</td>
+		</tr><tr><td>29</td>
+			<td>URVOY, FREDERIC [FRA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Eeckhaut, Wouter [BEL]</td>
+		</tr><tr><td>30</td>
+			<td>witbreuk, rhuben [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>janasiewicz, alexandre [FRA]</td>
+		</tr><tr><td>31</td>
+			<td>kaarls, leonard [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Wagner, Sebastian [DEU]</td>
+		</tr><tr><td>32</td>
+			<td>shmuely, niv [ISR]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cordier, Kris [BEL]</td>
+		</tr><tr><td>33</td>
+			<td>Ferber, Mario [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Brouwer, Jaap R [NLD]</td>
+		</tr><tr><td>34</td>
+			<td>Schavemaker, Roel [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gevrey, Vincent [FRA]</td>
+		</tr><tr><td>35</td>
+			<td>Vazquez, Fidel [ESP]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pruijt, Daan [NLD]</td>
+		</tr><tr><td>36</td>
+			<td>maugard, antoine [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>van Santen, Sander [NLD]</td>
+		</tr><tr><td>37</td>
+			<td>Sokolowski, Konrad [POL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>cook, paul [ENG]</td>
+		</tr><tr><td>38</td>
+			<td>Verheesen, Rene [ENG]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>wildhofen, klaus [AUT]</td>
+		</tr><tr><td>39</td>
+			<td>Wall, Oscar [SWE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kooij, Arjan [NLD]</td>
+		</tr><tr><td>40</td>
+			<td>Nolte, Dennis [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Dewulf, Mathieu [BEL]</td>
+		</tr><tr><td>41</td>
+			<td>Del Nero, Stefano [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ha&szlig;lauer, Martin [DEU]</td>
+		</tr><tr><td>42</td>
+			<td>Kelly, Ricardo [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>van Heems, Rogier [NLD]</td>
+		</tr><tr><td>43</td>
+			<td>Wunderwald, Erich [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Loijer, Martijn [NLD]</td>
+		</tr><tr><td>44</td>
+			<td>Clouet, Yann [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>bollue, eddy [BEL]</td>
+		</tr><tr><td>45</td>
+			<td>Homeister, Patrick [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Pohl, Florian [DEU]</td>
+		</tr><tr><td>46</td>
+			<td>Bouvet, Pierre Louis [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Deurloo, Didier [NLD]</td>
+		</tr><tr><td>47</td>
+			<td>Tepa&szlig;e, Mike [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Peelen, Stefan [NLD]</td>
+		</tr><tr><td>48</td>
+			<td>Maw, Alex [ENG]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nikitakis, Noli [GRC]</td>
+		</tr><tr><td>49</td>
+			<td>Healey, Stewart [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tolvanen, Martti [FIN]</td>
+		</tr><tr><td>50</td>
+			<td>Drapala, Thomas [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Thoss, Charles [LUX]</td>
+		</tr><tr><td>51</td>
+			<td>zapico martinez, adria [ESP]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>W&ouml;nkhaus, Mark [DEU]</td>
+		</tr><tr><td>52</td>
+			<td>Buis, Anne [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Stelzner, Karl [DEU]</td>
+		</tr><tr><td>53</td>
+			<td>kalter, phil [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bruski, Bartosz [POL]</td>
+		</tr><tr><td>54</td>
+			<td>Van Esch, Joey [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Arnaud, Aguzzi [CHE]</td>
+		</tr><tr><td>55</td>
+			<td>Ariaans, Bart [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Patillet, Laura [FRA]</td>
+		</tr><tr><td>56</td>
+			<td>van Dijken, Maarten [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>olivier, zwick [NLD]</td>
+		</tr><tr><td>57</td>
+			<td>de Graaff, Claes [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mitchell-Burns, Jack [NLD]</td>
+		</tr><tr><td>58</td>
+			<td>Pannekoek, Andre [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Jansen, Ralf [DEU]</td>
+		</tr><tr><td>59</td>
+			<td>Rasmussen, Thomas [DNK]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kwasnitzka, Martin [AUT]</td>
+		</tr><tr><td>60</td>
+			<td>Collinet, Patrick [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rots, Johan L [NLD]</td>
+		</tr><tr><td>61</td>
+			<td>Allouchery, Gonzague [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>van den Top, Gregory [NLD]</td>
+		</tr><tr><td>62</td>
+			<td>Hermans, Myrddin [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>barclay, bradley [ENG]</td>
+		</tr><tr><td>63</td>
+			<td>Grint, Richard [ENG]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Liebecke, Andre [DEU]</td>
+		</tr><tr><td>64</td>
+			<td>Lebrun, Benoit [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Miles, Edd [ENG]</td>
+		</tr><tr><td>65</td>
+			<td>Tao, Gilbert [CHE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Etten van, Bart [NLD]</td>
+		</tr><tr><td>66</td>
+			<td>mund, benjamin [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Thomas, Marc [DEU]</td>
+		</tr><tr><td>67</td>
+			<td>baglin, arnaud [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>H&ouml;velmeier, Niklas [DEU]</td>
+		</tr><tr><td>68</td>
+			<td>Tckernomazoo, Ilja [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Smith, Lucas [ENG]</td>
+		</tr><tr><td>69</td>
+			<td>Vollebregt, Joost [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Schor, Michael [DEU]</td>
+		</tr><tr><td>70</td>
+			<td>Teppa, Michaele [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mattens, Micky [BEL]</td>
+		</tr><tr><td>71</td>
+			<td>J&ouml;nsson, Markus [SWE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Enevoldsen, Thomas [DNK]</td>
+		</tr><tr><td>72</td>
+			<td>blieck, benny [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bazhenov, Eugene [RUS]</td>
+		</tr><tr><td>73</td>
+			<td>Blokland, Niels [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>DI GREGORIO, Nicolas [BEL]</td>
+		</tr><tr><td>74</td>
+			<td>BOUVET, JOSEPH [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lathouders, Ken [BEL]</td>
+		</tr><tr><td>75</td>
+			<td>Boerma, Arjan [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Filatriau, Franck [FRA]</td>
+		</tr><tr><td>76</td>
+			<td>Schulte, Lukas [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ulvik, Geir [NOR]</td>
+		</tr><tr><td>77</td>
+			<td>boogaart, danny [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hillmann, Alexander [DEU]</td>
+		</tr><tr><td>78</td>
+			<td>Winkelmann, Denis [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bassy, Martin [FRA]</td>
+		</tr><tr><td>79</td>
+			<td>Jathe, Nicolas [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>de Bruijne, Alex [NLD]</td>
+		</tr><tr><td>80</td>
+			<td>Jemiolek, Jakub [POL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Doebler, Quentin [FRA]</td>
+		</tr><tr><td>81</td>
+			<td>Stocker, Andreas [CHE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rensink, Floris [NLD]</td>
+		</tr><tr><td>82</td>
+			<td>Faber, Manuel [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Henrichvark, Lars [DEU]</td>
+		</tr><tr><td>83</td>
+			<td>Bracke, Pieter [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Noorlander, Niels L [NLD]</td>
+		</tr><tr><td>84</td>
+			<td>Saarinen, Olli [FIN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>van Maldegem, Eric [NLD]</td>
+		</tr><tr><td>85</td>
+			<td>de Boer, Wim [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bogaert, Wim [BEL]</td>
+		</tr><tr><td>86</td>
+			<td>Papadopoulos, Panagiot [GRC]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gorokhovskiy, Konstant [UKR]</td>
+		</tr><tr><td>87</td>
+			<td>Isendam, Rainier [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Vargas, Luis [CHL]</td>
+		</tr><tr><td>88</td>
+			<td>van der Meer, Thijs [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>fiala, sebastian [AUT]</td>
+		</tr><tr><td>89</td>
+			<td>Kiourtsoglou, Dimitris [ENG]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>van Netten, Ilja [NLD]</td>
+		</tr><tr><td>90</td>
+			<td>Beck, Philipp [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Niethammer, Felix [DEU]</td>
+		</tr><tr><td>91</td>
+			<td>Cadier, Ron [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Eleveld, Jeroen [NLD]</td>
+		</tr><tr><td>92</td>
+			<td>Sch&ouml;ppl, Felix [AUT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Morre Pedersen, Morten [DNK]</td>
+		</tr><tr><td>93</td>
+			<td>Anjos, Alice [PRT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Artamonova, Maria [FRA]</td>
+		</tr><tr><td>94</td>
+			<td>Dictus, Mark [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Michaelis, Mario [DEU]</td>
+		</tr><tr><td>95</td>
+			<td>Leemans, Kevin [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>M&uuml;ller, Chris [DEU]</td>
+		</tr><tr><td>96</td>
+			<td>de Rooij, Danny [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lamers, Rob [NLD]</td>
+		</tr><tr><td>97</td>
+			<td>Reuwsaat, Folkert [CHE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pritsch, Max [DEU]</td>
+		</tr><tr><td>98</td>
+			<td>bergman, martin [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Spenner, Dennis [DEU]</td>
+		</tr><tr><td>99</td>
+			<td>Clarys, Steve H [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Biesmans, Sam [BEL]</td>
+		</tr><tr><td>100</td>
+			<td>vanek, Jiri [CZE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Brown, Eric [USA]</td>
+		</tr><tr><td>101</td>
+			<td>Kohl, Reinhold [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kukk Gronbjerg, peter [DNK]</td>
+		</tr><tr><td>102</td>
+			<td>Snijders, Veerle [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Queiroz, Artur [PRT]</td>
+		</tr><tr><td>103</td>
+			<td>Walser, Rene [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Vornhusen, Gunnar [DEU]</td>
+		</tr><tr><td>104</td>
+			<td>Wolff, Tobias [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>de brabander, michael [NLD]</td>
+		</tr><tr><td>105</td>
+			<td>Wiedmann, Dennis [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Thiesen, Anders [DNK]</td>
+		</tr><tr><td>106</td>
+			<td>Salden, Koen [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pieterse, Axel [NLD]</td>
+		</tr><tr><td>107</td>
+			<td>Valkeap&auml;&auml;, Tuomas [FIN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Jacobs, Edwin [NLD]</td>
+		</tr><tr><td>108</td>
+			<td>Zimmermann, Jonas [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gottschalk, Steffen [DEU]</td>
+		</tr><tr><td>109</td>
+			<td>Hungenberg, Timo [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Vliegenthart, Benjamin [NLD]</td>
+		</tr><tr><td>110</td>
+			<td>Myhre, Barry [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ohlrogge, Christoph [DEU]</td>
+		</tr><tr><td>111</td>
+			<td>Azzouz, Fabrice [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>van de vorfst, mario [NLD]</td>
+		</tr><tr><td>112</td>
+			<td>Kouffeld, Michael [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kronus, V&aacute;clav [CZE]</td>
+		</tr><tr><td>113</td>
+			<td>Adebo Diaz, Juan Carlo [ESP]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>desmet, thomas [BEL]</td>
+		</tr><tr><td>114</td>
+			<td>Van der End, Martijn [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hendriksen, Bjorn [AFG]</td>
+		</tr><tr><td>115</td>
+			<td>Asmussen, Allan [DNK]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Allard, Ragnar [NLD]</td>
+		</tr><tr><td>116</td>
+			<td>Weeda, Chris [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Olivier, Barry [FRA]</td>
+		</tr><tr><td>117</td>
+			<td>K&ouml;hler, Tim [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Danes, Darrell [ENG]</td>
+		</tr><tr><td>118</td>
+			<td>Mueller, Dominic [DEU]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Westlake, Jamie [NLD]</td>
+		</tr><tr><td>119</td>
+			<td>van Montfoort, Kees [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lucassen, Henk [NLD]</td>
+		</tr><tr><td>120</td>
+			<td>Aelbrecht, Jimmy [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Strautz, Marcel [DEU]</td>
+		</tr><tr><td>121</td>
+			<td>Grimmer, Jasper [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>kaptein, stephan [NLD]</td>
+		</tr><tr><td>122</td>
+			<td>casiez, ludovic [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gyhagen, Mikael [NOR]</td>
+		</tr><tr><td>123</td>
+			<td>Schuurman, Mike [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>De Staercke, Jimmy [BEL]</td>
+		</tr><tr><td>124</td>
+			<td>Deerenberg, Lennart [NLD]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>van de velde, kim [BEL]</td>
+		</tr><tr><td>125</td>
+			<td>Libkin, Eugen [DEU]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Jaworowski, Andrzej [POL]</td>
+		</tr><tr><td>126</td>
+			<td>CABANNES, Fran&ccedil;ois [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Demmel, Christian [DEU]</td>
+		</tr><tr><td>127</td>
+			<td>vlaanderen, bas [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Aguzzi, Hugo [CHE]</td>
+		</tr><tr><td>128</td>
+			<td>Fleutot, Julien [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Boyer, Alexandre [FRA]</td>
+		</tr><tr><td>129</td>
+			<td>Popielski, Michal [POL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>maciejewski, mateusz [POL]</td>
+		</tr><tr><td>130</td>
+			<td>addario, riccardo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Naujokat, Ricardo [DEU]</td>
+		</tr><tr><td>131</td>
+			<td>Lauwers, Jelle [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bietighoeffer, Jerome [SWE]</td>
+		</tr><tr><td>132</td>
+			<td>Silva, Joao Paulo [PRT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>MACE, Damien [AFG]</td>
+		</tr><tr><td>133</td>
+			<td>Paalvast, Mike [NOR]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Obels, Andreas [DEU]</td>
+		</tr><tr><td>134</td>
+			<td>Wolframm, Bartosz [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Smid, Ondrej [CZE]</td>
+		</tr><tr><td>135</td>
+			<td>Heersma, Ralf [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Petruska, Tomas [CZE]</td>
+		</tr><tr><td>136</td>
+			<td>Godinho, Diogo [PRT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Magallon, Ander [BEL]</td>
+		</tr><tr><td>137</td>
+			<td>Vlek de Coningh, Mark [NLD]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>van Tongeren, Jos [NLD]</td>
+		</tr><tr><td>138</td>
+			<td>Hanl, Andreas [AUT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lajoie, Patrick [DEU]</td>
+		</tr><tr><td>139</td>
+			<td>van den Elzen, Stef [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Piekatz, Pascal [DEU]</td>
+		</tr><tr><td>140</td>
+			<td>Wan, Chon Sie [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>bexkens, bram [NLD]</td>
+		</tr><tr><td>141</td>
+			<td>Dowse-Brenan, George [ENG]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>brandt, jeppe [DNK]</td>
+		</tr><tr><td>142</td>
+			<td>Oosterbaan, Fokke [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ber&aacute;nek, Tom&aacute;&scaron; [CZE]</td>
+		</tr><tr><td>143</td>
+			<td>Turner, Benjamin [LUX]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Van der Bie, Alex [NLD]</td>
+		</tr><tr><td>144</td>
+			<td>Bonnie, Chris [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gr&uuml;nke, Artur [DEU]</td>
+		</tr><tr><td>145</td>
+			<td>Wardenski, Michael [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Wewetzer, Philipp [DEU]</td>
+		</tr><tr><td>146</td>
+			<td>De Schryver, Ernst [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>SOUBRIER, St&eacute;phane [FRA]</td>
+		</tr><tr><td>147</td>
+			<td>Grabowski, Andrzej [POL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gehrts, Bruno [DEU]</td>
+		</tr><tr><td>148</td>
+			<td>Gemis, Pascal [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Louring Koch, Thorbj&oslash;r [DNK]</td>
+		</tr><tr><td>149</td>
+			<td>Ellingsen, Kenneth [NOR]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rodrigues, Luis [PRT]</td>
+		</tr><tr><td>150</td>
+			<td>Ratilainen, Tomi [FIN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Fitzpatrick, Roo [ENG]</td>
+		</tr><tr><td>151</td>
+			<td>S&ouml;der, Sascha [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Houtekamer, Jason [NLD]</td>
+		</tr><tr><td>152</td>
+			<td>Fonteyne, Aron [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Neuser, Jakob [DEU]</td>
+		</tr><tr><td>153</td>
+			<td>Linden, Carsten [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Eijsden, Enrico [NLD]</td>
+		</tr><tr><td>154</td>
+			<td>Lichtenberg, Alexander [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>St&uuml;ckler, Thomas [AUT]</td>
+		</tr><tr><td>155</td>
+			<td>Colson, Flavien [FRA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Delvigne, Emmanuel [BEL]</td>
+		</tr><tr><td>156</td>
+			<td>heuser, marius [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tops, Doki [NLD]</td>
+		</tr><tr><td>157</td>
+			<td>idema, marnix [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Karlsson, Malthe [DNK]</td>
+		</tr><tr><td>158</td>
+			<td>Duivesteijn, Mikel [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Karlsson, Charlie [DNK]</td>
+		</tr><tr><td>159</td>
+			<td>Aaro, Carl Oscar [SWE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gerecke, Piet [DEU]</td>
+		</tr><tr><td>160</td>
+			<td>Schulhof, Leo [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hukemann, Frank [DEU]</td>
+		</tr><tr><td>161</td>
+			<td>Kaper, Martynas [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>van Zwol, Jan [NLD]</td>
+		</tr><tr><td>162</td>
+			<td>Wollaert, Kjell [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Marti, Samuel [CHE]</td>
+		</tr><tr><td>163</td>
+			<td>Van der Heijden, Joris [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>van Alphen, Pascal [NLD]</td>
+		</tr><tr><td>164</td>
+			<td>Kopietz, Matthias [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Matthijsse, Martin [NLD]</td>
+		</tr><tr><td>165</td>
+			<td>strobach, Patrick [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nillson, Andreas [DNK]</td>
+		</tr><tr><td>166</td>
+			<td>Tolan, Will [IRL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Baumann, Lars [DEU]</td>
+		</tr><tr><td>167</td>
+			<td>Hodson, Daniel [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dienaar, Alexander [NLD]</td>
+		</tr><tr><td>168</td>
+			<td>Gray, Steven [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hendrickx, Tim [BEL]</td>
+		</tr><tr><td>169</td>
+			<td>Langensteiner, Thilo [NOR]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Habert, Alexandre [FRA]</td>
+		</tr><tr><td>170</td>
+			<td>Neri, Antonio [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Grove, Kevin [NLD]</td>
+		</tr><tr><td>171</td>
+			<td>Coors, Raphael [DEU]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Hammerschmidt, Daniel [DEU]</td>
+		</tr><tr><td>172</td>
+			<td>Dieben, Dennis [NLD]</td>
+			<td>Lost 0-1-1</td>
+			<td>vs.</td>
+			<td>straumann, guillaume [FRA]</td>
+		</tr><tr><td>173</td>
+			<td>Dominiak, Krzysztof [POL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Timmermans, Ron [NLD]</td>
+		</tr><tr><td>174</td>
+			<td>Oliveira, David [PRT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Koorenhof, Pepijn [NLD]</td>
+		</tr><tr><td>175</td>
+			<td>Brunet, Max [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>van de Akker, Wum [NLD]</td>
+		</tr><tr><td>176</td>
+			<td>van Belle, Marco [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Campbell, Gary [NLD]</td>
+		</tr><tr><td>177</td>
+			<td>gorzolla, nick [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>brusatori, giacomo [ITA]</td>
+		</tr><tr><td>178</td>
+			<td>V&ouml;lker, Dominik [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bijma, Jacques [NLD]</td>
+		</tr><tr><td>179</td>
+			<td>Bartollini, Jacopo [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>N&ouml;tzel, Sebastian [DEU]</td>
+		</tr><tr><td>180</td>
+			<td>Heirman, Robbe [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bergers, Sebastiaan [NLD]</td>
+		</tr><tr><td>181</td>
+			<td>Pace, Flavio [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kogler, Stefan [AUT]</td>
+		</tr><tr><td>182</td>
+			<td>boinet, eric [FRA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>van Rijn, FW [NLD]</td>
+		</tr><tr><td>183</td>
+			<td>Kenbeek, Wout [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Zantema, Kobus [NLD]</td>
+		</tr><tr><td>184</td>
+			<td>Willems, Gert [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Van de Steen, Glenn [BEL]</td>
+		</tr><tr><td>185</td>
+			<td>Cattrysse, Sabbe [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Koenders, Roderik [NLD]</td>
+		</tr><tr><td>186</td>
+			<td>Idelfonso, Diony [CHE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>R&oacute;nai, &Aacute;rp&aacute;d [HUN]</td>
+		</tr><tr><td>187</td>
+			<td>Aucler, Jean Baptiste [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Klein, Fabian [DEU]</td>
+		</tr><tr><td>188</td>
+			<td>Tolan, Bernard [IRL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tank, Chris [DEU]</td>
+		</tr><tr><td>189</td>
+			<td>Scholtens, Desmond [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Picot, Pierre [FRA]</td>
+		</tr><tr><td>190</td>
+			<td>Verbiest, Bart [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Vidal, Andreu [DEU]</td>
+		</tr><tr><td>191</td>
+			<td>Southcott, Guy [ENG]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Strijd, Robin [NLD]</td>
+		</tr><tr><td>192</td>
+			<td>Glazkov, Pavlo [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Luke&scaron;, Bretislav [CZE]</td>
+		</tr><tr><td>193</td>
+			<td>Demange, K&eacute;vin [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Dorle, Anthony [FRA]</td>
+		</tr><tr><td>194</td>
+			<td>De Smet, Anton [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Radloff, Tobias [DEU]</td>
+		</tr><tr><td>195</td>
+			<td>Surkamp, Florian [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Leber, Denis [DEU]</td>
+		</tr><tr><td>196</td>
+			<td>van Egmond, Jeff [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Fokkema, Toon [NLD]</td>
+		</tr><tr><td>197</td>
+			<td>Martin, Eric [FRA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Verpoorten, Olivier [BEL]</td>
+		</tr><tr><td>198</td>
+			<td>soetermanns, tim [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gillet, Aurelien [FRA]</td>
+		</tr><tr><td>199</td>
+			<td>Kleinemeier, Dirk [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Andrien, Arnaud [BEL]</td>
+		</tr><tr><td>200</td>
+			<td>F&auml;rber, Florian [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hartmann, Michael [DEU]</td>
+		</tr><tr><td>201</td>
+			<td>Vreckem, Kris [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Treek, Roy de [NLD]</td>
+		</tr><tr><td>202</td>
+			<td>Dineva, Stella [BGR]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Koster, Rob [NLD]</td>
+		</tr><tr><td>203</td>
+			<td>Bleys, Tony [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kin, Jedrzej [POL]</td>
+		</tr><tr><td>204</td>
+			<td>sodergren, christian [SWE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>van der Linden, Mark [NLD]</td>
+		</tr><tr><td>205</td>
+			<td>Asselman, Steven [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>naessens, steven [BEL]</td>
+		</tr><tr><td>206</td>
+			<td>Fuchert, Hanko [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>vergucht, steve [BEL]</td>
+		</tr><tr><td>207</td>
+			<td>Ramquist, Niklas [SWE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>D&ouml;pking, Lars [DEU]</td>
+		</tr><tr><td>208</td>
+			<td>Czapor, Grzegorz [POL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Grave, Daniel [ENG]</td>
+		</tr><tr><td>209</td>
+			<td>Dosimont, amand [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Smet, Roald [NLD]</td>
+		</tr><tr><td>210</td>
+			<td>Eich, Vincent [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Diekjobst, Lukas [DEU]</td>
+		</tr><tr><td>211</td>
+			<td>sercu, joery [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Borgford, Stephen [USA]</td>
+		</tr><tr><td>212</td>
+			<td>Fischer, Manuel [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hoonderd, Marco [NLD]</td>
+		</tr><tr><td>213</td>
+			<td>Reusink, Paul [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bresser, Nick [NLD]</td>
+		</tr><tr><td>214</td>
+			<td>Pelz, Thomas [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Pavlova, Maria [BGR]</td>
+		</tr><tr><td>215</td>
+			<td>Rouz&eacute;, Simon [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Campina, Filipe [PRT]</td>
+		</tr><tr><td>216</td>
+			<td>BIGORNE, Aur&eacute;lien [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Innauer, Felix [AUT]</td>
+		</tr><tr><td>217</td>
+			<td>Van Wortswinkel, Luc [BEL]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Marini, Luca [CHE]</td>
+		</tr><tr><td>218</td>
+			<td>Hendrickx, Sander [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Von Loh, Ivan [USA]</td>
+		</tr><tr><td>219</td>
+			<td>Schrijver, Tom [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Warnock, Alan [NIR]</td>
+		</tr><tr><td>220</td>
+			<td>Huisman, Peter [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>brezak, mirjan [DEU]</td>
+		</tr><tr><td>221</td>
+			<td>Vainio, Aki [FIN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>debacker, nicolas [BEL]</td>
+		</tr><tr><td>222</td>
+			<td>Loeffen, Daan [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Colding-J&oslash;rgensen, Mar [DNK]</td>
+		</tr><tr><td>223</td>
+			<td>Zeni, Claudio [ITA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Woltjes, Geertjan [NLD]</td>
+		</tr><tr><td>224</td>
+			<td>Kotzerke, Matthias [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Van Horenbeeck, Michae [BEL]</td>
+		</tr><tr><td>225</td>
+			<td>Grigull, Carolin [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Boudewijn, Bart [NLD]</td>
+		</tr><tr><td>226</td>
+			<td>Geeraerts, Jo [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lepot, Kevin [FRA]</td>
+		</tr><tr><td>227</td>
+			<td>Creelle, Christophe [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Graham, Alan [ENG]</td>
+		</tr><tr><td>228</td>
+			<td>Bijlsma, Timon [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ringoir, Lesley [BEL]</td>
+		</tr><tr><td>229</td>
+			<td>Bungeneers, Lorenz [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Chevalier, Tom [DEU]</td>
+		</tr><tr><td>230</td>
+			<td>Pedersen, Nicolai K. [DNK]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Vermeire, Jan Jaap [NLD]</td>
+		</tr><tr><td>231</td>
+			<td>De Boer, Martijn [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>andrieu, thibault [FRA]</td>
+		</tr><tr><td>232</td>
+			<td>De Backer, Edwin [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Benton, Andrew [NLD]</td>
+		</tr><tr><td>233</td>
+			<td>Hollenga, Marius [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Maessen, Bas [NLD]</td>
+		</tr><tr><td>234</td>
+			<td>Peck, Luc [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Whittle, George [ENG]</td>
+		</tr><tr><td>235</td>
+			<td>Diaz, Alfonso [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Harbig, Rebecca [DEU]</td>
+		</tr><tr><td>236</td>
+			<td>Broion, Valentin [FRA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kueffel, Moritz [AUT]</td>
+		</tr><tr><td>237</td>
+			<td>Tong, Wu [CHN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Wong, Chen Win [NLD]</td>
+		</tr><tr><td>238</td>
+			<td>Drost, Hans [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Esposito, Ferris [USA]</td>
+		</tr><tr><td>239</td>
+			<td>Ludwig, Thomas [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Konieczny, Dominik S [POL]</td>
+		</tr><tr><td>240</td>
+			<td>levy, olivier [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Biddle, Aaron [ENG]</td>
+		</tr><tr><td>241</td>
+			<td>duparcq, guy [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>GUIDEZ, NICOLAS [FRA]</td>
+		</tr><tr><td>242</td>
+			<td>Body, John [FRA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Van der Vegt, Jan [NLD]</td>
+		</tr><tr><td>243</td>
+			<td>MOREL, David [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Michan, Rimmy [DNK]</td>
+		</tr><tr><td>244</td>
+			<td>Decker, Fabian [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ferguson, Stewart [NLD]</td>
+		</tr><tr><td>245</td>
+			<td>picciafuochi, riccardo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>bismo, ryan [IND]</td>
+		</tr><tr><td>246</td>
+			<td>Rosen, Sascha [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Berdou, Dennis [DEU]</td>
+		</tr><tr><td>247</td>
+			<td>cauwelier, quinten [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Heinrich, Artie [DEU]</td>
+		</tr><tr><td>248</td>
+			<td>van der Linden, Bob [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Reiter, Florian [DEU]</td>
+		</tr><tr><td>249</td>
+			<td>knight, riley [AUS]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kopec, Mateusz [POL]</td>
+		</tr><tr><td>250</td>
+			<td>Leach, Craig E [ZAF]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Van der Veer, Siebe [NLD]</td>
+		</tr><tr><td>251</td>
+			<td>ahkaloo, jhayshan [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Beumer, Dyon [NLD]</td>
+		</tr><tr><td>252</td>
+			<td>Loor, Steve [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Reim, Andreas [DEU]</td>
+		</tr><tr><td>253</td>
+			<td>Tarnowski, Rafal [POL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gresswell, Jake [ENG]</td>
+		</tr><tr><td>254</td>
+			<td>Clobus, Eelco [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Svensson, Fredrik [SWE]</td>
+		</tr><tr><td>255</td>
+			<td>De Mik, Michael [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Skinstad, Erik [NOR]</td>
+		</tr><tr><td>256</td>
+			<td>pruissen, chris [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Schlappa, Florian [DEU]</td>
+		</tr><tr><td>257</td>
+			<td>Hei&szlig;, Marvin [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Magni, Luca [ITA]</td>
+		</tr><tr><td>258</td>
+			<td>Been, Iso [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Oliveira, Danilo [PRT]</td>
+		</tr><tr><td>259</td>
+			<td>Tsong, Wilson [NLD]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Becker, Stefan [DEU]</td>
+		</tr><tr><td>260</td>
+			<td>Riede, Nils [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lehnert, Heiko [DEU]</td>
+		</tr><tr><td>261</td>
+			<td>Kl&ouml;cker, Mario [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>tesselaar, han [NLD]</td>
+		</tr><tr><td>262</td>
+			<td>Deceuninck, Serge [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lamandassa, Pieter-Dav [NLD]</td>
+		</tr><tr><td>263</td>
+			<td>N&auml;slund, Jonas [NOR]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Erdmann, Tobias [DEU]</td>
+		</tr><tr><td>264</td>
+			<td>Hedman, Anders [SWE]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ortmann, Christoph [DEU]</td>
+		</tr><tr><td>265</td>
+			<td>drapala, robin [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hijlkema, Ramon [NLD]</td>
+		</tr><tr><td>266</td>
+			<td>Janssens, Glenn [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>de Goede, Lennaert [NLD]</td>
+		</tr><tr><td>267</td>
+			<td>Peters, Sven M. [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Valkeneers, Koen [BEL]</td>
+		</tr><tr><td>268</td>
+			<td>van Donselaar, Philip [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>PINET, Vincent [FRA]</td>
+		</tr><tr><td>269</td>
+			<td>Allard, Ramon [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Valckx, Rob [BEL]</td>
+		</tr><tr><td>270</td>
+			<td>Van Immerseel, Johan [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>napoli, sergio [ITA]</td>
+		</tr><tr><td>271</td>
+			<td>Kanelis, Paulos [GRC]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Babakardes, Mehmet E [NLD]</td>
+		</tr><tr><td>272</td>
+			<td>Radesater, Tobias [SWE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Schuringa, Sebastiaan [NLD]</td>
+		</tr><tr><td>273</td>
+			<td>Schrijvers, Hans [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Festr&eacute;, Chris [BEL]</td>
+		</tr><tr><td>274</td>
+			<td>Knipping, Kai [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Blaauw, Axel [NLD]</td>
+		</tr><tr><td>275</td>
+			<td>Bulatov, Vadim [BLR]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Stuer, Rene [DEU]</td>
+		</tr><tr><td>276</td>
+			<td>van Gool, Mark [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Brankaert, Rens [NLD]</td>
+		</tr><tr><td>277</td>
+			<td>Drobner, Timo [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Salomoni, Davide [ITA]</td>
+		</tr><tr><td>278</td>
+			<td>van Seters, Erik [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>zani, gianluca [ITA]</td>
+		</tr><tr><td>279</td>
+			<td>Taylor, Robin [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Pardal, Emanuel [PRT]</td>
+		</tr><tr><td>280</td>
+			<td>Bertuzzo, Matteo [ITA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hermenau, Thomas [DEU]</td>
+		</tr><tr><td>281</td>
+			<td>Plagge, Julian T [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Verdoodt, Philip [BEL]</td>
+		</tr><tr><td>282</td>
+			<td>Vandermaelen, Yves [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Riffert, Till [DEU]</td>
+		</tr><tr><td>283</td>
+			<td>Steinborn, Robin [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bihn, Sascha [DEU]</td>
+		</tr><tr><td>284</td>
+			<td>Gameiro, Kevin [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>van Dalen, Mark [NLD]</td>
+		</tr><tr><td>285</td>
+			<td>Moeken, Ed [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Simon, Thomas [DEU]</td>
+		</tr><tr><td>286</td>
+			<td>Offenberg, Barend [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kaper, Rudolf [NLD]</td>
+		</tr><tr><td>287</td>
+			<td>Jacobs, Koen [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>van Leent, Peter [NLD]</td>
+		</tr><tr><td>288</td>
+			<td>Sauer, Robin [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Innauer, Julius [AUT]</td>
+		</tr><tr><td>289</td>
+			<td>Watorek, Krzysztof [POL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sacco, Sergio [ITA]</td>
+		</tr><tr><td>290</td>
+			<td>heijne, pim [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bepperling, Timon [DEU]</td>
+		</tr><tr><td>291</td>
+			<td>van Essen, Leo [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Thijsen, Roy [NLD]</td>
+		</tr><tr><td>292</td>
+			<td>De Waegeneer, Joran [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>van de Bunt, Alexander [NLD]</td>
+		</tr><tr><td>293</td>
+			<td>Vieren, Peter [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>van Herwaarden, Sander [NLD]</td>
+		</tr><tr><td>294</td>
+			<td>Sch&auml;fer, Josh [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>M&uuml;ller, Lorenz [AUT]</td>
+		</tr><tr><td>295</td>
+			<td>Kleiner, Sebastian [DEU]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>McLean, Daquan [USA]</td>
+		</tr><tr><td>296</td>
+			<td>Catana, Ciprian [ROU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Penman, Douglas [ENG]</td>
+		</tr><tr><td>297</td>
+			<td>van der Burgh, Rob [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pots, Maurice [NLD]</td>
+		</tr><tr><td>298</td>
+			<td>Thanangadan, James P [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Notting, Wander [NLD]</td>
+		</tr><tr><td>299</td>
+			<td>R&ouml;&szlig;ler, Stefan [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Carl, Christian [DEU]</td>
+		</tr><tr><td>300</td>
+			<td>Beckmann, Marcel [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>hergel, nicklas [DEU]</td>
+		</tr><tr><td>301</td>
+			<td>Lemoine, Vincent [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Menten, Robbert [BEL]</td>
+		</tr><tr><td>302</td>
+			<td>De Beer, Theun [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>papes, Anthony [BEL]</td>
+		</tr><tr><td>303</td>
+			<td>Janmaat, Dave [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Reijke, Sjoerd [NLD]</td>
+		</tr><tr><td>304</td>
+			<td>Gonzalez, Juan [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hengefeld, Jasper [NLD]</td>
+		</tr><tr><td>305</td>
+			<td>Hocquemiller, Arnaud [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>wahlquist, alex [SWE]</td>
+		</tr><tr><td>306</td>
+			<td>Draper, Orion [ENG]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>van Medevoort, Robert [NLD]</td>
+		</tr><tr><td>307</td>
+			<td>Oostveen, Arno [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Armitage, Sam [ENG]</td>
+		</tr><tr><td>308</td>
+			<td>Gustafson, Lasse [DNK]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Klein, Timo [DEU]</td>
+		</tr><tr><td>309</td>
+			<td>Rouw, Alexander [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>de Bruijn, Richard [NLD]</td>
+		</tr><tr><td>310</td>
+			<td>Rademacher, Friedrich [PRT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kruithof, Nick [NLD]</td>
+		</tr><tr><td>311</td>
+			<td>Balcar, Jiri [CZE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Couceiro, Joao [PRT]</td>
+		</tr><tr><td>312</td>
+			<td>Leemans, Tom [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Drieghe, Jonas [BEL]</td>
+		</tr><tr><td>313</td>
+			<td>Mialaret, Gary [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Figlarz, Johan [NLD]</td>
+		</tr><tr><td>314</td>
+			<td>vanwalleghem, kevin [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Worm, Hylco [NLD]</td>
+		</tr><tr><td>315</td>
+			<td>Franco, Jo&atilde;o [PRT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Arndt, Patrick [DEU]</td>
+		</tr><tr><td>316</td>
+			<td>van der Gaag, Jordy [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>MERLET, CEDRIC [FRA]</td>
+		</tr><tr><td>317</td>
+			<td>S&ouml;derholm, Filip [SWE]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Faust, Dennis [DEU]</td>
+		</tr><tr><td>318</td>
+			<td>Bojt&aacute;r, Gyula [HUN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Zawada, Michal [POL]</td>
+		</tr><tr><td>319</td>
+			<td>Targez, Olivier [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Spoelder, Jiska [NLD]</td>
+		</tr><tr><td>320</td>
+			<td>Koenig, Jasper [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Timmermans, Bas [NLD]</td>
+		</tr><tr><td>321</td>
+			<td>Johannsson, Felix [SWE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>van der Linden, Leon [NLD]</td>
+		</tr><tr><td>322</td>
+			<td>Castermans, Nicky [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>falke, matthias [DEU]</td>
+		</tr><tr><td>323</td>
+			<td>Hoekstra, Walter [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gl&ouml;&szlig;, Martin [DEU]</td>
+		</tr><tr><td>324</td>
+			<td>Zidek, Arnost [CZE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hirschler, Tim [NLD]</td>
+		</tr><tr><td>325</td>
+			<td>Stok, Alex [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Wilmotte, S&eacute;bastien [BEL]</td>
+		</tr><tr><td>326</td>
+			<td>B&ouml;hnstedt, Lutz [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bergwerff, Arnaud [NLD]</td>
+		</tr><tr><td>327</td>
+			<td>LHOSTE, Nicolas [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Martinho, Pedro [PRT]</td>
+		</tr><tr><td>328</td>
+			<td>Bodewes, Jelco [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Snellings, Yannick [BEL]</td>
+		</tr><tr><td>329</td>
+			<td>Poier, Jaspar [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Scheer, Thomas [DEU]</td>
+		</tr><tr><td>330</td>
+			<td>Tumpach, Markus [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Van Robaeys, Damian [BEL]</td>
+		</tr><tr><td>331</td>
+			<td>Benschop, Martijn [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kockler, Karsten [DEU]</td>
+		</tr><tr><td>332</td>
+			<td>Hirschh&auml;user, Andre [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Huizinga, Sander [NLD]</td>
+		</tr><tr><td>333</td>
+			<td>Rodriguez, Bert [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>bryk, dawid [POL]</td>
+		</tr><tr><td>334</td>
+			<td>Kneepkens, Wouter [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Voss, Jono [ZAF]</td>
+		</tr><tr><td>335</td>
+			<td>van de Moosdijk, Ruth [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Van Wortswinkel, Steve [BEL]</td>
+		</tr><tr><td>336</td>
+			<td>Benias, Nikolas [GRC]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Peters, Rob [NLD]</td>
+		</tr><tr><td>337</td>
+			<td>Heidemueller, Susann [IRL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sardjan, Danny [NLD]</td>
+		</tr><tr><td>338</td>
+			<td>Launois, Lo&iuml;c [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Vlaanderen, Kees [NLD]</td>
+		</tr><tr><td>339</td>
+			<td>Pavlov, Yassen [BGR]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Coenen, Peter [BEL]</td>
+		</tr><tr><td>340</td>
+			<td>Abou Omar, Ashraf [EGY]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Vooys, Kurt [NLD]</td>
+		</tr><tr><td>341</td>
+			<td>Cramer, Koos [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Jousma, BaukeJan [NLD]</td>
+		</tr><tr><td>342</td>
+			<td>dreyer, henrik [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Le Marec, manuel [FRA]</td>
+		</tr><tr><td>343</td>
+			<td>Mackowiak, Patrick [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dragt, Steven [NLD]</td>
+		</tr><tr><td>344</td>
+			<td>Christensen, Oscar [DNK]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>van Doorn, Lorenzo [NLD]</td>
+		</tr><tr><td>345</td>
+			<td>Roofthooft, Nik [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Visser, Jamie [NLD]</td>
+		</tr><tr><td>346</td>
+			<td>Borkert, Maria [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Messerschmidt, Jan [DEU]</td>
+		</tr><tr><td>347</td>
+			<td>Mons, Stephan [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>dallinga, wiecher [NLD]</td>
+		</tr><tr><td>348</td>
+			<td>Letoret, Ana&iuml;s [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bowen, Nathan D [NLD]</td>
+		</tr><tr><td>349</td>
+			<td>Vuorela, Lauri [SWE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>gallo, andrea gaetano [ITA]</td>
+		</tr><tr><td>350</td>
+			<td>Hayward, Tom [ENG]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Jansen, Sepp [NLD]</td>
+		</tr><tr><td>351</td>
+			<td>Lucas, Mark [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Wat, Raymond [ENG]</td>
+		</tr><tr><td>352</td>
+			<td>veenstra, joost [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>janssen, jordy [NLD]</td>
+		</tr><tr><td>353</td>
+			<td>Hong, Sung-il [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mulari, Mika [FIN]</td>
+		</tr><tr><td>354</td>
+			<td>Vis, Jesse [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>ANDREATTA, luca [ITA]</td>
+		</tr><tr><td>355</td>
+			<td>de Haan, Floris [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>schwarz, sascha [DEU]</td>
+		</tr><tr><td>356</td>
+			<td>Bossmann, Daniel [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>van Lamoen, Tom [NLD]</td>
+		</tr><tr><td>357</td>
+			<td>Bailey, Peter [ENG]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Baumann, Dennis [DEU]</td>
+		</tr><tr><td>358</td>
+			<td>Manders, Mitchell [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Brancewicz, Michal [NLD]</td>
+		</tr><tr><td>359</td>
+			<td>Mendez, Julien [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>wolting, robin [NLD]</td>
+		</tr><tr><td>360</td>
+			<td>Lai, Kim-Man [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Horr&eacute;, Tom [BEL]</td>
+		</tr><tr><td>361</td>
+			<td>Beed, Zach [ENG]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ronsijn, Tom [BEL]</td>
+		</tr><tr><td>362</td>
+			<td>Pals, Calvin [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Greco, Mattia [BEL]</td>
+		</tr><tr><td>363</td>
+			<td>Alonso, Daniel [LUX]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Amundsen, Rune [NOR]</td>
+		</tr><tr><td>364</td>
+			<td>Aarts, Bart [NLD]</td>
+			<td>Lost 0-1-1</td>
+			<td>vs.</td>
+			<td>Voskamp, Rowen [NLD]</td>
+		</tr><tr><td>365</td>
+			<td>dautel, thomas [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Billiau, Michel [BEL]</td>
+		</tr><tr><td>366</td>
+			<td>Dirkx, Eelco [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Krejsa, Tomas [CZE]</td>
+		</tr><tr><td>367</td>
+			<td>Freter, Sebastian [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Zielasko, Oliver [DEU]</td>
+		</tr><tr><td>368</td>
+			<td>Fyda, Sebastian [POL]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>van Heugten, Bas [NLD]</td>
+		</tr><tr><td>369</td>
+			<td>Bosma, Mark [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Pohl, Kajetan [DEU]</td>
+		</tr><tr><td>370</td>
+			<td>Pereira, Jordao [PRT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Michel, Damien [BEL]</td>
+		</tr><tr><td>371</td>
+			<td>de beurs, anne [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>star, leon [NLD]</td>
+		</tr><tr><td>372</td>
+			<td>Kaurinovic, Timmy [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Steinmetz, Jornt [NLD]</td>
+		</tr><tr><td>373</td>
+			<td>Reterink, Henri [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Marczak, Ralph [DEU]</td>
+		</tr><tr><td>374</td>
+			<td>Jozefowski, Thomas [AUT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>De Roo, Tom [BEL]</td>
+		</tr><tr><td>375</td>
+			<td>Melis, Bas [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lowet, Rapha&euml;l [BEL]</td>
+		</tr><tr><td>376</td>
+			<td>Maka, Gabriel [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>baroni, stefano [ITA]</td>
+		</tr><tr><td>377</td>
+			<td>Zolt&aacute;n, K&oacute;sa [HUN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Schomann, Christoph [DEU]</td>
+		</tr><tr><td>378</td>
+			<td>Kliewer, Arnold [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Laustsen, Oliver [DNK]</td>
+		</tr><tr><td>379</td>
+			<td>Niemeyer, Johnny J [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Van De Kerkhoven, Oliv [BEL]</td>
+		</tr><tr><td>380</td>
+			<td>van Nunspeet, Tessa [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Magnusson, Mikael [SWE]</td>
+		</tr><tr><td>381</td>
+			<td>De Graaf, Hans [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hyldkrog, Rune Skjold [DNK]</td>
+		</tr><tr><td>382</td>
+			<td>Kubica, Mathieu [FRA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>He, Stephan [NLD]</td>
+		</tr><tr><td>383</td>
+			<td>Panchartek, Zbysek [CZE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Distel, Piotr [POL]</td>
+		</tr><tr><td>384</td>
+			<td>Gaul, Alexander [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lechner, Christian [DEU]</td>
+		</tr><tr><td>385</td>
+			<td>Helbik, Marek [POL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Morgenstern, Jakob [DEU]</td>
+		</tr><tr><td>386</td>
+			<td>Stobart, Laurence [ENG]</td>
+			<td>Lost 0-1-1</td>
+			<td>vs.</td>
+			<td>Savina, Saverio [ITA]</td>
+		</tr><tr><td>387</td>
+			<td>Li, Dennis [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Roth, Hans [DEU]</td>
+		</tr><tr><td>388</td>
+			<td>Bergen Henegouwen, Deb [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kwebeman, Erik-sander [NLD]</td>
+		</tr><tr><td>389</td>
+			<td>Sanfilippo, Giuliano [FIN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Jerabek, Petr [CZE]</td>
+		</tr><tr><td>390</td>
+			<td>Feys, Guillaume [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bosgra, Theo [NLD]</td>
+		</tr><tr><td>391</td>
+			<td>Groot, Wessel [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Wienand, Jonas [DEU]</td>
+		</tr><tr><td>392</td>
+			<td>Tull, Simon [ENG]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Leitzinger, Gerald [AUT]</td>
+		</tr><tr><td>393</td>
+			<td>Steenhoek, Edwin [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tocher, Joe [USA]</td>
+		</tr><tr><td>394</td>
+			<td>Renneis, Sebastian [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Horacek, Jiri [CZE]</td>
+		</tr><tr><td>395</td>
+			<td>Barenhoff, Daniel [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mielko, Marcin [POL]</td>
+		</tr><tr><td>396</td>
+			<td>Langner, Matthias [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Uittenbogaard, Kenny [BEL]</td>
+		</tr><tr><td>397</td>
+			<td>Giannoulas, Christol [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>uffelen, bart v [BEL]</td>
+		</tr><tr><td>398</td>
+			<td>Lelieveld, Igor [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rood, Niek [NLD]</td>
+		</tr><tr><td>399</td>
+			<td>hurkmans, joshua [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Vergucht, Yves [BEL]</td>
+		</tr><tr><td>400</td>
+			<td>Costa, Daniel [PRT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Van Haasteren, Axel [NLD]</td>
+		</tr><tr><td>401</td>
+			<td>van Noort, Cas [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Janse, Jeroen [NLD]</td>
+		</tr><tr><td>402</td>
+			<td>Gaardbo, Mark [DNK]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>URSET, ANTOINE [FRA]</td>
+		</tr><tr><td>403</td>
+			<td>Lucas, Gertjan [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Trescher, Brian [DEU]</td>
+		</tr><tr><td>404</td>
+			<td>van Viegen, Dick [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>vos, tristan [NLD]</td>
+		</tr><tr><td>405</td>
+			<td>Krall, Stefan [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sloetjes, Gerben [NLD]</td>
+		</tr><tr><td>406</td>
+			<td>de Ronde, Nigell [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kwiecien, Pawel [POL]</td>
+		</tr><tr><td>407</td>
+			<td>Demming, Patrick [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Metzmacher, Markus [DEU]</td>
+		</tr><tr><td>408</td>
+			<td>kelterbaum, catherine [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nieling, Jordi [NLD]</td>
+		</tr><tr><td>409</td>
+			<td>Zdrodowski, Pawel [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nguyen, Gabriel [FRA]</td>
+		</tr><tr><td>410</td>
+			<td>Cops, Bram [BEL]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Balado Bradarich, Jose [ARG]</td>
+		</tr><tr><td>411</td>
+			<td>Moeller, Tobias [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Korbel, Georg [DEU]</td>
+		</tr><tr><td>412</td>
+			<td>Prystav, Fabian [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>van de Giessen, Renier [NLD]</td>
+		</tr><tr><td>413</td>
+			<td>Otten, Martin [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Uijlen, Sander [NLD]</td>
+		</tr><tr><td>414</td>
+			<td>Dorle, Ludovic [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Roth, Frank [DEU]</td>
+		</tr><tr><td>415</td>
+			<td>Mauel, Jan [DEU]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>stier, matti [DEU]</td>
+		</tr><tr><td>416</td>
+			<td>Fries, Patrick [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Burgstaller, Cornelius [DEU]</td>
+		</tr><tr><td>417</td>
+			<td>azan, hannah [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>van der Ham, Peter [NLD]</td>
+		</tr><tr><td>418</td>
+			<td>Lesaffre, James [FRA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Peri, Yaniv [ISR]</td>
+		</tr><tr><td>419</td>
+			<td>Pall, Thomas [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Del Campo Ortiz, David [ESP]</td>
+		</tr><tr><td>420</td>
+			<td>Buhl, Oliver [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>maree, julien [BEL]</td>
+		</tr><tr><td>421</td>
+			<td>mandsberg, stefan [DNK]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Antoine, Guillaume [BEL]</td>
+		</tr><tr><td>422</td>
+			<td>van Vliet, Peter [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lange, Philipp [DEU]</td>
+		</tr><tr><td>423</td>
+			<td>Pignon, Jean-Marie [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Simons, Marvyn [BEL]</td>
+		</tr><tr><td>424</td>
+			<td>Kullberg, Miika [FIN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Maier, Werner [DEU]</td>
+		</tr><tr><td>425</td>
+			<td>van Zwol, Koen [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bortoletto, Michael M [BEL]</td>
+		</tr><tr><td>426</td>
+			<td>Scholten, Dirk [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Schultz, Bjorn [DNK]</td>
+		</tr><tr><td>427</td>
+			<td>Bom, Bernard [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Vlach, Vaclav [CZE]</td>
+		</tr><tr><td>428</td>
+			<td>G&uuml;nter, Tim [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Steinke, Michael [DEU]</td>
+		</tr><tr><td>429</td>
+			<td>Veenstra, Alma [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>End Van Der, Sander [NLD]</td>
+		</tr><tr><td>430</td>
+			<td>Kirsch, Florian [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gosen, Sylke [NLD]</td>
+		</tr><tr><td>431</td>
+			<td>Thien-Anh, Tren [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Frentzen, Patrick [DEU]</td>
+		</tr><tr><td>432</td>
+			<td>der Kinderen, Carlo [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>van Tricht, Joost [NLD]</td>
+		</tr><tr><td>433</td>
+			<td>ineke, alexander [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Janssens, Edwin [BEL]</td>
+		</tr><tr><td>434</td>
+			<td>Klinkenberg, Jurre [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Szatkowski, Tomasz [POL]</td>
+		</tr><tr><td>435</td>
+			<td>van der Beek, Johan [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fieber, Sebastian [DEU]</td>
+		</tr><tr><td>436</td>
+			<td>Esten, Rob [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Meinicke, Olaf [NLD]</td>
+		</tr><tr><td>437</td>
+			<td>Steen, Sybren [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Francesc, Codina Font [ESP]</td>
+		</tr><tr><td>438</td>
+			<td>Wardenier, Niels [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ahrentzen, Jakob Frey [DNK]</td>
+		</tr><tr><td>439</td>
+			<td>Hendriks, Luuk [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>berring, nicholas [DNK]</td>
+		</tr><tr><td>440</td>
+			<td>Simmonds, Alex [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bouwkamp, Joey [NLD]</td>
+		</tr><tr><td>441</td>
+			<td>Santos, Luis [PRT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>nussbaumer, noel [AUT]</td>
+		</tr><tr><td>442</td>
+			<td>Oude heuvel, Yannick [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Renard, Julien [BEL]</td>
+		</tr><tr><td>443</td>
+			<td>Maas, Wouter [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Weytens, Thijs [BEL]</td>
+		</tr><tr><td>444</td>
+			<td>vergucht, dave [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Van den Eynde, Aaron [BEL]</td>
+		</tr><tr><td>445</td>
+			<td>breinlen, theo [FRA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>De Decker, Tom [BEL]</td>
+		</tr><tr><td>446</td>
+			<td>Klaverwijden, Hans [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>puype, jeffrey [BEL]</td>
+		</tr><tr><td>447</td>
+			<td>Porten, Andreas [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Himpe, Arno [BEL]</td>
+		</tr><tr><td>448</td>
+			<td>van de Pas, Mark [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ver Eecke, Jan [BEL]</td>
+		</tr><tr><td>449</td>
+			<td>Cevette, Michael [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>mispelters, peter [BEL]</td>
+		</tr><tr><td>450</td>
+			<td>Rieke, Konstantin [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Vaillemans, Tim [BEL]</td>
+		</tr><tr><td>451</td>
+			<td>Grijs, Jolmer d [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Van Laken, Johannes [BEL]</td>
+		</tr><tr><td>452</td>
+			<td>T&uuml;rkoglu, Umut [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Quadflieg, Alexandre [BEL]</td>
+		</tr><tr><td>453</td>
+			<td>Timmermans, Caspar [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hutereau, Martin [BEL]</td>
+		</tr><tr><td>454</td>
+			<td>Bestak, Jiri [CZE]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>hoydonckx, yves [BEL]</td>
+		</tr><tr><td>455</td>
+			<td>Baldessari, Giovanni [ITA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Heylen, Natalie [BEL]</td>
+		</tr><tr><td>456</td>
+			<td>Schrader-Schilkowsky, [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cools, Siegfried [BEL]</td>
+		</tr><tr><td>457</td>
+			<td>D&ouml;ring, Patrick [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Schrijvers, Alexander [BEL]</td>
+		</tr><tr><td>458</td>
+			<td>Claessens, Rick [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Morbee, Stefaan [BEL]</td>
+		</tr><tr><td>459</td>
+			<td>Eijsackers, Lennard [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Van Volsem, Geert [BEL]</td>
+		</tr><tr><td>460</td>
+			<td>Wadsley, Ian [ENG]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Stappers, Filip [BEL]</td>
+		</tr><tr><td>461</td>
+			<td>van den Hoff, Bas [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cools, Yoran [BEL]</td>
+		</tr><tr><td>462</td>
+			<td>Poutsma, Marten [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Claes, Nick [BEL]</td>
+		</tr><tr><td>463</td>
+			<td>B&ouml;hm, Philip [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mazzucchelli, Davy [BEL]</td>
+		</tr><tr><td>464</td>
+			<td>Pajak, Tomasz [POL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pieters, Yorick [BEL]</td>
+		</tr><tr><td>465</td>
+			<td>Keppol, Steven [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mazza, Murilo [BRA]</td>
+		</tr><tr><td>466</td>
+			<td>Schnell, Philipp [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Pedersen, Christian [DNK]</td>
+		</tr><tr><td>467</td>
+			<td>Hollenga, Simon [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>bourdinaud, guillaume [FRA]</td>
+		</tr><tr><td>468</td>
+			<td>L&ouml;b, Jonas [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>AUGUSTIN, Tony [FRA]</td>
+		</tr><tr><td>469</td>
+			<td>Markus, otis [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>LEZEAU, David [FRA]</td>
+		</tr><tr><td>470</td>
+			<td>Akankan, Semih [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Launay, R&eacute;mi [FRA]</td>
+		</tr><tr><td>471</td>
+			<td>Gast, Andy [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>RAY, STEPHANE [FRA]</td>
+		</tr><tr><td>472</td>
+			<td>Ayala, Rachael [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pison, R&eacute;mi [FRA]</td>
+		</tr><tr><td>473</td>
+			<td>Bonet, Irene [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Demarle, Gilles [FRA]</td>
+		</tr><tr><td>474</td>
+			<td>SENEL, AKIN [TUR]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>NEVEU, REMY [FRA]</td>
+		</tr><tr><td>475</td>
+			<td>Van Laken, Tom [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Becker, Nicolas [DEU]</td>
+		</tr><tr><td>476</td>
+			<td>Schmidt, Mirko [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>D&ouml;ding, Sebastian [DEU]</td>
+		</tr><tr><td>477</td>
+			<td>Lasisi, George [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>L&uuml;bbering, Dominik [DEU]</td>
+		</tr><tr><td>478</td>
+			<td>Di Stefano, Marco [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Dunker, Thomas [DEU]</td>
+		</tr><tr><td>479</td>
+			<td>Lorenzo Fern&aacute;ndez, Ism [ESP]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ro&szlig;ler, Frank [DEU]</td>
+		</tr><tr><td>480</td>
+			<td>sleutels, jarl [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ehrle, Philip [DEU]</td>
+		</tr><tr><td>481</td>
+			<td>Hoogstraten, Mark [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Klippert, Julian [DEU]</td>
+		</tr><tr><td>482</td>
+			<td>Lavrijssen, Remon [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Recchia, Sandro [DEU]</td>
+		</tr><tr><td>483</td>
+			<td>Schenk, Joran [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Schmidt, Tim [DEU]</td>
+		</tr><tr><td>484</td>
+			<td>Houssami, Mohamad Said [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Liebke, Tobias [DEU]</td>
+		</tr><tr><td>485</td>
+			<td>Schorr, Tilmann [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>theling, steffen [DEU]</td>
+		</tr><tr><td>486</td>
+			<td>Liu, Jay [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nattkamp, Florian [DEU]</td>
+		</tr><tr><td>487</td>
+			<td>verwoerd, jeffrey [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Boerchers, Tobias [DEU]</td>
+		</tr><tr><td>488</td>
+			<td>Grimm, Phillip [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Novak, Sascha [DEU]</td>
+		</tr><tr><td>489</td>
+			<td>Isola, Vittoria [ITA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bobring, Rolf [DEU]</td>
+		</tr><tr><td>490</td>
+			<td>Herrmannsd&ouml;rfer, Domin [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Dunn, Dennis [DEU]</td>
+		</tr><tr><td>491</td>
+			<td>valkeneers, tom [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Herrmann, Daniel [DEU]</td>
+		</tr><tr><td>492</td>
+			<td>Sleutels, Odin [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Meyer, Hendrik [DEU]</td>
+		</tr><tr><td>493</td>
+			<td>Kutscher, Ulrich [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Steinkamp, Paul [DEU]</td>
+		</tr><tr><td>494</td>
+			<td>Coeckelbergh, Gert [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wiench, Dirk [DEU]</td>
+		</tr><tr><td>495</td>
+			<td>Gr&auml;f, Michael [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Eckhardt, Moritz [DEU]</td>
+		</tr><tr><td>496</td>
+			<td>Johnson, Matthew [ENG]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Schneider, Kevin [DEU]</td>
+		</tr><tr><td>497</td>
+			<td>Van Heel, Jeroen [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Grigull, Michael [DEU]</td>
+		</tr><tr><td>498</td>
+			<td>Scharff, Aleksander [DNK]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>landvatter, matthias [DEU]</td>
+		</tr><tr><td>499</td>
+			<td>Priebe, Max [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mills, James [ENG]</td>
+		</tr><tr><td>500</td>
+			<td>Patryn, Lukasz [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gillard, Joe [ENG]</td>
+		</tr><tr><td>501</td>
+			<td>Juffernholz, Ren&eacute; [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bonkers, Kevin [ENG]</td>
+		</tr><tr><td>502</td>
+			<td>Van Coillie, Tom [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Potter, Jason [ENG]</td>
+		</tr><tr><td>503</td>
+			<td>Harris, Mark [NOR]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>meoni, stefano [ITA]</td>
+		</tr><tr><td>504</td>
+			<td>van Vugt, George [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Alves da costa, joao [LUX]</td>
+		</tr><tr><td>505</td>
+			<td>lesieur, raphael [FRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mendes, Mario [LUX]</td>
+		</tr><tr><td>506</td>
+			<td>Mansveld, Julian [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cap&eacute;sius, Willi [LUX]</td>
+		</tr><tr><td>507</td>
+			<td>Bartecki, Christian [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hoscheit, Patrick [LUX]</td>
+		</tr><tr><td>508</td>
+			<td>Van Leeuwen, Vincent [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Weis, Sandra [LUX]</td>
+		</tr><tr><td>509</td>
+			<td>van Die, Pim [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Steichen, Charel [LUX]</td>
+		</tr><tr><td>510</td>
+			<td>van Maaren, Mitchell [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Buis, Boyd [NLD]</td>
+		</tr><tr><td>511</td>
+			<td>Letanche, Kevin [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wester, Thijs [NLD]</td>
+		</tr><tr><td>512</td>
+			<td>van der pal, debby [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bott, Sebastian [NLD]</td>
+		</tr><tr><td>513</td>
+			<td>Liljendal, Roy [FIN]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Warmenhoven, Ruud [NLD]</td>
+		</tr><tr><td>514</td>
+			<td>van der Hall, Elwin [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>el bakkali, anuar [NLD]</td>
+		</tr><tr><td>515</td>
+			<td>Van de Blaak, Rogier [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ang, Arjan [NLD]</td>
+		</tr><tr><td>516</td>
+			<td>Dolstra, Menno [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>van Hoof, Steven [NLD]</td>
+		</tr><tr><td>517</td>
+			<td>Leenen, Lars [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wu, King-Yip [NLD]</td>
+		</tr><tr><td>518</td>
+			<td>Binder, Patrick [AUT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>de Best, Mark [NLD]</td>
+		</tr><tr><td>519</td>
+			<td>Malaquias, Andre [PRT]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Traarbach, Charly [NLD]</td>
+		</tr><tr><td>520</td>
+			<td>Jelinek, Jan [CZE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Schell, Wytze [NLD]</td>
+		</tr><tr><td>521</td>
+			<td>Goncalves, Miguel [PRT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sanders, Max [NLD]</td>
+		</tr><tr><td>522</td>
+			<td>Brueggemann, Julian A [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>van den Brink, Stephan [NLD]</td>
+		</tr><tr><td>523</td>
+			<td>Meertens, Job [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>kalter, chris [NLD]</td>
+		</tr><tr><td>524</td>
+			<td>messner, david [AUT]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Passchier, Wim [NLD]</td>
+		</tr><tr><td>525</td>
+			<td>Michael, Rizzi [BEL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>den Bieman, Joost [NLD]</td>
+		</tr><tr><td>526</td>
+			<td>Boonen, Lars [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>lemmen, rick [NLD]</td>
+		</tr><tr><td>527</td>
+			<td>Hut, Peter [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>van der Vaart, Jasper [NLD]</td>
+		</tr><tr><td>528</td>
+			<td>Buck, Thomas [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Boessenkool, Wander [NLD]</td>
+		</tr><tr><td>529</td>
+			<td>Klose, Niels [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kievits, Ron [NLD]</td>
+		</tr><tr><td>530</td>
+			<td>Boot, Gilbert [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bleker, Gerwin [NLD]</td>
+		</tr><tr><td>531</td>
+			<td>Leijenhorst, Erwin [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Stam, Jeffrey [NLD]</td>
+		</tr><tr><td>532</td>
+			<td>Modliszewski, Adrian [POL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Valkenberg, Anton [NLD]</td>
+		</tr><tr><td>533</td>
+			<td>Sas, Ivar [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Borst, Nick [NLD]</td>
+		</tr><tr><td>534</td>
+			<td>Keijzers, Johan [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Noordermeer, Erik [NLD]</td>
+		</tr><tr><td>535</td>
+			<td>Lech, Cezary [POL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Violin, Michele [NLD]</td>
+		</tr><tr><td>536</td>
+			<td>Baldus, Michael [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Harts, Hans [NLD]</td>
+		</tr><tr><td>537</td>
+			<td>G&ouml;b, Franziska [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>van Donzel, Jaap [NLD]</td>
+		</tr><tr><td>538</td>
+			<td>St&uuml;ckl, Sebastian [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>van der Sluijs, Perrin [NLD]</td>
+		</tr><tr><td>539</td>
+			<td>Van der Wal, Rick [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Boets, Michael [NLD]</td>
+		</tr><tr><td>540</td>
+			<td>Hendriks, thomas [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>van der Sanden, Dick [NLD]</td>
+		</tr><tr><td>541</td>
+			<td>de Knegt, Tommy [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>van Hassel, Francois [NLD]</td>
+		</tr><tr><td>542</td>
+			<td>Klapwijk, Michiel [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Keessen, AJ [NLD]</td>
+		</tr><tr><td>543</td>
+			<td>kelterbaum, morgane [BEL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Droppert, Olivier [NLD]</td>
+		</tr><tr><td>544</td>
+			<td>Heyna, Patrick [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>van Engeland, Inge [NLD]</td>
+		</tr><tr><td>545</td>
+			<td>berner, jakob [AUT]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Schaap, Rowan [NLD]</td>
+		</tr><tr><td>546</td>
+			<td>Blokker, Christiaan [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Zijlmans, Geert [NLD]</td>
+		</tr><tr><td>547</td>
+			<td>Soffer, Omri [ISR]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>snellingen, simen [NOR]</td>
+		</tr><tr><td>548</td>
+			<td>r&uuml;hrmair, markus [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>bladh, Sebastian [SWE]</td>
+		</tr><tr><td>549</td>
+			<td>Schmeyer, Christoph [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ayala, Dorian [USA]</td>
+		</tr><tr><td>550</td>
+			<td>Rozakeas, Socratis [GRC]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>vold, erlend [NOR]</td>
+		</tr><tr><td>551</td>
+			<td>van Brussel, Mark [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Matveev, Ilya [RUS]</td>
+		</tr><tr><td>552</td>
+			<td>Doets, Terence [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bergmans, Stefan [NLD]</td>
+		</tr><tr><td>553</td>
+			<td>Vondracek, Zdenek [CZE]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Grijzenhout, Jasper [NLD]</td>
+		</tr><tr><td>554</td>
+			<td>Estrada, Ivan [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Piatkowski, Lukasz [POL]</td>
+		</tr><tr><td>555</td>
+			<td>Wibmer, Sebastian [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Vantyghem, Xavier [BEL]</td>
+		</tr><tr><td>556</td>
+			<td>Gerlings, Selina [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Van de Ven, Michelle [NLD]</td>
+		</tr><tr><td>557</td>
+			<td>Stier, Thomas [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>D'Hoe, Joris [BEL]</td>
+		</tr><tr><td>558</td>
+			<td>Weultjes, Johan [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Van Rooij, Peter [NLD]</td>
+		</tr><tr><td>559</td>
+			<td>Juraschek, Timo [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Meis, Robin [DEU]</td>
+		</tr><tr><td>560</td>
+			<td>Bohuslav, Robert [CZE]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Schimpf, Nikolai [DEU]</td>
+		</tr><tr><td>561</td>
+			<td>Strauss, Gary [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Van Dijk, Geerd [NLD]</td>
+		</tr><tr><td>562</td>
+			<td>Schmidt, Thomas [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Casper, Sven [DEU]</td>
+		</tr><tr><td>563</td>
+			<td>Hop, Aart [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Vale, Louis [ENG]</td>
+		</tr><tr><td>564</td>
+			<td>Riksen, Koen [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Milis, Michael [BEL]</td>
+		</tr><tr><td>565</td>
+			<td>R&uuml;ggeberg, Berend [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mayer, Felix [DEU]</td>
+		</tr><tr><td>566</td>
+			<td>Poreber, Michael [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Dehulster, Wolf [BEL]</td>
+		</tr><tr><td>567</td>
+			<td>Faas, Willeke [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Atkinson, Mark [ENG]</td>
+		</tr><tr><td>568</td>
+			<td>Hallavo, Ville [FIN]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>van Dinteren, Kjeld [NLD]</td>
+		</tr><tr><td>569</td>
+			<td>Browne, Gideon [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Link, Michael [DEU]</td>
+		</tr><tr><td>570</td>
+			<td>Stoker, Marcel [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>van de Velde, Jessica [NLD]</td>
+		</tr><tr><td>571</td>
+			<td>Brzezicki, Adam [POL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tran, Nhat Nam [DEU]</td>
+		</tr><tr><td>572</td>
+			<td>Eikelenboom, Bart [NLD]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Maxwell, Seth C [USA]</td>
+		</tr><tr><td>573</td>
+			<td>lukas, vaclav [CZE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Siniarski, Lukasy [POL]</td>
+		</tr><tr><td>574</td>
+			<td>Jacoby, Rick [BEL]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>van de Ven, Gijs [NLD]</td>
+		</tr><tr><td>575</td>
+			<td>Witteman, Wesley [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>geurts, simon [NLD]</td>
+		</tr><tr><td>576</td>
+			<td>Pieterson, Raoul [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Erkens, Jules [NLD]</td>
+		</tr><tr><td>577</td>
+			<td>Hanke, Dustin [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pesch, Jaspel [NLD]</td>
+		</tr><tr><td>578</td>
+			<td>Scherpenzeel, Dennis [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gourdin, Louis [FRA]</td>
+		</tr><tr><td>579</td>
+			<td>Thoft, Anders [DNK]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>de Gooijer, Dennis [NLD]</td>
+		</tr><tr><td>580</td>
+			<td>Story, Sidney [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>lopez, richie [NLD]</td>
+		</tr><tr><td>581</td>
+			<td>Senden, Mayk [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>etman, tim [NLD]</td>
+		</tr><tr><td>582</td>
+			<td>Schepman, Patrick [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>S&ouml;ssel, Felix [DEU]</td>
+		</tr><tr><td>583</td>
+			<td>von Kalkstein, Christi [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Henry, Dimitri [BEL]</td>
+		</tr><tr><td>584</td>
+			<td>Kuntze, Maximilian [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dupont, Benjamin [BEL]</td>
+		</tr><tr><td>585</td>
+			<td>Gramatke, Julian [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sawyer, James [ENG]</td>
+		</tr><tr><td>586</td>
+			<td>Stremer, Jens [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Vieren, Pascal [BEL]</td>
+		</tr><tr><td>587</td>
+			<td>van Deursen, Willem [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Douillez, axel [BEL]</td>
+		</tr><tr><td>588</td>
+			<td>larsen, michael [DNK]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Knaepper, Stefan [DEU]</td>
+		</tr><tr><td>589</td>
+			<td>Aerts, Dries [BEL]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kreijne, Jeroen [NLD]</td>
+		</tr><tr><td>590</td>
+			<td>Veldhuizen, Martin [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>jansen, joe [NLD]</td>
+		</tr><tr><td>591</td>
+			<td>Gramespacher, Thomas [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lanna, Giuseppe [ITA]</td>
+		</tr><tr><td>592</td>
+			<td>Rybinski, Adrian [POL]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Aringoli, Geoffroy [FRA]</td>
+		</tr><tr><td>593</td>
+			<td>Schoot, Ray [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tempel, Thom [NLD]</td>
+		</tr><tr><td>594</td>
+			<td>Derpmann, Werner [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dekker, Vincent [NLD]</td>
+		</tr><tr><td>595</td>
+			<td>Welbergen, Bastiaan [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>moons, dennis [BEL]</td>
+		</tr><tr><td>596</td>
+			<td>Luk, Shun [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hocquemiller, Vincent [FRA]</td>
+		</tr><tr><td>597</td>
+			<td>Hartwig, Tom [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>govinda, yannis [FRA]</td>
+		</tr><tr><td>598</td>
+			<td>mueller, jim [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Van Goethem, Stijn [BEL]</td>
+		</tr><tr><td>599</td>
+			<td>Wessel, Coen [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ransmann, Christoph [DEU]</td>
+		</tr><tr><td>600</td>
+			<td>Kloeckers, Dominic [DEU]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gorris, Bart [BEL]</td>
+		</tr><tr><td>601</td>
+			<td>Verbeken, Dirk [BEL]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Brusselmans, Laurens [BEL]</td>
+		</tr><tr><td>602</td>
+			<td>Keuning, Pieter [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tassiaux, Jean-Noel [BEL]</td>
+		</tr><tr><td>603</td>
+			<td>Timmermans, Hidde [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hugen, MAL [BEL]</td>
+		</tr><tr><td>604</td>
+			<td>Kruglov, Alexey [RUS]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ceusters, jan [BEL]</td>
+		</tr><tr><td>605</td>
+			<td>Nienhaus, Jens [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Murrath, Tom [BEL]</td>
+		</tr><tr><td>606</td>
+			<td>rietveld, vincent [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Jacobs, Bob [BEL]</td>
+		</tr><tr><td>607</td>
+			<td>Jean-Noel, ZAMI [FRA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Havas, Jean-Charles [FRA]</td>
+		</tr><tr><td>608</td>
+			<td>Schwarzhof, Philipp [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Valenti, Romain [FRA]</td>
+		</tr><tr><td>609</td>
+			<td>Reijman, Christophe [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Duval, Simon [FRA]</td>
+		</tr><tr><td>610</td>
+			<td>Plugge, Ernst Jan [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Vasselle, Mortimer [FRA]</td>
+		</tr><tr><td>611</td>
+			<td>Cestaro, Laurent [FRA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Jungerman, Anthony [FRA]</td>
+		</tr><tr><td>612</td>
+			<td>Frigo, Gregory [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>TADROS, Albert [FRA]</td>
+		</tr><tr><td>613</td>
+			<td>Raeke, Thomas [DEU]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Romanski, Stefan [DEU]</td>
+		</tr><tr><td>614</td>
+			<td>Roodenburg, Robbin [NLD]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>G&ouml;tter, Kai [DEU]</td>
+		</tr><tr><td>615</td>
+			<td>B&uuml;ttner, Marcus [DEU]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>B&ouml;hmelt, Christopher [DEU]</td>
+		</tr><tr><td>616</td>
+			<td>Trindade, Humberto [PRT]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Muehlinghaus, Pascal [DEU]</td>
+		</tr><tr><td>617</td>
+			<td>Rogers, JayJay [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Zilske, Christoph [DEU]</td>
+		</tr><tr><td>618</td>
+			<td>Schulthei&szlig;, Niklas [DEU]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Verbeek, Marc [NLD]</td>
+		</tr><tr><td>619</td>
+			<td>Schenk, Raphael [CHE]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>van Ravens, Brandon [NLD]</td>
+		</tr><tr><td>620</td>
+			<td>Vos, Brent [NLD]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>de Jonge, Rob [NLD]</td>
+		</tr><tr><td>621</td>
+			<td>Bongers, Imke [NLD]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Jansen, mathijs [NLD]</td>
+		</tr><tr><td>622</td>
+			<td>Heynen, Paul [NLD]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>de Graaf, Marc [NLD]</td>
+		</tr><tr><td>623</td>
+			<td>Tejeiro Sanchez, Franc [ESP]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>van der Pas, Robbert [NLD]</td>
+		</tr><tr><td>624</td>
+			<td>Bradford, Trenton [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Moxheim, Emil [NOR]</td>
+		</tr><tr><td></td>
+			<td>Bausch, Joshua [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Papadopoulos, Paris [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Heinonen, Aku [FIN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Glowalla, Jonas [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Janhsen, Markus [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Dang, Martin P [DNK]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Dahl, Tina [DNK]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Larsen, Christoffer E [DNK]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Maerevoet, Hidde [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Vilsgaard, Rasmus [DNK]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Milewicz, Mateusz [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nowak, Paulina [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Gro&szlig;, Moritz [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Schimpf, Viktor [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Velo, Marina [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Quinchavil, Miguel [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Boussaudi, Eliott [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Noorlander, Mark [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Robesyn, Sean [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lewandowski, Bartlomie [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Janik, Maciej [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>McLeod, Lewis [ENG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Verner, Lukas [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Svancara, Zdenek [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bednarik, Richard [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jahoda, Jakub [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Steinbr&uuml;ck, Marvin [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bousfield, Callum [ENG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Knocinski, Przemyslaw [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ogris, Martin [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Knoerr, Sebastian [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Heinemann, Stefan [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Taling, Mark [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Monsieurs, Patrick [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Misnik, Mateusz [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lorenc, Krzysztof [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kaklauskas, Gabrielius [LTU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tseroulis, Kreon [GRC]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Antoniou, Daniel [CYP]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>(23) Dickmann, Patrick [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>kigilos, stavros [GRC]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jand&aacute;k, Jakub [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>sujak, miesyko [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kowalski, Grzegorz [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tetzlaff, Leonard [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nowak, Maciej [IRL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>re, manfredi [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Crispino, Paolo [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lippmann, Robert [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Labahn, Nikolas [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Mackl, Valentin [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Darras, Alexandre [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Dores, Pedro M [PRT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Silva, Alejandro [VEN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bonde, Michael [DNK]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Norgaard, Lasse [DNK]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ramis Pascual, Toni [ESP]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Fernandez Baillo, Carl [ESP]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Del Moral Le&oacute;n, Antoni [ESP]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kocsis, Gabor [HUN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>wald, piotr [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lorenc, Michal [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pispa, Lauri [FIN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>van der Zee, Sander v [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lybaert, Marijn [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Strebejko, Albert [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hauck, Christian [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Collin, Thorsten [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Levitt, Olivier [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Staciwa, Marcin [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wellinger, Serafin [CHE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Matoz, Bruno [PRT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Borger, Bryan [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Leigh, Simon [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lindholm, Christofer [SWE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>De Togni, Marco [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Chronopoulos, Bill [GRC]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lantto, Magnus [SWE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>dekker, max [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lihoreau, Ibai [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Renner, Mark [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Vanek, Tomas [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Dickmann, Fabian [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Solverod, Finn Erik [NOR]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>salea, carlo [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Van Der Paelt, Thomas [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Richel, Frenk [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Guesnel, Quentin [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>vanderhallen, nicolas [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>de Groot, Bjorn [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Portaro, Alessandro [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Smit, Iwan [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pinto, Murat [CHE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Weber, Niels [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Burgan, Julien [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Prosek, Dominik [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rossijcenko, Alexander [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ryba, Martin [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sochurek, Petr [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rade, Olle [SWE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Marciniak, Grzegorz [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jaidane, Tarik [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kachapow, Marcel [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>krystkiewicz, adam [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jaklovsky, Lukas [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bajgo, Boris [SCG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Telarov, Aleksa [SCG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cammilluzzi, marco [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Perez, Ruben [ESP]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Semkin, Alexander [RUS]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Grasset, Jean Baptiste [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Vacher, Stephane [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lehner, Bernhard [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Dzino, Paul [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>kelterbaum, richard [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>neirynck, branco [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Heylen, Maxime [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Leroy, Simon [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Demeyer, Therence [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>de jong, bob [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Simon, Laurent [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Horr&eacute;, bart [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Runtuwene, Rick [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>(6) Cifka, Stanislav [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Blohon, Lukas [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pasgaard, Alexander [DNK]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nielsen, Simon [DNK]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jacobsen, S&oslash;ren Knak [DNK]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Moustgaard, Alvin [DNK]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Vesaoja, Eero [FIN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Juote, Jesse [FIN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Virtanen, Ville [FIN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>berteaux, julien [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>mezhoud, hakim [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Simonot, Timothee [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Dagen, Pierre [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>OBLET, Sylvain [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Didier, Nicolas [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Chiche, Kevin [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>ZEIL, Jean-Julien [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rodrigues, Thiago [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>GIORIA, Julien [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>STIHLE, Julien [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>PRIMOT, Armel [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>mercier, nicolas [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>barcaville, Gael [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Le Briand, Loic [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Stankiewicz, Natalia [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Berger, Maximilien [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>vuillot, samuel [FRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wagner, Pascal [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tobiasch, Marc [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Schultze, Max [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Schwarz, Iris [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Esser, Ralph [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lesch, Andreas [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Krautmann, Wenzel [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rausch, Oliver [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Koch, Florian [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Masuch, Norman [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Konzelmann, Lukas [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Roberts, Adam [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Truong, Thuan [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Severin, Thoralf [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Webels, Richard [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Paulmaier, Benjamin [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Musmacher, Thomas [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Budde, Christopher [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hottmann, Alex [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wiederspan, Paul [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Brendem&uuml;hl, Bernd [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>L&ouml;chert, Johannes [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Witt, Hannes [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Schulte, Julian [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Reling, Andreas [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jana, Richard [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hofmann, Mike [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Urmetzer, Marc [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>white, mike [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Paterok, Daniel [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Heidenreich, Paul [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Schr&ouml;ter, Jens [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Deininger, Bastian [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Gruszczyk, Martin [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Juerschik, Sabine [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Verh&uuml;lsdonk, Jan [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Postma, Jan [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sajgalik, Eduardo [ENG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ferguson, Marc [ENG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Russell, Jason [ENG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Fowler, Colin [ENG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lansdale, Tim [ENG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wilks, John-Joseph [ENG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hollos, Peter [HUN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Szoke, Zoltan [HUN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Korbl, Adorjan [HUN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Baars, Sander [IRL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Gravina, Michele [IRL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>La Porta, Alessandro [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pinto, Antonio [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Matteo, Bruni [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ciotta, Andrea [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>martinelle, geoffrey [LUX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hatto, Steve [LUX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kouters, Joost [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Van den oever, Roy [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lodder, Robert [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hoekstra, Sean [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bogaard, Erikjan [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>baauw, dennis [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jongeling, Elwin [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>van der Vaart, Martijn [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cooman, Andy [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Miller, Jan [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hamstra, Daan [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>van Leeuwen, Arjan [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Muijen, Glenn [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bajerowicz, Adam [POL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Azevedo, Miguel [PRT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bonif&aacute;cio Costa, Vasco [PRT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ventura, Sergio [PRT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rodrigues, Hugo [PRT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pestov, Evgeny [RUS]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Petrushchenko, Sergey [RUS]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Vila, Ferran [ESP]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>ramiro cano, adrian [ESP]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>rojo, jordi [ESP]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Londos, Ludvig [SWE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nystr&ouml;m, Per [SWE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rothen, Christian [CHE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ganz, Andreas [CHE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Anteri, Fabrizio [VEN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Brandtner, Michael [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tomelitsch, Patrick [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Polak-Rottmann, Oliver [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sp&ouml;rk, Markus [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Strobl, manuel [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Danninger, manuel [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Gerschenson, Immanuel [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Grill, Gerald [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Niedereder, Dominik [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Peltier, charles [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Verhulst, Johan [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Vrankenne, Vincent [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Seibold, Christian [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Thiele, Fabian [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Esser, Florian [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>cook, chris [ENG]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Skornik, Denis [LUX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Schuringa, Remco [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Radich, Lars-Petter [NOR]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Prinzell, Johan [SWE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Landgraf, Svante [SWE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Angelin, Marcus [SWE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Milivojevic, Marko [CHE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Heath, Joel [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Leterme, Benoit [BEL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Snepvangers, Bram [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Mayer, Manuel F [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Claessens, Wilmer [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* BYE *</td>
+		</tr></tbody></table><p></p></body></html>
+      </div>
+
+      <!-- BEGIN :: Article footer -->
+      <div class="article-footer">
+        <p class="posted-in">
+          Posted in          <a href="/en/events/coverage/gputr14">GRAND PRIX UTRECHT 2014 - COVERAGE - EVENTS </a>
+          on August 9, 2014        </p>
+      </div>
+      <!-- END :: Article footer -->
+
+    </article>
+  </div>
+
+  <!-- BEGIN :: ASIDE -->
+        <aside>
+      <div class="aside-wrapper">
+        
+
+            <h2><span>FEATURED ARTICLE</span></h2>
+      <div class="articles-bloc">
+            <div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/UR20150402_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="cat">UNCHARTED REALMS</a>
+      <p class="date">April 2, 2015</p>
+      <a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="title">The Guardian</a>
+              <a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="auth">Ari Levitch</a>
+      
+      <div class="infos">
+                  <p>Anafenza's fate has been less kind in this Tarkir, but no less grand…
+</p>
+                <p><a href="/en/articles/archive/uncharted-realms/guardian-2015-04-02" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div><div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/ARC20150402_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="cat">ARCANA</a>
+      <p class="date">April 2, 2015</p>
+      <a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="title">Art Descriptions of the Not-Khans</a>
+              <a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="auth">Blake Rasmussen</a>
+      
+      <div class="infos">
+                  <p>The descriptions that drove the art of the non-khans of Tarkir in Dragons of Tarkir.
+</p>
+                <p><a href="/en/articles/archive/arcana/art-descriptions-not-khans-2015-04-02" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div>          </div>
+            
+      <h2><span>EVENTS</span></h2>
+      <div class="articles-bloc">
+    <div class="article static pub-event "
+         style="background-image: url(http://magic.wizards.com/sites/mtg/files/FNMFeb_GutterAd_A.jpg)">
+      <div class="wrap details">
+                  <img src="http://magic.wizards.com/sites/mtg/files/FNMFeb_GutterAd_B.png" />
+                <p class="date"></p>
+                  <p class="description">Get an alternative-art promo of Disdainful Stroke!</p>
+                          <p>
+            <a class="learn-more " href="http://magic.wizards.com/en/events/event-types/friday-night-magic" data-video-url="">
+              Friday Night Magic            </a>
+          </p>
+              </div>
+    </div>
+  </div>
+              <h2><span>PRODUCTS</span></h2>
+            </div>
+    </aside>
+    <!-- END :: ASIDE -->
+
+  </div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+  </div>
+
+  <!-- Footer -->
+    <footer>
+    <div id="back-to-top">
+      <a href="#viewport">Back to top</a>
+    </div>
+    <div id="where-to-buy">
+      <div class="content page-width">
+        <form action="/en/events/coverage/gputr14/round-2-results-2014-08-09" method="post" id="wiz-store-and-event-locator-search-form--2" accept-charset="UTF-8"><div><div class="intro"><div class="wrap"><h5>Where to Play and Buy</h5><p>Find a location to buy or play<br />Magic: The Gathering near you.</p></div></div><div class="form"><div class="wrap"><span class="column zip-code"><div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Enter your city or postal code" type="text" id="edit-search-string--4" name="search-string" value="" size="25" maxlength="128" class="form-text" />
+</div>
+</span><span class="column actions"><button class="action-button" type="submit">Find Now !</button></span></div></div><input class="hide form-submit" type="submit" id="edit-search-button--4" name="op" value="Find Now" /><input type="hidden" name="form_build_id" value="form-h065T9oDjtb8R1BP81wZwX-y3lYShhIvYgKqTHyiKTA" />
+<input type="hidden" name="form_id" value="wiz_store_and_event_locator_search_form" />
+</div></form>      </div>
+    </div>
+
+    <div class="main-footer">
+      <div class="content page-width">
+        <div class="text">
+                      <div id="locale-select">
+              <label for="locale-select-ddl">Select your language:</label>
+
+              <div class="select-wrapper">
+                <select id="locale-select-ddl">
+                  <option value="/zh-hans" >简体中文</option><option value="/zh-hant" >繁體中文</option><option value="/fr" >Français</option><option value="/de" >Deutsch</option><option value="/it" >Italiano</option><option value="/ja" >日本語</option><option value="/ko" >한국어</option><option value="/pt-br" >Português (Brasil)</option><option value="/ru" >Русский</option><option value="/es" >Español</option><option value="/en" selected>English</option>                </select>
+              </div>
+            </div>
+          
+          
+
+      <p class="brand-family-title">Wizards Brand Family</p>
+    <p class="brand-family-menu"><a href="http://magic.wizards.com" target="_blank">magic</a> <em>|</em> <a href="http://www.wizards.com/dnd" target="_blank">d&amp;d</a> <em>|</em> <a href="http://www.wizards.com/wpn" target="_blank">wpn</a> <em>|</em> <a href="http://dm.takaratomy.co.jp" target="_blank">duel masters</a> <em>|</em> <a href="http://www.wizards.com/default.asp?x=ah/welcome" target="_blank">avalon hill</a></p>
+  <p><a href="http://company.wizards.com/tou" target="_blank">Terms of Use</a> <em>|</em> <a href="http://company.wizards.com/conduct" target="_blank">Code of Conduct</a> <em>|</em> <a href="http://company.wizards.com/policy" target="_blank">Privacy Policy</a> <em>|</em> <a href="http://www.wizards.com/customerservice" target="_blank">Customer Service</a> <em>|</em> <a href="/en/articles/archive/our-cookie-policy-2013-10-28">Cookies</a></p>
+  <p class="copyright">© 1995-2016 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved.</p>
+
+        </div>
+        
+
+      <p class="logo wizard">
+      <a href="http://company.wizards.com"
+         target="_blank"
+         title="Wizards of the Coast"
+        ><img src="/sites/all/themes/wiz_mtg/img/interface/wizard-of-the-coast-logo.png" alt="Wizards of the Coast" /></a>
+    </p>
+  
+      <p class="logo hasbro">
+      <a href="http://www.hasbro.com"
+         target="_blank"
+         title="Hasbro"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/hasbro-logo.svg" alt="Hasbro" /></a>
+    </p>
+  
+      <p class="logo privacy">
+      <a href="http://www.esrb.org/confirm/wizards-confirmation.aspx"
+         target="_blank"
+         title="ESRB Privacy Certified"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/esrb-badge.png" alt="ESRB Privacy Certified" /></a>
+    </p>
+  
+      </div>
+    </div>
+  </footer>
+  </div>
+
+<div id="cookies-warning">
+	<div class="wrap page-width">
+		<div class="text">
+			<p>
+        We use cookies on this site to enhance your user experience. By clicking any link on this page or by clicking <strong>Yes</strong>, you are giving your consent for us to set cookies.        <a href="http://company.wizards.com/policies/web/cookie" target="_blank"> (Learn more about cookies)</a>
+      </p>
+		</div>
+		<p class="actions">
+			<button type="button" class="button agree">Yes, I agree</button>
+			<a href="http://company.wizards.com/policies/web/cookie" target="_blank" class="button disagree">No, I want to find out more</a>
+		</p>
+	</div>
+</div>      <div class="region region-page-bottom">
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>  </div>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_oi0ujkYeWtu_4YlJE5uYvltQ88urtOHuaNRm2scTWco.js"></script>
+  </div>
+
+	<!-- Crazy Egg -->
+	<script type="text/javascript">
+		setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName("script")[0];
+		a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0009/9185.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+	</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d92d812ac7","applicationID":"22111946","transactionName":"YVNXMkcAD0sHAUdcXFgZdAVBCA5WSRJSUlZpW1QIVAYESjkMXFFWaUBcA0I+EVkBBw==","queueTime":0,"applicationTime":513,"atts":"TRRURA8aHEU=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

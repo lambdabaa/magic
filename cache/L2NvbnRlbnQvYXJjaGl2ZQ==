@@ -7267,6 +7267,9 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
             </nav>
             <div id="content_decks_standard" class="content deck_size">
               <ul>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=7&t[T1]=1&start_date=2016-08-06&end_date=2016-08-06&state=MD&city=Baltimore&order_1=finish&limit=8&t_num=1&action=Show+Decks">8/06 Regionals Baltimore, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=7&t[T1]=1&start_date=2016-08-06&end_date=2016-08-06&state=AZ&city=Avondale&order_1=finish&limit=8&t_num=1&action=Show+Decks">8/06 Regionals Avondale, US</a></li>
+                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=7&t[T1]=1&start_date=2016-08-06&end_date=2016-08-06&state=KS&city=Lenexa&order_1=finish&limit=8&t_num=1&action=Show+Decks">8/06 Regionals Lenexa, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=7&t[T1]=1&start_date=2016-08-06&end_date=2016-08-06&state=WI&city=Milwaukee&order_1=finish&limit=8&t_num=1&action=Show+Decks">8/06 Regionals Milwaukee, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=7&t[T1]=1&start_date=2016-08-06&end_date=2016-08-06&state=CA&city=Pacifica&order_1=finish&limit=8&t_num=1&action=Show+Decks">8/06 Regionals Pacifica, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=7&t[T1]=1&start_date=2016-08-06&end_date=2016-08-06&state=LA&city=Baton Rouge&order_1=finish&limit=8&t_num=1&action=Show+Decks">8/06 Regionals Baton Rouge, US</a></li>
@@ -7284,11 +7287,8 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=7&t[T1]=1&start_date=2016-08-06&end_date=2016-08-06&state=OH&city=Columbus&order_1=finish&limit=8&t_num=1&action=Show+Decks">8/06 Regionals Columbus, US</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=1&t[T1]=1&start_date=2016-08-05&end_date=2016-08-05&state=&city=Sydney&order_1=finish&limit=8&t_num=1&action=Show+Decks">8/05 Pro Tour Sydney, AU</a></li>
                                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=MI&city=Midland&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Super IQ Midland, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=33&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=TN&city=Chattanooga&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 SCG Super IQ Chattanooga, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=AR&city=Jonesboro&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Jonesboro, US</a></li>
-                                <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T1]=1&start_date=2016-07-31&end_date=2016-07-31&state=IL&city=Frankfort&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/31 Invi Qualifier Frankfort, US</a></li>
                               </ul>
-              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T1]=1&start_date=2016-07-09&end_date=2016-08-09&limit=25&action=Show+Decks">View More Standard Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T1]=1&start_date=2016-07-10&end_date=2016-08-10&limit=25&action=Show+Decks">View More Standard Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
             </div>
             <div id="content_decks_modern" class="content deck_size">
               <ul>
@@ -7333,7 +7333,7 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
                                   
                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=29&t[T2]=28&start_date=2016-07-09&end_date=2016-07-09&state=OH&city=Streetsboro&order_1=finish&limit=8&t_num=1&action=Show+Decks">7/09 Invi Qualifier Streetsboro, US</a></li>
                               </ul>
-              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T2]=28&start_date=2016-07-09&end_date=2016-08-09&limit=25&action=Show+Decks">View More Modern Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T2]=28&start_date=2016-07-10&end_date=2016-08-10&limit=25&action=Show+Decks">View More Modern Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
             </div>
             <div id="content_decks_legacy" class="content deck_size">
               <ul>
@@ -7378,7 +7378,7 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
                                     
                 <li><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?event_ID=36&t[T3]=3&start_date=2016-06-19&end_date=2016-06-19&state=FL&city=Orlando&order_1=finish&limit=8&t_num=1&action=Show+Decks">6/19 SCG Classic Orlando, US</a></li>
                               </ul>
-              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T3]=3&start_date=2016-07-09&end_date=2016-08-09&limit=25&action=Show+Decks">View More Legacy Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
+              <div class="decks_footer"><a href="http://sales.starcitygames.com/deckdatabase/deckshow.php?t[T3]=3&start_date=2016-07-10&end_date=2016-08-10&limit=25&action=Show+Decks">View More Legacy Decks</a> - <a href="http://sales.starcitygames.com/deckdatabase/index.php">Search Decklists</a></div>
             </div>
             <!--<div id="content_decks_commander" class="content deck_size">
               <h3>Latest Other Top 8 Decklists</h3>
@@ -7567,7 +7567,7 @@ target="_blank" method="post"><input name="ea" size="20" value="" type="text" id
 <!-- Load Additional Scripts -->
 
 <!--
-    Time: 0.2890
+    Time: 0.3436
     Mem: 2.14MB-->
 
 </body>

@@ -9,30 +9,25 @@ let load = require('./load');
 let maybeset = require('../maybeset');
 let stream = require('stream');
 
-let firebaseSecretToken = 'tTxh4X9b1gGIySp4XvSFvuTcf50Pt0XnSxoCYN49';
 let ref = new Firebase('https://mtgstats.firebaseio.com/events');
 
 class GetDecklists extends stream.Transform {
   constructor() {
     super({objectMode: true});
-    this._auth = this._authenticate();
     this._count = 0;
     this._failures = [];
   }
 
-  _authenticate() {
-    return ref.authWithCustomToken(firebaseSecretToken);
-  }
-
   async _transform(event, encoding, callback) {
+    debug(JSON.stringify(event));
     let decklists;
     try {
       decklists = await this._getDecklists(event);
       if (!decklists.length) {
         this._failures.push(event.link);
+        return callback();
       }
 
-      await this._auth;
       await Promise.all(
         decklists.map((decklist, index) => {
           decklist.date = event.date;
@@ -54,14 +49,14 @@ class GetDecklists extends stream.Transform {
         })
       );
 
-      event.decklists = decklists;
       this._count += decklists.length;
     } catch (error) {
       this._failures.push(event.link);
       debug(error);
-      return callback(error);
+      return callback();
     }
 
+    event.decklists = decklists;
     callback(null, event);
   }
 
@@ -108,17 +103,40 @@ async function getScgDecklists(event, overview) {
   return flatten(decklists);
 }
 
-async function getScgTabDecklists(tab) {
-  let link = Array
+function getScgTabDecklists(tab) {
+  let links = Array
     .from(tab.getElementsByTagName('a'))
-    .find(aLink => aLink.href.toLowerCase().includes('deckl'));
+    .filter(aLink => aLink.href.toLowerCase().includes('deckl'));
+  let link;
+  if (links.length > 1) {
+    link = links.find(aLink => {
+      return aLink.textContent.includes(tab.id) ||
+             aLink.href.includes(tab.id.toLowerCase());
+    });
+  }
+
+  link = link || links[0];
+  return getScgLinkDecklists(link);
+}
+
+async function getScgLinkDecklists(link) {
   let href = link.href.startsWith('http') ?
     link.href :
     'http://starcitygames.com' + link.href;
   let html = await getThroughCache(href);
   let window = await load(html);
   let doc = window.document;
-  return Array
+  let next = Array
+    .from(doc.getElementsByTagName('a'))
+    .find(aLink => aLink.textContent.includes('Next>'));
+
+  let result = [];
+  if (next) {
+    let more = await getScgLinkDecklists(next);
+    result = result.concat(more);
+  }
+
+  let list = Array
     .from(doc.querySelectorAll('#content table tr'))
     .filter(row => {
       return row.children.length === 7 &&
@@ -131,6 +149,8 @@ async function getScgTabDecklists(tab) {
         player: row.children[2].textContent
       };
     });
+
+  return result.concat(list);
 }
 
 async function getWizardsDecklists(event, overview) {

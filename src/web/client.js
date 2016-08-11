@@ -10,7 +10,6 @@ async function load() {
     ['Legacy', 'Modern', 'Standard'].map(async (format) => {
       let snapshot = await ref
         .child(format)
-        .orderByChild('count')
         .once('value');
       update({
         decks: {[format]: snapshot.val()}

@@ -1,0 +1,7103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+  <title>ROUND 2 RESULTS | MAGIC: THE GATHERING</title>
+
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"/>
+  <meta name="format-detection" content="telephone=no"/>
+	<meta name="google-site-verification" content="WquIfqfWtlm2X62GTeJ-5vDtRrbOVOIT6mFc3vAP5BQ" />
+
+  <link rel="icon" type="image/png" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/sites/all/themes/wiz_mtg/icons/favicon.ico"/>
+  <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/wiz_mtg/icons/touch-icon-57.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/wiz_mtg/icons/touch-icon-72.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/wiz_mtg/touch-icon-114.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://magic.wizards.com/sites/all/themes/wiz_mtg/favicon.ico" type="image/vnd.microsoft.icon" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="description" content="Table&amp;#13; Player&amp;#13;  &amp;#13; Result&amp;#13;  &amp;#13; Opponent&amp;#13;  &amp;#13; 1&amp;#13; Douglas, Michael&amp;#13; [GB]&amp;#13; pending&amp;#13; vs.&amp;#13; Geffroy, Francois&amp;#13; [FR]&amp;#13; 2&amp;#13; Oosterbaan, Fokke&amp;#13; [NL]&amp;#13; pending&amp;#13; vs.&amp;#13; Patillet, Laura&amp;#13; [FR]&amp;#13;" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://magic.wizards.com/en/events/coverage/gpbru15/round-2-results-2015-11-14" />
+<link rel="shortlink" href="http://magic.wizards.com/en/node/826066" />
+<meta property="og:site_name" content="MAGIC: THE GATHERING" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://magic.wizards.com/en/events/coverage/gpbru15/round-2-results-2015-11-14" />
+<meta property="og:title" content="ROUND 2 RESULTS" />
+<meta property="og:description" content="Table&amp;#13; Player&amp;#13;  &amp;#13; Result&amp;#13;  &amp;#13; Opponent&amp;#13;  &amp;#13; 1&amp;#13; Douglas, Michael&amp;#13; [GB]&amp;#13; pending&amp;#13; vs.&amp;#13; Geffroy, Francois&amp;#13; [FR]&amp;#13; 2&amp;#13; Oosterbaan, Fokke&amp;#13; [NL]&amp;#13; pending&amp;#13; vs.&amp;#13; Patillet, Laura&amp;#13; [FR]&amp;#13;" />
+<meta property="og:image" content="http://magic.wizards.com/sites/mtg/files/images/hero/DailyMTG_Generic_Icon.jpg" />
+  <link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_DHcXHPYBSjIVaCQZEG4ZlpLkvslnFlBCnQUCzlbRBio.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_jqLG8JVbJuXMDDISe4UsZMUj_1qh-z0BGGAnA4OQvrA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_IIxgQdBS3hICu6Ps9jWiboRWYhCChZSb8zy58PRgH-8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_sELblXm0HE9iYxNNwDufKAxxNQ7ZkF6_ABbBSpg1HBE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/1.10.5/css/jquery.dataTables.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/responsive/1.0.4/css/dataTables.responsive.css" media="all" />
+  <script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_melyhmK_eh6sYXp2z9ljBIs419nCvgG6X4XWQKGJjng.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_yRh3TUp_QoC2vC9PitxLvVXRHsQUtJt-ObNFP_v6h-k.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_1swqkjOwmrPjTNzECJhtuekK-QJ_S5vc3xlUxa4gvEI.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_V7ygvngkUS6TCF6pK434j1Pj29d0hmeDnqUTPlcHIsw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-15020098-13", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "pathToTheme": "sites/all/themes/wiz_mtg" });
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://accounts.wizards.com/Widget/Widget.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_tuIsI7hTJyYf1XxjjnXVjPFwG177VUndBDGTmD13oH0.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_JIa4YdILIwnQQfsYZSjX1gz9IUt6emOIXEvyA44TWDI.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/responsive/1.0.4/js/dataTables.responsive.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"wiz_mtg","theme_token":"rfXiJhKSkpNeHmi4HQLnc-xXkDKbCyZLg8dTFe4hUFg","jquery_version":"1.8","js":{"sites\/all\/themes\/wiz_mtg\/js\/ShareButton.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/masonry.pkgd.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/wiz_autocard.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/d3.v3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.charts.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/wiz_decklist_filter\/js\/wiz_decklist_filter.js":1,"sites\/all\/modules\/custom\/wiz_show_period\/js\/moment.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper-2.1.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper.scrollbar-2.1.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/custom.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/deletecookies.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"https:\/\/accounts.wizards.com\/Widget\/Widget.js":1,"sites\/all\/modules\/custom\/wiz_npsu\/js\/npsu_widget.js":1,"sites\/all\/themes\/wiz_mtg\/js\/image-comparison-slider.js":1,"sites\/all\/libraries\/foresee\/foresee-trigger.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery-ui.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/content-gallery-grid\/modernizr.custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.fancybox.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.scrollbar.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.mmenu.oncanvas.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.columnlist.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/dropdown.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/owl.carousel.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/stacktable.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/arketype.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-homepage-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-event-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/interstitials.js":1,"sites\/all\/themes\/wiz_mtg\/js\/community.js":1,"sites\/all\/themes\/wiz_mtg\/js\/inline-features.js":1,"sites\/all\/themes\/wiz_mtg\/js\/MainMenu.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ParallaxBackground.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ShowHideListItems.js":1,"sites\/all\/themes\/wiz_mtg\/js\/core.js":1,"sites\/all\/themes\/wiz_mtg\/js\/mx.js":1,"\/\/cdn.datatables.net\/1.10.5\/js\/jquery.dataTables.min.js":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/js\/dataTables.responsive.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.scrollbar.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/chartbeat\/chartbeat.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/wiz_npsu\/css\/npsu.css":1,"sites\/all\/modules\/custom\/wiz_npsu_mtg\/css\/npsu_mtg.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery-ui-mod.css":1,"sites\/all\/themes\/wiz_mtg\/css\/owl.carousel.css":1,"sites\/all\/themes\/wiz_mtg\/css\/scrollbars.css":1,"sites\/all\/themes\/wiz_mtg\/css\/fonts.css":1,"sites\/all\/themes\/wiz_mtg\/css\/core.css":1,"sites\/all\/themes\/wiz_mtg\/css\/header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/footer.css":1,"sites\/all\/themes\/wiz_mtg\/css\/page-header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/medias.css":1,"sites\/all\/themes\/wiz_mtg\/css\/search.css":1,"sites\/all\/themes\/wiz_mtg\/css\/decklist.css":1,"sites\/all\/themes\/wiz_mtg\/css\/articles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/game-info.css":1,"sites\/all\/themes\/wiz_mtg\/css\/events.css":1,"sites\/all\/themes\/wiz_mtg\/css\/community.css":1,"sites\/all\/themes\/wiz_mtg\/css\/mx.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/immersive.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/interstitials.css":1,"sites\/all\/themes\/wiz_mtg\/css\/styles-extended.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacy.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacyStyles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/_theme-override.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic":1,"\/\/cdn.datatables.net\/1.10.5\/css\/jquery.dataTables.css":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/css\/dataTables.responsive.css":1}},"chartbeat":{"uid":51341,"domain":"http:\/\/magiccv2stg.prod.acquia-sites.com\/","useCanonical":true,"noCookies":false},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":330,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"wiz_core":{"wiz_core_switch_in_days":14,"wiz_core_switch_in_visits":10,"wiz_core_switch_b_path":"home"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"npsu_widget":{"enabled":true,"logged_in":"false"},"urlIsAjaxTrusted":{"\/en\/events\/coverage\/gpbru15\/round-2-results-2015-11-14":true}});
+//--><!]]>
+</script>
+
+  
+        <style>
+      @media all {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png) no-repeat;
+          background-size: 100% 100px;
+
+        }
+        #mobile-menu .header .logo a {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 100%;
+        }
+        #page.snap-menu header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+      @media (max-width: 1200px) {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+    </style>
+  	
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-826066 node-type-article i18n-en content-non-panels role-anonymous-user with-subnav page-events-coverage-gpbru15-round-2-results-2015-11-14 section-events" >
+  <script>
+  /* Interstitials variables */
+  var Interstitials = {
+    list: [
+                        ]
+  };
+  </script>
+
+  <div id="page" class="section_articles article_detail">
+    
+        <div id="mobile-menu">
+  <div class="header">
+    <div class="logo"></div>
+    <div class="toggle-menu-button"></div>
+  </div>
+  <nav>
+    <div class="menu-wrapper" data-back-label="Back"></div>
+  </nav>
+</div>
+
+<div id="viewport">
+  <!-- Header -->
+  <header>
+    <div class="wrapper">
+      <div id="utils">
+        <a href="http://locator.wizards.com/" class="locator">Locator</a> <a href="http://gatherer.wizards.com" class="gatherer">Card Database</a>        <a href="/en" title="Sign In" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;SignIn&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showLoginModal();" id="SignInButton" class="login">Sign In</a> | <a href="/en" title="Sign Up" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Signup&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showJoinModal();" id="RegisterButton" class="register">Sign Up</a>        <div id="search-form">
+          <form action="/en/events/coverage/gpbru15/round-2-results-2015-11-14" method="post" id="wiz-search-bar-form--2" accept-charset="UTF-8"><div><input type="hidden" name="search-site" value="acquia_search" />
+<div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Search Anything" type="text" id="edit-search-string--3" name="search-string" value="" size="25" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-search-button--3" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-2ZPOQGsmEIYWtzZLlc-p4pkvECoIa8-zf7z2df5V5l0" />
+<input type="hidden" name="form_id" value="wiz_search_bar_form" />
+</div></form>        </div>
+      </div>
+
+      <!-- Menu -->
+      <nav id="menu">
+        <a class="home" href="/en"><span>Magic the Gathering</span></a>
+
+        <div class="menu-wrapper">
+          <ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#signinbutton').attr('onclick',-'return-wotcaccountwidget.showloginmodal();');</script> has-children"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#SignInButton').attr('onclick', 'return wotcAccountWidget.showLoginModal();');</script></span></a><ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#registerbutton').attr('onclick',-'return-wotcaccountwidget.showjoinmodal();');</script>"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#RegisterButton').attr('onclick', 'return wotcAccountWidget.showJoinModal();');</script></span></a></li>
+<li class="mn_section_strategy"><a href="/en/content/strategy"><span>Strategy</span></a></li>
+<li class="mn_section_lore"><a href="/en/content/new-to-magic/lore"><span>Lore</span></a></li>
+<li class="mn_section_community"><a href="/en/content/new-to-magic/community"><span>Community</span></a></li>
+</ul></li>
+<li class="mn_section_game-info has-children"><a href="/en/game-information"><span>GAME INFO</span></a><ul class="menu"><li class="hub-link GAME INFO"><a href="/en/game-information"><span>GAME INFO</span></a></li>
+<li class="mn_section_gameplay has-children"><a class="nolink"><span>GAMEPLAY</span></a><ul class="menu"><li class="mn_section_about-the-game"><a href="/en/game-info/gameplay/about-the-game"><span>ABOUT THE GAME</span></a></li>
+<li class="mn_section_how-to-play"><a href="/en/game-info/gameplay/how-to-play"><span>HOW TO PLAY</span></a></li>
+<li class="mn_section_how-to-build-a-deck"><a href="/en/game-info/gameplay/how-to-build-a-deck"><span>HOW TO BUILD A DECK</span></a></li>
+<li class="mn_section_improve-your-game"><a href="/en/game-info/gameplay/improve-your-game"><span>IMPROVE YOUR GAME</span></a></li>
+<li class="mn_section_rules-&-formats"><a href="/en/game-info/gameplay/rules-and-formats"><span>RULES & FORMATS</span></a></li>
+</ul></li>
+<li class="mn_section_products has-children"><a class="nolink"><span>PRODUCTS</span></a><ul class="menu"><li class="mn_section_featured-<br>releases"><a href="/en/game-info/products/featured-releases"><span>FEATURED <BR>RELEASES</span></a></li>
+<li class="mn_section_coming-soon"><a href="/en/game-info/products/coming-soon"><span>COMING SOON</span></a></li>
+<li class="mn_section_magic-duels"><a href="/en/content/magic-duels"><span>MAGIC DUELS</span></a></li>
+<li class="mn_section_magic-online"><a href="/en/content/magic-online-products-game-info"><span>MAGIC ONLINE</span></a></li>
+<li class="mn_section_card-set-archive"><a href="/en/game-info/products/card-set-archive"><span>CARD SET ARCHIVE</span></a></li>
+</ul></li>
+<li class="mn_section_story has-children"><a class="nolink"><span>STORY</span></a><ul class="menu"><li class="mn_section_magic's-story"><a href="/en/game-info/story/magic-story"><span>MAGIC'S STORY</span></a></li>
+<li class="mn_section_planeswalkers"><a href="/en/game-info/story/planeswalkers"><span>PLANESWALKERS</span></a></li>
+<li class="mn_section_planes"><a href="/en/game-info/story/planes"><span>PLANES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_events has-children current"><a href="/en/events" class="active-trail"><span>EVENTS</span></a><ul class="menu"><li class="hub-link EVENTS"><a href="/en/events"><span>EVENTS</span></a></li>
+<li class="mn_section_events-home"><a href="/en/events"><span>EVENTS HOME</span></a></li>
+<li class="mn_section_what-is-<br>organized-play"><a href="/en/events/what-is-organized-play"><span>WHAT IS <br>ORGANIZED PLAY?</span></a></li>
+<li class="mn_section_event<br>-types"><a href="/en/events/event-types"><span>EVENT<br> TYPES</span></a></li>
+<li class="mn_section_coverage has-children current"><a class="active-trail nolink"><span>COVERAGE</span></a><ul class="menu"><li class="mn_section_coverage-archive current"><a href="/en/events/coverage" class="active-trail"><span>COVERAGE ARCHIVE</span></a></li>
+<li class="mn_section_top-players"><a href="/en/events/coverage/top-players"><span>TOP PLAYERS</span></a></li>
+</ul></li>
+<li class="mn_section_schedules"><a href="/en/content/premier-events-schedule#/overview"><span>SCHEDULES</span></a></li>
+<li class="mn_section_resources has-children"><a class="nolink"><span>RESOURCES</span></a><ul class="menu"><li class="mn_section_planeswalker-points"><a href="/en/events/resources/planeswalker-points"><span>PLANESWALKER POINTS</span></a></li>
+<li class="mn_section_judges"><a href="/en/events/resources/judges"><span>JUDGES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_articles has-children"><a href="/en/content/articles"><span>ARTICLES</span></a><ul class="menu"><li class="hub-link ARTICLES"><a href="/en/content/articles"><span>ARTICLES</span></a></li>
+<li class="mn_section_articles-home"><a href="/en/content/articles"><span>ARTICLES HOME</span></a></li>
+<li class="mn_section_columns has-children"><a id="columns" class="nolink"><span>COLUMNS</span></a><ul class="menu"><li class="mn_section_columnists"><a href="/en/articles/columns/columnists"><span>COLUMNISTS</span></a></li>
+<li class="mn_section_making-magic"><a href="/en/articles/columns/making-magic-archive"><span>MAKING MAGIC</span></a></li>
+<li class="mn_section_magic-story"><a href="/en/articles/columns/magic-story-archive"><span>MAGIC STORY</span></a></li>
+<li class="mn_section_top-decks"><a href="/en/articles/columns/top-decks-archive"><span>TOP DECKS</span></a></li>
+<li class="mn_section_organized-<br>play"><a href="/en/articles/columns/organized-play-archive" title="Organized Play"><span>ORGANIZED <br>PLAY</span></a></li>
+<li class="mn_section_latest-<br>developments"><a href="/en/articles/columns/latest-developments-archive"><span>LATEST <br>DEVELOPMENTS</span></a></li>
+</ul></li>
+<li class="mn_section_archives"><a href="/en/articles/archive"><span>ARCHIVES</span></a></li>
+<li class="mn_section_winning-decks"><a href="/en/articles/winning-decks"><span>WINNING DECKS</span></a></li>
+<li class="mn_section_media has-children"><a class="nolink"><span>MEDIA</span></a><ul class="menu"><li class="mn_section_videos"><a href="/en/articles/media/videos"><span>VIDEOS</span></a></li>
+<li class="mn_section_podcasts"><a href="/en/articles/media/podcasts"><span>PODCASTS</span></a></li>
+<li class="mn_section_wallpapers"><a href="/en/articles/media/wallpapers"><span>WALLPAPERS</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_community has-children"><a href="/en/community"><span>COMMUNITY</span></a><ul class="menu"><li class="hub-link COMMUNITY"><a href="/en/community"><span>COMMUNITY</span></a></li>
+<li class="mn_section_community-home"><a href="/en/community"><span>COMMUNITY HOME</span></a></li>
+<li class="mn_section_fan-kits"><a href="/en/community/fan-kits"><span>FAN KITS</span></a></li>
+</ul></li>
+<li class="mn_section_my-accounts"><a href="/en/content/my-accounts"><span>MY ACCOUNTS</span></a></li>
+</ul>        </div>
+      </nav>
+    </div>
+  </header>
+
+  
+  <div id="content-wrapper">
+      <div class="region region-content">
+    
+<div id="block-system-main" class=" block block-system block-odd first last main clearfix">
+  <div class="block-inner">
+                <div class="content" >
+      <div id="content" class="page-width">
+
+  <div id="main-content">
+    <div id="breadcrumb">
+              <span ><a href="/en/events">EVENTS</a></span>
+              <span ><a href="/en/events/coverage">COVERAGE ARCHIVE</a></span>
+              <span ><a href="/en/events/coverage/gpbru15">GRAND PRIX BRUSSELS 2015</a></span>
+              <span class="current"><strong class="breadcrumb-no-link">Event Coverage</strong></span>
+          </div>
+    <h1>ROUND 2 RESULTS</h1>
+    <p class="posted-in">
+      Posted in      <strong class="breadcrumb-no-link">Event Coverage</strong>
+      on November 14, 2015    </p>
+
+    <!-- BEGIN :: ARTICLE -->
+    <article>
+      <div class="article-header">
+
+                  <div class="author">
+            <img src="http://magic.wizards.com/sites/mtg/files/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg?itok=KENOTqfD" alt="" />
+            <p>By Wizards of the Coast</p>
+            <p class="links">
+                                            <span><a href="/en/articles/archive/184956" onClick="_gaq.push(['_trackEvent', 'Article', 'Author', 'Wizards of the Coast-Archive']);">Archive</a></span>
+                                        </p>
+            <div id="author-biography">
+                          </div>
+          </div>
+        
+        <div class="sharing">
+          <div class="social-share">
+            <a class="facebook" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpbru15/round-2-results-2015-11-14"><span class="share-count">0</span><span>&nbsp;Shares</span></a>
+            <a class="twitter" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpbru15/round-2-results-2015-11-14"><span class="share-count">0</span><span>&nbsp;Tweets</span></a>
+            <a class="google" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpbru15/round-2-results-2015-11-14"><span class="share-count">0</span><span>&nbsp;+</span></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div id="content-detail-page-of-an-article">
+        <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><table class="sortable-table" shade="1" shadecolor="#ffffcc" w="500"><tbody><tr><th><b>Table</b></th>
+			<th><b>Player</b></th>
+			<th>&nbsp;</th>
+			<th><b>Result</b></th>
+			<th>&nbsp;</th>
+			<th><b>Opponent</b></th>
+			<th>&nbsp;</th>
+		</tr><tr><td>1</td>
+			<td>Douglas, Michael</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Geffroy, Francois</td>
+			<td>[FR]</td>
+		</tr><tr><td>2</td>
+			<td>Oosterbaan, Fokke</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Patillet, Laura</td>
+			<td>[FR]</td>
+		</tr><tr><td>3</td>
+			<td>Hobin, Kathryn</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zborowski, Felipe</td>
+			<td>[BR]</td>
+		</tr><tr><td>4</td>
+			<td>Muijen, Glenn</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vuorela, Lauri</td>
+			<td>[SE]</td>
+		</tr><tr><td>5</td>
+			<td>ROUDIER, Remi</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Idelfonso, Diony</td>
+			<td>[CH]</td>
+		</tr><tr><td>6</td>
+			<td>Bijnens, Bart</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mayer, Manuel</td>
+			<td>[DE]</td>
+		</tr><tr><td>7</td>
+			<td>Martini, Stephane-Jean</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zehm, Wolfgang</td>
+			<td>[DE]</td>
+		</tr><tr><td>8</td>
+			<td>Azzopardi, Wayne</td>
+			<td>[MT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ahlstrom, Christian</td>
+			<td>[SE]</td>
+		</tr><tr><td>9</td>
+			<td>Meis, Robin</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Brandtner, Michael</td>
+			<td>[AT]</td>
+		</tr><tr><td>10</td>
+			<td>Velikov, Ilko</td>
+			<td>[BG]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Baldrati, Enrico</td>
+			<td>[IT]</td>
+		</tr><tr><td>11</td>
+			<td>De Haan, Rob</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zimmermann, Martin</td>
+			<td>[DE]</td>
+		</tr><tr><td>12</td>
+			<td>Nissen, Francis</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Reiter, Florian</td>
+			<td>[DE]</td>
+		</tr><tr><td>13</td>
+			<td>Leber, Denis</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Burchett, Autumn</td>
+			<td>[GB]</td>
+		</tr><tr><td>14</td>
+			<td>Tzirinis, Panagiotis</td>
+			<td>[GR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>GILLET, Aurelien</td>
+			<td>[FR]</td>
+		</tr><tr><td>15</td>
+			<td>Wahlquist, Alex</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Payen, Jeremy</td>
+			<td>[FR]</td>
+		</tr><tr><td>16</td>
+			<td>VINCENT, Guillaume</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pettersson, Thomas</td>
+			<td>[SE]</td>
+		</tr><tr><td>17</td>
+			<td>Jacobs, Kevin</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Szoke, Zoltan</td>
+			<td>[HU]</td>
+		</tr><tr><td>18</td>
+			<td>Alberto, Caccia</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tollenaar, Xandor</td>
+			<td>[NL]</td>
+		</tr><tr><td>19</td>
+			<td>Mattens, Arnold</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Molle, Niels</td>
+			<td>[GB]</td>
+		</tr><tr><td>20</td>
+			<td>ZEIL, Jean-Julien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Buchan, Joshua</td>
+			<td>[GB]</td>
+		</tr><tr><td>21</td>
+			<td>Grasset, Jean-Baptiste</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Patel, Kayure</td>
+			<td>[GB]</td>
+		</tr><tr><td>22</td>
+			<td>Hendriks, Thomas</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Der Heijden, Joris</td>
+			<td>[NL]</td>
+		</tr><tr><td>23</td>
+			<td>Schlichting, Kai</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Coremans, Jeffrey</td>
+			<td>[NL]</td>
+		</tr><tr><td>24</td>
+			<td>Rahner, Nils</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Didier, Nicolas</td>
+			<td>[FR]</td>
+		</tr><tr><td>25</td>
+			<td>Seliga, Lukas</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kleimeier, Stefan</td>
+			<td>[DE]</td>
+		</tr><tr><td>26</td>
+			<td>Andreas, Lesch</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Thaler, Sebastian</td>
+			<td>[DE]</td>
+		</tr><tr><td>27</td>
+			<td>Tsarkov, Kirill</td>
+			<td>[RU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kelterbaum, Richard</td>
+			<td>[BE]</td>
+		</tr><tr><td>28</td>
+			<td>Herrero, Sergi</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Langer, Tim</td>
+			<td>[DE]</td>
+		</tr><tr><td>29</td>
+			<td>Friedrich, Fabian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Creelle, Christophe</td>
+			<td>[BE]</td>
+		</tr><tr><td>30</td>
+			<td>Wisniewska, Malgorzata</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wieder, Martin</td>
+			<td>[DE]</td>
+		</tr><tr><td>31</td>
+			<td>Van Leeuwen, Arjan</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jacomy, Mathieu</td>
+			<td>[FR]</td>
+		</tr><tr><td>32</td>
+			<td>Valkeneers, Tom</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bousfield, Callum</td>
+			<td>[GB]</td>
+		</tr><tr><td>33</td>
+			<td>Van Kuijk, Harm-Joost</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Runtuwene, Rick</td>
+			<td>[BE]</td>
+		</tr><tr><td>34</td>
+			<td>Waugh, Nick</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Haas, Julian</td>
+			<td>[DE]</td>
+		</tr><tr><td>35</td>
+			<td>Pieters, Yorick</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sergii, Kryvosheiev</td>
+			<td>[UA]</td>
+		</tr><tr><td>36</td>
+			<td>Radloff, Tobias</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Choca, Joao</td>
+			<td>[GB]</td>
+		</tr><tr><td>37</td>
+			<td>Garcia Marquez, Ivan</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Graaff, Claes</td>
+			<td>[NL]</td>
+		</tr><tr><td>38</td>
+			<td>Mathis, Christoph</td>
+			<td>[CH]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vornhusen, Gunnar</td>
+			<td>[DE]</td>
+		</tr><tr><td>39</td>
+			<td>STIHLE, Julien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mango, Gennaro</td>
+			<td>[IT]</td>
+		</tr><tr><td>40</td>
+			<td>Van Driel, Boaz</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Urmetzer, Marc</td>
+			<td>[DE]</td>
+		</tr><tr><td>41</td>
+			<td>Viniczai, Tibor</td>
+			<td>[HU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van De Moortel, Koen</td>
+			<td>[BE]</td>
+		</tr><tr><td>42</td>
+			<td>Antonis, Fyssas</td>
+			<td>[GR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Caro, Mickael</td>
+			<td>[FR]</td>
+		</tr><tr><td>43</td>
+			<td>White, Mike</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Boldrini, Giulio</td>
+			<td>[IT]</td>
+		</tr><tr><td>44</td>
+			<td>Black, Chris</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pannekoek, Andre</td>
+			<td>[NL]</td>
+		</tr><tr><td>45</td>
+			<td>Brandt, Sebastian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lechado Artigues, Pedro</td>
+			<td>[ES]</td>
+		</tr><tr><td>46</td>
+			<td>Rodrigues, Hugo</td>
+			<td>[PT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Rooij, Danny</td>
+			<td>[NL]</td>
+		</tr><tr><td>47</td>
+			<td>Teppa, Michaele</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Londos, Ludvig</td>
+			<td>[SE]</td>
+		</tr><tr><td>48</td>
+			<td>PICOT, PIERRE</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Denys, Adriaan</td>
+			<td>[BE]</td>
+		</tr><tr><td>49</td>
+			<td>Fonteyne, Aaron</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mengucci, Andrea</td>
+			<td>[IT]</td>
+		</tr><tr><td>50</td>
+			<td>Pilachowski, Gawel</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Piot, Tom</td>
+			<td>[BE]</td>
+		</tr><tr><td>51</td>
+			<td>Horvath, Tamas</td>
+			<td>[HU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Marfil, Cedric</td>
+			<td>[FR]</td>
+		</tr><tr><td>52</td>
+			<td>Schmittbuettner, Markus</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>(22) Anteri, Fabrizio</td>
+			<td>[BE]</td>
+		</tr><tr><td>53</td>
+			<td>Le Faou, Ronan</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schafer, Benedikt</td>
+			<td>[DE]</td>
+		</tr><tr><td>54</td>
+			<td>MOREL, Sebastien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Flindt Gotfredsen, Oliver</td>
+			<td>[DK]</td>
+		</tr><tr><td>55</td>
+			<td>Caminiti, Roberto</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Henry, Julien</td>
+			<td>[FR]</td>
+		</tr><tr><td>56</td>
+			<td>Carini, Cesare</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bulatov, Vadim</td>
+			<td>[BY]</td>
+		</tr><tr><td>57</td>
+			<td>Rask, Love</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Beule, Servaes</td>
+			<td>[BE]</td>
+		</tr><tr><td>58</td>
+			<td>Klocker, Mario</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>McGregor, Craig</td>
+			<td>[GB]</td>
+		</tr><tr><td>59</td>
+			<td>Gerlach, Maximilian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pullerits, Sten-Robert</td>
+			<td>[EE]</td>
+		</tr><tr><td>60</td>
+			<td>Samarra, Marc</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jorland, Maxime</td>
+			<td>[FR]</td>
+		</tr><tr><td>61</td>
+			<td>Leigh, Simon</td>
+			<td>[CH]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Eeckhaut, Wouter</td>
+			<td>[BE]</td>
+		</tr><tr><td>62</td>
+			<td>Krautmann, Wenzel</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sanchez, Eugeni</td>
+			<td>[ES]</td>
+		</tr><tr><td>63</td>
+			<td>Cestaro, Laurent</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Marinari, Manuel</td>
+			<td>[IT]</td>
+		</tr><tr><td>64</td>
+			<td>Harvey, Dominic</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kiosses, Ioannis</td>
+			<td>[GR]</td>
+		</tr><tr><td>65</td>
+			<td>Van Etten, Bart</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bruzgis, Vytautas</td>
+			<td>[LT]</td>
+		</tr><tr><td>66</td>
+			<td>Kobielski, Mateusz</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bogoluybov, Dmitry</td>
+			<td>[RU]</td>
+		</tr><tr><td>67</td>
+			<td>Smet, Roald</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Groot, Bjorn</td>
+			<td>[NL]</td>
+		</tr><tr><td>68</td>
+			<td>Redlich, Malte</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Deltour, Louis</td>
+			<td>[FR]</td>
+		</tr><tr><td>69</td>
+			<td>Zimmermann, Nino</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dickmann, Patrick</td>
+			<td>[DE]</td>
+		</tr><tr><td>70</td>
+			<td>Carson, Desmond James</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cooman, Andy</td>
+			<td>[NL]</td>
+		</tr><tr><td>71</td>
+			<td>Lodder, Robert</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>PRIMOT, Armel</td>
+			<td>[FR]</td>
+		</tr><tr><td>72</td>
+			<td>Puissant, Stephane</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Palmkvist, Joakim</td>
+			<td>[SE]</td>
+		</tr><tr><td>73</td>
+			<td>De Sanctis, Pietro</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zeilstra, Jelmer</td>
+			<td>[NL]</td>
+		</tr><tr><td>74</td>
+			<td>ADAM, CHRISTOS</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hollos, Peter</td>
+			<td>[HU]</td>
+		</tr><tr><td>75</td>
+			<td>Czuron, Alan</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Uittenbogaard, Kenny</td>
+			<td>[BE]</td>
+		</tr><tr><td>76</td>
+			<td>Manzonato, Stefano</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Faber, Manuel</td>
+			<td>[DE]</td>
+		</tr><tr><td>77</td>
+			<td>Serrano, Denis</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Smit, Iwan</td>
+			<td>[NL]</td>
+		</tr><tr><td>78</td>
+			<td>Vanrossomme, Axel</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Festre, Chris</td>
+			<td>[BE]</td>
+		</tr><tr><td>79</td>
+			<td>Verbeken, Dirk</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Senneca, Francesco</td>
+			<td>[IT]</td>
+		</tr><tr><td>80</td>
+			<td>Trogu, Francesco</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Keuning, Pieter</td>
+			<td>[NL]</td>
+		</tr><tr><td>81</td>
+			<td>Sevaux, Yoann</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Garthe, Tobias</td>
+			<td>[DE]</td>
+		</tr><tr><td>82</td>
+			<td>Corda, Adrien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gross, Moritz</td>
+			<td>[DE]</td>
+		</tr><tr><td>83</td>
+			<td>BOUILLOT, Damien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vesterlund, Vilde</td>
+			<td>[SE]</td>
+		</tr><tr><td>84</td>
+			<td>Van Der Paelt, Thomas</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Landgraf, Svante</td>
+			<td>[SE]</td>
+		</tr><tr><td>85</td>
+			<td>Levitt, Olivier</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hristov, Lenard</td>
+			<td>[BG]</td>
+		</tr><tr><td>86</td>
+			<td>Tumpach, Markus</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cadier, Ron</td>
+			<td>[NL]</td>
+		</tr><tr><td>87</td>
+			<td>Gregory, Matthew</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bruno, Castro</td>
+			<td>[PT]</td>
+		</tr><tr><td>88</td>
+			<td>Egorov, Arseniy</td>
+			<td>[RU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Picardi, Antonio</td>
+			<td>[IT]</td>
+		</tr><tr><td>89</td>
+			<td>Lupan, Felix</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Boris, Bajgo</td>
+			<td>[CS]</td>
+		</tr><tr><td>90</td>
+			<td>Dhennin, Luc</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Stok, Alex</td>
+			<td>[NL]</td>
+		</tr><tr><td>91</td>
+			<td>Ball, Nick</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dier, Oliver</td>
+			<td>[GB]</td>
+		</tr><tr><td>92</td>
+			<td>Christensen, Oscar</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Fokkema, Toon</td>
+			<td>[NL]</td>
+		</tr><tr><td>93</td>
+			<td>Demange, Kevin</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Brankaert, Rens</td>
+			<td>[NL]</td>
+		</tr><tr><td>94</td>
+			<td>Yukuhiro, Ken</td>
+			<td>[JP]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gerecke, Piet</td>
+			<td>[DE]</td>
+		</tr><tr><td>95</td>
+			<td>Disenborg, Johan</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Staniucha, Tymoteusz</td>
+			<td>[PL]</td>
+		</tr><tr><td>96</td>
+			<td>Tang, Duncan</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Busch, Stefanie</td>
+			<td>[DE]</td>
+		</tr><tr><td>97</td>
+			<td>Mendes, Mario</td>
+			<td>[LU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Daniels, Scott</td>
+			<td>[GB]</td>
+		</tr><tr><td>98</td>
+			<td>BALIMOGLU, ARI</td>
+			<td>[TR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Habert, Alexandre</td>
+			<td>[FR]</td>
+		</tr><tr><td>99</td>
+			<td>Coors, Raphael</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Knipping, Kai</td>
+			<td>[DE]</td>
+		</tr><tr><td>100</td>
+			<td>Marek, Krzysztof</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dhanpat, Amarnath</td>
+			<td>[NL]</td>
+		</tr><tr><td>101</td>
+			<td>Scerbak, Gabriel</td>
+			<td>[SK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mut, Torsten</td>
+			<td>[DE]</td>
+		</tr><tr><td>102</td>
+			<td>Wouters, Robin</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pritsch, Max</td>
+			<td>[DE]</td>
+		</tr><tr><td>103</td>
+			<td>Popescu, Tiberiu</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tsigaridis, Eleftherios</td>
+			<td>[GR]</td>
+		</tr><tr><td>104</td>
+			<td>Van Herwaarden, Sander</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Andrien, Arnaud</td>
+			<td>[BE]</td>
+		</tr><tr><td>105</td>
+			<td>Carvalho, Daniel</td>
+			<td>[PT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Niemeijer, Hugo</td>
+			<td>[NL]</td>
+		</tr><tr><td>106</td>
+			<td>Hermans, Myrddin</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Borsodi, Balazs</td>
+			<td>[HU]</td>
+		</tr><tr><td>107</td>
+			<td>Murphy, Seena</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Boucardey, Christophe</td>
+			<td>[FR]</td>
+		</tr><tr><td>108</td>
+			<td>Brokamp, Lukas</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wankko, Sebastian</td>
+			<td>[SE]</td>
+		</tr><tr><td>109</td>
+			<td>Raftery, Roy</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Redzikowski, Maciej</td>
+			<td>[PL]</td>
+		</tr><tr><td>110</td>
+			<td>Rizzi, Mattia</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Giorgio, Francesco</td>
+			<td>[GB]</td>
+		</tr><tr><td>111</td>
+			<td>Bahr, Peter Michael</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Verdu Mallens, Miguel</td>
+			<td>[ES]</td>
+		</tr><tr><td>112</td>
+			<td>Badea, Marius</td>
+			<td>[RO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Estrada Morales, Mauricio</td>
+			<td>[MX]</td>
+		</tr><tr><td>113</td>
+			<td>Kall, Marian</td>
+			<td>[SK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Idema, Marnix</td>
+			<td>[NL]</td>
+		</tr><tr><td>114</td>
+			<td>Espargiliere, Bastien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Baudys, Ondrej</td>
+			<td>[CZ]</td>
+		</tr><tr><td>115</td>
+			<td>Verstraten, Teun</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cassini, Gregory</td>
+			<td>[FR]</td>
+		</tr><tr><td>116</td>
+			<td>ADEBO DIAZ, JUAN CARLOS</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Anderson, Dani</td>
+			<td>[GB]</td>
+		</tr><tr><td>117</td>
+			<td>D'Elia, Gerardo</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Herrewegen, Erwin</td>
+			<td>[BE]</td>
+		</tr><tr><td>118</td>
+			<td>Dipsar, Sureyya</td>
+			<td>[TR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Doring, Patrick</td>
+			<td>[DE]</td>
+		</tr><tr><td>119</td>
+			<td>Kedrovic, Ondrej</td>
+			<td>[SK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Severin, Thoralf</td>
+			<td>[BE]</td>
+		</tr><tr><td>120</td>
+			<td>Patriarca, Joffrey</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pestov, Eugene</td>
+			<td>[RU]</td>
+		</tr><tr><td>121</td>
+			<td>Kirchler, Mattia</td>
+			<td>[AT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Liempd, Barend</td>
+			<td>[BE]</td>
+		</tr><tr><td>122</td>
+			<td>Harrison, Jeremy</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Roman, Valentin</td>
+			<td>[RO]</td>
+		</tr><tr><td>123</td>
+			<td>Mueller, Dominic</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Luft, Benjamin</td>
+			<td>[DE]</td>
+		</tr><tr><td>124</td>
+			<td>Schmidt, Thomas</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Billiau, Michel</td>
+			<td>[BE]</td>
+		</tr><tr><td>125</td>
+			<td>Ellingsen, Kenneth</td>
+			<td>[NO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Weber, Robert</td>
+			<td>[DE]</td>
+		</tr><tr><td>126</td>
+			<td>Delvigne, Emmanuel</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Karvonen, Arttu</td>
+			<td>[EE]</td>
+		</tr><tr><td>127</td>
+			<td>Van Cannegem, Peter</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Swan, Alexander</td>
+			<td>[GB]</td>
+		</tr><tr><td>128</td>
+			<td>Konzelmann, Lukas</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>KAROUNE, Fabrice</td>
+			<td>[FR]</td>
+		</tr><tr><td>129</td>
+			<td>Szajna, Jakub</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Niens, Jeroen</td>
+			<td>[BE]</td>
+		</tr><tr><td>130</td>
+			<td>Aithaj-Kaddour, Benjamin</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Crepelle, Nicolas</td>
+			<td>[FR]</td>
+		</tr><tr><td>131</td>
+			<td>Gruber, Klaas</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nowak, Maciej</td>
+			<td>[IE]</td>
+		</tr><tr><td>132</td>
+			<td>Henning, Robin</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bettelhauser, Eike</td>
+			<td>[DE]</td>
+		</tr><tr><td>133</td>
+			<td>Venny, Guillaume</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zanotti, Danilo</td>
+			<td>[DE]</td>
+		</tr><tr><td>134</td>
+			<td>Matousek, Pavel</td>
+			<td>[CZ]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gallo, Andrea</td>
+			<td>[IT]</td>
+		</tr><tr><td>135</td>
+			<td>Ornolfsson, Thorlakur Matthias</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Knorr, Sebastian</td>
+			<td>[DE]</td>
+		</tr><tr><td>136</td>
+			<td>Van Der Linden, Bob</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tamada, Ryoichi</td>
+			<td>[JP]</td>
+		</tr><tr><td>137</td>
+			<td>Dosimont, Amand</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Oria, Antoine</td>
+			<td>[BE]</td>
+		</tr><tr><td>138</td>
+			<td>OLARTE OVALLE, ALVARO EDWARD</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pasgaard, Alexander</td>
+			<td>[DK]</td>
+		</tr><tr><td>139</td>
+			<td>Klimke, Chris</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Badiali, Tommaso</td>
+			<td>[IT]</td>
+		</tr><tr><td>140</td>
+			<td>Sannullo, Antonio</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dictus, Mark</td>
+			<td>[BE]</td>
+		</tr><tr><td>141</td>
+			<td>Cibak, Andrea</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Stadler, Jan</td>
+			<td>[DE]</td>
+		</tr><tr><td>142</td>
+			<td>Pierre, Pansanel</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Boelens, Jasper</td>
+			<td>[NL]</td>
+		</tr><tr><td>143</td>
+			<td>Buys, Werner</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lavandier, Erick</td>
+			<td>[US]</td>
+		</tr><tr><td>144</td>
+			<td>Sauvageon, Kevin</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Noorlander, Niels</td>
+			<td>[NL]</td>
+		</tr><tr><td>145</td>
+			<td>Heinemann, Stefan</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lorenz, Maximilian</td>
+			<td>[DE]</td>
+		</tr><tr><td>146</td>
+			<td>Caswell, Kevin</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Fernandes, Ivo</td>
+			<td>[PT]</td>
+		</tr><tr><td>147</td>
+			<td>Ferguson, Marc</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Den Bosch, Willem</td>
+			<td>[BE]</td>
+		</tr><tr><td>148</td>
+			<td>Maugard, Antoine</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rinaldi, Giuseppe</td>
+			<td>[IT]</td>
+		</tr><tr><td>149</td>
+			<td>Maurer, Tobias</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Eckrodt, Dennis</td>
+			<td>[DE]</td>
+		</tr><tr><td>150</td>
+			<td>Lehnert, Heiko</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>LEVY, Samuel</td>
+			<td>[FR]</td>
+		</tr><tr><td>151</td>
+			<td>Burrow, George</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Coralic, Armin</td>
+			<td>[SI]</td>
+		</tr><tr><td>152</td>
+			<td>Mortier, Frederik</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Berthet, Paul</td>
+			<td>[FR]</td>
+		</tr><tr><td>153</td>
+			<td>Lathouders, Ken</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pidutti, Paolo</td>
+			<td>[IT]</td>
+		</tr><tr><td>154</td>
+			<td>Gehan, Julien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ortmann, Christoph</td>
+			<td>[DE]</td>
+		</tr><tr><td>155</td>
+			<td>Campbell, Gary</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lehner, Bernhard</td>
+			<td>[AT]</td>
+		</tr><tr><td>156</td>
+			<td>Petrushchenko, Sergey</td>
+			<td>[RU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sardjan, Danny</td>
+			<td>[NL]</td>
+		</tr><tr><td>157</td>
+			<td>Van Santen, Sander</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hartwig, Tom</td>
+			<td>[DE]</td>
+		</tr><tr><td>158</td>
+			<td>URSET, ANTOINE</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schorr, Michael</td>
+			<td>[DE]</td>
+		</tr><tr><td>159</td>
+			<td>Oldeman, Dave</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hagelberg, Maximilian</td>
+			<td>[SE]</td>
+		</tr><tr><td>160</td>
+			<td>Dujo, Carlos</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sebastien, Varlet</td>
+			<td>[FR]</td>
+		</tr><tr><td>161</td>
+			<td>Esser, Ralph</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Varady, Balazs</td>
+			<td>[HU]</td>
+		</tr><tr><td>162</td>
+			<td>Lechner, Christian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Adrian, Ramiro Cano</td>
+			<td>[ES]</td>
+		</tr><tr><td>163</td>
+			<td>Graf, Michael</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Poroszkai, Laszlo</td>
+			<td>[HU]</td>
+		</tr><tr><td>164</td>
+			<td>Pohl, Kajetan</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tinham, Craig</td>
+			<td>[GB]</td>
+		</tr><tr><td>165</td>
+			<td>Nardi, Giacomo</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schrijvers, Hans</td>
+			<td>[BE]</td>
+		</tr><tr><td>166</td>
+			<td>Rojo, Jordi</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Malik, S&Atilde;&para;ren</td>
+			<td>[DE]</td>
+		</tr><tr><td>167</td>
+			<td>Gregoir, Christophe</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Faustyn, Maciek</td>
+			<td>[PL]</td>
+		</tr><tr><td>168</td>
+			<td>Mostyn, George</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Faehler, Bjoern</td>
+			<td>[DE]</td>
+		</tr><tr><td>169</td>
+			<td>Lippmann, Robert</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Heinonen, Aku</td>
+			<td>[FI]</td>
+		</tr><tr><td>170</td>
+			<td>Ramis Pascual, Toni</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schuringa, Sebastiaan</td>
+			<td>[NL]</td>
+		</tr><tr><td>171</td>
+			<td>Huisman, Peter</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Fausch, Torben</td>
+			<td>[DE]</td>
+		</tr><tr><td>172</td>
+			<td>Jake, Markus</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sosa, Eduardo</td>
+			<td>[ES]</td>
+		</tr><tr><td>173</td>
+			<td>Schafer, Carsten</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Von Loh, Ivan</td>
+			<td>[DE]</td>
+		</tr><tr><td>174</td>
+			<td>Van Vliet, Peter</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bruski, Bartosz</td>
+			<td>[PL]</td>
+		</tr><tr><td>175</td>
+			<td>feshti, natalino</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Grabowski, Alex</td>
+			<td>[FR]</td>
+		</tr><tr><td>176</td>
+			<td>Braga, Carlos</td>
+			<td>[PT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Loor, Steve</td>
+			<td>[BE]</td>
+		</tr><tr><td>177</td>
+			<td>Zoran, Mrklic</td>
+			<td>[HR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Borja, Jimenez Mazuecos</td>
+			<td>[ES]</td>
+		</tr><tr><td>178</td>
+			<td>Sobanski, Pascal</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pichon, Elie</td>
+			<td>[FR]</td>
+		</tr><tr><td>179</td>
+			<td>Kelly, Ricardo</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hatto, Steve</td>
+			<td>[LU]</td>
+		</tr><tr><td>180</td>
+			<td>Pancrazi, Roberto</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Conde-Gonzalez, Francisco Antonio</td>
+			<td>[ES]</td>
+		</tr><tr><td>181</td>
+			<td>Emmerechts, Jelle</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jonathan, CHAN-IM</td>
+			<td>[FR]</td>
+		</tr><tr><td>182</td>
+			<td>Frisk, Mikko</td>
+			<td>[FI]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Perbet, Guillaume</td>
+			<td>[FR]</td>
+		</tr><tr><td>183</td>
+			<td>Reiter, Georg</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Larsen, Christoffer</td>
+			<td>[DK]</td>
+		</tr><tr><td>184</td>
+			<td>Snellings, Yannick</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Goncalves Almeida, Tiago</td>
+			<td>[PT]</td>
+		</tr><tr><td>185</td>
+			<td>Kauf, Jamin</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Beck, Julian</td>
+			<td>[DE]</td>
+		</tr><tr><td>186</td>
+			<td>Izotau, Anton</td>
+			<td>[BY]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ludin, Michael</td>
+			<td>[FR]</td>
+		</tr><tr><td>187</td>
+			<td>Claes, Joeri</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Marios, Angelopoulos</td>
+			<td>[GR]</td>
+		</tr><tr><td>188</td>
+			<td>Dickmann, Fabian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rayner, Andrew</td>
+			<td>[GB]</td>
+		</tr><tr><td>189</td>
+			<td>Hillerscheid, Bjorn</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dimitriadis, George</td>
+			<td>[GR]</td>
+		</tr><tr><td>190</td>
+			<td>Biesmans, Wouter</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schwarz, Christoph</td>
+			<td>[DE]</td>
+		</tr><tr><td>191</td>
+			<td>Schulz, Michael</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hittel, Matthias</td>
+			<td>[DE]</td>
+		</tr><tr><td>192</td>
+			<td>Rae, Daniel</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Matteo, Paolucci</td>
+			<td>[IT]</td>
+		</tr><tr><td>193</td>
+			<td>Muller, Jim</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lopes, Flavio</td>
+			<td>[PT]</td>
+		</tr><tr><td>194</td>
+			<td>Schwarze, Marius</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Verri, Alessandro</td>
+			<td>[IT]</td>
+		</tr><tr><td>195</td>
+			<td>Korver, Joris</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schuringa, Remco</td>
+			<td>[NL]</td>
+		</tr><tr><td>196</td>
+			<td>Oneto, Mattia</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Berle, Kim</td>
+			<td>[NO]</td>
+		</tr><tr><td>197</td>
+			<td>Gins, Wim</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Takeishi, Takuya</td>
+			<td>[DE]</td>
+		</tr><tr><td>198</td>
+			<td>Hautot, Mathieu</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wiederspan, Paul</td>
+			<td>[DE]</td>
+		</tr><tr><td>199</td>
+			<td>Wiaderny, Szymon</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Geiger, Frederic</td>
+			<td>[DE]</td>
+		</tr><tr><td>200</td>
+			<td>Jacopo, Bartollini</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Geist, Jonathan</td>
+			<td>[DE]</td>
+		</tr><tr><td>201</td>
+			<td>Verhulsdonk, Jan</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Atkinson, Mark</td>
+			<td>[GB]</td>
+		</tr><tr><td>202</td>
+			<td>Mochan, Levi</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jensen, Morten Buus</td>
+			<td>[DK]</td>
+		</tr><tr><td>203</td>
+			<td>Impens, Ruben</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Manders, Mitchell</td>
+			<td>[NL]</td>
+		</tr><tr><td>204</td>
+			<td>GAJEWSKI, THOMAS</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Suzuki, Ryuichi</td>
+			<td>[JP]</td>
+		</tr><tr><td>205</td>
+			<td>Rothschild, Dor</td>
+			<td>[IL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Steenhoek, Edwin</td>
+			<td>[NL]</td>
+		</tr><tr><td>206</td>
+			<td>Telarov, Aleksa</td>
+			<td>[CS]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Johansson, Christoffer</td>
+			<td>[SE]</td>
+		</tr><tr><td>207</td>
+			<td>PLA LAURIBE, Hugo</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kenyeres, Akos</td>
+			<td>[HU]</td>
+		</tr><tr><td>208</td>
+			<td>Sielski, Yannick</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Casper, Sven</td>
+			<td>[DE]</td>
+		</tr><tr><td>209</td>
+			<td>Kowalski, Grzegorz</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nystrom, Per</td>
+			<td>[SE]</td>
+		</tr><tr><td>210</td>
+			<td>Heylen, Maxime</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Wael, Jonas</td>
+			<td>[BE]</td>
+		</tr><tr><td>211</td>
+			<td>Aaro, Carl Oscar</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lewandowski, Bartlomiej</td>
+			<td>[PL]</td>
+		</tr><tr><td>212</td>
+			<td>Beaumer, Michael</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Urban, Stefan</td>
+			<td>[DE]</td>
+		</tr><tr><td>213</td>
+			<td>Bausch, Joshua</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Juote, Jesse</td>
+			<td>[FI]</td>
+		</tr><tr><td>214</td>
+			<td>Vurnek, Kresimir</td>
+			<td>[HR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Darko, Obradovic</td>
+			<td>[CS]</td>
+		</tr><tr><td>215</td>
+			<td>Praviliev, Alexander</td>
+			<td>[RU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>GRUNEWALD, Olivier</td>
+			<td>[FR]</td>
+		</tr><tr><td>216</td>
+			<td>Marco, David</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sochurek, Petr</td>
+			<td>[CZ]</td>
+		</tr><tr><td>217</td>
+			<td>Fiala-Ibitz, Sebastian</td>
+			<td>[AT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wagner, Pascal</td>
+			<td>[DE]</td>
+		</tr><tr><td>218</td>
+			<td>Koch, Florian</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Scherpenzeel, Dennis</td>
+			<td>[NL]</td>
+		</tr><tr><td>219</td>
+			<td>Lamonaca, Fabio</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>BERTEAUX, Julien</td>
+			<td>[FR]</td>
+		</tr><tr><td>220</td>
+			<td>Vieren, Peter</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dohmen, David</td>
+			<td>[DE]</td>
+		</tr><tr><td>221</td>
+			<td>Jakobs, Frederik</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gravesen, S?ren</td>
+			<td>[DK]</td>
+		</tr><tr><td>222</td>
+			<td>Schoon, Max</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jbeili, Reginald</td>
+			<td>[GB]</td>
+		</tr><tr><td>223</td>
+			<td>Vefa, Yusuf Kemal</td>
+			<td>[TR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Vries, Hanjo</td>
+			<td>[NL]</td>
+		</tr><tr><td>224</td>
+			<td>Tosenko, Anna</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hauck, Christian</td>
+			<td>[DE]</td>
+		</tr><tr><td>225</td>
+			<td>Portaro, Alessandro</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Brezak, Mirjan</td>
+			<td>[DE]</td>
+		</tr><tr><td>226</td>
+			<td>Gameiro, Kevin-romain</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Marcel, Kaschapow</td>
+			<td>[DE]</td>
+		</tr><tr><td>227</td>
+			<td>Vrankenne, Vincent</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tennivaara, Sabina</td>
+			<td>[SE]</td>
+		</tr><tr><td>228</td>
+			<td>Simoes, Ricardo</td>
+			<td>[IE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kaklauskas, Gabrielius</td>
+			<td>[LT]</td>
+		</tr><tr><td>229</td>
+			<td>Kask, Rasmus</td>
+			<td>[EE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>May, Luke</td>
+			<td>[GB]</td>
+		</tr><tr><td>230</td>
+			<td>Reale, GIUSEPPE</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kesting, Marcus</td>
+			<td>[DE]</td>
+		</tr><tr><td>231</td>
+			<td>Sajjad, Usama</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gallinari, Samuele</td>
+			<td>[IT]</td>
+		</tr><tr><td>232</td>
+			<td>Gortzen, Simon</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Grove, Kevin</td>
+			<td>[NL]</td>
+		</tr><tr><td>233</td>
+			<td>Boussaud, Eliott</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pezzo, Fabio</td>
+			<td>[IT]</td>
+		</tr><tr><td>234</td>
+			<td>Palmason, Heimir</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bleeker, Martijn</td>
+			<td>[NL]</td>
+		</tr><tr><td>235</td>
+			<td>Sekkoum, Sami</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bowman, Peter</td>
+			<td>[GB]</td>
+		</tr><tr><td>236</td>
+			<td>Van Holsbeeck, Kristof</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Brambilla, Davide</td>
+			<td>[IT]</td>
+		</tr><tr><td>237</td>
+			<td>Surkamp, Florian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Christopher, Cayot</td>
+			<td>[DE]</td>
+		</tr><tr><td>238</td>
+			<td>Sercu, Joery</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Addario, Riccardo</td>
+			<td>[IT]</td>
+		</tr><tr><td>239</td>
+			<td>Browne, Gideon</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Baptista, Joao</td>
+			<td>[PT]</td>
+		</tr><tr><td>240</td>
+			<td>Hrycej, Martin</td>
+			<td>[CZ]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Krejci, Radek</td>
+			<td>[CZ]</td>
+		</tr><tr><td>241</td>
+			<td>Schaap, Rowan</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Berna, Brice</td>
+			<td>[FR]</td>
+		</tr><tr><td>242</td>
+			<td>Bonde, Michael</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ramquist, Niklas</td>
+			<td>[SE]</td>
+		</tr><tr><td>243</td>
+			<td>Ringoir, Lesly</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Koekenbeek, Benjamin</td>
+			<td>[BE]</td>
+		</tr><tr><td>244</td>
+			<td>Channing, Henry</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Aurejac, Alexandre</td>
+			<td>[FR]</td>
+		</tr><tr><td>245</td>
+			<td>Sutor, Emanuel</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Reling, Andreas</td>
+			<td>[DE]</td>
+		</tr><tr><td>246</td>
+			<td>Duijzer, Richard</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nienhaus, Jens</td>
+			<td>[DE]</td>
+		</tr><tr><td>247</td>
+			<td>Sarap, Karl</td>
+			<td>[EE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nielsen, Simon</td>
+			<td>[DK]</td>
+		</tr><tr><td>248</td>
+			<td>Mclean, Daquan</td>
+			<td>[US]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wallner, Johann</td>
+			<td>[DE]</td>
+		</tr><tr><td>249</td>
+			<td>Van Doorn, Lorenzo</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sajgalik, Eduardo</td>
+			<td>[GB]</td>
+		</tr><tr><td>250</td>
+			<td>Adrian, Almeda Luque</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Romerio, Lorenzo</td>
+			<td>[IT]</td>
+		</tr><tr><td>251</td>
+			<td>Boscolo, Alex</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Burrows, Chris</td>
+			<td>[GB]</td>
+		</tr><tr><td>252</td>
+			<td>Andreasson, Bjorn</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vincenzi, Luca</td>
+			<td>[IT]</td>
+		</tr><tr><td>253</td>
+			<td>LEVEQUE, Julien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Senyuz, Aras</td>
+			<td>[TR]</td>
+		</tr><tr><td>254</td>
+			<td>Watson, Alex</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Obraz, Jiri</td>
+			<td>[CZ]</td>
+		</tr><tr><td>255</td>
+			<td>Angelin, Marcus</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rood, Niek</td>
+			<td>[NL]</td>
+		</tr><tr><td>256</td>
+			<td>Brusch, Felix</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Steinkamp, Paul</td>
+			<td>[DE]</td>
+		</tr><tr><td>257</td>
+			<td>Hansen, Lasse Bo</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tuinstra, Sebastiaan</td>
+			<td>[NL]</td>
+		</tr><tr><td>258</td>
+			<td>Gosciniak, Nicolas</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dimitrakis, Ioannis</td>
+			<td>[GR]</td>
+		</tr><tr><td>259</td>
+			<td>Moffa, Luca</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Smanio, Alessandro</td>
+			<td>[IT]</td>
+		</tr><tr><td>260</td>
+			<td>Oswald, Marc</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Offenberg, Barend</td>
+			<td>[NL]</td>
+		</tr><tr><td>261</td>
+			<td>Ivanov, Hristiyan</td>
+			<td>[BG]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zeggio, Riccardo</td>
+			<td>[IT]</td>
+		</tr><tr><td>262</td>
+			<td>CHRONOPOULOS, BILL</td>
+			<td>[GR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Havas, Jean-Charles</td>
+			<td>[FR]</td>
+		</tr><tr><td>263</td>
+			<td>Verbanck, Pieter</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tobiasch, Marc</td>
+			<td>[DE]</td>
+		</tr><tr><td>264</td>
+			<td>Amaya Gonzalez, Manuel</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van De Steen, Glenn</td>
+			<td>[BE]</td>
+		</tr><tr><td>265</td>
+			<td>Demeyer, Therence</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rots, Johan</td>
+			<td>[NL]</td>
+		</tr><tr><td>266</td>
+			<td>Antons-Jones, Felix</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gray-Davies, Tristan</td>
+			<td>[GB]</td>
+		</tr><tr><td>267</td>
+			<td>St John-Hall, Daniel</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Steinbeisz, Alex</td>
+			<td>[DE]</td>
+		</tr><tr><td>268</td>
+			<td>Dominguez, Javier</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gredel, Maximilian</td>
+			<td>[DE]</td>
+		</tr><tr><td>269</td>
+			<td>Saiyasely, Liking</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Niemi, Christoffer</td>
+			<td>[SE]</td>
+		</tr><tr><td>270</td>
+			<td>Kopanas, Anastasis</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Leskovsek, Svarun</td>
+			<td>[SI]</td>
+		</tr><tr><td>271</td>
+			<td>Boinet, Eric</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Shashov, Alexey</td>
+			<td>[RU]</td>
+		</tr><tr><td>272</td>
+			<td>Gabaldon Navarro, Carlos</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mattens, Micky</td>
+			<td>[BE]</td>
+		</tr><tr><td>273</td>
+			<td>Mulari, Mika</td>
+			<td>[FI]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Blankevoort, Tijmen</td>
+			<td>[NL]</td>
+		</tr><tr><td>274</td>
+			<td>Springer, Erik</td>
+			<td>[AT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nolte, Dennis</td>
+			<td>[DE]</td>
+		</tr><tr><td>275</td>
+			<td>Zielasko, Oliver</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dolejs, Jan</td>
+			<td>[CZ]</td>
+		</tr><tr><td>276</td>
+			<td>Pashley, Stephen</td>
+			<td>[IE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Franco, Joao</td>
+			<td>[PT]</td>
+		</tr><tr><td>277</td>
+			<td>Vacher, Stephane</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Smits, Peter</td>
+			<td>[BE]</td>
+		</tr><tr><td>278</td>
+			<td>Arndt, Patrick</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Utzon, Mads</td>
+			<td>[DK]</td>
+		</tr><tr><td>279</td>
+			<td>Ribeiro, Filipe</td>
+			<td>[PT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Leikvold, Marius</td>
+			<td>[NO]</td>
+		</tr><tr><td>280</td>
+			<td>Demol, Cedric</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Fletcher, Graeme</td>
+			<td>[US]</td>
+		</tr><tr><td>281</td>
+			<td>Van Damme, Cliff</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Murgic, Marinko</td>
+			<td>[HR]</td>
+		</tr><tr><td>282</td>
+			<td>Darras, Alexandre</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ozguney, Osman</td>
+			<td>[TR]</td>
+		</tr><tr><td>283</td>
+			<td>Calligaro, Laurent</td>
+			<td>[LU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Thiele, Fabian</td>
+			<td>[DE]</td>
+		</tr><tr><td>284</td>
+			<td>Baglin, Arnaud</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kuffel, Moritz</td>
+			<td>[AT]</td>
+		</tr><tr><td>285</td>
+			<td>Aelbrecht, Jimmy</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Der End, Martijn</td>
+			<td>[NL]</td>
+		</tr><tr><td>286</td>
+			<td>Moreno Morales, Francisco</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dobrowolski, Rafal</td>
+			<td>[PL]</td>
+		</tr><tr><td>287</td>
+			<td>Dimitropoulos, Konstantinos</td>
+			<td>[GR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Caron, Jeanmarc</td>
+			<td>[IT]</td>
+		</tr><tr><td>288</td>
+			<td>Law, Tom</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vandermaelen, Yves</td>
+			<td>[BE]</td>
+		</tr><tr><td>289</td>
+			<td>Saraceni, Federico</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Juraschek, Timo</td>
+			<td>[DE]</td>
+		</tr><tr><td>290</td>
+			<td>Delbaere, Marc</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zackrisson, Alfred</td>
+			<td>[SE]</td>
+		</tr><tr><td>291</td>
+			<td>Kuhlmann Goddik, Hans Jacob</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hocquemiller, Arnaud</td>
+			<td>[FR]</td>
+		</tr><tr><td>292</td>
+			<td>Klodzinski, Dennis</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Degeye, Eric</td>
+			<td>[BE]</td>
+		</tr><tr><td>293</td>
+			<td>Kauerauf, Pascal</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Theau, MERY</td>
+			<td>[FR]</td>
+		</tr><tr><td>294</td>
+			<td>Steinecke, Michael</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Den Berg, Anco</td>
+			<td>[NL]</td>
+		</tr><tr><td>295</td>
+			<td>Wellborn, Brandon</td>
+			<td>[US]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Casamenti, Alessandro</td>
+			<td>[IT]</td>
+		</tr><tr><td>296</td>
+			<td>ZHITNIKOV, ILYA</td>
+			<td>[RU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jesus, Marco</td>
+			<td>[PT]</td>
+		</tr><tr><td>297</td>
+			<td>Van De Lagemaat, William</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Omey, Xavier</td>
+			<td>[BE]</td>
+		</tr><tr><td>298</td>
+			<td>Ganz, Andreas</td>
+			<td>[CH]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cevette, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>299</td>
+			<td>Brueggemann, Julian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rosengren, Lars</td>
+			<td>[DE]</td>
+		</tr><tr><td>300</td>
+			<td>Laverick-Stovin, Jared</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Warnholz, Fabian</td>
+			<td>[DE]</td>
+		</tr><tr><td>301</td>
+			<td>Lammens, Stijn</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Brendemuhl, Bernd</td>
+			<td>[DE]</td>
+		</tr><tr><td>302</td>
+			<td>Roth, Andreas</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kopec, Mateusz</td>
+			<td>[PL]</td>
+		</tr><tr><td>303</td>
+			<td>URVOY, FREDERIC</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rothen, Christian</td>
+			<td>[CH]</td>
+		</tr><tr><td>304</td>
+			<td>Giannoulas, Christos</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tuomi, Sami</td>
+			<td>[FI]</td>
+		</tr><tr><td>305</td>
+			<td>Ehrler, Matthias</td>
+			<td>[CH]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pispa, Lauri</td>
+			<td>[FI]</td>
+		</tr><tr><td>306</td>
+			<td>Etcheverry, Francois</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zantema, Kobus</td>
+			<td>[NL]</td>
+		</tr><tr><td>307</td>
+			<td>Joachim, David</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gheysen, Olivier</td>
+			<td>[AE]</td>
+		</tr><tr><td>308</td>
+			<td>Dallinga, Wiecher</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Sompel, Arne</td>
+			<td>[BE]</td>
+		</tr><tr><td>309</td>
+			<td>Yendall, David</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kurz, Jonathan Alexander</td>
+			<td>[DE]</td>
+		</tr><tr><td>310</td>
+			<td>Sorensen, Jeppe Finne</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Quercetani, Massimiliano</td>
+			<td>[IT]</td>
+		</tr><tr><td>311</td>
+			<td>Vantyghem, Xavier</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>YAMAGAMI, YUDAI</td>
+			<td>[JP]</td>
+		</tr><tr><td>312</td>
+			<td>Budde, Jan-Philipp</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Repa, Tamas</td>
+			<td>[LU]</td>
+		</tr><tr><td>313</td>
+			<td>Vanek, Tomas</td>
+			<td>[CZ]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Reijke, Sjoerd</td>
+			<td>[NL]</td>
+		</tr><tr><td>314</td>
+			<td>Szczotka, Kacper</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Azevedo, Miguel</td>
+			<td>[US]</td>
+		</tr><tr><td>315</td>
+			<td>Kountouris, Ioannis</td>
+			<td>[GR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Derpmann, Werner</td>
+			<td>[DE]</td>
+		</tr><tr><td>316</td>
+			<td>Norton, Daniel</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nizon, Jerome</td>
+			<td>[FR]</td>
+		</tr><tr><td>317</td>
+			<td>Beller, Dennis</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Burnand, Dan</td>
+			<td>[GB]</td>
+		</tr><tr><td>318</td>
+			<td>Lores, Cid</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Grauwiler, Lukas</td>
+			<td>[CH]</td>
+		</tr><tr><td>319</td>
+			<td>Van Den Oever, Roy</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cascella, Tommaso</td>
+			<td>[IT]</td>
+		</tr><tr><td>320</td>
+			<td>Mouwen, Vincent</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Andreas, Qri</td>
+			<td>[GR]</td>
+		</tr><tr><td>321</td>
+			<td>Tranchant, Hugo</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lavrijssen, Remon</td>
+			<td>[NL]</td>
+		</tr><tr><td>322</td>
+			<td>Carmona, Javier</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Chiche, Kevin</td>
+			<td>[FR]</td>
+		</tr><tr><td>323</td>
+			<td>Bellini, Niccolo</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Watsfeldt, Elias</td>
+			<td>[SE]</td>
+		</tr><tr><td>324</td>
+			<td>Otis, Markus</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>BERNARD, Laurent</td>
+			<td>[FR]</td>
+		</tr><tr><td>325</td>
+			<td>Szulborski, Michal</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schneider, Philipp</td>
+			<td>[DE]</td>
+		</tr><tr><td>326</td>
+			<td>Nobari, Poya</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Peltier, Charles</td>
+			<td>[BE]</td>
+		</tr><tr><td>327</td>
+			<td>Nemeghaire, Julien</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Slavov, Miroslav</td>
+			<td>[BG]</td>
+		</tr><tr><td>328</td>
+			<td>Ohliger, Mateo</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>MERLET, CEDRIC</td>
+			<td>[FR]</td>
+		</tr><tr><td>329</td>
+			<td>Kerem, Hannes</td>
+			<td>[EE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dragt, Steven</td>
+			<td>[NL]</td>
+		</tr><tr><td>330</td>
+			<td>Baroni, Stefano</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Huschenbeth, Arne</td>
+			<td>[DE]</td>
+		</tr><tr><td>331</td>
+			<td>Ramboa, Thierry</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gerth, Christopher</td>
+			<td>[DE]</td>
+		</tr><tr><td>332</td>
+			<td>Harding, Conor</td>
+			<td>[IE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rutar, Andrej</td>
+			<td>[SI]</td>
+		</tr><tr><td>333</td>
+			<td>Milewicz, Mateusz</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>TEOH, Yann Lee</td>
+			<td>[FR]</td>
+		</tr><tr><td>334</td>
+			<td>Evi, Andrei Dragos</td>
+			<td>[RO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bortoletto, Michael</td>
+			<td>[BE]</td>
+		</tr><tr><td>335</td>
+			<td>Vila, Ferran</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Grimmer, Jasper</td>
+			<td>[DE]</td>
+		</tr><tr><td>336</td>
+			<td>BRIQUET, Damien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Castellani, Antonio</td>
+			<td>[IT]</td>
+		</tr><tr><td>337</td>
+			<td>Zimmermann, Raoul</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Montefiori, Giovanni</td>
+			<td>[IT]</td>
+		</tr><tr><td>338</td>
+			<td>Mackowiak, Patrick</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Madden, Stephen</td>
+			<td>[GB]</td>
+		</tr><tr><td>339</td>
+			<td>Grayson, Neil</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bangert, Jan</td>
+			<td>[DE]</td>
+		</tr><tr><td>340</td>
+			<td>Enevoldsen, Thomas</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>(22) Muller, Martin</td>
+			<td>[DK]</td>
+		</tr><tr><td>341</td>
+			<td>Lopez, Daniel</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Grint, Richard</td>
+			<td>[GB]</td>
+		</tr><tr><td>342</td>
+			<td>Penard, Adrien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Draack, Fabian</td>
+			<td>[DE]</td>
+		</tr><tr><td>343</td>
+			<td>Ventura, Ruben CH</td>
+			<td>[PT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>LAGUERRE, Mathieu</td>
+			<td>[FR]</td>
+		</tr><tr><td>344</td>
+			<td>Casada, Andrea</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Overgaauw, Rens</td>
+			<td>[NL]</td>
+		</tr><tr><td>345</td>
+			<td>Van Der Vaart, Martijn</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gates, Dominic</td>
+			<td>[GB]</td>
+		</tr><tr><td>346</td>
+			<td>Nazarenus, Julian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bastogne, Jerome</td>
+			<td>[BE]</td>
+		</tr><tr><td>347</td>
+			<td>Timmermans, Hedzer</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Knocinski, Przemek</td>
+			<td>[PL]</td>
+		</tr><tr><td>348</td>
+			<td>Jacobsen, S?ren Knak</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bob, Jacobs</td>
+			<td>[BE]</td>
+		</tr><tr><td>349</td>
+			<td>BUCCIARELLI, Sebastien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Volk, Niklas</td>
+			<td>[DE]</td>
+		</tr><tr><td>350</td>
+			<td>Lachaud, Remy</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>MEZHOUD, Hakim</td>
+			<td>[FR]</td>
+		</tr><tr><td>351</td>
+			<td>Peter, Carl Manuel</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Heuser, Marius</td>
+			<td>[DE]</td>
+		</tr><tr><td>352</td>
+			<td>Bietighoefer, Jerome</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lambrich, Benjamin</td>
+			<td>[DE]</td>
+		</tr><tr><td>353</td>
+			<td>Mustone, Massimo</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gosset, Maxime</td>
+			<td>[FR]</td>
+		</tr><tr><td>354</td>
+			<td>Soumet, Arnaud</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Castro, Miguel</td>
+			<td>[ES]</td>
+		</tr><tr><td>355</td>
+			<td>de jong, bob</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Der End, Sander</td>
+			<td>[NL]</td>
+		</tr><tr><td>356</td>
+			<td>Violette, Aurelie</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Le Briand, Loic</td>
+			<td>[FR]</td>
+		</tr><tr><td>357</td>
+			<td>Fesser, Meik</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Labahn, Nikolas</td>
+			<td>[DE]</td>
+		</tr><tr><td>358</td>
+			<td>LORIN, Edouard</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gill, Joakim</td>
+			<td>[SE]</td>
+		</tr><tr><td>359</td>
+			<td>Clemedtson, Christopher</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bresser, Nick</td>
+			<td>[NL]</td>
+		</tr><tr><td>360</td>
+			<td>Luis, Manuel</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Enduraev, Pavel</td>
+			<td>[RU]</td>
+		</tr><tr><td>361</td>
+			<td>JEAN, Benjamin</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Madsen, Guy</td>
+			<td>[US]</td>
+		</tr><tr><td>362</td>
+			<td>Ksandr, Jan</td>
+			<td>[CZ]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Den Bogaard, Ricardo</td>
+			<td>[NL]</td>
+		</tr><tr><td>363</td>
+			<td>Langlotz, Thomas</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hitz, Michael</td>
+			<td>[CH]</td>
+		</tr><tr><td>364</td>
+			<td>Brodner, Alexander</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Espeel, Stephan</td>
+			<td>[BE]</td>
+		</tr><tr><td>365</td>
+			<td>Rohling, Markus</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Eijsden, Enrico</td>
+			<td>[NL]</td>
+		</tr><tr><td>366</td>
+			<td>SANTALLA, ADRIAN</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Penko, Matic</td>
+			<td>[SI]</td>
+		</tr><tr><td>367</td>
+			<td>Strautz, Marcel Strautz</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Raphael, Gautier</td>
+			<td>[FR]</td>
+		</tr><tr><td>368</td>
+			<td>Simonot, Timothee</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pilichowski, Karol</td>
+			<td>[PL]</td>
+		</tr><tr><td>369</td>
+			<td>Messow, Philip</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gorokhovskyy, Kostyantyn</td>
+			<td>[UA]</td>
+		</tr><tr><td>370</td>
+			<td>Vojta, Jakub</td>
+			<td>[CZ]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schwarz, Stephan</td>
+			<td>[DE]</td>
+		</tr><tr><td>371</td>
+			<td>Babbi, Aureliano</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sauer, Robin</td>
+			<td>[DE]</td>
+		</tr><tr><td>372</td>
+			<td>Hottmann, Alexander</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hubrich, Rene</td>
+			<td>[DE]</td>
+		</tr><tr><td>373</td>
+			<td>Kepinski, Michal</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ausilio, Flavio</td>
+			<td>[IT]</td>
+		</tr><tr><td>374</td>
+			<td>Bouchier, Robin</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Averjanovas, Andrius</td>
+			<td>[LT]</td>
+		</tr><tr><td>375</td>
+			<td>Costagli, Matteo</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tetzlaff, Leonard</td>
+			<td>[DE]</td>
+		</tr><tr><td>376</td>
+			<td>Dielen, Glenn</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Menendez, Christian</td>
+			<td>[ES]</td>
+		</tr><tr><td>377</td>
+			<td>Parazzoli, Dario</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cornu, Hubert</td>
+			<td>[FR]</td>
+		</tr><tr><td>378</td>
+			<td>Campanino, Fabrizio</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Desax, Conn</td>
+			<td>[SE]</td>
+		</tr><tr><td>379</td>
+			<td>Collinet, Patrick</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hugaert, Arthur</td>
+			<td>[BE]</td>
+		</tr><tr><td>380</td>
+			<td>Davies, Darrell</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hofmann, Mike</td>
+			<td>[GB]</td>
+		</tr><tr><td>381</td>
+			<td>Velazquez, Jose Luis</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Monsieurs, Patrick</td>
+			<td>[BE]</td>
+		</tr><tr><td>382</td>
+			<td>Calvo Paniego, Miguel</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jung, Carsten</td>
+			<td>[DE]</td>
+		</tr><tr><td>383</td>
+			<td>Neirynck, Branco</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Wortswinkel, Steven</td>
+			<td>[BE]</td>
+		</tr><tr><td>384</td>
+			<td>Morin, Alexandre</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kammer, Michael</td>
+			<td>[DE]</td>
+		</tr><tr><td>385</td>
+			<td>Vincent, Meisel</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Papadopoulos, Panagiotis</td>
+			<td>[GR]</td>
+		</tr><tr><td>386</td>
+			<td>Jacobs, Koen</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Belmer, Yann</td>
+			<td>[FR]</td>
+		</tr><tr><td>387</td>
+			<td>Glasner, Richard</td>
+			<td>[SK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schraut, Andreas</td>
+			<td>[DE]</td>
+		</tr><tr><td>388</td>
+			<td>Holm, Frederik</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Musmacher, Thomas</td>
+			<td>[DE]</td>
+		</tr><tr><td>389</td>
+			<td>Domenico, Di Siero</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bains, Steve</td>
+			<td>[GB]</td>
+		</tr><tr><td>390</td>
+			<td>Toledo, Daniel</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lebrun, Benoit</td>
+			<td>[BE]</td>
+		</tr><tr><td>391</td>
+			<td>Tselios, Ilias</td>
+			<td>[GR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vinciguerra, Daniele</td>
+			<td>[IT]</td>
+		</tr><tr><td>392</td>
+			<td>Fredheim, Christian Magnus Strommen</td>
+			<td>[NO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vos, Brent</td>
+			<td>[NL]</td>
+		</tr><tr><td>393</td>
+			<td>Mole, Damien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>CHAUVET, Boris</td>
+			<td>[FR]</td>
+		</tr><tr><td>394</td>
+			<td>Aravanis, Anastasios</td>
+			<td>[GR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Montfoort, Kees</td>
+			<td>[NL]</td>
+		</tr><tr><td>395</td>
+			<td>Morsel, Ingo</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wong, Kuo</td>
+			<td>[GB]</td>
+		</tr><tr><td>396</td>
+			<td>Montoro, Bernat</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Polak-Rottman, Oliver</td>
+			<td>[BE]</td>
+		</tr><tr><td>397</td>
+			<td>Bastos, Frederico</td>
+			<td>[PT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dezani, Jeremy</td>
+			<td>[FR]</td>
+		</tr><tr><td>398</td>
+			<td>Schetka, Evgeny</td>
+			<td>[RU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kirkegaard, Hack Kampmann</td>
+			<td>[DK]</td>
+		</tr><tr><td>399</td>
+			<td>Calf, David</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Borrelli, Jacopo</td>
+			<td>[IT]</td>
+		</tr><tr><td>400</td>
+			<td>Roekaerts, Wout</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bachst&Atilde;&curren;dter, Jonas</td>
+			<td>[DE]</td>
+		</tr><tr><td>401</td>
+			<td>Dillon, Wayne</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lampadarios, Christoforos</td>
+			<td>[DK]</td>
+		</tr><tr><td>402</td>
+			<td>Zidek, Arnost</td>
+			<td>[CZ]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hoonderd, Marco</td>
+			<td>[NL]</td>
+		</tr><tr><td>403</td>
+			<td>Dario, D'Antonio</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dalmasso, Leonardo</td>
+			<td>[IT]</td>
+		</tr><tr><td>404</td>
+			<td>Landvatter, Matthias</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Leube, Philipp</td>
+			<td>[DE]</td>
+		</tr><tr><td>405</td>
+			<td>Fossberg, Marc</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>BIGORNE, Aurelien</td>
+			<td>[FR]</td>
+		</tr><tr><td>406</td>
+			<td>Eriksson, Hampus</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tran, Nhat-Nam</td>
+			<td>[DE]</td>
+		</tr><tr><td>407</td>
+			<td>Gajewski, Michal</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Winter, Florian</td>
+			<td>[DE]</td>
+		</tr><tr><td>408</td>
+			<td>Abou Omar, Ashraf</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Saul, Philip</td>
+			<td>[DE]</td>
+		</tr><tr><td>409</td>
+			<td>Tuduri, Ricard</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kocsis, Gabor</td>
+			<td>[HU]</td>
+		</tr><tr><td>410</td>
+			<td>Hoekstra, Siemen</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pavlos, Kanelis</td>
+			<td>[GR]</td>
+		</tr><tr><td>411</td>
+			<td>Veenstra, Joost</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Der Beek, Laurens</td>
+			<td>[NL]</td>
+		</tr><tr><td>412</td>
+			<td>Ton, Wouter</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Channing, George</td>
+			<td>[GB]</td>
+		</tr><tr><td>413</td>
+			<td>De Graaf, Hans</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vasilis, Papadakis</td>
+			<td>[GR]</td>
+		</tr><tr><td>414</td>
+			<td>Andrieu, Thibault</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Steinaa, Peter</td>
+			<td>[DK]</td>
+		</tr><tr><td>415</td>
+			<td>Bijma, Jacques</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tornros, Mats</td>
+			<td>[SE]</td>
+		</tr><tr><td>416</td>
+			<td>Berger, Meciek</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Djurovic, Mihailo</td>
+			<td>[FR]</td>
+		</tr><tr><td>417</td>
+			<td>Levy, Olivier</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kanters, Eric</td>
+			<td>[NL]</td>
+		</tr><tr><td>418</td>
+			<td>Martinez Querol, Daniel</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gorzgen, Fabian</td>
+			<td>[DE]</td>
+		</tr><tr><td>419</td>
+			<td>Van Heems, Rogier</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lemoine, Vincent</td>
+			<td>[BE]</td>
+		</tr><tr><td>420</td>
+			<td>Lind, Daniel</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Harmer, Matt</td>
+			<td>[GB]</td>
+		</tr><tr><td>421</td>
+			<td>Lauwers, Jelle</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Leupold, Kim</td>
+			<td>[DE]</td>
+		</tr><tr><td>422</td>
+			<td>Van Loenhout, Rob</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wilks, John-Joseph</td>
+			<td>[GB]</td>
+		</tr><tr><td>423</td>
+			<td>Depraz, Jean-Emmanuel</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gloss, Martin</td>
+			<td>[DE]</td>
+		</tr><tr><td>424</td>
+			<td>Guesnel, Quentin</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Magallon Vazquez, Ander</td>
+			<td>[BE]</td>
+		</tr><tr><td>425</td>
+			<td>MACE, Damien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kaczinski, Dustin</td>
+			<td>[DE]</td>
+		</tr><tr><td>426</td>
+			<td>Gyhagen, Mikael</td>
+			<td>[NO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lundberg, Viktor</td>
+			<td>[SE]</td>
+		</tr><tr><td>427</td>
+			<td>Cance, Bernard</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vanderhallen, Nicolas</td>
+			<td>[BE]</td>
+		</tr><tr><td>428</td>
+			<td>Ploy, Simon</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Janhsen, Markus</td>
+			<td>[DE]</td>
+		</tr><tr><td>429</td>
+			<td>Hirtz, Thomas</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ward, Pete</td>
+			<td>[GB]</td>
+		</tr><tr><td>430</td>
+			<td>Brocsko, Arthur</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wald, Piotr</td>
+			<td>[PL]</td>
+		</tr><tr><td>431</td>
+			<td>Rasmussen, Thomas Lundholm</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Partridge, Jonathan</td>
+			<td>[GB]</td>
+		</tr><tr><td>432</td>
+			<td>Hendrickx, Tim</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Vries, Florian</td>
+			<td>[NL]</td>
+		</tr><tr><td>433</td>
+			<td>Vergoni, Davide</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Brorsson, Harald</td>
+			<td>[SE]</td>
+		</tr><tr><td>434</td>
+			<td>Caramalau, Adrian</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Borm, Thomas</td>
+			<td>[BE]</td>
+		</tr><tr><td>435</td>
+			<td>Neville, Perry</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>BUTI, Jean-Philippe</td>
+			<td>[FR]</td>
+		</tr><tr><td>436</td>
+			<td>Almadi, Balazs</td>
+			<td>[HU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Borger, Bryan</td>
+			<td>[NL]</td>
+		</tr><tr><td>437</td>
+			<td>Bollue, Eddy</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ryba, Martin</td>
+			<td>[CZ]</td>
+		</tr><tr><td>438</td>
+			<td>Reichel-Dittes, Christopher</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rachenne, Romain</td>
+			<td>[FR]</td>
+		</tr><tr><td>439</td>
+			<td>Margara, Francesco</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Loizel, Adrien</td>
+			<td>[FR]</td>
+		</tr><tr><td>440</td>
+			<td>Kaarls, Leonard</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gehrts, Bruno</td>
+			<td>[DE]</td>
+		</tr><tr><td>441</td>
+			<td>Romano, Nicola</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Buccola, Alessandro</td>
+			<td>[IT]</td>
+		</tr><tr><td>442</td>
+			<td>Zee, Carl</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Holtmann, Niklas</td>
+			<td>[DE]</td>
+		</tr><tr><td>443</td>
+			<td>Fourche, Quentin</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>EDET, Johan</td>
+			<td>[FR]</td>
+		</tr><tr><td>444</td>
+			<td>Diekjobst, Lukas</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gasparac, Luka</td>
+			<td>[HR]</td>
+		</tr><tr><td>445</td>
+			<td>Sondergaard, Andreas</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Marelle, Anthony</td>
+			<td>[BE]</td>
+		</tr><tr><td>446</td>
+			<td>De Decker, Tom</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Brouw, Ron</td>
+			<td>[NL]</td>
+		</tr><tr><td>447</td>
+			<td>Peters, Christian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Stenbakken, Frederik</td>
+			<td>[DK]</td>
+		</tr><tr><td>448</td>
+			<td>CUCCHI, Antoine</td>
+			<td>[LU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Scentoni, Francesco</td>
+			<td>[IT]</td>
+		</tr><tr><td>449</td>
+			<td>Baldauf, Alexander</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pieh, Daniel</td>
+			<td>[DE]</td>
+		</tr><tr><td>450</td>
+			<td>Gassauer-Fleissner, Severin</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Artamonova, Maria</td>
+			<td>[FR]</td>
+		</tr><tr><td>451</td>
+			<td>Gregory, Beenen</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Prinz, Kristof</td>
+			<td>[DE]</td>
+		</tr><tr><td>452</td>
+			<td>Maia, Dinis</td>
+			<td>[PT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ronsijn, Tom</td>
+			<td>[BE]</td>
+		</tr><tr><td>453</td>
+			<td>Cools, Siegfried</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>DELHAYE, Gilles</td>
+			<td>[FR]</td>
+		</tr><tr><td>454</td>
+			<td>Rainford, Scott</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rodriguez, Jose-Bert</td>
+			<td>[BE]</td>
+		</tr><tr><td>455</td>
+			<td>Pots, Maurice</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Raffel, Heiko</td>
+			<td>[DE]</td>
+		</tr><tr><td>456</td>
+			<td>Morhee, Raymond</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pfoh, Noah</td>
+			<td>[DE]</td>
+		</tr><tr><td>457</td>
+			<td>Brandenburg, Leonard</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Da Silva, Cesar</td>
+			<td>[SE]</td>
+		</tr><tr><td>458</td>
+			<td>Korevaar, Martijn</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Masson, Mathieu</td>
+			<td>[FR]</td>
+		</tr><tr><td>459</td>
+			<td>Ophel, Lewis</td>
+			<td>[AU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dinelli, Pierre-Francois</td>
+			<td>[FR]</td>
+		</tr><tr><td>460</td>
+			<td>Grigull, Carolin</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Der Burgh, Rob</td>
+			<td>[NL]</td>
+		</tr><tr><td>461</td>
+			<td>Dubelaar, Corne</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Zeeuw, Donald</td>
+			<td>[NL]</td>
+		</tr><tr><td>462</td>
+			<td>Chechel, Artem</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sundman, Alexander</td>
+			<td>[SE]</td>
+		</tr><tr><td>463</td>
+			<td>Simon, Sebastien</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Willems, Daan</td>
+			<td>[BE]</td>
+		</tr><tr><td>464</td>
+			<td>Melis, Bas</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Graeve, Sander</td>
+			<td>[BE]</td>
+		</tr><tr><td>465</td>
+			<td>Moeskops, Jelle</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>RAY, STEPHANE</td>
+			<td>[FR]</td>
+		</tr><tr><td>466</td>
+			<td>Stella, Alessandro</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tavera, Jorge</td>
+			<td>[BE]</td>
+		</tr><tr><td>467</td>
+			<td>Adams, Sean</td>
+			<td>[US]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Olivier, Leriche</td>
+			<td>[FR]</td>
+		</tr><tr><td>468</td>
+			<td>Lauryssen, Willem</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Steen, Sybren</td>
+			<td>[NL]</td>
+		</tr><tr><td>469</td>
+			<td>Franken, Roman</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Chrobot, Aleksander</td>
+			<td>[PL]</td>
+		</tr><tr><td>470</td>
+			<td>Pietro, D'orazio</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Geert, Fabian</td>
+			<td>[BE]</td>
+		</tr><tr><td>471</td>
+			<td>Van Caulaert, Eric</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Wael, Tom</td>
+			<td>[BE]</td>
+		</tr><tr><td>472</td>
+			<td>Plescan, Cata</td>
+			<td>[RO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Knight, Riley</td>
+			<td>[DE]</td>
+		</tr><tr><td>473</td>
+			<td>De Lacy, Christopher</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vandewynckel, Kristof</td>
+			<td>[BE]</td>
+		</tr><tr><td>474</td>
+			<td>Raulff, Philippe</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rosinski, Dennis</td>
+			<td>[DE]</td>
+		</tr><tr><td>475</td>
+			<td>Ritzen, Tony</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Uliana, Damien</td>
+			<td>[BE]</td>
+		</tr><tr><td>476</td>
+			<td>Schor, Michael</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hartmann, Michael</td>
+			<td>[DE]</td>
+		</tr><tr><td>477</td>
+			<td>Volpi, Mattia</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Richardson, Christopher</td>
+			<td>[GB]</td>
+		</tr><tr><td>478</td>
+			<td>Mehlhorn, Anne</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Elliger, Christian</td>
+			<td>[DE]</td>
+		</tr><tr><td>479</td>
+			<td>Verbeeck, Matthias</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cuvelier, Jeroen</td>
+			<td>[BE]</td>
+		</tr><tr><td>480</td>
+			<td>Pearse, Christian</td>
+			<td>[AU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hyldig, Morten</td>
+			<td>[DK]</td>
+		</tr><tr><td>481</td>
+			<td>Rodrigues, Nelson</td>
+			<td>[PT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ferraro, Costanzo</td>
+			<td>[IT]</td>
+		</tr><tr><td>482</td>
+			<td>Zapico Martinez, Adrian</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vendelboe, Pierre</td>
+			<td>[DK]</td>
+		</tr><tr><td>483</td>
+			<td>Riffert, Till</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pieterse, Axel</td>
+			<td>[NL]</td>
+		</tr><tr><td>484</td>
+			<td>Economides, Stefanos</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Danse, Aurelien</td>
+			<td>[FR]</td>
+		</tr><tr><td>485</td>
+			<td>Passin, Mathias</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Obels, Andreas</td>
+			<td>[DE]</td>
+		</tr><tr><td>486</td>
+			<td>Davey, Jonny</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dewulf, Emmanuel</td>
+			<td>[BE]</td>
+		</tr><tr><td>487</td>
+			<td>Stuertz, Matthias</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wafo-Tapa, Bruno</td>
+			<td>[FR]</td>
+		</tr><tr><td>488</td>
+			<td>Verniers, Simon</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gavazzi, Davide</td>
+			<td>[IT]</td>
+		</tr><tr><td>489</td>
+			<td>Balslev, Halfdan</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sauerborn, Nico</td>
+			<td>[DE]</td>
+		</tr><tr><td>490</td>
+			<td>Golovko, Ivan</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Orlando, Manfredi</td>
+			<td>[IT]</td>
+		</tr><tr><td>491</td>
+			<td>Val, Jonatan</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Huepper, Florian</td>
+			<td>[DE]</td>
+		</tr><tr><td>492</td>
+			<td>Grancha Marin, Beatriz</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Polo, Michele</td>
+			<td>[IT]</td>
+		</tr><tr><td>493</td>
+			<td>Berkemeier, Thomas</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Taling, Mark</td>
+			<td>[NL]</td>
+		</tr><tr><td>494</td>
+			<td>Fries, Patrick</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Valkeneers, Koen</td>
+			<td>[BE]</td>
+		</tr><tr><td>495</td>
+			<td>Coomans, Ezra</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mannaerts, Jan</td>
+			<td>[BE]</td>
+		</tr><tr><td>496</td>
+			<td>Sung-il, Hong</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Svensson, Eric</td>
+			<td>[SE]</td>
+		</tr><tr><td>497</td>
+			<td>Hammerschmidt, Daniel</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nordvall, Andreas</td>
+			<td>[SE]</td>
+		</tr><tr><td>498</td>
+			<td>Segaar, Wouter</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Muehlinghaus, Pascal</td>
+			<td>[DE]</td>
+		</tr><tr><td>499</td>
+			<td>Hardstam, Johan</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gammaitoni, Eli</td>
+			<td>[IT]</td>
+		</tr><tr><td>500</td>
+			<td>Karalias, John</td>
+			<td>[GR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>RICQUIER, Sebastien</td>
+			<td>[FR]</td>
+		</tr><tr><td>501</td>
+			<td>LAGARDE, Antoine</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Aue, Adrian</td>
+			<td>[DE]</td>
+		</tr><tr><td>502</td>
+			<td>Van Landegem, Sara</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Desmidt, Lino</td>
+			<td>[BE]</td>
+		</tr><tr><td>503</td>
+			<td>Fukala, Dalibor</td>
+			<td>[CZ]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Quentin, WACK</td>
+			<td>[FR]</td>
+		</tr><tr><td>504</td>
+			<td>Teslaru, Nicolae</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sinigoi, Michele</td>
+			<td>[IT]</td>
+		</tr><tr><td>505</td>
+			<td>Hakkarainen, Viktor</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nienstedt, Urs</td>
+			<td>[DE]</td>
+		</tr><tr><td>506</td>
+			<td>Gotfredsen, Anders</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Baldo, Enrico</td>
+			<td>[DE]</td>
+		</tr><tr><td>507</td>
+			<td>Hocquet, Jerome</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hungenberg, Timo</td>
+			<td>[DE]</td>
+		</tr><tr><td>508</td>
+			<td>Chetcuti, Karsten</td>
+			<td>[MT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bogaard, Erikjan</td>
+			<td>[NL]</td>
+		</tr><tr><td>509</td>
+			<td>Milutinovic, Stefan</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lamers, Rob</td>
+			<td>[NL]</td>
+		</tr><tr><td>510</td>
+			<td>Trygve, Vantomme</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Agostinetti, Filippo</td>
+			<td>[IT]</td>
+		</tr><tr><td>511</td>
+			<td>Roodenburg, Robbin</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Chatzis, Nikos</td>
+			<td>[GR]</td>
+		</tr><tr><td>512</td>
+			<td>Deloly, Mathieu</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tseroulis, Kreon</td>
+			<td>[GR]</td>
+		</tr><tr><td>513</td>
+			<td>Fradl, Bernhard</td>
+			<td>[CH]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nunez, Jerko</td>
+			<td>[IT]</td>
+		</tr><tr><td>514</td>
+			<td>Lebon, T J</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van De Moosdijk, Ruth</td>
+			<td>[BE]</td>
+		</tr><tr><td>515</td>
+			<td>Kawonczyk, Maciej</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Andrade, Henrique</td>
+			<td>[PT]</td>
+		</tr><tr><td>516</td>
+			<td>Simon, Jonathan</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Benca, Lucian-Cristian</td>
+			<td>[RO]</td>
+		</tr><tr><td>517</td>
+			<td>Van De Kerkhoven, Olivier</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Verwoerd, Jeffrey</td>
+			<td>[NL]</td>
+		</tr><tr><td>518</td>
+			<td>Czapski, Mateusz</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gevrey, Vincent</td>
+			<td>[FR]</td>
+		</tr><tr><td>519</td>
+			<td>Deceuninck, Serge</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hoydonckx, Yves</td>
+			<td>[BE]</td>
+		</tr><tr><td>520</td>
+			<td>Glover, Laurie</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lundahl, Jesper</td>
+			<td>[DK]</td>
+		</tr><tr><td>521</td>
+			<td>Sucila, Andrei</td>
+			<td>[RO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hendrickx, Sander</td>
+			<td>[BE]</td>
+		</tr><tr><td>522</td>
+			<td>De Kooter, Geert</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Amici, Damiano</td>
+			<td>[IT]</td>
+		</tr><tr><td>523</td>
+			<td>Reckelbus, Hannes</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Raffoux, Benjamin</td>
+			<td>[FR]</td>
+		</tr><tr><td>524</td>
+			<td>Martin Ortiz, Juan Francisco</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Maciocha, Thomas</td>
+			<td>[DE]</td>
+		</tr><tr><td>525</td>
+			<td>Rutjes, Julian</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zarges, Florian</td>
+			<td>[DE]</td>
+		</tr><tr><td>526</td>
+			<td>Poumeyrol, Clement</td>
+			<td>[FI]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Passin, Philip</td>
+			<td>[DE]</td>
+		</tr><tr><td>527</td>
+			<td>ROUGEAU, Benjamin</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Carvalho, Paulo</td>
+			<td>[PT]</td>
+		</tr><tr><td>528</td>
+			<td>Mohr, Gerrit</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>CADINOT, Julien</td>
+			<td>[FR]</td>
+		</tr><tr><td>529</td>
+			<td>Bourgeois, Herve</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Chopp, Thibaut</td>
+			<td>[FR]</td>
+		</tr><tr><td>530</td>
+			<td>Gruszczyk, Martin</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Niederhausen, Lars</td>
+			<td>[DE]</td>
+		</tr><tr><td>531</td>
+			<td>Rampini, Stefano</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schroers, Alexander</td>
+			<td>[DE]</td>
+		</tr><tr><td>532</td>
+			<td>Nikitakis, Noli</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Meurs, Sascha</td>
+			<td>[DE]</td>
+		</tr><tr><td>533</td>
+			<td>Gary, Hebert</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ullrich, Martin</td>
+			<td>[DE]</td>
+		</tr><tr><td>534</td>
+			<td>Fokker, Maurits</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Albert, Francois</td>
+			<td>[FR]</td>
+		</tr><tr><td>535</td>
+			<td>Norman, Charles</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Friberg, Daniel</td>
+			<td>[SE]</td>
+		</tr><tr><td>536</td>
+			<td>Matthijsse, Brian</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hesse, Manfred</td>
+			<td>[DE]</td>
+		</tr><tr><td>537</td>
+			<td>Tilburgs, William</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>MAASS, MICHAEL</td>
+			<td>[US]</td>
+		</tr><tr><td>538</td>
+			<td>Brans, Kasper</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Matthies, Mario</td>
+			<td>[DE]</td>
+		</tr><tr><td>539</td>
+			<td>Pilurzu, Alessandro</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cobo, Antonio</td>
+			<td>[DE]</td>
+		</tr><tr><td>540</td>
+			<td>Llinares, Leo</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ziegler, Mike</td>
+			<td>[DE]</td>
+		</tr><tr><td>541</td>
+			<td>De Weert, Melvin</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hallot, Pierre-marie</td>
+			<td>[BE]</td>
+		</tr><tr><td>542</td>
+			<td>Hanrahan, Tom</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Guingouain, Martin</td>
+			<td>[BE]</td>
+		</tr><tr><td>543</td>
+			<td>Chetcuti, Daniel</td>
+			<td>[MT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vuillot, Samuel</td>
+			<td>[FR]</td>
+		</tr><tr><td>544</td>
+			<td>De La Calle Arroyo, Carlos</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Henry, Dimitri</td>
+			<td>[BE]</td>
+		</tr><tr><td>545</td>
+			<td>Schwarzhof, Philipp</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Berladyn, Vincent</td>
+			<td>[BE]</td>
+		</tr><tr><td>546</td>
+			<td>Heisterkamp, Florian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ralovec, Igor</td>
+			<td>[LV]</td>
+		</tr><tr><td>547</td>
+			<td>Van Heck, Ruben</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>D'hoe, Joris</td>
+			<td>[BE]</td>
+		</tr><tr><td>548</td>
+			<td>Shavlovskyy, Dmytro</td>
+			<td>[UA]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>PECK, Luc</td>
+			<td>[BE]</td>
+		</tr><tr><td>549</td>
+			<td>Carlsson, Per</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Grossmann, Benjamin</td>
+			<td>[FR]</td>
+		</tr><tr><td>550</td>
+			<td>Blesa Moreno, Jorge</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Meyer, W?ge</td>
+			<td>[SE]</td>
+		</tr><tr><td>551</td>
+			<td>Sas, Ivar</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Papadopoulos, Kwnstantinos</td>
+			<td>[GR]</td>
+		</tr><tr><td>552</td>
+			<td>Jacoby, Rick</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Volsem, Geert</td>
+			<td>[BE]</td>
+		</tr><tr><td>553</td>
+			<td>Hay, Christopher</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lafon, Charles</td>
+			<td>[FR]</td>
+		</tr><tr><td>554</td>
+			<td>Koch, Dennis</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Duparcq, Guy</td>
+			<td>[BE]</td>
+		</tr><tr><td>555</td>
+			<td>Veneruso, Umberto</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Decker, Felix</td>
+			<td>[DE]</td>
+		</tr><tr><td>556</td>
+			<td>Pellegrini, Jeremyah</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Brigaglia, Francesco</td>
+			<td>[IT]</td>
+		</tr><tr><td>557</td>
+			<td>Dick, Christian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Goossens, Rob</td>
+			<td>[NL]</td>
+		</tr><tr><td>558</td>
+			<td>Zimmermann, Bob</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Noorlander, Mark</td>
+			<td>[NL]</td>
+		</tr><tr><td>559</td>
+			<td>Jessica P., Sagahon Zaleta</td>
+			<td>[MX]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Roo, Martin</td>
+			<td>[NL]</td>
+		</tr><tr><td>560</td>
+			<td>Tsopelas, Marios</td>
+			<td>[GR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schutte, Soren</td>
+			<td>[DE]</td>
+		</tr><tr><td>561</td>
+			<td>Cofalik, Szymon</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hennessee, Thomas</td>
+			<td>[DE]</td>
+		</tr><tr><td>562</td>
+			<td>Jabs, Slawomir</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mazzucco, Samuele</td>
+			<td>[IT]</td>
+		</tr><tr><td>563</td>
+			<td>Peeters, Stijn</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Colomei, Rare?-Glad</td>
+			<td>[RO]</td>
+		</tr><tr><td>564</td>
+			<td>Chesters, Sarah</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Stocker, Marcel</td>
+			<td>[DE]</td>
+		</tr><tr><td>565</td>
+			<td>Alessandro, Cacciatori</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hofmann, Torsten</td>
+			<td>[DE]</td>
+		</tr><tr><td>566</td>
+			<td>MANGASSER, Julien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kalveram, Stefan</td>
+			<td>[DE]</td>
+		</tr><tr><td>567</td>
+			<td>Maccagnani, Stefano</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Svenhard, Robin</td>
+			<td>[SE]</td>
+		</tr><tr><td>568</td>
+			<td>Abelt, Marc</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Goethem, Stijn</td>
+			<td>[BE]</td>
+		</tr><tr><td>569</td>
+			<td>Arndt, Jochen</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Christiansen, Joachim Lindbjerg</td>
+			<td>[DK]</td>
+		</tr><tr><td>570</td>
+			<td>James, Jack</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Donovan, Jamie</td>
+			<td>[GB]</td>
+		</tr><tr><td>571</td>
+			<td>Dijkstra, Koen</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>BORDON GONZALEZ, JOSE RAMON</td>
+			<td>[ES]</td>
+		</tr><tr><td>572</td>
+			<td>Ballestero Allueva, Aurelio</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Balleur, Clement</td>
+			<td>[FR]</td>
+		</tr><tr><td>573</td>
+			<td>Hurkmans, Joshua</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vilain, Arnaud</td>
+			<td>[FR]</td>
+		</tr><tr><td>574</td>
+			<td>Piltz, Konstantin</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zandersons, Oskars</td>
+			<td>[LV]</td>
+		</tr><tr><td>575</td>
+			<td>Sieksmeyer, Thorben</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Story, Sidney</td>
+			<td>[NL]</td>
+		</tr><tr><td>576</td>
+			<td>Colding-Jorgensen, Martin</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gottlieb, Clement</td>
+			<td>[BE]</td>
+		</tr><tr><td>577</td>
+			<td>Hubertus, David</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Satilmis, Derman</td>
+			<td>[DE]</td>
+		</tr><tr><td>578</td>
+			<td>Mieth, Tobias</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Morsing, Mads</td>
+			<td>[DK]</td>
+		</tr><tr><td>579</td>
+			<td>Isaksson, Marcus</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Grefling, Jakub</td>
+			<td>[PL]</td>
+		</tr><tr><td>580</td>
+			<td>Spataro, Luca</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bella, Agostino</td>
+			<td>[IT]</td>
+		</tr><tr><td>581</td>
+			<td>Rousseau, Gilles</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Noisette, Guillaume</td>
+			<td>[FR]</td>
+		</tr><tr><td>582</td>
+			<td>Gorzolla, Nick</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bilaine, Matthieu</td>
+			<td>[DE]</td>
+		</tr><tr><td>583</td>
+			<td>Isaeades, Vasilis</td>
+			<td>[GR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Steichen, Charel</td>
+			<td>[LU]</td>
+		</tr><tr><td>584</td>
+			<td>Harke, Tim</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Edin, Bj?rn Christian</td>
+			<td>[NO]</td>
+		</tr><tr><td>585</td>
+			<td>Hartvelt, Sytse</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schaefer, Marius</td>
+			<td>[DE]</td>
+		</tr><tr><td>586</td>
+			<td>Prehn, Jon</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Degrave, Geoffrey</td>
+			<td>[BE]</td>
+		</tr><tr><td>587</td>
+			<td>ROTONDO, RICCARDO</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vidal, Victor</td>
+			<td>[GB]</td>
+		</tr><tr><td>588</td>
+			<td>Grabowski, Doug</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Marcel Kondrk, Marcel</td>
+			<td>[SK]</td>
+		</tr><tr><td>589</td>
+			<td>Larsen, Christian</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lowet, Raphael</td>
+			<td>[BE]</td>
+		</tr><tr><td>590</td>
+			<td>Mortensen, Anders</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mogado, Bruno</td>
+			<td>[PT]</td>
+		</tr><tr><td>591</td>
+			<td>Van Der Mast, Yves</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kneepkens, Wouter</td>
+			<td>[NL]</td>
+		</tr><tr><td>592</td>
+			<td>Nugraha, Billy</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hillerscheid, Nils</td>
+			<td>[DE]</td>
+		</tr><tr><td>593</td>
+			<td>Michaux, Sebastien</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Baddeley, Joe</td>
+			<td>[GB]</td>
+		</tr><tr><td>594</td>
+			<td>Lange, Robert</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Maurri, Filippo</td>
+			<td>[IT]</td>
+		</tr><tr><td>595</td>
+			<td>Bisschop, Robby</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gloss, Maria</td>
+			<td>[DE]</td>
+		</tr><tr><td>596</td>
+			<td>Otte, Jasper</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Donkers, Kevin</td>
+			<td>[GB]</td>
+		</tr><tr><td>597</td>
+			<td>Gusenburger, Ben</td>
+			<td>[LU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jeandarme, Jerome</td>
+			<td>[FR]</td>
+		</tr><tr><td>598</td>
+			<td>Meyer, Patrick</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Buch, Bjarke</td>
+			<td>[DK]</td>
+		</tr><tr><td>599</td>
+			<td>Pagliarulo, Filippo</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Boerchers, Tobias</td>
+			<td>[DE]</td>
+		</tr><tr><td>600</td>
+			<td>Milevski, Miki</td>
+			<td>[MK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bouters, Timon</td>
+			<td>[BE]</td>
+		</tr><tr><td>601</td>
+			<td>Walzer, Friedemann</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Descamps, Benjamin</td>
+			<td>[BE]</td>
+		</tr><tr><td>602</td>
+			<td>Frith, Louis</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kirn, Vasja</td>
+			<td>[NL]</td>
+		</tr><tr><td>603</td>
+			<td>Koh, Kee Leong</td>
+			<td>[MY]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Williams, Calum</td>
+			<td>[GB]</td>
+		</tr><tr><td>604</td>
+			<td>Vermij, Michael</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zacharias, Kyriakos</td>
+			<td>[CY]</td>
+		</tr><tr><td>605</td>
+			<td>Goffart, Jonathan</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kronenberg, Menno</td>
+			<td>[NL]</td>
+		</tr><tr><td>606</td>
+			<td>Lourtie, Henry</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mayne, Daniel</td>
+			<td>[GB]</td>
+		</tr><tr><td>607</td>
+			<td>Arbeo, Fran</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tufvesson, Linus</td>
+			<td>[GB]</td>
+		</tr><tr><td>608</td>
+			<td>Pals, Calvin</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Allard, Ragnar</td>
+			<td>[NL]</td>
+		</tr><tr><td>609</td>
+			<td>Masschelein, Chris</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Maire, Olivier</td>
+			<td>[FR]</td>
+		</tr><tr><td>610</td>
+			<td>Arenos, Knut</td>
+			<td>[NO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schrijvers, Alexander</td>
+			<td>[BE]</td>
+		</tr><tr><td>611</td>
+			<td>Kaut, Dominik</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Platz, Jens</td>
+			<td>[DE]</td>
+		</tr><tr><td>612</td>
+			<td>COUTROT, ALBAN</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mohren, Christian</td>
+			<td>[DE]</td>
+		</tr><tr><td>613</td>
+			<td>Scharff, Aleksander</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Chan, Yu Pan Jacky</td>
+			<td>[HK]</td>
+		</tr><tr><td>614</td>
+			<td>Schmidt, Mirko</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Martin, Alistair</td>
+			<td>[GB]</td>
+		</tr><tr><td>615</td>
+			<td>SAFAI, Soheil</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Croitoru, Petre Vladimir</td>
+			<td>[RO]</td>
+		</tr><tr><td>616</td>
+			<td>Presvytis, Dimitris</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Eskildsen, Mathias</td>
+			<td>[DK]</td>
+		</tr><tr><td>617</td>
+			<td>Lindstrom, Martin</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Wingerden, Tessa</td>
+			<td>[NL]</td>
+		</tr><tr><td>618</td>
+			<td>Chai, Andi</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Neale, Sam</td>
+			<td>[GB]</td>
+		</tr><tr><td>619</td>
+			<td>Launay, Remi</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Amort, Holger</td>
+			<td>[DE]</td>
+		</tr><tr><td>620</td>
+			<td>Muller, Janosch</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hansen, Andre</td>
+			<td>[DK]</td>
+		</tr><tr><td>621</td>
+			<td>Strubelj, Gregor</td>
+			<td>[SI]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mohr, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>622</td>
+			<td>Ceska, Pavel</td>
+			<td>[CZ]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Klimek, Michal</td>
+			<td>[PL]</td>
+		</tr><tr><td>623</td>
+			<td>Den Bieman, Joost</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Albrecht, Fabian</td>
+			<td>[DE]</td>
+		</tr><tr><td>624</td>
+			<td>Maurizio, Anedda</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Galopa, Etienne</td>
+			<td>[FR]</td>
+		</tr><tr><td>625</td>
+			<td>Green, Aidan</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schaller, Sebastian</td>
+			<td>[DE]</td>
+		</tr><tr><td>626</td>
+			<td>Been, Iso</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Willis, Paul</td>
+			<td>[GB]</td>
+		</tr><tr><td>627</td>
+			<td>Kiskis, Saulius</td>
+			<td>[LT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pearce, Darius</td>
+			<td>[GB]</td>
+		</tr><tr><td>628</td>
+			<td>Gratzke, Rene</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Carlo, Josafath</td>
+			<td>[NL]</td>
+		</tr><tr><td>629</td>
+			<td>Oram, Dennis</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kuijpers, Mark</td>
+			<td>[NL]</td>
+		</tr><tr><td>630</td>
+			<td>Sandhoevel, Mario</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Eggersgluss, Jarno</td>
+			<td>[DE]</td>
+		</tr><tr><td>631</td>
+			<td>Schepman, Patrick</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Leterme, Benoit</td>
+			<td>[BE]</td>
+		</tr><tr><td>632</td>
+			<td>Caudron, Charles</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Misonne, Jacques</td>
+			<td>[BE]</td>
+		</tr><tr><td>633</td>
+			<td>Vojtech Vanek, Vojtech</td>
+			<td>[SK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Saal, Andrei</td>
+			<td>[DE]</td>
+		</tr><tr><td>634</td>
+			<td>Coppoolse, Sander</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Govedarov, Ivan</td>
+			<td>[BG]</td>
+		</tr><tr><td>635</td>
+			<td>Somers, Roald</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jovanovic, Ivan</td>
+			<td>[SI]</td>
+		</tr><tr><td>636</td>
+			<td>Coppes, Tobias</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sparta, Franck</td>
+			<td>[FR]</td>
+		</tr><tr><td>637</td>
+			<td>Tartarini, Lorenzo</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Geerinck, Kevin</td>
+			<td>[BE]</td>
+		</tr><tr><td>638</td>
+			<td>Schneider, Patrick</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hedhili, Mehdi</td>
+			<td>[BE]</td>
+		</tr><tr><td>639</td>
+			<td>Van Laken, Tom</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Leys, Matthias</td>
+			<td>[BE]</td>
+		</tr><tr><td>640</td>
+			<td>Naessens, Steven</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hukemann, Frank</td>
+			<td>[DE]</td>
+		</tr><tr><td>641</td>
+			<td>Bonnie, Chris</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nicolai Kabbeltved, Pedersen</td>
+			<td>[DK]</td>
+		</tr><tr><td>642</td>
+			<td>Baumann, Adrien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vantuch, Matej</td>
+			<td>[CZ]</td>
+		</tr><tr><td>643</td>
+			<td>De Jong, Raimon</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sidor, Mateusz</td>
+			<td>[PL]</td>
+		</tr><tr><td>644</td>
+			<td>Liepa, Chockeviciute</td>
+			<td>[LT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Stappers, Filip</td>
+			<td>[BE]</td>
+		</tr><tr><td>645</td>
+			<td>Rossler, Frank</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lindblad, Andreas</td>
+			<td>[SE]</td>
+		</tr><tr><td>646</td>
+			<td>Pereira, Vitor</td>
+			<td>[PT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Eberlein, Alexander</td>
+			<td>[DK]</td>
+		</tr><tr><td>647</td>
+			<td>Porten, Andreas</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kuppens, Stijn</td>
+			<td>[BE]</td>
+		</tr><tr><td>648</td>
+			<td>Pelagotti, Stefano</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dehulster, Wolf</td>
+			<td>[BE]</td>
+		</tr><tr><td>649</td>
+			<td>Morgado, Nelson</td>
+			<td>[PT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Herdt, Nicolas</td>
+			<td>[BE]</td>
+		</tr><tr><td>650</td>
+			<td>Elliott, Kolby</td>
+			<td>[US]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sourcin, Christoph</td>
+			<td>[DE]</td>
+		</tr><tr><td>651</td>
+			<td>Stock, Marc</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gheyle, Stijn</td>
+			<td>[BE]</td>
+		</tr><tr><td>652</td>
+			<td>Sierk, Kolja</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Ligne, Marvic</td>
+			<td>[BE]</td>
+		</tr><tr><td>653</td>
+			<td>Sellers, Dennis</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Habraken, Matthijs</td>
+			<td>[NL]</td>
+		</tr><tr><td>654</td>
+			<td>Kirsch, Christian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Asselman, Steven</td>
+			<td>[NL]</td>
+		</tr><tr><td>655</td>
+			<td>Van Der Meer, Thijs</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Arndt, Tilmann</td>
+			<td>[DE]</td>
+		</tr><tr><td>656</td>
+			<td>Foukarakis, Michalis</td>
+			<td>[GR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Domingues, Yoann</td>
+			<td>[FR]</td>
+		</tr><tr><td>657</td>
+			<td>Meuleman, Rob</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Diaz, Alfonso</td>
+			<td>[NL]</td>
+		</tr><tr><td>658</td>
+			<td>Pletinckx, Kenneth</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Brabander, Michael</td>
+			<td>[BE]</td>
+		</tr><tr><td>659</td>
+			<td>Matteo, De Angelis</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pouwels, Patrick</td>
+			<td>[BE]</td>
+		</tr><tr><td>660</td>
+			<td>Candillier, Ludovic</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Goncarov, Jan</td>
+			<td>[CZ]</td>
+		</tr><tr><td>661</td>
+			<td>Sulikowski, Stephane</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vretman, Alexandre</td>
+			<td>[FR]</td>
+		</tr><tr><td>662</td>
+			<td>Michailides, Stephanos</td>
+			<td>[CY]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Der Gucht, Robbert</td>
+			<td>[NL]</td>
+		</tr><tr><td>663</td>
+			<td>Targez, Olivier</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Murrai, Davide</td>
+			<td>[IT]</td>
+		</tr><tr><td>664</td>
+			<td>Cordier, Kris</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van De Rijck, Stijn</td>
+			<td>[BE]</td>
+		</tr><tr><td>665</td>
+			<td>Leyen, Jonathan</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Driel, Justin</td>
+			<td>[NL]</td>
+		</tr><tr><td>666</td>
+			<td>Goethals, Yens</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Strijd, Robin</td>
+			<td>[NL]</td>
+		</tr><tr><td>667</td>
+			<td>Buis, Anne Johan</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kelly, Kieran</td>
+			<td>[GB]</td>
+		</tr><tr><td>668</td>
+			<td>Krejsa, Tomas</td>
+			<td>[CZ]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Drobner, Timo</td>
+			<td>[DE]</td>
+		</tr><tr><td>669</td>
+			<td>Spang, Simon</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vidal Ros, Jose</td>
+			<td>[ES]</td>
+		</tr><tr><td>670</td>
+			<td>Wurtz, Alexander</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Libeck, Axel</td>
+			<td>[SE]</td>
+		</tr><tr><td>671</td>
+			<td>Yngvesson, Mathias</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Der Kinderen, Eric</td>
+			<td>[NL]</td>
+		</tr><tr><td>672</td>
+			<td>Parr, Simon</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Leijer, Jop</td>
+			<td>[NL]</td>
+		</tr><tr><td>673</td>
+			<td>Olsson, August</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Groot, Wessel</td>
+			<td>[NL]</td>
+		</tr><tr><td>674</td>
+			<td>Geeraerts, Jo</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Grgurevic, Josip</td>
+			<td>[HR]</td>
+		</tr><tr><td>675</td>
+			<td>Schulte, Tobias</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>B?rnich, Dag Erik</td>
+			<td>[NO]</td>
+		</tr><tr><td>676</td>
+			<td>Nolan, Bevan</td>
+			<td>[IE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Muteau, Thomas</td>
+			<td>[FR]</td>
+		</tr><tr><td>677</td>
+			<td>Worm, Hylco</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Binkowska, Wioleta</td>
+			<td>[PL]</td>
+		</tr><tr><td>678</td>
+			<td>Rouget, Thierry</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Warrelmann, Tom</td>
+			<td>[DE]</td>
+		</tr><tr><td>679</td>
+			<td>Claus, Alexander</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Frey, Alexander</td>
+			<td>[DE]</td>
+		</tr><tr><td>680</td>
+			<td>Van Raemdonck, Cedric</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sacchi, Luca</td>
+			<td>[IT]</td>
+		</tr><tr><td>681</td>
+			<td>Lundin, Martin</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Fischer, Juliane</td>
+			<td>[DE]</td>
+		</tr><tr><td>682</td>
+			<td>Raque, Dominic</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Flipse, Paco</td>
+			<td>[NL]</td>
+		</tr><tr><td>683</td>
+			<td>De Waegeneer, Joran</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jankowski, Arno</td>
+			<td>[PL]</td>
+		</tr><tr><td>684</td>
+			<td>Annells, Chris</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Dinteren, Kjeld</td>
+			<td>[NL]</td>
+		</tr><tr><td>685</td>
+			<td>Provost, Sebastiaan</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Verheesen, Rene</td>
+			<td>[GB]</td>
+		</tr><tr><td>686</td>
+			<td>BECQUET, FRANCK</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Skold, Oskar</td>
+			<td>[SE]</td>
+		</tr><tr><td>687</td>
+			<td>Van Renterghem, Joachim</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Achilles, Delis</td>
+			<td>[DE]</td>
+		</tr><tr><td>688</td>
+			<td>Joelsson, Fredrik</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ayala, Dorian</td>
+			<td>[US]</td>
+		</tr><tr><td>689</td>
+			<td>Valcke, Michiel</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lob, Jonas</td>
+			<td>[DE]</td>
+		</tr><tr><td>690</td>
+			<td>Foster, Chris</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rizzi, Michael</td>
+			<td>[BE]</td>
+		</tr><tr><td>691</td>
+			<td>Van Netten, Ilja</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Irminger, Fabrice</td>
+			<td>[CH]</td>
+		</tr><tr><td>692</td>
+			<td>Sundberg, Teodor</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gariston, Yoan</td>
+			<td>[FR]</td>
+		</tr><tr><td>693</td>
+			<td>Lauryssen, Toon</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Delanghe, Dimitri</td>
+			<td>[BE]</td>
+		</tr><tr><td>694</td>
+			<td>Gibergues, Fabien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Boavida, Pedro</td>
+			<td>[PT]</td>
+		</tr><tr><td>695</td>
+			<td>Moeremans, Mike</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vermandel, Rune</td>
+			<td>[BE]</td>
+		</tr><tr><td>696</td>
+			<td>Tiberi, Michelangelo</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sorensen, Hjalte</td>
+			<td>[DK]</td>
+		</tr><tr><td>697</td>
+			<td>Adel, E.</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schoenberger, Dennis</td>
+			<td>[DE]</td>
+		</tr><tr><td>698</td>
+			<td>Biernaux, Christophe</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Heylen, Natalie</td>
+			<td>[BE]</td>
+		</tr><tr><td>699</td>
+			<td>GUIDEZ, Nicolas</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van De Ven, Gijs</td>
+			<td>[NO]</td>
+		</tr><tr><td>700</td>
+			<td>Kirilov, Kaloyan</td>
+			<td>[BG]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Weiche, Benjamin</td>
+			<td>[DE]</td>
+		</tr><tr><td>701</td>
+			<td>Smith, Lucas</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dahmen, Mark</td>
+			<td>[DE]</td>
+		</tr><tr><td>702</td>
+			<td>Biesmans, Sam</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ek, Niklas</td>
+			<td>[GB]</td>
+		</tr><tr><td>703</td>
+			<td>Sloetjes, Gerben</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Noordzij, Wouter</td>
+			<td>[NL]</td>
+		</tr><tr><td>704</td>
+			<td>Kleikamp, Teije</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dorle, Ludovic</td>
+			<td>[FR]</td>
+		</tr><tr><td>705</td>
+			<td>Sodergren, Christian</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Budde, Christopher</td>
+			<td>[DE]</td>
+		</tr><tr><td>706</td>
+			<td>Marek Vardzik, Marek</td>
+			<td>[SK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Martins, Daniel</td>
+			<td>[PT]</td>
+		</tr><tr><td>707</td>
+			<td>Striegel, Torsten</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Meijers, Vincent</td>
+			<td>[NL]</td>
+		</tr><tr><td>708</td>
+			<td>Arushanyan, Arsen</td>
+			<td>[RU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Freitag, Simon</td>
+			<td>[SE]</td>
+		</tr><tr><td>709</td>
+			<td>Burger, Martin</td>
+			<td>[AT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jacob, Tim</td>
+			<td>[DE]</td>
+		</tr><tr><td>710</td>
+			<td>Howe, Lewis</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Binard, Sebastien</td>
+			<td>[FR]</td>
+		</tr><tr><td>711</td>
+			<td>Skubik, Marcin</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Beauvais, Vivien</td>
+			<td>[FR]</td>
+		</tr><tr><td>712</td>
+			<td>Pignon, Jean-Marie</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>KARL, Gilles</td>
+			<td>[FR]</td>
+		</tr><tr><td>713</td>
+			<td>Van Herrewegen, Siegfried</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wallin, Peter</td>
+			<td>[SE]</td>
+		</tr><tr><td>714</td>
+			<td>Charlet, Thomas</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Richter, Sascha Peter</td>
+			<td>[DE]</td>
+		</tr><tr><td>715</td>
+			<td>Benton, Andrew</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Giuliani, Fabio</td>
+			<td>[IT]</td>
+		</tr><tr><td>716</td>
+			<td>Wolter, Carlo</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Malik, Jake</td>
+			<td>[DE]</td>
+		</tr><tr><td>717</td>
+			<td>Mancuso, Antonino</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Distel, Piotr</td>
+			<td>[PL]</td>
+		</tr><tr><td>718</td>
+			<td>Cagna Vallino, Paolo</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Navin, Aaron</td>
+			<td>[GB]</td>
+		</tr><tr><td>719</td>
+			<td>Schnell, Philipp</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cailleret, Mickael</td>
+			<td>[FR]</td>
+		</tr><tr><td>720</td>
+			<td>Van Rijn, Frank</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>DUVAL, Fabien</td>
+			<td>[FR]</td>
+		</tr><tr><td>721</td>
+			<td>Demmel, Christian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>BEDLEWSKI, Arnaud</td>
+			<td>[FR]</td>
+		</tr><tr><td>722</td>
+			<td>Van Delft, Christiaan</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hengefeld, Jasper</td>
+			<td>[NL]</td>
+		</tr><tr><td>723</td>
+			<td>Venancio, Ricardo</td>
+			<td>[PT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Karpuk, Kalev</td>
+			<td>[EE]</td>
+		</tr><tr><td>724</td>
+			<td>Thur, Marnic</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bengtsson, Mattias</td>
+			<td>[SE]</td>
+		</tr><tr><td>725</td>
+			<td>Muller, Sven</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lesaffre, James</td>
+			<td>[FR]</td>
+		</tr><tr><td>726</td>
+			<td>Holland, Shea</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Burgold, Lino</td>
+			<td>[DE]</td>
+		</tr><tr><td>727</td>
+			<td>Pizzoccheri, Stefano</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rosseel, David</td>
+			<td>[BE]</td>
+		</tr><tr><td>728</td>
+			<td>Martin, Maxime</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Drohberg, Philipp</td>
+			<td>[DE]</td>
+		</tr><tr><td>729</td>
+			<td>Van Der Linden, Leon</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gijs, Kai</td>
+			<td>[BE]</td>
+		</tr><tr><td>730</td>
+			<td>Loffler, Maximilian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Laurent, Adrien</td>
+			<td>[FR]</td>
+		</tr><tr><td>731</td>
+			<td>Melzer, Mats</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>DI GREGORIO, Nicolas</td>
+			<td>[BE]</td>
+		</tr><tr><td>732</td>
+			<td>Doichinov, Yordan</td>
+			<td>[BG]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hauck, Manuel</td>
+			<td>[DE]</td>
+		</tr><tr><td>733</td>
+			<td>Paterok, Daniel</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dubois, Guislain</td>
+			<td>[FR]</td>
+		</tr><tr><td>734</td>
+			<td>Hoi Rasmussen, Mikkel</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mohamud, Ayuub</td>
+			<td>[NL]</td>
+		</tr><tr><td>735</td>
+			<td>Urff, Alexander</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ben Mehidi, Amine</td>
+			<td>[FR]</td>
+		</tr><tr><td>736</td>
+			<td>Soetermanns, Tim</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Massart, Philippe</td>
+			<td>[BE]</td>
+		</tr><tr><td>737</td>
+			<td>Duplouy, Robin</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Claeys, Sam</td>
+			<td>[BE]</td>
+		</tr><tr><td>738</td>
+			<td>Van Audenhove, Kenny</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Silva, Rui</td>
+			<td>[BE]</td>
+		</tr><tr><td>739</td>
+			<td>Kretschmer, Maximilian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pi?eiro, Andres</td>
+			<td>[ES]</td>
+		</tr><tr><td>740</td>
+			<td>Dominguez, Francisco</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Donselaar, Philip</td>
+			<td>[NL]</td>
+		</tr><tr><td>741</td>
+			<td>Breed, Matthijs</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Panchartek, Zbysek</td>
+			<td>[CZ]</td>
+		</tr><tr><td>742</td>
+			<td>Templin, Moritz</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rogiers, Sander</td>
+			<td>[BE]</td>
+		</tr><tr><td>743</td>
+			<td>Schawe, Philipp</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zimmerman, Eric</td>
+			<td>[BE]</td>
+		</tr><tr><td>744</td>
+			<td>Glen, Alasdair</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Buffin, Vincent</td>
+			<td>[FR]</td>
+		</tr><tr><td>745</td>
+			<td>Werkman, Pascal</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Anton, Samojlow</td>
+			<td>[DK]</td>
+		</tr><tr><td>746</td>
+			<td>Phizacklea, Andrew</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>FRUSCIO, ANTOINE</td>
+			<td>[FR]</td>
+		</tr><tr><td>747</td>
+			<td>Vercruysse, Pieter</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Roo, Tom</td>
+			<td>[BE]</td>
+		</tr><tr><td>748</td>
+			<td>Hanzalek, Jan</td>
+			<td>[CZ]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>David, Florent</td>
+			<td>[FR]</td>
+		</tr><tr><td>749</td>
+			<td>Skinstad, Erik</td>
+			<td>[NO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Tank, Chris</td>
+			<td>[DE]</td>
+		</tr><tr><td>750</td>
+			<td>Graf, Cyril</td>
+			<td>[CH]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dominiak, Krzysztof</td>
+			<td>[GB]</td>
+		</tr><tr><td>751</td>
+			<td>COPS, BRAM</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Geffroy, Olivier</td>
+			<td>[FR]</td>
+		</tr><tr><td>752</td>
+			<td>Clobus, Eelco</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Duivesteijn, Mikel</td>
+			<td>[NL]</td>
+		</tr><tr><td>753</td>
+			<td>Peters, Rob</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schmidt, Tim</td>
+			<td>[DE]</td>
+		</tr><tr><td>754</td>
+			<td>Kullmann, Benjamin</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wilde, Sebastian</td>
+			<td>[DE]</td>
+		</tr><tr><td>755</td>
+			<td>Helder, Willem</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>R&Atilde;&sup3;nai, &Atilde;&#129;rp&Atilde;&iexcl;d</td>
+			<td>[HU]</td>
+		</tr><tr><td>756</td>
+			<td>Diallo, Jakob</td>
+			<td>[AT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Moreau, Bertrand</td>
+			<td>[FR]</td>
+		</tr><tr><td>757</td>
+			<td>De Smet, Paul</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Boonen, Lars</td>
+			<td>[BE]</td>
+		</tr><tr><td>758</td>
+			<td>Drapala, Thomas</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Anthony, Pierre</td>
+			<td>[BE]</td>
+		</tr><tr><td>759</td>
+			<td>Matthieu, Ben</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Godinho, Diogo</td>
+			<td>[PT]</td>
+		</tr><tr><td>760</td>
+			<td>Engdahl, Daniel</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bennick, Mathias Ditlev</td>
+			<td>[DK]</td>
+		</tr><tr><td>761</td>
+			<td>Fabio, Finicelli</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Deun, Luca</td>
+			<td>[BE]</td>
+		</tr><tr><td>762</td>
+			<td>Sebastien, Candeliez</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Maisonneuve, Erwan</td>
+			<td>[FR]</td>
+		</tr><tr><td>763</td>
+			<td>Duijst, Dennis</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hansen, Martin</td>
+			<td>[NO]</td>
+		</tr><tr><td>764</td>
+			<td>Jaworski, Dominik</td>
+			<td>[AT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pla, David</td>
+			<td>[ES]</td>
+		</tr><tr><td>765</td>
+			<td>Hauser, Valentin</td>
+			<td>[AT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Serr?o, Pedro</td>
+			<td>[PT]</td>
+		</tr><tr><td>766</td>
+			<td>Llana Ramos, Luis</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Erol, Kayhan</td>
+			<td>[DE]</td>
+		</tr><tr><td>767</td>
+			<td>Stael, Nicolas</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hasslauer, Martin</td>
+			<td>[DE]</td>
+		</tr><tr><td>768</td>
+			<td>Vandevelde, Kevin</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Evensen, Stian</td>
+			<td>[BE]</td>
+		</tr><tr><td>769</td>
+			<td>Tsang, Henry</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schmitz, Daniel</td>
+			<td>[DE]</td>
+		</tr><tr><td>770</td>
+			<td>Hessens, Oliver</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jaques, David</td>
+			<td>[US]</td>
+		</tr><tr><td>771</td>
+			<td>Garcia Esquerdo, Joan</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Maginness, Terence</td>
+			<td>[DE]</td>
+		</tr><tr><td>772</td>
+			<td>Weytens, Thijs</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Blieck, Benny</td>
+			<td>[BE]</td>
+		</tr><tr><td>773</td>
+			<td>Bismo, Ryan</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Roge, Geoffrey</td>
+			<td>[FR]</td>
+		</tr><tr><td>774</td>
+			<td>Maerevoet, Hidde</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vandewiele, Vicky</td>
+			<td>[BE]</td>
+		</tr><tr><td>775</td>
+			<td>Sikora, Tomasz</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rowan, Ellis</td>
+			<td>[GB]</td>
+		</tr><tr><td>776</td>
+			<td>Koch, Rene</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bose, Timur</td>
+			<td>[DE]</td>
+		</tr><tr><td>777</td>
+			<td>Spork, Markus</td>
+			<td>[AT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>FOVET, Sylvain</td>
+			<td>[FR]</td>
+		</tr><tr><td>778</td>
+			<td>Scrocca, Riccardo</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Haan, Floris</td>
+			<td>[NL]</td>
+		</tr><tr><td>779</td>
+			<td>De Pauw, Bart</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mauritz, Marcel-Pascal</td>
+			<td>[DE]</td>
+		</tr><tr><td>780</td>
+			<td>Behm, Dofminik</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Janotta, Timo</td>
+			<td>[DE]</td>
+		</tr><tr><td>781</td>
+			<td>Nattkamp, Florian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hernandez Gomollon, David</td>
+			<td>[ES]</td>
+		</tr><tr><td>782</td>
+			<td>Moller, Tobias</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Basten, Andreas</td>
+			<td>[DE]</td>
+		</tr><tr><td>783</td>
+			<td>Stocking, Christopher</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>JOIRET, Julien</td>
+			<td>[BE]</td>
+		</tr><tr><td>784</td>
+			<td>Karydas, Stavros</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gillies, Adam</td>
+			<td>[GB]</td>
+		</tr><tr><td>785</td>
+			<td>Gruson, Pierre</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Best, Mark</td>
+			<td>[NL]</td>
+		</tr><tr><td>786</td>
+			<td>Diego, Montoto</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Porter, Martin</td>
+			<td>[GB]</td>
+		</tr><tr><td>787</td>
+			<td>Beckmann, Marcel</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hendrikx, Koen</td>
+			<td>[BE]</td>
+		</tr><tr><td>788</td>
+			<td>Miles, Edd</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Enckels, Simon</td>
+			<td>[BE]</td>
+		</tr><tr><td>789</td>
+			<td>LUDE?A, DAVID</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van De Sande, Niels</td>
+			<td>[NL]</td>
+		</tr><tr><td>790</td>
+			<td>Degrave, Clement</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lemaitre, Maxime</td>
+			<td>[BE]</td>
+		</tr><tr><td>791</td>
+			<td>De Canck, Steven</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Belmans, Ben</td>
+			<td>[BE]</td>
+		</tr><tr><td>792</td>
+			<td>Schroder, Marcus</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Moeken, Ed</td>
+			<td>[NL]</td>
+		</tr><tr><td>793</td>
+			<td>Ruegg, Pascal</td>
+			<td>[CH]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Derrider, Benjamin</td>
+			<td>[FR]</td>
+		</tr><tr><td>794</td>
+			<td>Brancewicz, Michal</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Goncharenko, Oleksandr</td>
+			<td>[CZ]</td>
+		</tr><tr><td>795</td>
+			<td>Jansen Van Doorn, Marijn</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Molle, David</td>
+			<td>[NL]</td>
+		</tr><tr><td>796</td>
+			<td>Eigner, Nikolaus</td>
+			<td>[AT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Borostowski, Tim</td>
+			<td>[DE]</td>
+		</tr><tr><td>797</td>
+			<td>Ristovsky, Tom</td>
+			<td>[CZ]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hue, Cyril</td>
+			<td>[FR]</td>
+		</tr><tr><td>798</td>
+			<td>Rodrigo, Jose Antonio</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Grave, Daniel</td>
+			<td>[GB]</td>
+		</tr><tr><td>799</td>
+			<td>Leclercq, Jean-baptiste</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Botten, Dylan</td>
+			<td>[BE]</td>
+		</tr><tr><td>800</td>
+			<td>Nuijten, Joep</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Yvetot, Johann</td>
+			<td>[FR]</td>
+		</tr><tr><td>801</td>
+			<td>Weijers, Stefan</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rappe, Wim</td>
+			<td>[BE]</td>
+		</tr><tr><td>802</td>
+			<td>Facchini, Nullo</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Heynen, Paul</td>
+			<td>[NL]</td>
+		</tr><tr><td>803</td>
+			<td>Olthof, Jan</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cesana, Paolo</td>
+			<td>[IT]</td>
+		</tr><tr><td>804</td>
+			<td>Almgren, Oscar</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Brissy, Gregory</td>
+			<td>[BE]</td>
+		</tr><tr><td>805</td>
+			<td>Maginness, Johnathan</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Neves, Paulo</td>
+			<td>[NL]</td>
+		</tr><tr><td>806</td>
+			<td>Escudero Lopez, Enrique</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Friedli, Johan</td>
+			<td>[CH]</td>
+		</tr><tr><td>807</td>
+			<td>Neves, Pedro</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Klockers, Dominic</td>
+			<td>[DE]</td>
+		</tr><tr><td>808</td>
+			<td>Hellemans, Stefanie</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cooper, Adam</td>
+			<td>[AU]</td>
+		</tr><tr><td>809</td>
+			<td>Vincent, Dixmeras</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cox, Guido</td>
+			<td>[NL]</td>
+		</tr><tr><td>810</td>
+			<td>Manole, Ilona-Ana</td>
+			<td>[RO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>DHAENE, Kris</td>
+			<td>[BE]</td>
+		</tr><tr><td>811</td>
+			<td>Daens, Louis</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cully, Stephen</td>
+			<td>[IE]</td>
+		</tr><tr><td>812</td>
+			<td>Liedorp-Osner, Thomas</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bosgra, Theo</td>
+			<td>[NL]</td>
+		</tr><tr><td>813</td>
+			<td>Michieletti, Alex</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kutscher, Uli</td>
+			<td>[DE]</td>
+		</tr><tr><td>814</td>
+			<td>Kelterbaum, Morgane</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nunes Casal, Toni</td>
+			<td>[DE]</td>
+		</tr><tr><td>815</td>
+			<td>Morhee, Lucas</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Richardson, Julian</td>
+			<td>[BE]</td>
+		</tr><tr><td>816</td>
+			<td>RIBIERE, Jim</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gwiasda, Marc</td>
+			<td>[DE]</td>
+		</tr><tr><td>817</td>
+			<td>Navarro Lozano, Miguel Angel</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Buyser, Ruben</td>
+			<td>[BE]</td>
+		</tr><tr><td>818</td>
+			<td>Bouchonville, Julie</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>WAUTHIER, Jean-Francois</td>
+			<td>[BE]</td>
+		</tr><tr><td>819</td>
+			<td>STANKIEWICZ, Julien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Sorribas, Xavier</td>
+			<td>[ES]</td>
+		</tr><tr><td>820</td>
+			<td>Leguiza, Angeles</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Duroy, Maxence</td>
+			<td>[FR]</td>
+		</tr><tr><td>821</td>
+			<td>Guspini, Manuel</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schriwer, Jens</td>
+			<td>[DE]</td>
+		</tr><tr><td>822</td>
+			<td>Mainardi, Pierre</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schultz, Bj?rn</td>
+			<td>[DK]</td>
+		</tr><tr><td>823</td>
+			<td>Petreski, Samoil</td>
+			<td>[MK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Der Wal, Stef</td>
+			<td>[NL]</td>
+		</tr><tr><td>824</td>
+			<td>Skipper, Simon</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schoot, Ray</td>
+			<td>[NL]</td>
+		</tr><tr><td>825</td>
+			<td>Berger, Joachim Tibor</td>
+			<td>[AT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Beel, Erwin</td>
+			<td>[BE]</td>
+		</tr><tr><td>826</td>
+			<td>Boris, Zlotoiabko</td>
+			<td>[UA]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Brinkman, Martin</td>
+			<td>[NL]</td>
+		</tr><tr><td>827</td>
+			<td>Ng, Dominic</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jeremy, Muller</td>
+			<td>[FR]</td>
+		</tr><tr><td>828</td>
+			<td>Borrnert, Andreas</td>
+			<td>[CH]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Quick, Sander</td>
+			<td>[BE]</td>
+		</tr><tr><td>829</td>
+			<td>Gutierrez, Daniel</td>
+			<td>[IE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cassal, Guillem</td>
+			<td>[US]</td>
+		</tr><tr><td>830</td>
+			<td>Rapetta, Alfredo</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Baskharon, Marcel</td>
+			<td>[DE]</td>
+		</tr><tr><td>831</td>
+			<td>Grootjans, Damian</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hensen, Stijn</td>
+			<td>[BE]</td>
+		</tr><tr><td>832</td>
+			<td>Pereira, Eurico</td>
+			<td>[PT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pavlicek, Miroslav</td>
+			<td>[CZ]</td>
+		</tr><tr><td>833</td>
+			<td>Larsen, Martin</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Hove, Patrick</td>
+			<td>[BE]</td>
+		</tr><tr><td>834</td>
+			<td>Kowalewski, Patrick</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cogan, Mark</td>
+			<td>[FR]</td>
+		</tr><tr><td>835</td>
+			<td>Verpoorten, Olivier</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Weultjes, Johan</td>
+			<td>[NL]</td>
+		</tr><tr><td>836</td>
+			<td>Bunjes, Guido</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nguyen, Anh Duc</td>
+			<td>[DE]</td>
+		</tr><tr><td>837</td>
+			<td>Vandenborre, Wim</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schlupen, Lucas</td>
+			<td>[DE]</td>
+		</tr><tr><td>838</td>
+			<td>Belli, Benjamin</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schwarzkopf, Tom</td>
+			<td>[DE]</td>
+		</tr><tr><td>839</td>
+			<td>Castejon Bravo, Daniel</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Berio, Davide</td>
+			<td>[IT]</td>
+		</tr><tr><td>840</td>
+			<td>Broerse, Lien</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Longree, Benjamin</td>
+			<td>[BE]</td>
+		</tr><tr><td>841</td>
+			<td>Casiez, Ludo</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Jong, Manon</td>
+			<td>[NL]</td>
+		</tr><tr><td>842</td>
+			<td>Wang, Olivier</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schmitz, Sascha</td>
+			<td>[DE]</td>
+		</tr><tr><td>843</td>
+			<td>Pitaru, Vlad</td>
+			<td>[RO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Eckhard, Linus</td>
+			<td>[DE]</td>
+		</tr><tr><td>844</td>
+			<td>Brian, Halsdorf</td>
+			<td>[LU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vasselle, Mortimer</td>
+			<td>[FR]</td>
+		</tr><tr><td>845</td>
+			<td>Van Hoof, Steven</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Der Staak, Daniel</td>
+			<td>[NL]</td>
+		</tr><tr><td>846</td>
+			<td>Crosnier, Jonathan</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Morth, John</td>
+			<td>[AT]</td>
+		</tr><tr><td>847</td>
+			<td>Grigull, Michael</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Degelaen, Jerome</td>
+			<td>[BE]</td>
+		</tr><tr><td>848</td>
+			<td>Hanski, Marek</td>
+			<td>[PL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van, Thanh</td>
+			<td>[BE]</td>
+		</tr><tr><td>849</td>
+			<td>Deseau, Johan</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Doyle, Nathan</td>
+			<td>[GB]</td>
+		</tr><tr><td>850</td>
+			<td>Calder, Lewis</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Romero, Vicente</td>
+			<td>[DE]</td>
+		</tr><tr><td>851</td>
+			<td>Put, Jonathan</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Matthijsse, Martin</td>
+			<td>[NL]</td>
+		</tr><tr><td>852</td>
+			<td>De Pryck, Vincent</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Schauwers, Romain</td>
+			<td>[BE]</td>
+		</tr><tr><td>853</td>
+			<td>De Jong, Wilberto</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van De Noort, Sander</td>
+			<td>[NL]</td>
+		</tr><tr><td>854</td>
+			<td>Wahl, Raphael</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Forsberg Grivogiannis, Iris</td>
+			<td>[SE]</td>
+		</tr><tr><td>855</td>
+			<td>Laurent, Sebastien</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Matsson, Edvin</td>
+			<td>[SE]</td>
+		</tr><tr><td>856</td>
+			<td>Andersen, Martin</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pawlaczyk, Francois</td>
+			<td>[BE]</td>
+		</tr><tr><td>857</td>
+			<td>Liver?d, Andre Agang</td>
+			<td>[NO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bleys, Tony</td>
+			<td>[BE]</td>
+		</tr><tr><td>858</td>
+			<td>Verschaeren, Sarah</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Baydar, Tansel</td>
+			<td>[DE]</td>
+		</tr><tr><td>859</td>
+			<td>Bogaert, Stijn</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Erdogan, Bekir</td>
+			<td>[BE]</td>
+		</tr><tr><td>860</td>
+			<td>De Visscher, Arnaud</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Taylor, Paul</td>
+			<td>[GB]</td>
+		</tr><tr><td>861</td>
+			<td>Pflueger, Daniel</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Joachim, Gossiaux</td>
+			<td>[BE]</td>
+		</tr><tr><td>862</td>
+			<td>Dinescu, Fabian</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mulders, Joost</td>
+			<td>[NL]</td>
+		</tr><tr><td>863</td>
+			<td>Vandermeersch, Marijn</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rodriguez, Mariano</td>
+			<td>[ES]</td>
+		</tr><tr><td>864</td>
+			<td>Becker, Nicolas</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bergstrom, Wictor</td>
+			<td>[SE]</td>
+		</tr><tr><td>865</td>
+			<td>Popovic, Andria</td>
+			<td>[AT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Klose, Niels</td>
+			<td>[DE]</td>
+		</tr><tr><td>866</td>
+			<td>Matteo, Lucian</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Zuidberg, Matthijs</td>
+			<td>[NL]</td>
+		</tr><tr><td>867</td>
+			<td>Rossbander, Ilja</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Claudel, Maxime</td>
+			<td>[FR]</td>
+		</tr><tr><td>868</td>
+			<td>Berio, Massimo</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schuring, Arjan</td>
+			<td>[NL]</td>
+		</tr><tr><td>869</td>
+			<td>Van Velzen, Erwin</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Alickovic, Emir</td>
+			<td>[LU]</td>
+		</tr><tr><td>870</td>
+			<td>Murphy, Anthony</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kieger, Thomas</td>
+			<td>[FR]</td>
+		</tr><tr><td>871</td>
+			<td>vanvelthoven, jonas</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Heckers, Jomme</td>
+			<td>[NL]</td>
+		</tr><tr><td>872</td>
+			<td>Waldt, Tobias</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Castermans, Nicky</td>
+			<td>[BE]</td>
+		</tr><tr><td>873</td>
+			<td>Van Den Hauwe, Kendall</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Depickere, Wim</td>
+			<td>[BE]</td>
+		</tr><tr><td>874</td>
+			<td>Haul, Carolin</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mori, Roger</td>
+			<td>[CH]</td>
+		</tr><tr><td>875</td>
+			<td>Gadeyne, Kenneth</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lally, Wolf</td>
+			<td>[NL]</td>
+		</tr><tr><td>876</td>
+			<td>Pison, Remi</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Da Silva-Lundgren, Noel</td>
+			<td>[SE]</td>
+		</tr><tr><td>877</td>
+			<td>Denolf, Karel</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Morel, Augustin</td>
+			<td>[FR]</td>
+		</tr><tr><td>878</td>
+			<td>Margalida, Florence</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Muller, Andre</td>
+			<td>[DE]</td>
+		</tr><tr><td>879</td>
+			<td>Van Veenendaal, Wendy</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>SOPHIE, BEAUFILS</td>
+			<td>[FR]</td>
+		</tr><tr><td>880</td>
+			<td>Nielsen, Jacob N?rholm</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Foulkes, Matthew</td>
+			<td>[GB]</td>
+		</tr><tr><td>881</td>
+			<td>Choi, Keith</td>
+			<td>[HK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Stanek, Adrian</td>
+			<td>[DE]</td>
+		</tr><tr><td>882</td>
+			<td>Gorissen, Bastien</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Strobach, Patrick</td>
+			<td>[DE]</td>
+		</tr><tr><td>883</td>
+			<td>Wijnandt, Sven</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wouters, Michael</td>
+			<td>[BE]</td>
+		</tr><tr><td>884</td>
+			<td>Timmermans, Ron</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kratzsch, Alexander</td>
+			<td>[DE]</td>
+		</tr><tr><td>885</td>
+			<td>Baes, Kris</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Nicolli, Francesco</td>
+			<td>[IT]</td>
+		</tr><tr><td>886</td>
+			<td>Minahan, Keane</td>
+			<td>[IE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schaffert, David</td>
+			<td>[DE]</td>
+		</tr><tr><td>887</td>
+			<td>Guastella, Francesco</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Seils, Normann</td>
+			<td>[DE]</td>
+		</tr><tr><td>888</td>
+			<td>Hulldin, Erik</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Savat, Giovanni</td>
+			<td>[BE]</td>
+		</tr><tr><td>889</td>
+			<td>Logisch, Arne</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Farto, Vasco</td>
+			<td>[CH]</td>
+		</tr><tr><td>890</td>
+			<td>Aurelien, Decomble</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Novak, Sascha</td>
+			<td>[DE]</td>
+		</tr><tr><td>891</td>
+			<td>Halme, Joonas</td>
+			<td>[FI]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>France, Julien</td>
+			<td>[FR]</td>
+		</tr><tr><td>892</td>
+			<td>Bach, Adam</td>
+			<td>[LU]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Kalter, Phil</td>
+			<td>[NL]</td>
+		</tr><tr><td>893</td>
+			<td>Schreutelkamp, Menno</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Fink, Tim</td>
+			<td>[DE]</td>
+		</tr><tr><td>894</td>
+			<td>Hawkins, Chris</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Levenstone, Nahim</td>
+			<td>[NL]</td>
+		</tr><tr><td>895</td>
+			<td>Debruyne, David</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rudge, Nathan</td>
+			<td>[GB]</td>
+		</tr><tr><td>896</td>
+			<td>Feys, Guillaume</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Cabo Menendez, Roberto</td>
+			<td>[ES]</td>
+		</tr><tr><td>897</td>
+			<td>Looper, Christopher</td>
+			<td>[US]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bousquet, Pierre</td>
+			<td>[FR]</td>
+		</tr><tr><td>898</td>
+			<td>Heisel, Guido</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Hubbard, John</td>
+			<td>[GB]</td>
+		</tr><tr><td>899</td>
+			<td>Bosman, Bram</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Groot, Fabian</td>
+			<td>[NL]</td>
+		</tr><tr><td>900</td>
+			<td>Vandevelde, Tom</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lhomme, Steeve</td>
+			<td>[BE]</td>
+		</tr><tr><td>901</td>
+			<td>De Boer, Martijn</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Breukelen, Vincent</td>
+			<td>[NL]</td>
+		</tr><tr><td>902</td>
+			<td>Aleksandrov, Juri</td>
+			<td>[EE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Jansemme, Denis</td>
+			<td>[BE]</td>
+		</tr><tr><td>903</td>
+			<td>Rayner, James</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Mytych, Francois</td>
+			<td>[FR]</td>
+		</tr><tr><td>904</td>
+			<td>Herr, Beren</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Andrea, Casamenti</td>
+			<td>[IT]</td>
+		</tr><tr><td>905</td>
+			<td>Hopkins, William</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Bartolome, Leo</td>
+			<td>[FR]</td>
+		</tr><tr><td>906</td>
+			<td>Timmermans, Hidde</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Von Schacky, Antonio</td>
+			<td>[DE]</td>
+		</tr><tr><td>907</td>
+			<td>Fosen, Katharina</td>
+			<td>[AT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Rimmer, Ben</td>
+			<td>[GB]</td>
+		</tr><tr><td>908</td>
+			<td>Galletti, Michele</td>
+			<td>[IT]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Simon, Laurent</td>
+			<td>[BE]</td>
+		</tr><tr><td>909</td>
+			<td>Van De Gevel, Axel</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De Jong, Jeroen</td>
+			<td>[NL]</td>
+		</tr><tr><td>910</td>
+			<td>Andersen, Brian</td>
+			<td>[DK]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Ottaviani, Lorenzo</td>
+			<td>[IT]</td>
+		</tr><tr><td>911</td>
+			<td>Douque, Tobias</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Logchem, Deena</td>
+			<td>[NL]</td>
+		</tr><tr><td>912</td>
+			<td>Oomens, Wouter</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Pinkster, Wilco</td>
+			<td>[NL]</td>
+		</tr><tr><td>913</td>
+			<td>Kriaras, Stergios</td>
+			<td>[GR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Wudarski, Jakub</td>
+			<td>[NL]</td>
+		</tr><tr><td>914</td>
+			<td>Gillberg, Jonas</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Dewit, Olivier</td>
+			<td>[BE]</td>
+		</tr><tr><td>915</td>
+			<td>Leifeld, Marcel</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>JANON, Quentin</td>
+			<td>[FR]</td>
+		</tr><tr><td>916</td>
+			<td>Leren, H?vard</td>
+			<td>[NO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Moittie, Cyril</td>
+			<td>[FR]</td>
+		</tr><tr><td>917</td>
+			<td>Sulzer, J&Atilde;&copy;r&Atilde;&copy;my</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Romanski, Stefan</td>
+			<td>[DE]</td>
+		</tr><tr><td>918</td>
+			<td>Hammarstrom, Teodor</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Turkoglu, Umut</td>
+			<td>[DE]</td>
+		</tr><tr><td>919</td>
+			<td>Koster, Jeroen</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Lazarides, Nicolas</td>
+			<td>[GB]</td>
+		</tr><tr><td>920</td>
+			<td>Hvan, Igor</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Banach, Kamil</td>
+			<td>[PL]</td>
+		</tr><tr><td>921</td>
+			<td>Bos, Roelof</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>De La Paz, Joaquin</td>
+			<td>[ES]</td>
+		</tr><tr><td>922</td>
+			<td>Jacquay, Seth</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>SEGUES, CARLES</td>
+			<td>[AD]</td>
+		</tr><tr><td>923</td>
+			<td>De Bernardo, Stephane</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Clarys, Steve</td>
+			<td>[BE]</td>
+		</tr><tr><td>924</td>
+			<td>Pavlicek, Jan</td>
+			<td>[CZ]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Vaillemans, Tim</td>
+			<td>[BE]</td>
+		</tr><tr><td>925</td>
+			<td>Waara, Anton</td>
+			<td>[SE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Barni, Massimo</td>
+			<td>[IT]</td>
+		</tr><tr><td>926</td>
+			<td>Bongers, Imke</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Culot, Olivier</td>
+			<td>[BE]</td>
+		</tr><tr><td>927</td>
+			<td>Van Driel, Xem</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Fernandez, Omar</td>
+			<td>[ES]</td>
+		</tr><tr><td>928</td>
+			<td>Augustyn, Marc</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Von Keller, Florian</td>
+			<td>[DE]</td>
+		</tr><tr><td>929</td>
+			<td>Gustavsen, Magnus</td>
+			<td>[NO]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Schulz, Christoph</td>
+			<td>[DE]</td>
+		</tr><tr><td>930</td>
+			<td>Kapetanakis, Nasos</td>
+			<td>[GB]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Buelens, Dirk</td>
+			<td>[BE]</td>
+		</tr><tr><td>931</td>
+			<td>Himpens, Tycho</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Desmedt, Guillaume</td>
+			<td>[BE]</td>
+		</tr><tr><td>932</td>
+			<td>Monsieur, David</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Dommelen, Fabian</td>
+			<td>[NL]</td>
+		</tr><tr><td>933</td>
+			<td>Iglesias Irun, Ignacio</td>
+			<td>[ES]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Warling, Pekka</td>
+			<td>[BE]</td>
+		</tr><tr><td>934</td>
+			<td>Embrechts, Kevin</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Fischmann, Lars</td>
+			<td>[DK]</td>
+		</tr><tr><td>935</td>
+			<td>Dittmann, Ralf</td>
+			<td>[DE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Gaspard, Alexandre</td>
+			<td>[FR]</td>
+		</tr><tr><td>936</td>
+			<td>Sijses, Tedo</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Stieber, Steffen</td>
+			<td>[DE]</td>
+		</tr><tr><td>937</td>
+			<td>Vaes, Jules</td>
+			<td>[NL]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Janssen, Gr&Atilde;&copy;gory</td>
+			<td>[BE]</td>
+		</tr><tr><td>938</td>
+			<td>Masschelein, Clarck</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Holfelner, Sebastian</td>
+			<td>[DE]</td>
+		</tr><tr><td>939</td>
+			<td>Denaux, Cecile</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Galand, Nathan</td>
+			<td>[BE]</td>
+		</tr><tr><td>940</td>
+			<td>Simeon, Fabrice</td>
+			<td>[FR]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Van Der Veer, Niels</td>
+			<td>[NL]</td>
+		</tr><tr><td>941</td>
+			<td>Kelterbaum, Catherine</td>
+			<td>[BE]</td>
+			<td>pending</td>
+			<td>vs.</td>
+			<td>Burny, Anouk</td>
+			<td>[BE]</td>
+		</tr></tbody></table></body></html>
+      </div>
+
+      <!-- BEGIN :: Article footer -->
+      <div class="article-footer">
+        <p class="posted-in">
+          Posted in          <strong class="breadcrumb-no-link">Event Coverage</strong>
+          on November 14, 2015        </p>
+      </div>
+      <!-- END :: Article footer -->
+
+    </article>
+  </div>
+
+  <!-- BEGIN :: ASIDE -->
+        <aside>
+      <div class="aside-wrapper">
+        
+
+            <h2><span>FEATURED ARTICLES</span></h2>
+      <div class="articles-bloc">
+            <div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/uvddkUU1DO_dmu_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/daily-magic-update/update-2016-08-10" class="cat">DAILY MAGIC UPDATE</a>
+      <p class="date">August 10, 2016</p>
+      <a href="/en/articles/archive/daily-magic-update/update-2016-08-10" class="title">The August 10, 2016 Update</a>
+              <a href="/en/articles/archive/daily-magic-update/update-2016-08-10" class="auth">Blake Rasmussen</a>
+      
+      <div class="infos">
+                  <p>The Daily Magic Update is a roundup of everything you should know for today from throughout the Magic community.
+</p>
+                <p><a href="/en/articles/archive/daily-magic-update/update-2016-08-10" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div><div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/WtP20160809_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/ways-play/kitchen-table-friday-night-magic-2016-08-09" class="cat">WAYS TO PLAY</a>
+      <p class="date">August 9, 2016</p>
+      <a href="/en/articles/archive/ways-play/kitchen-table-friday-night-magic-2016-08-09" class="title">From the Kitchen Table to Friday Night Magic</a>
+              <a href="/en/articles/archive/ways-play/kitchen-table-friday-night-magic-2016-08-09" class="auth">Quinn Murphy</a>
+      
+      <div class="infos">
+                  <p>The kitchen table is great, but where should you look if you want to broaden your Magic community?
+</p>
+                <p><a href="/en/articles/archive/ways-play/kitchen-table-friday-night-magic-2016-08-09" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div><div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/WtP20160809_icon_0.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/ways-play/attending-your-first-grand-prix-2016-08-09" class="cat">WAYS TO PLAY</a>
+      <p class="date">August 9, 2016</p>
+      <a href="/en/articles/archive/ways-play/attending-your-first-grand-prix-2016-08-09" class="title">Attending Your First Grand Prix</a>
+              <a href="/en/articles/archive/ways-play/attending-your-first-grand-prix-2016-08-09" class="auth">Maria Bartholdi</a>
+      
+      <div class="infos">
+                  <p>Thinking of taking the leap and joining your first Grand Prix? Maria thinks you should go for it, and she's here to tell you why.
+</p>
+                <p><a href="/en/articles/archive/ways-play/attending-your-first-grand-prix-2016-08-09" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div>          </div>
+                  
+      <div class="articles-bloc">
+    <div class="article static pub-event "
+         style="background-image: url(http://magic.wizards.com/sites/mtg/files/Ad_FNM_Crumbling-Vestige.jpg)">
+      <div class="wrap details">
+                  <img src="http://magic.wizards.com/sites/mtg/files/Ad_Logo_FNM.png" />
+                <p class="date"></p>
+                  <p class="description">Battle against your friends and you could earn a Promo Crumbling Vestige!</p>
+                          <p>
+            <a class="learn-more " href="http://magic.wizards.com/en/events/event-types/friday-night-magic" data-video-url="">
+              More Info            </a>
+          </p>
+              </div>
+    </div>
+  </div>
+      
+      <h2><span>GAME DAY</span></h2>
+      <div class="articles-bloc">
+    <div class="article static pub-event "
+         style="background-image: url(http://magic.wizards.com/sites/mtg/files/Ad_EMN_Key-Art.jpg)">
+      <div class="wrap details">
+                  <img src="http://magic.wizards.com/sites/mtg/files/Ad_Logo_EMN.png" />
+                <p class="date"></p>
+                  <p class="description">Become the Champion of your favorite game store this weekend at Game Day!</p>
+                          <p>
+            <a class="learn-more " href="http://magic.wizards.com/en/events/event-types/gameday" data-video-url="">
+              More Info            </a>
+          </p>
+              </div>
+    </div>
+  </div>
+                </div>
+    </aside>
+    <!-- END :: ASIDE -->
+
+  
+  <h2><span>Latest Event Coverage Articles</span></h2>
+  <div class="articles-bloc releated">
+
+              <div class="article">
+          <div class="wrap">
+                          <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/essay_hero.jpg);"></div>
+                        <div class="details">
+                              <a href="#" class="cat">PRO TOUR ELDRITCH MOON</a>
+                            <p class="date">August 7, 2016</p>
+              <a href="#" class="title">Pro Tour Eldritch Moon Photo Essay</a>
+                              <a href="#" class="auth">by, Ray “blisterguy” Walkinshaw</a>
+                            <div class="infos">
+                                  <p>There's always so much more to a Pro Tour than you see on the website or social media or the live stream, so we've collected some of Pro Tour Photographer Craig Gibson's more interesting ...</p>
+                                <p><a href="/en/events/coverage/ptemn/pro-tour-eldritch-moon-photo-essay-2016-08-07" class="learn-more">Learn More</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="article">
+          <div class="wrap">
+                          <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/PT_Icon_Top_Moments.jpg);"></div>
+                        <div class="details">
+                              <a href="#" class="cat">PRO TOUR ELDRITCH MOON</a>
+                            <p class="date">August 7, 2016</p>
+              <a href="#" class="title">TOP 5 MOMENTS</a>
+                              <a href="#" class="auth">by, Chapman Sim</a>
+                            <div class="infos">
+                                  <p>Pro Tour Eldritch Moon was unforgettable for numerous reasons, but here are the most rousing memories that we feel should be preserved in the annals of time. Let's take a quick trip down ...</p>
+                                <p><a href="/en/events/coverage/ptemn/top-5-moments-2016-08-07" class="learn-more">Learn More</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+            <div class="article static">
+        <div class="wrap">
+          <div class="visual" style="background-image: url(http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/reconstructedArchive.jpg);"></div>
+          <div class="details">
+            <p class="title"><span>Articles</span></p>
+            <div class="details">
+              <p class="title"><span>Articles</span></p>
+              <p class="sub-title">Event Coverage Archive</p>
+              <div class="infos">
+                <p>Consult the archives for more articles!</p>
+                <p><a href="/en/articles/archive" class="learn-more">See All</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+
+</div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+  </div>
+
+  <!-- Footer -->
+    <footer>
+    <div id="back-to-top">
+      <a href="#viewport">Back to top</a>
+    </div>
+    <div id="where-to-buy">
+      <div class="content page-width">
+        <form action="/en/events/coverage/gpbru15/round-2-results-2015-11-14" method="post" id="wiz-store-and-event-locator-search-form--2" accept-charset="UTF-8"><div><div class="intro"><div class="wrap"><h5>Where to Play and Buy</h5><p>Find a location to buy or play<br />Magic: The Gathering near you.</p></div></div><div class="form"><div class="wrap"><span class="column zip-code"><div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Enter your city or postal code" type="text" id="edit-search-string--4" name="search-string" value="" size="25" maxlength="128" class="form-text" />
+</div>
+</span><span class="column actions"><button class="action-button" type="submit">Find Now !</button></span></div></div><input class="hide form-submit" type="submit" id="edit-search-button--4" name="op" value="Find Now" /><input type="hidden" name="form_build_id" value="form-IdCtQ6neajCINOYGJY5KV1U_Ta08uChpVWh8pFY3Z5Q" />
+<input type="hidden" name="form_id" value="wiz_store_and_event_locator_search_form" />
+</div></form>      </div>
+    </div>
+
+    <div class="main-footer">
+      <div class="content page-width">
+        <div class="text">
+                      <div id="locale-select">
+              <label for="locale-select-ddl">Select your language:</label>
+
+              <div class="select-wrapper">
+                <select id="locale-select-ddl">
+                  <option value="/zh-hans" >简体中文</option><option value="/zh-hant" >繁體中文</option><option value="/fr" >Français</option><option value="/de" >Deutsch</option><option value="/it" >Italiano</option><option value="/ja" >日本語</option><option value="/ko" >한국어</option><option value="/pt-br" >Português (Brasil)</option><option value="/ru" >Русский</option><option value="/es" >Español</option><option value="/en" selected>English</option>                </select>
+              </div>
+            </div>
+          
+          
+
+      <p class="brand-family-title">Wizards Brand Family</p>
+    <p class="brand-family-menu"><a href="http://magic.wizards.com" target="_blank">magic</a> <em>|</em> <a href="http://www.wizards.com/dnd" target="_blank">d&amp;d</a> <em>|</em> <a href="http://www.wizards.com/wpn" target="_blank">wpn</a> <em>|</em> <a href="http://dm.takaratomy.co.jp" target="_blank">duel masters</a> <em>|</em> <a href="http://www.wizards.com/default.asp?x=ah/welcome" target="_blank">avalon hill</a></p>
+  <p><a href="http://company.wizards.com/tou" target="_blank">Terms of Use</a> <em>|</em> <a href="http://company.wizards.com/conduct" target="_blank">Code of Conduct</a> <em>|</em> <a href="http://company.wizards.com/policy" target="_blank">Privacy Policy</a> <em>|</em> <a href="http://www.wizards.com/customerservice" target="_blank">Customer Service</a> <em>|</em> <a href="/en/articles/archive/our-cookie-policy-2013-10-28">Cookies</a></p>
+  <p class="copyright">© 1995-2016 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved.</p>
+
+        </div>
+        
+
+      <p class="logo wizard">
+      <a href="http://company.wizards.com"
+         target="_blank"
+         title="Wizards of the Coast"
+        ><img src="/sites/all/themes/wiz_mtg/img/interface/wizard-of-the-coast-logo.png" alt="Wizards of the Coast" /></a>
+    </p>
+  
+      <p class="logo hasbro">
+      <a href="http://www.hasbro.com"
+         target="_blank"
+         title="Hasbro"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/hasbro-logo.svg" alt="Hasbro" /></a>
+    </p>
+  
+      <p class="logo privacy">
+      <a href="http://www.esrb.org/confirm/wizards-confirmation.aspx"
+         target="_blank"
+         title="ESRB Privacy Certified"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/esrb-badge.png" alt="ESRB Privacy Certified" /></a>
+    </p>
+  
+      </div>
+    </div>
+  </footer>
+  </div>
+
+<div id="cookies-warning">
+	<div class="wrap page-width">
+		<div class="text">
+			<p>
+        We use cookies on this site to enhance your user experience. By clicking any link on this page or by clicking <strong>Yes</strong>, you are giving your consent for us to set cookies.        <a href="http://company.wizards.com/policies/web/cookie" target="_blank"> (Learn more about cookies)</a>
+      </p>
+		</div>
+		<p class="actions">
+			<button type="button" class="button agree">Yes, I agree</button>
+			<a href="http://company.wizards.com/policies/web/cookie" target="_blank" class="button disagree">No, I want to find out more</a>
+		</p>
+	</div>
+</div>      <div class="region region-page-bottom">
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>  </div>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_oi0ujkYeWtu_4YlJE5uYvltQ88urtOHuaNRm2scTWco.js"></script>
+  </div>
+
+	<!-- Crazy Egg -->
+	<script type="text/javascript">
+		setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName("script")[0];
+		a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0009/9185.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+	</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d92d812ac7","applicationID":"22111946","transactionName":"YVNXMkcAD0sHAUdcXFgZdAVBCA5WSRJSUlZpW1QIVAYESjkMXFFWaUBcA0I+EVkBBw==","queueTime":0,"applicationTime":878,"atts":"TRRURA8aHEU=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

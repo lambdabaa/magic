@@ -1,0 +1,5558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+  <title>ROUND 1 RESULTS | MAGIC: THE GATHERING</title>
+
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"/>
+  <meta name="format-detection" content="telephone=no"/>
+	<meta name="google-site-verification" content="WquIfqfWtlm2X62GTeJ-5vDtRrbOVOIT6mFc3vAP5BQ" />
+
+  <link rel="icon" type="image/png" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/sites/all/themes/wiz_mtg/icons/favicon.ico"/>
+  <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/wiz_mtg/icons/touch-icon-57.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/wiz_mtg/icons/touch-icon-72.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/wiz_mtg/touch-icon-114.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://magic.wizards.com/sites/all/themes/wiz_mtg/favicon.ico" type="image/vnd.microsoft.icon" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://magic.wizards.com/en/events/coverage/gpsd15/round-1-results-2015-08-08" />
+<link rel="shortlink" href="http://magic.wizards.com/en/node/443066" />
+<meta property="og:site_name" content="MAGIC: THE GATHERING" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://magic.wizards.com/en/events/coverage/gpsd15/round-1-results-2015-08-08" />
+<meta property="og:title" content="ROUND 1 RESULTS" />
+<meta property="og:image" content="http://magic.wizards.com/sites/mtg/files/images/hero/DailyMTG_Generic_Icon.jpg" />
+  <link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_DHcXHPYBSjIVaCQZEG4ZlpLkvslnFlBCnQUCzlbRBio.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_jqLG8JVbJuXMDDISe4UsZMUj_1qh-z0BGGAnA4OQvrA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_IIxgQdBS3hICu6Ps9jWiboRWYhCChZSb8zy58PRgH-8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://magic.wizards.com/sites/mtg/files/css/css_sELblXm0HE9iYxNNwDufKAxxNQ7ZkF6_ABbBSpg1HBE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/1.10.5/css/jquery.dataTables.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/responsive/1.0.4/css/dataTables.responsive.css" media="all" />
+  <script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_melyhmK_eh6sYXp2z9ljBIs419nCvgG6X4XWQKGJjng.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_yRh3TUp_QoC2vC9PitxLvVXRHsQUtJt-ObNFP_v6h-k.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_1swqkjOwmrPjTNzECJhtuekK-QJ_S5vc3xlUxa4gvEI.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_V7ygvngkUS6TCF6pK434j1Pj29d0hmeDnqUTPlcHIsw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-15020098-13", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "pathToTheme": "sites/all/themes/wiz_mtg" });
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://accounts.wizards.com/Widget/Widget.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_tuIsI7hTJyYf1XxjjnXVjPFwG177VUndBDGTmD13oH0.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_JIa4YdILIwnQQfsYZSjX1gz9IUt6emOIXEvyA44TWDI.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/responsive/1.0.4/js/dataTables.responsive.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"wiz_mtg","theme_token":"EPNcbzC-6oK0oA9xed0MKu-GpOujk0u9VHHzHf_WVA4","jquery_version":"1.8","js":{"sites\/all\/themes\/wiz_mtg\/js\/ShareButton.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/masonry.pkgd.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/wiz_autocard.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/d3.v3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.charts.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/wiz_decklist_filter\/js\/wiz_decklist_filter.js":1,"sites\/all\/modules\/custom\/wiz_show_period\/js\/moment.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper-2.1.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper.scrollbar-2.1.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/custom.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/deletecookies.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"https:\/\/accounts.wizards.com\/Widget\/Widget.js":1,"sites\/all\/modules\/custom\/wiz_npsu\/js\/npsu_widget.js":1,"sites\/all\/themes\/wiz_mtg\/js\/image-comparison-slider.js":1,"sites\/all\/libraries\/foresee\/foresee-trigger.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery-ui.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/content-gallery-grid\/modernizr.custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.fancybox.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.scrollbar.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.mmenu.oncanvas.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.columnlist.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/dropdown.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/owl.carousel.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/stacktable.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/arketype.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-homepage-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-event-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/interstitials.js":1,"sites\/all\/themes\/wiz_mtg\/js\/community.js":1,"sites\/all\/themes\/wiz_mtg\/js\/inline-features.js":1,"sites\/all\/themes\/wiz_mtg\/js\/MainMenu.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ParallaxBackground.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ShowHideListItems.js":1,"sites\/all\/themes\/wiz_mtg\/js\/core.js":1,"sites\/all\/themes\/wiz_mtg\/js\/mx.js":1,"\/\/cdn.datatables.net\/1.10.5\/js\/jquery.dataTables.min.js":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/js\/dataTables.responsive.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.scrollbar.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/chartbeat\/chartbeat.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/wiz_npsu\/css\/npsu.css":1,"sites\/all\/modules\/custom\/wiz_npsu_mtg\/css\/npsu_mtg.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery-ui-mod.css":1,"sites\/all\/themes\/wiz_mtg\/css\/owl.carousel.css":1,"sites\/all\/themes\/wiz_mtg\/css\/scrollbars.css":1,"sites\/all\/themes\/wiz_mtg\/css\/fonts.css":1,"sites\/all\/themes\/wiz_mtg\/css\/core.css":1,"sites\/all\/themes\/wiz_mtg\/css\/header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/footer.css":1,"sites\/all\/themes\/wiz_mtg\/css\/page-header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/medias.css":1,"sites\/all\/themes\/wiz_mtg\/css\/search.css":1,"sites\/all\/themes\/wiz_mtg\/css\/decklist.css":1,"sites\/all\/themes\/wiz_mtg\/css\/articles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/game-info.css":1,"sites\/all\/themes\/wiz_mtg\/css\/events.css":1,"sites\/all\/themes\/wiz_mtg\/css\/community.css":1,"sites\/all\/themes\/wiz_mtg\/css\/mx.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/immersive.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/interstitials.css":1,"sites\/all\/themes\/wiz_mtg\/css\/styles-extended.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacy.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacyStyles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/_theme-override.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic":1,"\/\/cdn.datatables.net\/1.10.5\/css\/jquery.dataTables.css":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/css\/dataTables.responsive.css":1}},"chartbeat":{"uid":51341,"domain":"http:\/\/magiccv2stg.prod.acquia-sites.com\/","useCanonical":true,"noCookies":false},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":330,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"wiz_core":{"wiz_core_switch_in_days":14,"wiz_core_switch_in_visits":10,"wiz_core_switch_b_path":"home"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"npsu_widget":{"enabled":true,"logged_in":"false"},"urlIsAjaxTrusted":{"\/en\/events\/coverage\/gpsd15\/round-1-results-2015-08-08":true}});
+//--><!]]>
+</script>
+
+  
+        <style>
+      @media all {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png) no-repeat;
+          background-size: 100% 100px;
+
+        }
+        #mobile-menu .header .logo a {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 100%;
+        }
+        #page.snap-menu header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+      @media (max-width: 1200px) {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+    </style>
+  	
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-443066 node-type-article i18n-en content-non-panels role-anonymous-user with-subnav page-events-coverage-gpsd15-round-1-results-2015-08-08 section-events" >
+  <script>
+  /* Interstitials variables */
+  var Interstitials = {
+    list: [
+                        ]
+  };
+  </script>
+
+  <div id="page" class="section_articles article_detail">
+    
+        <div id="mobile-menu">
+  <div class="header">
+    <div class="logo"></div>
+    <div class="toggle-menu-button"></div>
+  </div>
+  <nav>
+    <div class="menu-wrapper" data-back-label="Back"></div>
+  </nav>
+</div>
+
+<div id="viewport">
+  <!-- Header -->
+  <header>
+    <div class="wrapper">
+      <div id="utils">
+        <a href="http://locator.wizards.com/" class="locator">Locator</a> <a href="http://gatherer.wizards.com" class="gatherer">Card Database</a>        <a href="/en" title="Sign In" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;SignIn&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showLoginModal();" id="SignInButton" class="login">Sign In</a> | <a href="/en" title="Sign Up" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Signup&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;]); return wotcAccountWidget.showJoinModal();" id="RegisterButton" class="register">Sign Up</a>        <div id="search-form">
+          <form action="/en/events/coverage/gpsd15/round-1-results-2015-08-08" method="post" id="wiz-search-bar-form--2" accept-charset="UTF-8"><div><input type="hidden" name="search-site" value="acquia_search" />
+<div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Search Anything" type="text" id="edit-search-string--3" name="search-string" value="" size="25" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-search-button--3" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-48V0RZk6QFN7WZgtHSUyh5gzUe9cuxZEfv1UR9oybzM" />
+<input type="hidden" name="form_id" value="wiz_search_bar_form" />
+</div></form>        </div>
+      </div>
+
+      <!-- Menu -->
+      <nav id="menu">
+        <a class="home" href="/en"><span>Magic the Gathering</span></a>
+
+        <div class="menu-wrapper">
+          <ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#signinbutton').attr('onclick',-'return-wotcaccountwidget.showloginmodal();');</script> has-children"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#SignInButton').attr('onclick', 'return wotcAccountWidget.showLoginModal();');</script></span></a><ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#registerbutton').attr('onclick',-'return-wotcaccountwidget.showjoinmodal();');</script>"><a href="/en/content/new-magic-1" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC?<script>jQuery('#RegisterButton').attr('onclick', 'return wotcAccountWidget.showJoinModal();');</script></span></a></li>
+<li class="mn_section_strategy"><a href="/en/content/strategy"><span>Strategy</span></a></li>
+<li class="mn_section_lore"><a href="/en/content/new-to-magic/lore"><span>Lore</span></a></li>
+<li class="mn_section_community"><a href="/en/content/new-to-magic/community"><span>Community</span></a></li>
+</ul></li>
+<li class="mn_section_game-info has-children"><a href="/en/game-information"><span>GAME INFO</span></a><ul class="menu"><li class="hub-link GAME INFO"><a href="/en/game-information"><span>GAME INFO</span></a></li>
+<li class="mn_section_gameplay has-children"><a class="nolink"><span>GAMEPLAY</span></a><ul class="menu"><li class="mn_section_about-the-game"><a href="/en/game-info/gameplay/about-the-game"><span>ABOUT THE GAME</span></a></li>
+<li class="mn_section_how-to-play"><a href="/en/game-info/gameplay/how-to-play"><span>HOW TO PLAY</span></a></li>
+<li class="mn_section_how-to-build-a-deck"><a href="/en/game-info/gameplay/how-to-build-a-deck"><span>HOW TO BUILD A DECK</span></a></li>
+<li class="mn_section_improve-your-game"><a href="/en/game-info/gameplay/improve-your-game"><span>IMPROVE YOUR GAME</span></a></li>
+<li class="mn_section_rules-&-formats"><a href="/en/game-info/gameplay/rules-and-formats"><span>RULES & FORMATS</span></a></li>
+</ul></li>
+<li class="mn_section_products has-children"><a class="nolink"><span>PRODUCTS</span></a><ul class="menu"><li class="mn_section_featured-<br>releases"><a href="/en/game-info/products/featured-releases"><span>FEATURED <BR>RELEASES</span></a></li>
+<li class="mn_section_coming-soon"><a href="/en/game-info/products/coming-soon"><span>COMING SOON</span></a></li>
+<li class="mn_section_magic-duels"><a href="/en/content/magic-duels"><span>MAGIC DUELS</span></a></li>
+<li class="mn_section_magic-online"><a href="/en/content/magic-online-products-game-info"><span>MAGIC ONLINE</span></a></li>
+<li class="mn_section_card-set-archive"><a href="/en/game-info/products/card-set-archive"><span>CARD SET ARCHIVE</span></a></li>
+</ul></li>
+<li class="mn_section_story has-children"><a class="nolink"><span>STORY</span></a><ul class="menu"><li class="mn_section_magic's-story"><a href="/en/game-info/story/magic-story"><span>MAGIC'S STORY</span></a></li>
+<li class="mn_section_planeswalkers"><a href="/en/game-info/story/planeswalkers"><span>PLANESWALKERS</span></a></li>
+<li class="mn_section_planes"><a href="/en/game-info/story/planes"><span>PLANES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_events has-children current"><a href="/en/events" class="active-trail"><span>EVENTS</span></a><ul class="menu"><li class="hub-link EVENTS"><a href="/en/events"><span>EVENTS</span></a></li>
+<li class="mn_section_events-home"><a href="/en/events"><span>EVENTS HOME</span></a></li>
+<li class="mn_section_what-is-<br>organized-play"><a href="/en/events/what-is-organized-play"><span>WHAT IS <br>ORGANIZED PLAY?</span></a></li>
+<li class="mn_section_event<br>-types"><a href="/en/events/event-types"><span>EVENT<br> TYPES</span></a></li>
+<li class="mn_section_coverage has-children current"><a class="active-trail nolink"><span>COVERAGE</span></a><ul class="menu"><li class="mn_section_coverage-archive current"><a href="/en/events/coverage" class="active-trail"><span>COVERAGE ARCHIVE</span></a></li>
+<li class="mn_section_top-players"><a href="/en/events/coverage/top-players"><span>TOP PLAYERS</span></a></li>
+</ul></li>
+<li class="mn_section_schedules"><a href="/en/content/premier-events-schedule#/overview"><span>SCHEDULES</span></a></li>
+<li class="mn_section_resources has-children"><a class="nolink"><span>RESOURCES</span></a><ul class="menu"><li class="mn_section_planeswalker-points"><a href="/en/events/resources/planeswalker-points"><span>PLANESWALKER POINTS</span></a></li>
+<li class="mn_section_judges"><a href="/en/events/resources/judges"><span>JUDGES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_articles has-children"><a href="/en/content/articles"><span>ARTICLES</span></a><ul class="menu"><li class="hub-link ARTICLES"><a href="/en/content/articles"><span>ARTICLES</span></a></li>
+<li class="mn_section_articles-home"><a href="/en/content/articles"><span>ARTICLES HOME</span></a></li>
+<li class="mn_section_columns has-children"><a id="columns" class="nolink"><span>COLUMNS</span></a><ul class="menu"><li class="mn_section_columnists"><a href="/en/articles/columns/columnists"><span>COLUMNISTS</span></a></li>
+<li class="mn_section_making-magic"><a href="/en/articles/columns/making-magic-archive"><span>MAKING MAGIC</span></a></li>
+<li class="mn_section_magic-story"><a href="/en/articles/columns/magic-story-archive"><span>MAGIC STORY</span></a></li>
+<li class="mn_section_top-decks"><a href="/en/articles/columns/top-decks-archive"><span>TOP DECKS</span></a></li>
+<li class="mn_section_organized-<br>play"><a href="/en/articles/columns/organized-play-archive" title="Organized Play"><span>ORGANIZED <br>PLAY</span></a></li>
+<li class="mn_section_latest-<br>developments"><a href="/en/articles/columns/latest-developments-archive"><span>LATEST <br>DEVELOPMENTS</span></a></li>
+</ul></li>
+<li class="mn_section_archives"><a href="/en/articles/archive"><span>ARCHIVES</span></a></li>
+<li class="mn_section_winning-decks"><a href="/en/articles/winning-decks"><span>WINNING DECKS</span></a></li>
+<li class="mn_section_media has-children"><a class="nolink"><span>MEDIA</span></a><ul class="menu"><li class="mn_section_videos"><a href="/en/articles/media/videos"><span>VIDEOS</span></a></li>
+<li class="mn_section_podcasts"><a href="/en/articles/media/podcasts"><span>PODCASTS</span></a></li>
+<li class="mn_section_wallpapers"><a href="/en/articles/media/wallpapers"><span>WALLPAPERS</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_community has-children"><a href="/en/community"><span>COMMUNITY</span></a><ul class="menu"><li class="hub-link COMMUNITY"><a href="/en/community"><span>COMMUNITY</span></a></li>
+<li class="mn_section_community-home"><a href="/en/community"><span>COMMUNITY HOME</span></a></li>
+<li class="mn_section_fan-kits"><a href="/en/community/fan-kits"><span>FAN KITS</span></a></li>
+</ul></li>
+<li class="mn_section_my-accounts"><a href="/en/content/my-accounts"><span>MY ACCOUNTS</span></a></li>
+</ul>        </div>
+      </nav>
+    </div>
+  </header>
+
+  
+  <div id="content-wrapper">
+      <div class="region region-content">
+    
+<div id="block-system-main" class=" block block-system block-odd first last main clearfix">
+  <div class="block-inner">
+                <div class="content" >
+      <div id="content" class="page-width">
+
+  <div id="main-content">
+    <div id="breadcrumb">
+              <span ><a href="/en/events">EVENTS</a></span>
+              <span ><a href="/en/events/coverage">COVERAGE ARCHIVE</a></span>
+              <span ><a href="/en/events/coverage/gpsd15">GRAND PRIX SAN DIEGO 2015</a></span>
+              <span class="current"><strong class="breadcrumb-no-link">Event Coverage</strong></span>
+          </div>
+    <h1>ROUND 1 RESULTS</h1>
+    <p class="posted-in">
+      Posted in      <strong class="breadcrumb-no-link">Event Coverage</strong>
+      on August 8, 2015    </p>
+
+    <!-- BEGIN :: ARTICLE -->
+    <article>
+      <div class="article-header">
+
+                  <div class="author">
+            <img src="http://magic.wizards.com/sites/mtg/files/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg?itok=KENOTqfD" alt="" />
+            <p>By Wizards of the Coast</p>
+            <p class="links">
+                                            <span><a href="/en/articles/archive/184956" onClick="_gaq.push(['_trackEvent', 'Article', 'Author', 'Wizards of the Coast-Archive']);">Archive</a></span>
+                                        </p>
+            <div id="author-biography">
+                          </div>
+          </div>
+        
+        <div class="sharing">
+          <div class="social-share">
+            <a class="facebook" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpsd15/round-1-results-2015-08-08"><span class="share-count">0</span><span>&nbsp;Shares</span></a>
+            <a class="twitter" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpsd15/round-1-results-2015-08-08"><span class="share-count">0</span><span>&nbsp;Tweets</span></a>
+            <a class="google" href="#" data-share-url="http://magic.wizards.com/events/coverage/gpsd15/round-1-results-2015-08-08"><span class="share-count">0</span><span>&nbsp;+</span></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div id="content-detail-page-of-an-article">
+        <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><sortrow></sortrow><p></p>
+
+<table shade="1" shadecolor="#ffffcc" w="500"><tbody><tr><td><b>Table</b></td>
+			<td><b>Player</b></td>
+			<td><b>Result</b></td>
+			<td></td>
+			<td><b>Opponent</b></td>
+		</tr><tr><td>1</td>
+			<td>Sutton, Max C [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hu, Jason [USA]</td>
+		</tr><tr><td>2</td>
+			<td>Hurtado, Hector [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Gray, Jace [USA]</td>
+		</tr><tr><td>3</td>
+			<td>Centner, Joseph [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Anderson, Justin [USA]</td>
+		</tr><tr><td>4</td>
+			<td>Tijiboy, Simon [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mendez, Eduardo [USA]</td>
+		</tr><tr><td>5</td>
+			<td>Lin, eric [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Munday, Joey [USA]</td>
+		</tr><tr><td>6</td>
+			<td>VIP Lesnick, Joseph [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Clarke, Azolan [USA]</td>
+		</tr><tr><td>7</td>
+			<td>Rowe, Daniel [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nguyen, Christopher [USA]</td>
+		</tr><tr><td>8</td>
+			<td>Wolfe, Ellen [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Matthews, Lawrence [USA]</td>
+		</tr><tr><td>9</td>
+			<td>VIP Hsu, Tzu-Chi [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mckinney, Robert [USA]</td>
+		</tr><tr><td>10</td>
+			<td>Estorga, Jose S [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sackett, Benjamin [USA]</td>
+		</tr><tr><td>11</td>
+			<td>Lewis, Clay [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Germanetti, Tanner [USA]</td>
+		</tr><tr><td>12</td>
+			<td>Mellor, Charlie [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Whitmore, Jason [USA]</td>
+		</tr><tr><td>13</td>
+			<td>Dunne, Kyle V [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rom?o, Carlos E [BRA]</td>
+		</tr><tr><td>14</td>
+			<td>Martinez, Ryan [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Reitenour, Chrstopher [USA]</td>
+		</tr><tr><td>15</td>
+			<td>Macdonald, Joseph [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hahm, Lowell A [USA]</td>
+		</tr><tr><td>16</td>
+			<td>Seed, Huckleberry [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ortiz, Larry [USA]</td>
+		</tr><tr><td>17</td>
+			<td>Rorabaugh, Richard [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cowap, Alex [USA]</td>
+		</tr><tr><td>18</td>
+			<td>Maguire, Sean [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bond, Robert [USA]</td>
+		</tr><tr><td>19</td>
+			<td>Adderson, Russell [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Collier, Seth [USA]</td>
+		</tr><tr><td>20</td>
+			<td>Navarro, Michael [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cahalan, Liam [USA]</td>
+		</tr><tr><td>21</td>
+			<td>Schafer, Jordan [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Vaughn, Collin [USA]</td>
+		</tr><tr><td>22</td>
+			<td>Moore, Scott [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Allen, Christopher [USA]</td>
+		</tr><tr><td>23</td>
+			<td>Fiffles, Adam D [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Naff-Rhymer, Charlie [USA]</td>
+		</tr><tr><td>24</td>
+			<td>Sobnosky, Michael [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mccarriher, Kyle [USA]</td>
+		</tr><tr><td>25</td>
+			<td>Acosta, Julio [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>LIND, JOSHUA M [USA]</td>
+		</tr><tr><td>26</td>
+			<td>petre, Evan [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Larson, Jacob [USA]</td>
+		</tr><tr><td>27</td>
+			<td>BURGIN, MILES D [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hanna, Everett [CAN]</td>
+		</tr><tr><td>28</td>
+			<td>Li, Maxwell [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Young, Matthew [USA]</td>
+		</tr><tr><td>29</td>
+			<td>Parker, Ron [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>McClenney, Ben [USA]</td>
+		</tr><tr><td>30</td>
+			<td>VIP Gonzalez, Juan Pab [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Valdez, Damien [USA]</td>
+		</tr><tr><td>31</td>
+			<td>VIP Botelho, David [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cantrell, Casey [USA]</td>
+		</tr><tr><td>32</td>
+			<td>Tartaglio, Paul R [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ma, Yousi [USA]</td>
+		</tr><tr><td>33</td>
+			<td>Landes, Jack [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Apuzzo, Randy [USA]</td>
+		</tr><tr><td>34</td>
+			<td>Garza, Julian [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>gilbert, Samuel [USA]</td>
+		</tr><tr><td>35</td>
+			<td>Halstead, Karl [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Vlismas, Christopher [USA]</td>
+		</tr><tr><td>36</td>
+			<td>Villarreal, Mario [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Henson, Delany [USA]</td>
+		</tr><tr><td>37</td>
+			<td>Pineda, Domenique [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Holmes, Rayan [USA]</td>
+		</tr><tr><td>38</td>
+			<td>Pham, John [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>DeLoach, Olivia [USA]</td>
+		</tr><tr><td>39</td>
+			<td>Friedman, Elea [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Stocks, Jonathan E [USA]</td>
+		</tr><tr><td>40</td>
+			<td>Shum, Jeska [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gobran, Adam [USA]</td>
+		</tr><tr><td>41</td>
+			<td>Flores, Esteban [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Roybal, Dane [USA]</td>
+		</tr><tr><td>42</td>
+			<td>VIP Eberhardt, Cliffor [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Chen, Kuang [CHN]</td>
+		</tr><tr><td>43</td>
+			<td>Hein, Christopher [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Huynh, Kevin [USA]</td>
+		</tr><tr><td>44</td>
+			<td>Rodriguez, Sergio [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Church, Ashley [USA]</td>
+		</tr><tr><td>45</td>
+			<td>Ashton, Creighton [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Oliveira, Denny Rodrig [BRA]</td>
+		</tr><tr><td>46</td>
+			<td>Atondo Guzma, Josue Gi [MEX]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Moheseni, Darius [USA]</td>
+		</tr><tr><td>47</td>
+			<td>Mccoy, Kevin [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tompsett, Connor [USA]</td>
+		</tr><tr><td>48</td>
+			<td>Alvarez, David [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mitchell, Miles [USA]</td>
+		</tr><tr><td>49</td>
+			<td>Van Den Brink, Jonas [NOR]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gonzalez, Gabriel [USA]</td>
+		</tr><tr><td>50</td>
+			<td>Nguyen, Chris T [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Rideout, Vincent W [USA]</td>
+		</tr><tr><td>51</td>
+			<td>Miller, Dylan [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Pieper, Ryan [USA]</td>
+		</tr><tr><td>52</td>
+			<td>Cascio, Brady [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Reyes, Evan [USA]</td>
+		</tr><tr><td>53</td>
+			<td>Colio, Ivan [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Boyko, Derek K [USA]</td>
+		</tr><tr><td>54</td>
+			<td>Rosales, Ernesto [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ignizio, Richard [USA]</td>
+		</tr><tr><td>55</td>
+			<td>Hartley, Ryan [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ohanessian, Patrick [USA]</td>
+		</tr><tr><td>56</td>
+			<td>Davila, Michael [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Celaya, Rudy [USA]</td>
+		</tr><tr><td>57</td>
+			<td>Carnahan, Stefan [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Anderson, Jonathon [USA]</td>
+		</tr><tr><td>58</td>
+			<td>Gibson, Nick [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Holland, Ryan [USA]</td>
+		</tr><tr><td>59</td>
+			<td>Kauffman, Thomas C [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Stretch, Beverly [USA]</td>
+		</tr><tr><td>60</td>
+			<td>Vigil, Jonathan [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Li, Tan [USA]</td>
+		</tr><tr><td>61</td>
+			<td>chen, yinzhe [CHN]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Coats, Nick M [USA]</td>
+		</tr><tr><td>62</td>
+			<td>nagel, Cameron [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gonzalez, Giovanny [USA]</td>
+		</tr><tr><td>63</td>
+			<td>Wunderlin, Ryan [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>James, eric [USA]</td>
+		</tr><tr><td>64</td>
+			<td>Sharp, Kylie [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Murphy, Jason [USA]</td>
+		</tr><tr><td>65</td>
+			<td>Garcia, Eduardo [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Castro, Joseph [USA]</td>
+		</tr><tr><td>66</td>
+			<td>Belknap, Randy N [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>VIP Starr, Trisha [USA]</td>
+		</tr><tr><td>67</td>
+			<td>Stroud, Wyatt [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>McCormick, William [USA]</td>
+		</tr><tr><td>68</td>
+			<td>Medina, Albert [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lee, Tony [USA]</td>
+		</tr><tr><td>69</td>
+			<td>Horning, Dustin [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>BOYD, NATHAN [USA]</td>
+		</tr><tr><td>70</td>
+			<td>Hudgens, Wade [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kauffman, Tommy [USA]</td>
+		</tr><tr><td>71</td>
+			<td>Jones, Austin [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>McMillan, Alistair [USA]</td>
+		</tr><tr><td>72</td>
+			<td>Remmer, Aaron [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bourgeois, Alexander H [USA]</td>
+		</tr><tr><td>73</td>
+			<td>Gregory, William [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tajonar, Ivan [MEX]</td>
+		</tr><tr><td>74</td>
+			<td>Pilgrim, Jeremy [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Reissman, Matt [USA]</td>
+		</tr><tr><td>75</td>
+			<td>Alamares, David [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Custer, Benjamin [USA]</td>
+		</tr><tr><td>76</td>
+			<td>Wong, Alan [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>QUINTO, LAWRENCE A [USA]</td>
+		</tr><tr><td>77</td>
+			<td>Beaufeaux, Zach T [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sassone, Michael [USA]</td>
+		</tr><tr><td>78</td>
+			<td>Backert, James [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kirk, Colan [USA]</td>
+		</tr><tr><td>79</td>
+			<td>Landers, Nathaniel [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cassady, Devin [USA]</td>
+		</tr><tr><td>80</td>
+			<td>Chu, Tam [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ramirios, Johnny [USA]</td>
+		</tr><tr><td>81</td>
+			<td>lara, carlos [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Reif, Marcus J [USA]</td>
+		</tr><tr><td>82</td>
+			<td>Jay, Gregory [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>VIP Leon, Jose [USA]</td>
+		</tr><tr><td>83</td>
+			<td>LOPEZ, EDDY [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Henberger, Gail [USA]</td>
+		</tr><tr><td>84</td>
+			<td>King, Kerry [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Roush, Casey [USA]</td>
+		</tr><tr><td>85</td>
+			<td>Savinelli, KJ [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>VIP Downum, Chad [USA]</td>
+		</tr><tr><td>86</td>
+			<td>Baker, Daniel [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Moffat, Pearce [USA]</td>
+		</tr><tr><td>87</td>
+			<td>Camara, Aj [CAN]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Laird, Stephen [USA]</td>
+		</tr><tr><td>88</td>
+			<td>ROBINSON, ELI [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gallinaro, Loris F [USA]</td>
+		</tr><tr><td>89</td>
+			<td>Juarez, Jessan [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Placio, Jonnel [USA]</td>
+		</tr><tr><td>90</td>
+			<td>Cahill, Alex [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Messina, Dylan [USA]</td>
+		</tr><tr><td>91</td>
+			<td>Martinez, Anthony J [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>VIP Lesnick, Daniel [USA]</td>
+		</tr><tr><td>92</td>
+			<td>Safken, Beau [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Riggeal, Jacob [USA]</td>
+		</tr><tr><td>93</td>
+			<td>Capone, Enzo S [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cozzoli, Kevin [USA]</td>
+		</tr><tr><td>94</td>
+			<td>Carpenter, Clint [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Russel, Marco [USA]</td>
+		</tr><tr><td>95</td>
+			<td>Rust, Brandon [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>buse, billy t [USA]</td>
+		</tr><tr><td>96</td>
+			<td>Kreger, Adam R [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Landes, Eric [USA]</td>
+		</tr><tr><td>97</td>
+			<td>Holder, Brady [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Baldwin, James [USA]</td>
+		</tr><tr><td>98</td>
+			<td>VIP Zoukas, Phillip E [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>McMillan, Shelly [USA]</td>
+		</tr><tr><td>99</td>
+			<td>Alonzo, Fabian [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pashby, Gregrey A [USA]</td>
+		</tr><tr><td>100</td>
+			<td>Lim, Danny T [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Brink, Seth [USA]</td>
+		</tr><tr><td>101</td>
+			<td>VIP Berry, Chelsy [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Corbin, Julia [USA]</td>
+		</tr><tr><td>102</td>
+			<td>VIP Yarter, Jeffery A. [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ma, Sean Y [USA]</td>
+		</tr><tr><td>103</td>
+			<td>Guerrero, Raphael A [PHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Keseloff, Chris [USA]</td>
+		</tr><tr><td>104</td>
+			<td>Goldman, Gabriel [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hulsey, Jessica [USA]</td>
+		</tr><tr><td>105</td>
+			<td>Walker, Nicholas [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Downing, Eric [USA]</td>
+		</tr><tr><td>106</td>
+			<td>Jenne, Evan [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>McHahon, Paul [USA]</td>
+		</tr><tr><td>107</td>
+			<td>McKay, Brian P [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Torres, Brian [USA]</td>
+		</tr><tr><td>108</td>
+			<td>Good, Joseph [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fondren, Roger [USA]</td>
+		</tr><tr><td>109</td>
+			<td>Ochoa, Raul [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lindsay, Douglas [USA]</td>
+		</tr><tr><td>110</td>
+			<td>Velazquez, Daniel [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Strack, Holger [DNK]</td>
+		</tr><tr><td>111</td>
+			<td>Frachon, Nicholas [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>LeMasurier, Philip [USA]</td>
+		</tr><tr><td>112</td>
+			<td>Trojan, Matt [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>McMunn, Andrew [USA]</td>
+		</tr><tr><td>113</td>
+			<td>PRINCE, NICK [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>LEOF, NATTY [USA]</td>
+		</tr><tr><td>114</td>
+			<td>Crosby, Brandon [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kazemier, jarid [USA]</td>
+		</tr><tr><td>115</td>
+			<td>VIP Enriquez, Brandon [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Mukhar, Alex [USA]</td>
+		</tr><tr><td>117</td>
+			<td>Boyer, John [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ballaris, Eddie [USA]</td>
+		</tr><tr><td>118</td>
+			<td>Kauffman, Jordan [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Holmes, Charles [USA]</td>
+		</tr><tr><td>119</td>
+			<td>Bullick, Kathleen [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Harris, Paul [USA]</td>
+		</tr><tr><td>120</td>
+			<td>Gremore, Pete [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Grooby, Allan J [NZL]</td>
+		</tr><tr><td>121</td>
+			<td>Marvin, Wesley [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Boyce, Byron [USA]</td>
+		</tr><tr><td>122</td>
+			<td>VIP Head, Ronnie C [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hagstrom, Josh [USA]</td>
+		</tr><tr><td>123</td>
+			<td>Franklin, Mark [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Monroy, Ivan [USA]</td>
+		</tr><tr><td>124</td>
+			<td>Roberts, Nick [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Komor, Russell S [USA]</td>
+		</tr><tr><td>125</td>
+			<td>Garcia, David J [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Martinez, Samson [USA]</td>
+		</tr><tr><td>126</td>
+			<td>MALKA, ARI [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Calvi, Jack P [USA]</td>
+		</tr><tr><td>127</td>
+			<td>Bartmus, Matthew R [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Escobar, Jelani [USA]</td>
+		</tr><tr><td>128</td>
+			<td>Balla, John A [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Manifold, Riley [USA]</td>
+		</tr><tr><td>129</td>
+			<td>Penrod, Shaun [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Solkowitz, Daniel [USA]</td>
+		</tr><tr><td>130</td>
+			<td>Ramirez, Phillip [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cline, Christian [USA]</td>
+		</tr><tr><td>131</td>
+			<td>VIP Phillips, Jordan [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gonzales, Alejandro [USA]</td>
+		</tr><tr><td>132</td>
+			<td>Lindner, Dylan [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>VIP Wilamowski, Justin [USA]</td>
+		</tr><tr><td>133</td>
+			<td>Staples, Garrett [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Humphrey, Elliott T [USA]</td>
+		</tr><tr><td>134</td>
+			<td>Lopez, Damien [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Parker, Matt D [USA]</td>
+		</tr><tr><td>135</td>
+			<td>VIP Morland, William [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Beito, Alan [USA]</td>
+		</tr><tr><td>136</td>
+			<td>Noble, Ian [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>SOBOTTKA, HARRIS [USA]</td>
+		</tr><tr><td>137</td>
+			<td>Lim, Jae [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fountain, Ethan [USA]</td>
+		</tr><tr><td>138</td>
+			<td>Superhak, Stanley R [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Garcia, Arnold M [USA]</td>
+		</tr><tr><td>139</td>
+			<td>Guenther, Darren [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Newkirk, todd [USA]</td>
+		</tr><tr><td>140</td>
+			<td>Crane, Isaac [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Spenner, Josiah [USA]</td>
+		</tr><tr><td>141</td>
+			<td>Paras, Nikolas [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nishio, Kent [USA]</td>
+		</tr><tr><td>142</td>
+			<td>Birch, Ricky [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Martin, dean [USA]</td>
+		</tr><tr><td>143</td>
+			<td>Ryan, Justin M [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Baker, Patrick [USA]</td>
+		</tr><tr><td>144</td>
+			<td>Mei, Songhao [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Harmon, Jacob [USA]</td>
+		</tr><tr><td>145</td>
+			<td>Wilson, Bryan [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gibson, Jack [USA]</td>
+		</tr><tr><td>146</td>
+			<td>Heil, Brian [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Saltamachio, Peter [USA]</td>
+		</tr><tr><td>147</td>
+			<td>Giampietro, Caleb [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kallberg, Ryan [USA]</td>
+		</tr><tr><td>148</td>
+			<td>Vasquez, Willie [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Jo, Maxwell [USA]</td>
+		</tr><tr><td>149</td>
+			<td>Perez, Fernando [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Le Friant, Christopher [USA]</td>
+		</tr><tr><td>150</td>
+			<td>Villa, Manuel [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sperling, Alexander F [USA]</td>
+		</tr><tr><td>151</td>
+			<td>Sibley, Keith [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bent, Tom [USA]</td>
+		</tr><tr><td>152</td>
+			<td>Kalbus, Kurt [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sullivan, Patrick B [USA]</td>
+		</tr><tr><td>153</td>
+			<td>Roberson, Kenneth [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Stone, Jesse [USA]</td>
+		</tr><tr><td>154</td>
+			<td>Carreon Rodreiguez, Le [MEX]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Boltz, Ashton [USA]</td>
+		</tr><tr><td>155</td>
+			<td>Paez, Joseph [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Beaudette, Richard [USA]</td>
+		</tr><tr><td>156</td>
+			<td>Brown, Derek [USA]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Walker, Rob [USA]</td>
+		</tr><tr><td>157</td>
+			<td>Stensrud, Ethan [USA]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Lindblom, Raven [USA]</td>
+		</tr><tr><td>158</td>
+			<td>Robinson, Lawrence [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Walsey, Samson [USA]</td>
+		</tr><tr><td>159</td>
+			<td>Efigenio, Christopher [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Starbuck, Dean [USA]</td>
+		</tr><tr><td>160</td>
+			<td>Paul, Shaun [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>McClain, Jon [USA]</td>
+		</tr><tr><td>161</td>
+			<td>Berozofsky, Deth [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Halol, Zal A [USA]</td>
+		</tr><tr><td>162</td>
+			<td>brewer, Paul [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Quach, Minh Tri [USA]</td>
+		</tr><tr><td>163</td>
+			<td>Fanski, Alex [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Dennison, Michael [USA]</td>
+		</tr><tr><td>164</td>
+			<td>Tran, Sheryl [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>RIANS, GLENN [USA]</td>
+		</tr><tr><td>165</td>
+			<td>Bruning, Jon [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tamblyn, Mitchell E [USA]</td>
+		</tr><tr><td>166</td>
+			<td>Hinely, Kody [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Joyce, Thomas [USA]</td>
+		</tr><tr><td>167</td>
+			<td>Gutierrez, Dan Jay [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>VIP Stein, Ben [USA]</td>
+		</tr><tr><td>168</td>
+			<td>Leahy, Michael [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Martinez, Jonathan [USA]</td>
+		</tr><tr><td>169</td>
+			<td>Brain, Kaleb [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Vandermeyden, Michael [USA]</td>
+		</tr><tr><td>170</td>
+			<td>VIP Bauer, John [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ghouth, Yusef [USA]</td>
+		</tr><tr><td>171</td>
+			<td>Lizarraga, Raziel [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pacheco, Joshua [USA]</td>
+		</tr><tr><td>172</td>
+			<td>PONTIUS, JACOB [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Maxon, Mark E [USA]</td>
+		</tr><tr><td>173</td>
+			<td>McDonald, Jonathan [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Latham, Benjamin [USA]</td>
+		</tr><tr><td>174</td>
+			<td>Mendoza, James [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Connor, Timothy [USA]</td>
+		</tr><tr><td>175</td>
+			<td>Niceson, Nathan [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tackett, Bret [USA]</td>
+		</tr><tr><td>176</td>
+			<td>Galicia, Matthew [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>thomas, kenny [USA]</td>
+		</tr><tr><td>177</td>
+			<td>Velazquez, Adam [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lau, Alan [USA]</td>
+		</tr><tr><td>178</td>
+			<td>Smith, Mike [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Oaks, Christian [USA]</td>
+		</tr><tr><td>179</td>
+			<td>Kornacki, Leon D [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Caratache, Damian [USA]</td>
+		</tr><tr><td>180</td>
+			<td>McCarty, John [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Arroyo, Mark [USA]</td>
+		</tr><tr><td>181</td>
+			<td>Houghton, CJ [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Zoukas, Alexander [USA]</td>
+		</tr><tr><td>182</td>
+			<td>Oemig, Matthew [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gilbertson, Joshua [USA]</td>
+		</tr><tr><td>183</td>
+			<td>Mendonca, Rafael F [BRA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>HUEY, ATHENA [USA]</td>
+		</tr><tr><td>184</td>
+			<td>Valdez, Joseph [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Timm, Nick [USA]</td>
+		</tr><tr><td>185</td>
+			<td>Meade, Joel [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Schmit, Mark D [USA]</td>
+		</tr><tr><td>186</td>
+			<td>Schopf, Nickolas [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Norris, Benjamin [USA]</td>
+		</tr><tr><td>187</td>
+			<td>whaley, jerry a [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Wall, Chris [USA]</td>
+		</tr><tr><td>188</td>
+			<td>VanderWege, Travis J [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bumgardner, William K [USA]</td>
+		</tr><tr><td>189</td>
+			<td>Bakken, Mason [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rhoads, Shawn m [USA]</td>
+		</tr><tr><td>190</td>
+			<td>Yang, Song [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Harelson, Casey [USA]</td>
+		</tr><tr><td>191</td>
+			<td>Okin, David [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Herrera, Jonathan [USA]</td>
+		</tr><tr><td>192</td>
+			<td>Arbe, John A [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Brown, Andrew J. [USA]</td>
+		</tr><tr><td>193</td>
+			<td>Nunez, Ricardo [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>gerstner, Michael [USA]</td>
+		</tr><tr><td>194</td>
+			<td>Good, Dillon [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Schade, Eric [USA]</td>
+		</tr><tr><td>195</td>
+			<td>Tran, Sydney [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>VIP Vallee, Kyle S [USA]</td>
+		</tr><tr><td>196</td>
+			<td>Bilog, Joe [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Alexander, Richard N [USA]</td>
+		</tr><tr><td>197</td>
+			<td>Allen, Nolan [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>HEATH, JOEY [USA]</td>
+		</tr><tr><td>198</td>
+			<td>Manay, Faith [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lucero, Crisrael [USA]</td>
+		</tr><tr><td>199</td>
+			<td>Cai, Katrina [USA]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>London, Adam W [USA]</td>
+		</tr><tr><td>200</td>
+			<td>trepany, Robert [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Courser, Steven [USA]</td>
+		</tr><tr><td>201</td>
+			<td>Musashi, Curtis B [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cummings, Brandon A [USA]</td>
+		</tr><tr><td>202</td>
+			<td>Rehder, Derek [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mendonsa, Khristian [USA]</td>
+		</tr><tr><td>203</td>
+			<td>Escobar, Nick [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Schell, Christipher [USA]</td>
+		</tr><tr><td>204</td>
+			<td>Tillman, Christopher [USA]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Tuttle, Brad D [USA]</td>
+		</tr><tr><td>205</td>
+			<td>Emerson, Ryan [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Quinn, Justin [USA]</td>
+		</tr><tr><td>206</td>
+			<td>Prado, Bladimir [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Chavez, Anthony [USA]</td>
+		</tr><tr><td>207</td>
+			<td>Sanchez, Albert [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Baebian, Joshua [USA]</td>
+		</tr><tr><td>208</td>
+			<td>Heavyside, Eryk I [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Meagher, Chris J [USA]</td>
+		</tr><tr><td>209</td>
+			<td>Padilla, Alberto [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>garver, Jesse [USA]</td>
+		</tr><tr><td>210</td>
+			<td>Scott, Ryan A [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nwosu, Amechi [USA]</td>
+		</tr><tr><td>211</td>
+			<td>Lee, Kang Hyuk [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Johnson, Willie [USA]</td>
+		</tr><tr><td>212</td>
+			<td>Johnston, Joel [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Imano, Terry [USA]</td>
+		</tr><tr><td>213</td>
+			<td>Moberly, Robert L [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hornberg, John A [USA]</td>
+		</tr><tr><td>214</td>
+			<td>Newbury, Merrick [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nguyen, Minhhoang [USA]</td>
+		</tr><tr><td>215</td>
+			<td>Smith, Sara [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Saldana, Joseph [USA]</td>
+		</tr><tr><td>216</td>
+			<td>Keagy, Austin M [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Reyna, Ryan [USA]</td>
+		</tr><tr><td>217</td>
+			<td>Luong, Marcus [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Noerr, Patrick S [USA]</td>
+		</tr><tr><td>218</td>
+			<td>Lascala, Anthony [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lucero, Christian [USA]</td>
+		</tr><tr><td>219</td>
+			<td>Shearer, Sean [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Carpenter, John [USA]</td>
+		</tr><tr><td>220</td>
+			<td>Wolfe, Mason [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Alleruzzo, Christian [USA]</td>
+		</tr><tr><td>221</td>
+			<td>DeRenzis, Gregory L [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Guestfson, Kelson [USA]</td>
+		</tr><tr><td>222</td>
+			<td>Beach, Harrison [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Farley, Patrick [USA]</td>
+		</tr><tr><td>223</td>
+			<td>Krause, Travis [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Rosellini, Jason A [USA]</td>
+		</tr><tr><td>224</td>
+			<td>Jackson, Elijah [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Castro, Angel [USA]</td>
+		</tr><tr><td>225</td>
+			<td>Reibach, shane [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Guimaraes, victor [USA]</td>
+		</tr><tr><td>226</td>
+			<td>Paquette, James [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Johnson, Austin [USA]</td>
+		</tr><tr><td>227</td>
+			<td>Rorabaush, Steven [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Fong, Devin [USA]</td>
+		</tr><tr><td>228</td>
+			<td>Barrientos, Sergio [CHL]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Rabago, Louis [USA]</td>
+		</tr><tr><td>229</td>
+			<td>Spencer, Matthew [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Davilla, David [USA]</td>
+		</tr><tr><td>230</td>
+			<td>Fox, Jon [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Wood, Andrew [USA]</td>
+		</tr><tr><td>231</td>
+			<td>Parker, Kevin L [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>McKemy, Nathan [USA]</td>
+		</tr><tr><td>232</td>
+			<td>Stittsworth, Brian [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Null, Edmund [USA]</td>
+		</tr><tr><td>233</td>
+			<td>Armstrong, Sean [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Chi, Henry [USA]</td>
+		</tr><tr><td>234</td>
+			<td>Balderrama, Rene [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Knaff, Ariel [USA]</td>
+		</tr><tr><td>235</td>
+			<td>Hernandez, Trent [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Baker, James P [USA]</td>
+		</tr><tr><td>236</td>
+			<td>Sweeney, Alex [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ogami, Kenneth [USA]</td>
+		</tr><tr><td>237</td>
+			<td>Tracy, Shane [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lingren, Paul [USA]</td>
+		</tr><tr><td>238</td>
+			<td>Boltz, David [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Maros, Leo [USA]</td>
+		</tr><tr><td>239</td>
+			<td>Scholz, John F [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nelson, Joshua [USA]</td>
+		</tr><tr><td>240</td>
+			<td>Luna, Joseph [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ballez, Danny [USA]</td>
+		</tr><tr><td>241</td>
+			<td>Ho, Daniel [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Schultz, Tyler [USA]</td>
+		</tr><tr><td>242</td>
+			<td>Hurtado, Christian [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Young, Greyson [USA]</td>
+		</tr><tr><td>243</td>
+			<td>Guzman, Sergio [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Martinez, Seth [USA]</td>
+		</tr><tr><td>244</td>
+			<td>Solis, Sabino [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>VIP Prestage, Taylor [USA]</td>
+		</tr><tr><td>245</td>
+			<td>McGlaun, Todd [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Perez, Hector [USA]</td>
+		</tr><tr><td>246</td>
+			<td>Harlow, Matthew [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Poblacion, Miles [USA]</td>
+		</tr><tr><td>247</td>
+			<td>Hill, Morgan [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Silvestri, Joshua L [USA]</td>
+		</tr><tr><td>248</td>
+			<td>England, John [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nguyen, Khanh [USA]</td>
+		</tr><tr><td>249</td>
+			<td>Lindauer, Jacob [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tetlow, Adam S [USA]</td>
+		</tr><tr><td>250</td>
+			<td>Wiig, Shawn [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sarkissian, Serge [USA]</td>
+		</tr><tr><td>251</td>
+			<td>Crosthaite, Rodolfo [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Taylor, Scott [USA]</td>
+		</tr><tr><td>252</td>
+			<td>Najera, Juan [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Laurel, Matthew [USA]</td>
+		</tr><tr><td>253</td>
+			<td>Carter, Justin [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Tidmore, Chris Y [USA]</td>
+		</tr><tr><td>254</td>
+			<td>Fosth, Ian [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Smith, Jared [USA]</td>
+		</tr><tr><td>255</td>
+			<td>VIP Heumann, Eric M [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kane, Zachary [USA]</td>
+		</tr><tr><td>256</td>
+			<td>Soderberg, Alexander [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Quiroz, Luis [USA]</td>
+		</tr><tr><td>257</td>
+			<td>SMith, Brian [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Weems, Christian [USA]</td>
+		</tr><tr><td>258</td>
+			<td>Aleksandrov, Kirill [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Winans, Andrew [USA]</td>
+		</tr><tr><td>259</td>
+			<td>Donnelly, Sean [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>CUNNINGHAM, ANDREW [USA]</td>
+		</tr><tr><td>260</td>
+			<td>Avila, Matt [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Boll, George [USA]</td>
+		</tr><tr><td>261</td>
+			<td>Seeley, Josh [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Robago, Cristian [USA]</td>
+		</tr><tr><td>262</td>
+			<td>Macias, Michael [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Miller, Iann [USA]</td>
+		</tr><tr><td>263</td>
+			<td>Li, Scott [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Rodriguez, Zak [USA]</td>
+		</tr><tr><td>264</td>
+			<td>Alvarado Lopez, Jorge [MEX]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Overcash, Garrett [USA]</td>
+		</tr><tr><td>265</td>
+			<td>Dickup, Anthony [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hudson, Michael S [USA]</td>
+		</tr><tr><td>266</td>
+			<td>Mendez, Fernando [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hatten, Nicholas [USA]</td>
+		</tr><tr><td>267</td>
+			<td>Moran, Christopher M [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Zwolinski, Jacob [USA]</td>
+		</tr><tr><td>268</td>
+			<td>zarza, Omar Z [MEX]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Beleche-Gonzalez, Itza [USA]</td>
+		</tr><tr><td>269</td>
+			<td>VIP Calvert, Marshall [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Briggs, Samuel [USA]</td>
+		</tr><tr><td>270</td>
+			<td>Burnell, Kaitlyn [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Tejas, Steven [USA]</td>
+		</tr><tr><td>271</td>
+			<td>Borgstrom, Mitch [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Brown, Terrance [USA]</td>
+		</tr><tr><td>272</td>
+			<td>Goddard, Max [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Shute, Alexander [USA]</td>
+		</tr><tr><td>273</td>
+			<td>Iglesias, Alberto [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ramos, Julio [USA]</td>
+		</tr><tr><td>274</td>
+			<td>Morrison, Jayce A [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Goodarzi, Dustin [USA]</td>
+		</tr><tr><td>275</td>
+			<td>Jankovsky, Marshall [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lematta, Glenn [USA]</td>
+		</tr><tr><td>276</td>
+			<td>Salaz, John [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Leyva, Orlando [USA]</td>
+		</tr><tr><td>277</td>
+			<td>VIP Udy, Kendrick [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nelson, Spencer [USA]</td>
+		</tr><tr><td>278</td>
+			<td>Reis, Matthew T [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Samson, Jacob [USA]</td>
+		</tr><tr><td>279</td>
+			<td>Clark, Griffin [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>VIP Morris, Steven [USA]</td>
+		</tr><tr><td>280</td>
+			<td>Kan, Jimmy [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>VIP Loshbaugh, Chris [USA]</td>
+		</tr><tr><td>281</td>
+			<td>Cornfield, Ethan [CAN]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dougher, Sean [USA]</td>
+		</tr><tr><td>282</td>
+			<td>Li, Jack [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>LIU, BRUCE [USA]</td>
+		</tr><tr><td>283</td>
+			<td>Ballmer, Tad [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Johnson, Ian [USA]</td>
+		</tr><tr><td>284</td>
+			<td>VIP Cunningham, Michae [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Staffel, Jon t [USA]</td>
+		</tr><tr><td>285</td>
+			<td>Wolfe, Rick [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Green, Mary [USA]</td>
+		</tr><tr><td>286</td>
+			<td>Lagamba, Michael [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hale, Nathan [USA]</td>
+		</tr><tr><td>287</td>
+			<td>Egashira, Kenji T [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Logoteta, Jeremy [USA]</td>
+		</tr><tr><td>288</td>
+			<td>LIN, DANIEL [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Monroy, Alfonso [USA]</td>
+		</tr><tr><td>289</td>
+			<td>Johnson, Sean C [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Custodio, Anthony [USA]</td>
+		</tr><tr><td>290</td>
+			<td>oGinSky, joE A [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Weinstein, Max [USA]</td>
+		</tr><tr><td>291</td>
+			<td>VIP Buckendorf, Eric [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Vicario, Ivan [USA]</td>
+		</tr><tr><td>292</td>
+			<td>VIP Xu, Haoyu [CHN]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Iaali, chris [USA]</td>
+		</tr><tr><td>293</td>
+			<td>Djiguerian, Aram [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gonzales, Luis [USA]</td>
+		</tr><tr><td>294</td>
+			<td>BAXTER, GAVIN L [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Zanatta, Cameron [CAN]</td>
+		</tr><tr><td>295</td>
+			<td>Yang, Daniel [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Beaufeaux, Ryan J [USA]</td>
+		</tr><tr><td>296</td>
+			<td>VIP Allison, Chad [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Travis, Timothy [USA]</td>
+		</tr><tr><td>297</td>
+			<td>Utley, Andrew [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Almanza, Elliot [USA]</td>
+		</tr><tr><td>298</td>
+			<td>Xie, Tony [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nerio, Victor [USA]</td>
+		</tr><tr><td>299</td>
+			<td>bowles, Wyatt [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Vassar, Andrew [USA]</td>
+		</tr><tr><td>300</td>
+			<td>Brenden, Michael [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>haselton, Matthew [USA]</td>
+		</tr><tr><td>301</td>
+			<td>Kauffman, Stacey L [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Paterson, Dean T [CAN]</td>
+		</tr><tr><td>302</td>
+			<td>Contreras, Zane [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Martinez, Cyrus [USA]</td>
+		</tr><tr><td>303</td>
+			<td>Louke, Mary [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>North, Tyler [USA]</td>
+		</tr><tr><td>304</td>
+			<td>hubbard, John [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kronick, Jordan B [USA]</td>
+		</tr><tr><td>305</td>
+			<td>Kincaid, Nic [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Marini, Chris [USA]</td>
+		</tr><tr><td>306</td>
+			<td>Alfred, Tim [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Stroud, Garrett [USA]</td>
+		</tr><tr><td>307</td>
+			<td>Chin, Thomas [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Mittag, Jake [USA]</td>
+		</tr><tr><td>308</td>
+			<td>Mattern, William A [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rodriguez, Christopher [USA]</td>
+		</tr><tr><td>309</td>
+			<td>Chavez, Shane [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Alcantara, Charles [USA]</td>
+		</tr><tr><td>310</td>
+			<td>Hartley, Roxby [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>McCarty, Scott [USA]</td>
+		</tr><tr><td>311</td>
+			<td>Ruiz, Juan [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Perris, Joshua [USA]</td>
+		</tr><tr><td>312</td>
+			<td>Justo, Christopher [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pomerico, Daniel [USA]</td>
+		</tr><tr><td>313</td>
+			<td>Nolfo, Joespeh [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hui, Brandon S [USA]</td>
+		</tr><tr><td>314</td>
+			<td>Eads, Sid [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>VIP Strid, Nathan [USA]</td>
+		</tr><tr><td>315</td>
+			<td>Abbasi, John [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bundy, Matthew [USA]</td>
+		</tr><tr><td>316</td>
+			<td>MILLER, BRADY [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Dorgan, William [USA]</td>
+		</tr><tr><td>317</td>
+			<td>VIP Pinson, eric [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Neiss, Cory [USA]</td>
+		</tr><tr><td>318</td>
+			<td>Landers, Nicholas [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Herr, Paul M [USA]</td>
+		</tr><tr><td>319</td>
+			<td>Penner, Brad [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kincer, James [USA]</td>
+		</tr><tr><td>320</td>
+			<td>Karr, Dale [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Eriksson, Kjell [USA]</td>
+		</tr><tr><td>321</td>
+			<td>Boardman, Jessica [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gumabon Jr, Remedor [USA]</td>
+		</tr><tr><td>322</td>
+			<td>Veloz, Anthony D [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>hernandez, Francisco [USA]</td>
+		</tr><tr><td>323</td>
+			<td>Fuentes, Dominick [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Chavez, Rafael [USA]</td>
+		</tr><tr><td>324</td>
+			<td>Blowe, Richard [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pardue, Kenneth [USA]</td>
+		</tr><tr><td>325</td>
+			<td>Nail, Chavez [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hjersman, Johannan [USA]</td>
+		</tr><tr><td>326</td>
+			<td>Barrett, Conall [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>walsh, michael [USA]</td>
+		</tr><tr><td>327</td>
+			<td>Villalobos, Mario [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Jerome, Alec [USA]</td>
+		</tr><tr><td>328</td>
+			<td>VIP Solis, Oscar [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Simard, Danny [USA]</td>
+		</tr><tr><td>329</td>
+			<td>Worthington, Kyle [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Wong, Tom [USA]</td>
+		</tr><tr><td>330</td>
+			<td>Mukhar, Charles [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Griffin, Christian [USA]</td>
+		</tr><tr><td>331</td>
+			<td>Rodr?guez, Omar [MEX]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Obenza, Myles [USA]</td>
+		</tr><tr><td>332</td>
+			<td>Chavez, joshua [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pham, Matthew [USA]</td>
+		</tr><tr><td>333</td>
+			<td>Simao, William [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kivelstadt, Alex [USA]</td>
+		</tr><tr><td>334</td>
+			<td>Entrialgo, Peter [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Dickerson, Michael G [USA]</td>
+		</tr><tr><td>335</td>
+			<td>Tish, Brad [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Horner, Brian K [USA]</td>
+		</tr><tr><td>336</td>
+			<td>Hulvey, Chris [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>HAWKSLEY, ALEX [USA]</td>
+		</tr><tr><td>337</td>
+			<td>VIP Pollot, Christophe [USA]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Barajas, Ricardo [USA]</td>
+		</tr><tr><td>338</td>
+			<td>Wiig, Brian [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Crosby, Michael [USA]</td>
+		</tr><tr><td>339</td>
+			<td>Probizansky, Henry [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Trafton, Jess [USA]</td>
+		</tr><tr><td>340</td>
+			<td>Carsey, Timothy [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Shost, Will [USA]</td>
+		</tr><tr><td>341</td>
+			<td>Stewart, Matt [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Liem, Warren [USA]</td>
+		</tr><tr><td>342</td>
+			<td>Newbom, Andy [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Scales, Zach [USA]</td>
+		</tr><tr><td>343</td>
+			<td>Woodrow, Karl [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mendez, Gabriel [USA]</td>
+		</tr><tr><td>344</td>
+			<td>Biedenbach, Christophe [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Adams, Jimmy [USA]</td>
+		</tr><tr><td>345</td>
+			<td>Conn, Alex S [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Coleman, Philip [USA]</td>
+		</tr><tr><td>346</td>
+			<td>Kelly, Connor [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hausman, Andrew [USA]</td>
+		</tr><tr><td>347</td>
+			<td>Tayek, Chandler [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lebrilla, Kevin [USA]</td>
+		</tr><tr><td>348</td>
+			<td>Giampietro, Jeremy [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Oaks, Austin [USA]</td>
+		</tr><tr><td>349</td>
+			<td>Rando, Alex [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fitzgerald, Sean [USA]</td>
+		</tr><tr><td>350</td>
+			<td>O'Leary, PJ [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bardelline, Jonathan [USA]</td>
+		</tr><tr><td>351</td>
+			<td>Sajasi, Leo [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lerma, Brandon [USA]</td>
+		</tr><tr><td>352</td>
+			<td>Ramirez, Jacob [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>menard, Christopher [USA]</td>
+		</tr><tr><td>353</td>
+			<td>Castro, Rafael [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Austria, Alfred A [USA]</td>
+		</tr><tr><td>354</td>
+			<td>Shumaker, Luke [USA]</td>
+			<td>Lost 0-1-1</td>
+			<td>vs.</td>
+			<td>VIP Schy, Jesse [USA]</td>
+		</tr><tr><td>355</td>
+			<td>Patel, Ashish [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mcnair, Kendric [USA]</td>
+		</tr><tr><td>356</td>
+			<td>Vanderpool, Hurley w [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Goldman, Josh A [USA]</td>
+		</tr><tr><td>357</td>
+			<td>Laurtano, Michael [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Borsari, Nicholas [USA]</td>
+		</tr><tr><td>358</td>
+			<td>Goh, Jensen [SGP]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Stavich, Derek [USA]</td>
+		</tr><tr><td>359</td>
+			<td>Mendez, Roger [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>VIP Ramos Garcia, Dani [USA]</td>
+		</tr><tr><td>360</td>
+			<td>Whitt, Shaun M [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Clark, Jason [USA]</td>
+		</tr><tr><td>361</td>
+			<td>Ryan, Matt V [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Garcia, Rodrigo [USA]</td>
+		</tr><tr><td>362</td>
+			<td>VIP Garcia, Angel e [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Kim, Calvin [USA]</td>
+		</tr><tr><td>363</td>
+			<td>Borrero, Mario [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Russell, Kenneth M [USA]</td>
+		</tr><tr><td>364</td>
+			<td>VIP Smith, Derek A [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lamberson, Terry [USA]</td>
+		</tr><tr><td>365</td>
+			<td>Alferez, Marcelo [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sickles, Sean [USA]</td>
+		</tr><tr><td>366</td>
+			<td>Finical, Brandon [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rizzonelli, Garett [USA]</td>
+		</tr><tr><td>367</td>
+			<td>Pineda, Santiago [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Medina, Jacob [USA]</td>
+		</tr><tr><td>368</td>
+			<td>Do, Anh D [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wingert, James [USA]</td>
+		</tr><tr><td>369</td>
+			<td>MILLER, JOHN [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Serrato, Codey [USA]</td>
+		</tr><tr><td>370</td>
+			<td>Mungovan, Brad [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Garcia, Kenneth [USA]</td>
+		</tr><tr><td>371</td>
+			<td>Chu, Kevin M [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mummery, Ryan [USA]</td>
+		</tr><tr><td>372</td>
+			<td>VIP Elliott, Kevin [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Chu, Terence [USA]</td>
+		</tr><tr><td>373</td>
+			<td>Batterman, Daniel [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Macala, Julius D [USA]</td>
+		</tr><tr><td>374</td>
+			<td>VIP Bakken, Joshua [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Marcus, Ethan [USA]</td>
+		</tr><tr><td>375</td>
+			<td>Moore, Chad [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Beckfield, Peter K [USA]</td>
+		</tr><tr><td>376</td>
+			<td>Uron, Josh [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fletcher, Eric [USA]</td>
+		</tr><tr><td>377</td>
+			<td>Mcgeath, Shaw [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Wang, Chistoper [USA]</td>
+		</tr><tr><td>378</td>
+			<td>Pisano, Rob [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kutcher, Ben M [USA]</td>
+		</tr><tr><td>379</td>
+			<td>Pang, siteng [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Carr, Trevor B [USA]</td>
+		</tr><tr><td>380</td>
+			<td>Carter, Aaron R [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>VIP Soriano, John P [USA]</td>
+		</tr><tr><td>381</td>
+			<td>Liang, Zhi F [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Phillips, Dimitri [USA]</td>
+		</tr><tr><td>382</td>
+			<td>Ortiz, David [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kosel, Daniel [USA]</td>
+		</tr><tr><td>383</td>
+			<td>In, Andrew [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Burtle, Robert [USA]</td>
+		</tr><tr><td>384</td>
+			<td>Cobb, Brandon [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Haker, Steven [USA]</td>
+		</tr><tr><td>385</td>
+			<td>Fountain, Dominic [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Meeks, Louie R [USA]</td>
+		</tr><tr><td>386</td>
+			<td>Gundy, Aaron [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Jorgensen, Michael [USA]</td>
+		</tr><tr><td>387</td>
+			<td>Vassiliou, Nick [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nero, Allen [USA]</td>
+		</tr><tr><td>388</td>
+			<td>Klein, Max [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Killeen, Rick [USA]</td>
+		</tr><tr><td>389</td>
+			<td>Dreher, Christopher [USA]</td>
+			<td>Won 1-0-1</td>
+			<td>vs.</td>
+			<td>Conley, Garrett [USA]</td>
+		</tr><tr><td>390</td>
+			<td>Young, Andrew [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Snyder, Mike J [USA]</td>
+		</tr><tr><td>391</td>
+			<td>Thomsen, Daniel F [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>VIP Capen, Candice [USA]</td>
+		</tr><tr><td>392</td>
+			<td>Dykstra, Theodore [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Velo, Joshua [USA]</td>
+		</tr><tr><td>393</td>
+			<td>Lawson, John [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tymeson, Jase [USA]</td>
+		</tr><tr><td>394</td>
+			<td>Shih, Michael [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bondy, Aaron [USA]</td>
+		</tr><tr><td>395</td>
+			<td>Stein, Joshua [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Johnson, Dustin [USA]</td>
+		</tr><tr><td>396</td>
+			<td>Eck, Kyle M [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Bundy, William [USA]</td>
+		</tr><tr><td>397</td>
+			<td>Booker, Mike [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ellis, Kenneth M [USA]</td>
+		</tr><tr><td>398</td>
+			<td>Wickey, Michael [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Walters, Noah [USA]</td>
+		</tr><tr><td>399</td>
+			<td>Newbom, Aaron [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>PALASE, MATTHEW [USA]</td>
+		</tr><tr><td>400</td>
+			<td>Drury, Dustin [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lynch, Michael [USA]</td>
+		</tr><tr><td>401</td>
+			<td>Soule, Kevin [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Van Der Wyk, Aaron [USA]</td>
+		</tr><tr><td>402</td>
+			<td>Jacobson, Kazuki [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lundgren, Ben [USA]</td>
+		</tr><tr><td>403</td>
+			<td>Joens, Klaus [DEU]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Steiner, Casey J [USA]</td>
+		</tr><tr><td>404</td>
+			<td>Weires, Synthia [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>VIP Munz, Neil [USA]</td>
+		</tr><tr><td>405</td>
+			<td>Lundquist, Benjamin R [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Arballo, Luis [USA]</td>
+		</tr><tr><td>406</td>
+			<td>Clancy, Alynn [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Jaques, David [USA]</td>
+		</tr><tr><td>407</td>
+			<td>Ma, Jonathan [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>McGrew, Brian [USA]</td>
+		</tr><tr><td>408</td>
+			<td>Blow, Brian [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Wray, Jimmy [USA]</td>
+		</tr><tr><td>409</td>
+			<td>Hawkinson, Ernie [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ross, Sean [USA]</td>
+		</tr><tr><td>410</td>
+			<td>VIP Wu, James [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Rubin, Raphael [USA]</td>
+		</tr><tr><td>411</td>
+			<td>GRACE, ANDREW [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Wilson, Nick [USA]</td>
+		</tr><tr><td>412</td>
+			<td>Reardon, Thomas [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Dean, Tyler D [USA]</td>
+		</tr><tr><td>413</td>
+			<td>Salgado, Luis [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Escobedo, John [USA]</td>
+		</tr><tr><td>414</td>
+			<td>O'Reilly-Hahn, Cassady [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Vallee, Evan [USA]</td>
+		</tr><tr><td>415</td>
+			<td>Lind, Dustin E [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Vo, Raymond [USA]</td>
+		</tr><tr><td>416</td>
+			<td>Merlin, Christopher [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Littlefield, James L [USA]</td>
+		</tr><tr><td>417</td>
+			<td>Watkins, Steven [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Marquez, Jaycee [USA]</td>
+		</tr><tr><td>418</td>
+			<td>Sanchez, Rudy [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Deremer, Andrew [USA]</td>
+		</tr><tr><td>419</td>
+			<td>Gabaldon, Brandon [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Poncher, Sam [USA]</td>
+		</tr><tr><td>420</td>
+			<td>Mevarez, Paul Y [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Boltz, Ethan [USA]</td>
+		</tr><tr><td>421</td>
+			<td>Labastidag, Roberto [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Naylor, Cameron [USA]</td>
+		</tr><tr><td>422</td>
+			<td>Garcia Rosas, Jose Dan [MEX]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Johnson, Matt B [USA]</td>
+		</tr><tr><td>423</td>
+			<td>Johnson, Zachary [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ryan, Scott [USA]</td>
+		</tr><tr><td>424</td>
+			<td>Barragan, Miguel Jr [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hwang, Jay [USA]</td>
+		</tr><tr><td>425</td>
+			<td>MICCOLI, MARCELLO A [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ige, Andrew Y [USA]</td>
+		</tr><tr><td>426</td>
+			<td>Rivera, Niko [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Roome, Nehemiah [USA]</td>
+		</tr><tr><td>427</td>
+			<td>Steiner, Nicolas [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Frazier, Christopher [USA]</td>
+		</tr><tr><td>428</td>
+			<td>Obrien, John B [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Noe, Christopher [USA]</td>
+		</tr><tr><td>429</td>
+			<td>Smotherman, David [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Punsalan, Gilbert T [USA]</td>
+		</tr><tr><td>430</td>
+			<td>Takeda, Alex [USA]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>VIP Kwan, Kerry [CAN]</td>
+		</tr><tr><td>431</td>
+			<td>Franklin, Gabriel [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dospil, Robert [USA]</td>
+		</tr><tr><td>432</td>
+			<td>Yap, Ethan [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Mehta, Sahil [USA]</td>
+		</tr><tr><td>433</td>
+			<td>Rearson, Jacob [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Brown, Damion [USA]</td>
+		</tr><tr><td>434</td>
+			<td>Alexander, Kevin [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Golightly, Peter [USA]</td>
+		</tr><tr><td>435</td>
+			<td>Gilpatrick, Mark [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kopstein, Isaac [USA]</td>
+		</tr><tr><td>436</td>
+			<td>Bott, Jonathan [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Jafari, Keyan [USA]</td>
+		</tr><tr><td>437</td>
+			<td>VIP Marin, Kevin [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Boyd, Wesley J [USA]</td>
+		</tr><tr><td>438</td>
+			<td>Lopez, Esteban C [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Phillips, Darien [USA]</td>
+		</tr><tr><td>439</td>
+			<td>Muskat, James [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Guerra, Matthew [USA]</td>
+		</tr><tr><td>440</td>
+			<td>Bradly, Tym [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cutlip, Austin [USA]</td>
+		</tr><tr><td>441</td>
+			<td>Thompson, Gage [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Derby, Tom [USA]</td>
+		</tr><tr><td>442</td>
+			<td>Eliot, Dominic [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Whaley, Connor [USA]</td>
+		</tr><tr><td>443</td>
+			<td>Landale, Tim D [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mitchell, Eric [USA]</td>
+		</tr><tr><td>444</td>
+			<td>Rider, Derek [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Seifert, Jeff m [USA]</td>
+		</tr><tr><td>445</td>
+			<td>Astorga, Efrain P [MEX]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>VIP Benz, Cedar [USA]</td>
+		</tr><tr><td>446</td>
+			<td>LEE, DERRICK [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Thomas, Brandon [USA]</td>
+		</tr><tr><td>447</td>
+			<td>Winkelpleck, Chad [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Penney, Joseph F [USA]</td>
+		</tr><tr><td>448</td>
+			<td>Estorga, Nicholas [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Skahan, Thomas [USA]</td>
+		</tr><tr><td>449</td>
+			<td>Williams, Josua [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mullan, Paul W [USA]</td>
+		</tr><tr><td>450</td>
+			<td>Ulmet, Christopher [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lolli, Austin [USA]</td>
+		</tr><tr><td>451</td>
+			<td>Tom, Falix [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Jones, Daniel [USA]</td>
+		</tr><tr><td>452</td>
+			<td>Waxer, Nathan J [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Centofanti, David [USA]</td>
+		</tr><tr><td>453</td>
+			<td>Withers, Matthew [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cochran, Andrew [USA]</td>
+		</tr><tr><td>454</td>
+			<td>Tabor, Matthew [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Wan, Tingfeng [USA]</td>
+		</tr><tr><td>455</td>
+			<td>Weinstein, Zachary [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Horwitz, Lucas [USA]</td>
+		</tr><tr><td>456</td>
+			<td>Blood, Zane [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Brush, Nick [USA]</td>
+		</tr><tr><td>457</td>
+			<td>Shafer, Will [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Simmons, Rashad [USA]</td>
+		</tr><tr><td>458</td>
+			<td>Ayers, Cort [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Steuer, Jonah [USA]</td>
+		</tr><tr><td>459</td>
+			<td>Shillan, Spin [USA]</td>
+			<td>Drew 1-1</td>
+			<td>vs.</td>
+			<td>Poncher, Jacob [USA]</td>
+		</tr><tr><td>460</td>
+			<td>VIP Lopez, Adrian [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Barber, Natalie [USA]</td>
+		</tr><tr><td>461</td>
+			<td>Hawley, Justin [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nasri, UBAYDAH [USA]</td>
+		</tr><tr><td>462</td>
+			<td>Baker, Sam [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hasebe, Erika [USA]</td>
+		</tr><tr><td>463</td>
+			<td>Guo, Michelle [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Johnson-Reed, John-Phi [USA]</td>
+		</tr><tr><td>464</td>
+			<td>Altamirano, Nick [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Johnson, Chris [USA]</td>
+		</tr><tr><td>465</td>
+			<td>Vaughn, Steven [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gallardo, Erick [MEX]</td>
+		</tr><tr><td>466</td>
+			<td>Vlismas, Steven [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Liwag, Justin [USA]</td>
+		</tr><tr><td>467</td>
+			<td>Lacy lll, James [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ivers, William [USA]</td>
+		</tr><tr><td>468</td>
+			<td>Robinson, Isaac [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wang, Kevin [CAN]</td>
+		</tr><tr><td>469</td>
+			<td>Dorn, Weston [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Courcy, Daniel S [USA]</td>
+		</tr><tr><td>470</td>
+			<td>Brooks, Jacob [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Snell, Don [USA]</td>
+		</tr><tr><td>471</td>
+			<td>Markel, Eric [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Barrat, David [USA]</td>
+		</tr><tr><td>472</td>
+			<td>Vandruten, John C [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fetter, Michael [USA]</td>
+		</tr><tr><td>473</td>
+			<td>Gusman, Jesus [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Jacobi, William [USA]</td>
+		</tr><tr><td>474</td>
+			<td>Cortes, Corey [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hersman, Joseph [USA]</td>
+		</tr><tr><td>475</td>
+			<td>Velasco, Oscar [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bragdon, Jon [USA]</td>
+		</tr><tr><td>476</td>
+			<td>Johnson, Brian [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mullan, Virginia [USA]</td>
+		</tr><tr><td>477</td>
+			<td>Tucker, Nicholas [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Paige, Cody [USA]</td>
+		</tr><tr><td>478</td>
+			<td>Guthrie, Glen A [USA]</td>
+			<td>Lost 0-1-1</td>
+			<td>vs.</td>
+			<td>Boer, Michael [USA]</td>
+		</tr><tr><td>479</td>
+			<td>Wilson, Dennis [USA]</td>
+			<td>Lost 0-1-1</td>
+			<td>vs.</td>
+			<td>Bailey, Samson [USA]</td>
+		</tr><tr><td>480</td>
+			<td>Falcis, Carlo [USA]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Martinelli, Jonathan [USA]</td>
+		</tr><tr><td>481</td>
+			<td>Rizzonelli, Nicholas [USA]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nguyen, Kenny [USA]</td>
+		</tr><tr><td>482</td>
+			<td>Tugas, Niko [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Bolter, Chris [USA]</td>
+		</tr><tr><td>483</td>
+			<td>Kim, Jeremy [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Frapwell, Kolten [USA]</td>
+		</tr><tr><td>484</td>
+			<td>calderon, Vincent [USA]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>smith, ulysses jordan [USA]</td>
+		</tr><tr><td>485</td>
+			<td>Taylor, Ben [USA]</td>
+			<td>Drew 1-1-1</td>
+			<td>vs.</td>
+			<td>Funkhouser, Derek [USA]</td>
+		</tr><tr><td>486</td>
+			<td>Eugenio, Brian [USA]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>VIP Gutierrez, Dan Jef [USA]</td>
+		</tr><tr><td></td>
+			<td>Cutler, Emmanuel [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Abernathy, Cole G [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Adams, Cody [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Aguilar, Fernando [MEX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Akana, Jason [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>AKIYAMA, JUSTIN [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Alm, Ben [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>ALONSO, JEOVANI [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Aust, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Barrientos Ochoa, Clau [CHL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Batinich, Andrew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>becerra, daniel [MEX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Belamontez, Luis [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bell, Noah [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Besterman, Dan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Beverly, Kris D [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bircher, Ryan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Black, Jason [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Black, Joe B [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bogner, Ryan K [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bresler, Reuben [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Brown, Gavin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Brown, Steven [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bruggman, Beaux [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Buenrostro, Jesus [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Carewicz, Cameron [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Carranza, Jaime [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cravy, Justin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Chang, Robin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Chen, John [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Chen, Mike [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Chieng, Lawrence [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>CIPRIANO, CASEY C [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Clark, Austin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Clarkson, Kevin s [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cohoon, Marshall [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Corneveaux, George W [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cruz, Dominick [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cruz, Rene [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cruz, Ryan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Desangles Jr., Anthony [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Di Giacomo, Daniel [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Doggett, Troy [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Draxler, Rory W [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Drews, Ken [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Eakins, Loren [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Euribe, Julio [PER]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Farias, Noe [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ferber, Chirs [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Filaccia, Matthew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Fong, Alvin K [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>garcia, Alexander [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Gerlock, Alex S [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Griffin, Mike R [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Grugal, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Guevarra, Nicolo A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hammond, Tim a [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Harper, Travis [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hatamian, Emin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Heidl, Matthew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hernandez, Sidney [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hu, Jon S [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>hurdle, Blake [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Huteson, Thomas J [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Iiams, Brandon J [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jackson, Ron [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jackson, Troy [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jenkins, Mark A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jianu, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Job, Jonathan M [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jones, Anders M [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kastelein, John w [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kelly, Jamie [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>KETTERLING, AUSTIN [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>KHO, KAMAL [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>kim, kyoungsoo [KOR]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kimmich, Reginald [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Koessel, Noah T [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kou, Conor [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kristoffersen, Johanne [DNK]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lam, Brian [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lane, Stephen [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Laughlin, Pieison [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lauro, Travis [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Leach, William [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>LEEPER, RYAN R [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lehman, Anthony [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Livingston, Denise [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Logsdon, Tai [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lopez, Ralph [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Macurda, Art N [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Manansala, Bayani R [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Mascorro, Fernando [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Mccamey, Bobby [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>McCord, Kristopher C [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>McShea, Kevin P [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Medeiros, Kevin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Mellor, Brendan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Messina, Vincent [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>MIKNUS, ROBB [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Miller, Sean [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Miller, William F [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Monge, Jose [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Muldoon, Jesse [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>MURCH, ANDREW [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nabi, Basil [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nguyen, David [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>NGUYEN, HENRY [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nguyen, James [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nguyen, Joe H [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nguyen, Joey [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nicholas, Stephen [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>NOLLEN, DYLAN [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Noorlander, Mark [NLD]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Oakes, Connor M [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Olvera, Bryan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ong, Wendell M [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Opferman, Anthony M [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>paguio, thomas [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Paxton, Corey [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pearce, Seth [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Perason, James [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Perez, Daniel [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Perez, Gaston [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Peternell, Nick [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pfefferle, Noah [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pinkley, Joseph A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Post, Evan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Purpura, Greg [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Reitzel, Chris [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Reyes, Rudy [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rivera, Tim G [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Roa, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Roberts, Christopher [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Robinson, Brayden [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>ROBINSON, CONNOR [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Robles, Danny [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rodriguez, Brian S [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rodriguez, Miguel Ange [MEX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ryan, Jacob [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Salerno, Paul [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sanchez, Robert [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Santo, Hallie [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Saunders, James [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sciesinski, Marcin [IRL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sele, Yves [CHE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sendaydiego, Curt [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Servantes, Lucas P [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>seyssel, yurien [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Slone, Ryan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Slone, Steven [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Smith, Rusty J [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Solis, Oscar [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Stickney, Kameron S [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Stockdale, Claire [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Stoltz, Jordan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Stone, Blake [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Swimmer, CJ [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tabaldo, Brandon R [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tafoya, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Thomas, Drew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Thompson, Jesse [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tovar, Ricky [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Trafecanty, Matt [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tryggestad, David [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tukeman, SAMMY [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Vega, Brian [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Viernes, Glen [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wang, Charlie [CAN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wang, Yichen [CHN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Weeks, Kevin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wilson, Chase [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>WINTER, DILLON [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wong, Michael G [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yoo, Eric B [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yost, Austin R [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yu, Wilson [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yung Hwa, Ti [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Zamora, Eddie [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ballardo, David [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Boncher, Andrew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bundy, Adam [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>DePiazza, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Duron, Jordan A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Erler, Billy [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Espinoza, Daniel [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Figueroa, Daniel [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Folsom, Riley H [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Frazier, Gene [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Gibbs, Jordan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Grine, Gary [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ha, Raymond [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hickey, Bryan T [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ioerger, Roderick [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kaplan, Chad [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Koenig, Ryan K [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lee, Kane [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lee, Michelle [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>mercado, guillermo [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Neal, Chris [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nguyen, David L [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nguyen, Paul T [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ongaro, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ramirez, Alexander [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Randol, Mark B [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rousseau, Jack [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Serface, Zack [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Slater, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Son, Tony [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Staley, Derek [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>stone, jeffrey f [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Steuer, Nathan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sulser, Donavin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Thuemler, Joseph [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tong, Bret [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Turner, Cash [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Adeli, Bobak [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Arriola, James [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Austin, Lance A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Avila, Eric [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Chapman, Richard J [CAN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Crawford, Matthew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP ESPARZA, JAMES E [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Eubank, Cory [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Flannery, Shane [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Hernandez, Juan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Keene, Nathan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Lohr, Corbin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Olison, Marquis [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Rians, John R [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Romero, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Rudd, Adin R [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP SMITH, BRANDON [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Taylor, Daynin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Termer, Nicolas J [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Thompson, Brad n [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Williams, David A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wiitanen, Josh J [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yu, Kevin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Adams, Evan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Akers, Chris [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Anderson, Neil [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>ARCUNI, PHILIP M [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ayobi, Waheed [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Baker, Brandon [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Baker, Gray [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Balagot, Stefan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bauman, Mike B [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>becerra reyes, carlos [MEX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Black, James R [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Boese, Travis L [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>BOLAND, MICHAEL J [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bolding, Hunter [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bonacini, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Brumby, Gene [NZL]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Castillo, Ryen [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>castro, christian [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Chow, Edward [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Connor, John [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cortez, Paulo R [BRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>De Togni, Marco [ITA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Eckhoff, Trevor [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ellingsen, Kenneth [NOR]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Espinosa, ivan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Fang, Percy [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Farivar, Omid [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Fauson, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ferraro, Casey [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Floyd, Aaron [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Fox, Adam [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Frady, Keane [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Freeman, Marcelino [MEX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Garcia, Issiahs [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Gil, Nick J [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Gille, Randolph [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Gorokhovskiy, Konstant [UKR]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Greeson, Kevin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hantz, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Haugh, William [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hennes, Lucas [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Henson, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>HOPKINS, KRIS A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jaya, Ivan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Johnson-Epstein, Jaspe [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kassari, John [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kincey, Lauphiette [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Krautmann, Wenzel [DEU]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lam, Christopher C [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lingelbach, Cody a [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Loster, Joseph [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Majors, Michael J [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Mcatee, Brian W [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>medellin, Daniel [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Mills, David W [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Mondello, Jake [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nguyen, Justin T [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nonenmacher, Travis J [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>O'Connell, Gerald [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ogreenc, Greg A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Oliver, Neal K [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>O'Neill, Chris [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>owens, Ryan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pan, Phimus G [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Perez, Alex [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pierce, Stephen [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Porchas, Justin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Quihuiz, Chris [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rand, Chris [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rand, Kevin S [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rapadas, Edward [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rasmussen, Ron [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Reed, Grant [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Reed, Jason [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Roberts, Kurtis M [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ruiz, Leonardo [MEX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ruiz, Oscar [MEX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Russell, Kyle C [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>See, Andrew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>See, Wesley [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Severson, Eric [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Shevchenko, Kyryll [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Singh, Navdees [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Solis, Carlos [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Son, Andrew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Song, Edward [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tang, Jeffery [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tenjum, Andrew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Thompson, Bruce [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Thompson, Jason [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tyler, Gregory [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Weitz, Ben [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wijaya, Vidianto [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wilkerson, Joseph B [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wiznitzer, Aryeh [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wong, Alan S [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wong, Gary [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yam, Philip [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yeem, Soohwang [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Young, Kelvin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yu, Brian [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Zunter, Brian m [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Alter, Scott [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Alvarado Picazo, Artur [MEX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Angelin, Marcus [SWE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ash, Ray C [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bach, Austin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bale, Brandon [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Barrera, Alex [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Barrow, Cameron [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Baukholt, Robert [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Bennett, Gavin [CAN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Betts, Jonathan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Beversluis, William [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Birmingham, Bobby [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>BLAIR, CHRIS [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Brown, Andrew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Brown, Eric M [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Caitung, Rocky [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Carleton-Barnes, Gabri [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Carlos, Brandon [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Casillan, Randy [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cass, Matthew P [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Castelo, Arturo [MEX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Caudill, Eddie [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cerone, Anthony [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Chen, Cliff [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Comella, Terrence [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Costa, Matthew C [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cua, Paolo [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cuillier, Paul [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Culp, Kenneth [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Daley, Keith [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Darrow, Elliot [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>De Souza, Eric J [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Dhillon, Jee [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>DiMaggio, Matthew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Dorn, Victoria [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Dy, Mike A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Efland, Zach M [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Espe, Chris [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Fagundes, Marina [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Feeman, Dylan A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ferry, Sergio S [CAN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Fields, Frank [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Fischer, Brandon [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Flaczinski, Jake [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Freedman, Henry [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Gerhardt, B. Scott [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Goldsmith, Christopher [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Gutierrez-Cota, Fernan [MEX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hardwick, Richard [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hargrave, Brandon [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hibbard, Dalton [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hon, Alex [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Horspool, Tyler [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hresc, Tomas [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Hwang, Eugene [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jacobson, Mark [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jen, Ivan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Jew, Jeff [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Johnson, Cody S [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kalbus, Wes [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Keeth, Christian T [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Khalaf, Rami [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Killeen, Tristan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Koo, Eugene [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>LaPille, Thomas M [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lew, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lipp, Scott R [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Maes, Robert [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Mandelblattt, Zach [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Martin, Russell [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Mathews, Andrew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Meadors, Dan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Merriam, Ross C [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Miller, Kyle [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Morphis, James L [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nass, Matthew L [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nelson, Colleen F [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nguyen, Chris N [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nguyen, Minh [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nguyen, Thien [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>O'Leary, Sanchez [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pastorini, Lucas [BRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Phillips, Steven A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pordes, Casey [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Quinn, Serena [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ramirez, Daniel [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Reguindin, Phillip [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Roldan, Danny [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Rosario, Joel [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Salem, Jonathan N [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sanson, Albert E [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>SANTANA, ROBERT [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Seaton, Carl A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Seck, Ben [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sellers, Michael [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Shaw, Jeffery [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Shipley, Harry F [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sloan, Shawn [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Slutsky, Simon A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Smith, Trevor [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Smith, Warren [CAN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Stern, Jon [CAN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Suh, Steven [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tamblyn, Alex N [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Thompson, Bradley [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Thompson, Gerry [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tibbetts, jason [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tomlinson, Jared L [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Toney, Andrew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Tran, Dai [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ulanov, Denis [RUS]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Valencia, Omar [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Bemrose, Ryan n [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Biaggi, Andrea [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Botis, Juan Carlos [MEX]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Burkhart, Corey [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Busby, Steven [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Cabanero, Erik E [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Cartlidge, Brandon [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Casias, Ben [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Chatfield, Larry R [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Ciccarelli, Jonath [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Davidson, Matthew [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Dreher, Gregory A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Fader, Kyle [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Freerksen, Sheldon N [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Gilison, Daniel [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Green, Marcell S [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Guzman, Edd A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Ivy, Corey [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Krantz, Ben P [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP MANARY, MICAH [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Mariscal, Carlos F [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Mednev, Ivo [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Mourssali, Riad S [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Nix, Robert L [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Sanchez, Joseph [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Scott, Jay [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP sith, Wesley [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Situ, David [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Smith, Rj [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Sundholm, Peter [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Toshikawa, Kento [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Villela, Artur S [BRA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wang, Aurthur [CHN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ward, Dan R [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ward, Patrick [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wilson, Lee [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Yoo, Bradley J [KOR]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Zhang, Yinan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>(3) Black, Samuel H [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Chapin, Patrick A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Juza, Martin [CZE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Kibler, Brian M [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>(7) Lax, Ari M [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Mackl, Valentin [AUT]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP (6) Manfield, Seth [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Martell, Tom [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Nakamura, Shuuhei [JPN]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>(9) Rietzl, Paul R [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>(15) Shenhar, Shahar [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Stark, Ben S [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Wescoe, Craig D [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>(14) Wilson, Jacob A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Cohen, Justin [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Duke, Reid [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Jensen, William H [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Lantto, Magnus [SWE]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Ochoa, David A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Sperling, Matt [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>(12) Turtenwald, Owen [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>(18) Utter-Leyton, Josh W [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP Cheon, Paul A [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP (2) Froehlich, Eric [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>VIP (16) Rubin, Steve [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Clarke, Jonathan [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Estrella, Dominic [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>SCHLOM, CHRISTOPH [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>SMITH, DANE [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Pemberton, Roger [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* Awarded Bye *</td>
+		</tr><tr><td></td>
+			<td>Dameron, Josh [USA]</td>
+			<td></td>
+			<td></td>
+			<td>* BYE *</td>
+		</tr></tbody></table><p></p>
+
+<p></p>
+
+<p></p></body></html>
+      </div>
+
+      <!-- BEGIN :: Article footer -->
+      <div class="article-footer">
+        <p class="posted-in">
+          Posted in          <strong class="breadcrumb-no-link">Event Coverage</strong>
+          on August 8, 2015        </p>
+      </div>
+      <!-- END :: Article footer -->
+
+    </article>
+  </div>
+
+  <!-- BEGIN :: ASIDE -->
+        <aside>
+      <div class="aside-wrapper">
+        
+
+            <h2><span>FEATURED ARTICLES</span></h2>
+      <div class="articles-bloc">
+            <div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/uvddkUU1DO_dmu_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/daily-magic-update/update-2016-08-10" class="cat">DAILY MAGIC UPDATE</a>
+      <p class="date">August 10, 2016</p>
+      <a href="/en/articles/archive/daily-magic-update/update-2016-08-10" class="title">The August 10, 2016 Update</a>
+              <a href="/en/articles/archive/daily-magic-update/update-2016-08-10" class="auth">Blake Rasmussen</a>
+      
+      <div class="infos">
+                  <p>The Daily Magic Update is a roundup of everything you should know for today from throughout the Magic community.
+</p>
+                <p><a href="/en/articles/archive/daily-magic-update/update-2016-08-10" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div><div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/WtP20160809_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/ways-play/kitchen-table-friday-night-magic-2016-08-09" class="cat">WAYS TO PLAY</a>
+      <p class="date">August 9, 2016</p>
+      <a href="/en/articles/archive/ways-play/kitchen-table-friday-night-magic-2016-08-09" class="title">From the Kitchen Table to Friday Night Magic</a>
+              <a href="/en/articles/archive/ways-play/kitchen-table-friday-night-magic-2016-08-09" class="auth">Quinn Murphy</a>
+      
+      <div class="infos">
+                  <p>The kitchen table is great, but where should you look if you want to broaden your Magic community?
+</p>
+                <p><a href="/en/articles/archive/ways-play/kitchen-table-friday-night-magic-2016-08-09" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div><div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/WtP20160809_icon_0.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/ways-play/attending-your-first-grand-prix-2016-08-09" class="cat">WAYS TO PLAY</a>
+      <p class="date">August 9, 2016</p>
+      <a href="/en/articles/archive/ways-play/attending-your-first-grand-prix-2016-08-09" class="title">Attending Your First Grand Prix</a>
+              <a href="/en/articles/archive/ways-play/attending-your-first-grand-prix-2016-08-09" class="auth">Maria Bartholdi</a>
+      
+      <div class="infos">
+                  <p>Thinking of taking the leap and joining your first Grand Prix? Maria thinks you should go for it, and she's here to tell you why.
+</p>
+                <p><a href="/en/articles/archive/ways-play/attending-your-first-grand-prix-2016-08-09" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div>          </div>
+                  
+      <div class="articles-bloc">
+    <div class="article static pub-event "
+         style="background-image: url(http://magic.wizards.com/sites/mtg/files/Ad_FNM_Crumbling-Vestige.jpg)">
+      <div class="wrap details">
+                  <img src="http://magic.wizards.com/sites/mtg/files/Ad_Logo_FNM.png" />
+                <p class="date"></p>
+                  <p class="description">Battle against your friends and you could earn a Promo Crumbling Vestige!</p>
+                          <p>
+            <a class="learn-more " href="http://magic.wizards.com/en/events/event-types/friday-night-magic" data-video-url="">
+              More Info            </a>
+          </p>
+              </div>
+    </div>
+  </div>
+      
+      <h2><span>GAME DAY</span></h2>
+      <div class="articles-bloc">
+    <div class="article static pub-event "
+         style="background-image: url(http://magic.wizards.com/sites/mtg/files/Ad_EMN_Key-Art.jpg)">
+      <div class="wrap details">
+                  <img src="http://magic.wizards.com/sites/mtg/files/Ad_Logo_EMN.png" />
+                <p class="date"></p>
+                  <p class="description">Become the Champion of your favorite game store this weekend at Game Day!</p>
+                          <p>
+            <a class="learn-more " href="http://magic.wizards.com/en/events/event-types/gameday" data-video-url="">
+              More Info            </a>
+          </p>
+              </div>
+    </div>
+  </div>
+                </div>
+    </aside>
+    <!-- END :: ASIDE -->
+
+  
+  <h2><span>Latest Event Coverage Articles</span></h2>
+  <div class="articles-bloc releated">
+
+              <div class="article">
+          <div class="wrap">
+                          <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/essay_hero.jpg);"></div>
+                        <div class="details">
+                              <a href="#" class="cat">PRO TOUR ELDRITCH MOON</a>
+                            <p class="date">August 7, 2016</p>
+              <a href="#" class="title">Pro Tour Eldritch Moon Photo Essay</a>
+                              <a href="#" class="auth">by, Ray “blisterguy” Walkinshaw</a>
+                            <div class="infos">
+                                  <p>There's always so much more to a Pro Tour than you see on the website or social media or the live stream, so we've collected some of Pro Tour Photographer Craig Gibson's more interesting ...</p>
+                                <p><a href="/en/events/coverage/ptemn/pro-tour-eldritch-moon-photo-essay-2016-08-07" class="learn-more">Learn More</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="article">
+          <div class="wrap">
+                          <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/PT_Icon_Top_Moments.jpg);"></div>
+                        <div class="details">
+                              <a href="#" class="cat">PRO TOUR ELDRITCH MOON</a>
+                            <p class="date">August 7, 2016</p>
+              <a href="#" class="title">TOP 5 MOMENTS</a>
+                              <a href="#" class="auth">by, Chapman Sim</a>
+                            <div class="infos">
+                                  <p>Pro Tour Eldritch Moon was unforgettable for numerous reasons, but here are the most rousing memories that we feel should be preserved in the annals of time. Let's take a quick trip down ...</p>
+                                <p><a href="/en/events/coverage/ptemn/top-5-moments-2016-08-07" class="learn-more">Learn More</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+            <div class="article static">
+        <div class="wrap">
+          <div class="visual" style="background-image: url(http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/reconstructedArchive.jpg);"></div>
+          <div class="details">
+            <p class="title"><span>Articles</span></p>
+            <div class="details">
+              <p class="title"><span>Articles</span></p>
+              <p class="sub-title">Event Coverage Archive</p>
+              <div class="infos">
+                <p>Consult the archives for more articles!</p>
+                <p><a href="/en/articles/archive" class="learn-more">See All</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+
+</div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+  </div>
+
+  <!-- Footer -->
+    <footer>
+    <div id="back-to-top">
+      <a href="#viewport">Back to top</a>
+    </div>
+    <div id="where-to-buy">
+      <div class="content page-width">
+        <form action="/en/events/coverage/gpsd15/round-1-results-2015-08-08" method="post" id="wiz-store-and-event-locator-search-form--2" accept-charset="UTF-8"><div><div class="intro"><div class="wrap"><h5>Where to Play and Buy</h5><p>Find a location to buy or play<br />Magic: The Gathering near you.</p></div></div><div class="form"><div class="wrap"><span class="column zip-code"><div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Enter your city or postal code" type="text" id="edit-search-string--4" name="search-string" value="" size="25" maxlength="128" class="form-text" />
+</div>
+</span><span class="column actions"><button class="action-button" type="submit">Find Now !</button></span></div></div><input class="hide form-submit" type="submit" id="edit-search-button--4" name="op" value="Find Now" /><input type="hidden" name="form_build_id" value="form-ZerOmtaxmyG0nyHbjiwqZprDuMfhwuZtc4dm99mgu60" />
+<input type="hidden" name="form_id" value="wiz_store_and_event_locator_search_form" />
+</div></form>      </div>
+    </div>
+
+    <div class="main-footer">
+      <div class="content page-width">
+        <div class="text">
+                      <div id="locale-select">
+              <label for="locale-select-ddl">Select your language:</label>
+
+              <div class="select-wrapper">
+                <select id="locale-select-ddl">
+                  <option value="/zh-hans" >简体中文</option><option value="/zh-hant" >繁體中文</option><option value="/fr" >Français</option><option value="/de" >Deutsch</option><option value="/it" >Italiano</option><option value="/ja" >日本語</option><option value="/ko" >한국어</option><option value="/pt-br" >Português (Brasil)</option><option value="/ru" >Русский</option><option value="/es" >Español</option><option value="/en" selected>English</option>                </select>
+              </div>
+            </div>
+          
+          
+
+      <p class="brand-family-title">Wizards Brand Family</p>
+    <p class="brand-family-menu"><a href="http://magic.wizards.com" target="_blank">magic</a> <em>|</em> <a href="http://www.wizards.com/dnd" target="_blank">d&amp;d</a> <em>|</em> <a href="http://www.wizards.com/wpn" target="_blank">wpn</a> <em>|</em> <a href="http://dm.takaratomy.co.jp" target="_blank">duel masters</a> <em>|</em> <a href="http://www.wizards.com/default.asp?x=ah/welcome" target="_blank">avalon hill</a></p>
+  <p><a href="http://company.wizards.com/tou" target="_blank">Terms of Use</a> <em>|</em> <a href="http://company.wizards.com/conduct" target="_blank">Code of Conduct</a> <em>|</em> <a href="http://company.wizards.com/policy" target="_blank">Privacy Policy</a> <em>|</em> <a href="http://www.wizards.com/customerservice" target="_blank">Customer Service</a> <em>|</em> <a href="/en/articles/archive/our-cookie-policy-2013-10-28">Cookies</a></p>
+  <p class="copyright">© 1995-2016 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved.</p>
+
+        </div>
+        
+
+      <p class="logo wizard">
+      <a href="http://company.wizards.com"
+         target="_blank"
+         title="Wizards of the Coast"
+        ><img src="/sites/all/themes/wiz_mtg/img/interface/wizard-of-the-coast-logo.png" alt="Wizards of the Coast" /></a>
+    </p>
+  
+      <p class="logo hasbro">
+      <a href="http://www.hasbro.com"
+         target="_blank"
+         title="Hasbro"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/hasbro-logo.svg" alt="Hasbro" /></a>
+    </p>
+  
+      <p class="logo privacy">
+      <a href="http://www.esrb.org/confirm/wizards-confirmation.aspx"
+         target="_blank"
+         title="ESRB Privacy Certified"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/esrb-badge.png" alt="ESRB Privacy Certified" /></a>
+    </p>
+  
+      </div>
+    </div>
+  </footer>
+  </div>
+
+<div id="cookies-warning">
+	<div class="wrap page-width">
+		<div class="text">
+			<p>
+        We use cookies on this site to enhance your user experience. By clicking any link on this page or by clicking <strong>Yes</strong>, you are giving your consent for us to set cookies.        <a href="http://company.wizards.com/policies/web/cookie" target="_blank"> (Learn more about cookies)</a>
+      </p>
+		</div>
+		<p class="actions">
+			<button type="button" class="button agree">Yes, I agree</button>
+			<a href="http://company.wizards.com/policies/web/cookie" target="_blank" class="button disagree">No, I want to find out more</a>
+		</p>
+	</div>
+</div>      <div class="region region-page-bottom">
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>  </div>
+<script type="text/javascript" src="http://magic.wizards.com/sites/mtg/files/js/js_oi0ujkYeWtu_4YlJE5uYvltQ88urtOHuaNRm2scTWco.js"></script>
+  </div>
+
+	<!-- Crazy Egg -->
+	<script type="text/javascript">
+		setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName("script")[0];
+		a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0009/9185.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+	</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d92d812ac7","applicationID":"22111946","transactionName":"YVNXMkcAD0sHAUdcXFgZdAVBCA5WSRJSUlZpW1QIVAYESjkMXFFWaUBcA0I+EVkBBw==","queueTime":0,"applicationTime":982,"atts":"TRRURA8aHEU=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
