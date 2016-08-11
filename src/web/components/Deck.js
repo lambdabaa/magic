@@ -1,4 +1,6 @@
+let client = require('../client');
 let {connect} = require('react-redux');
+let filterResults = require('../filterResults');
 let forEach = require('lodash/collection/forEach');
 let groupBy = require('lodash/collection/groupBy');
 let moment = require('moment');
@@ -8,6 +10,11 @@ class Deck extends React.Component {
   constructor(props) {
     super(props);
     this._openDeck = this._openDeck.bind(this);
+  }
+
+  componentWillMount() {
+    let {format, name} = this.props;
+    client.syncResults(format, name);
   }
 
   componentDidMount() {
@@ -21,10 +28,15 @@ class Deck extends React.Component {
   _componentDidRender() {
     let {name, format} = this.props;
     document.title = `MTG Results | ${format} ${name}`;
-    this._doUpdateGraph();
+    this._doUpdateGraphs();
   }
 
-  _doUpdateGraph() {
+  _doUpdateGraphs() {
+    this._doUpdatePopularityGraph();
+    this._doUpdateMatchupsGraph();
+  }
+
+  _doUpdatePopularityGraph() {
     let {decks, format, name} = this.props;
     let list = decks[format][name].decks;
     let date = new Date().getTime();
@@ -62,6 +74,39 @@ class Deck extends React.Component {
     );
   }
 
+  _doUpdateMatchupsGraph() {
+    let {results, format, name} = this.props;
+    let data = filterResults(results[format], name);
+    if (!Object.keys(data).length) {
+      return;
+    }
+
+    let table = new google.visualization.DataTable();
+    table.addColumn('number', 'Observations');
+    table.addColumn('number', 'Win Pct');
+    table.addColumn({type: 'string', role: 'tooltip'});
+
+    for (let key in data) {
+      let matches = data[key];
+      let mwp = getMatchupWinPercentage(key, matches);
+      table.addRows([[matches.length, mwp, `${key} - ${mwp}`]]);
+    }
+
+    let chart = new google.visualization.ScatterChart(
+      document.querySelector('.deck-matchups')
+    );
+
+    chart.draw(table, {
+      title: 'Matchup Win Percentage',
+      hAxis: {title: 'Observations'},
+      vAxis: {
+        format: '#%',
+        title: 'Win Pct',
+        viewWindow: {min: 0, max: 1}
+      },
+    });
+  }
+
   render() {
     let {decks, format, name} = this.props;
     let list = decks[format][name].decks;
@@ -73,8 +118,8 @@ class Deck extends React.Component {
              style={{backgroundImage: `url("/images/${format}/${name}.jpeg.png")`}}>
         </div>
       </div>
-      <div className="deck-popularity">
-      </div>
+      <div className="deck-popularity"></div>
+      <div className="deck-matchups"></div>
       <h2>Decklists</h2>
       <table className="deck-data">
         <thead>
@@ -104,6 +149,20 @@ class Deck extends React.Component {
   _openDeck(deck) {
     window.open(deck.link, '_blank');
   }
+}
+
+function getMatchupWinPercentage(name, group) {
+  let wins = group.reduce((count, match) => {
+    let {p1, p2, winner} = match;
+    if ((winner === 1 && p1 === name) ||
+        (winner === 2 && p2 === name)) {
+      return count + 1;
+    }
+
+    return count;
+  }, 0);
+
+  return wins / group.length;
 }
 
 /*
@@ -168,6 +227,7 @@ function mapStateToProps(state) {
   return {
     format: state.format,
     decks: state.decks,
+    results: state.results,
     name
   };
 }

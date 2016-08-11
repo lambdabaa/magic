@@ -5,13 +5,15 @@ let merge = require('lodash/object/merge');
 let {routerReducer} = require('react-router-redux');
 
 const initialState = {
-  format: 'Standard',
+  format: 'Modern',
 
   decks: {
     Legacy: {},
     Modern: {},
     Standard: {}
-  }
+  },
+
+  results: {}
 };
 
 let store = createStore((state = initialState, action) => {
@@ -28,7 +30,7 @@ let store = createStore((state = initialState, action) => {
     {routing: routerReducer(state && state.routing, action)}
   );
 
-  debug(JSON.stringify(next));
+  //debug(JSON.stringify(next));
   return next;
 });
 

@@ -14,7 +14,8 @@
   align-items: center;
 }
 
-.deck-popularity {
+.deck-popularity,
+.deck-matchups {
   height: 300px;
 }
 

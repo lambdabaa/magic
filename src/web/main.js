@@ -19,7 +19,6 @@ async function main() {
         <Route path="/" component={require('./components/App')}>
           <IndexRoute component={require('./components/Grid')} />
           <Route path="decks/*/*" component={require('./components/Deck')} />
-          <Route path="decks/*/*/vs/*" component={require('./components/Matchup')} />
         </Route>
       </Router>
     </Provider>,
