@@ -14,6 +14,10 @@
   margin-right: 15px;
 }
 
+.metagame-graph {
+  height: 400px;
+}
+
 .grid {
   text-align: center;
 }

@@ -5,7 +5,7 @@ let merge = require('lodash/object/merge');
 let {routerReducer} = require('react-router-redux');
 
 const initialState = {
-  format: 'Modern',
+  format: 'Standard',
 
   decks: {
     Legacy: {},

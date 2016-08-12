@@ -1,0 +1,21 @@
+{
+  "firebase": "mtgstats",
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "**/bin/**",
+      "**/cache/**",
+      "**/build/**",
+      "**/node_modules/**",
+      "**/src/**",
+      "**/style/**",
+      "**/test/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
