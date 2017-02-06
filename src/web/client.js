@@ -3,10 +3,10 @@ let {store, update} = require('./state');
 
 let firebaseSecretToken = 'tTxh4X9b1gGIySp4XvSFvuTcf50Pt0XnSxoCYN49';
 let ref = new Firebase('https://mtgstats.firebaseio.com');
-let auth = ref.authWithCustomToken(firebaseSecretToken);
+//let auth = ref.authWithCustomToken(firebaseSecretToken);
 
 async function load() {
-  await auth;
+  //await auth;
   await Promise.all(
     ['Legacy', 'Modern', 'Standard'].map(async (format) => {
       let snapshot = await ref
@@ -21,7 +21,7 @@ async function load() {
 }
 
 async function syncResults(format, deck) {
-  await auth;
+  //await auth;
   let ref1 = ref
     .child('results')
     .orderByChild('p1')
