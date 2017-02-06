@@ -82,7 +82,7 @@ class Deck extends React.Component {
 
     for (let key in data) {
       let matches = data[key];
-      let mwp = getMatchupWinPercentage(key, matches);
+      let mwp = getMatchupWinPercentage(name, matches);
       table.addRows([[matches.length, mwp, `${key} - ${mwp}`]]);
     }
 

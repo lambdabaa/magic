@@ -29,12 +29,12 @@ class Grid extends React.Component {
   _doUpdateMetagameGraph() {
     let {decks, format} = this.props;
     let metagame = decks[format];
-    let past3Months = pastMonths(3);
+    let past6Months = pastMonths(6);
     let top = {};
     let all = {};
     for (let key in metagame) {
       all[key] = metagame[key].decks;
-      if (metagame[key].decks.filter(past3Months).length >= 3) {
+      if (metagame[key].decks.filter(past6Months).length >= 3) {
         top[key] = metagame[key].decks;
       }
     }
@@ -101,7 +101,7 @@ class Grid extends React.Component {
 
   render() {
     let {decks, format} = this.props;
-    let past3Months = pastMonths(3);
+    let past6Months = pastMonths(6);
 
     let total = {
       Legacy: {},
@@ -123,7 +123,7 @@ class Grid extends React.Component {
 
     let top = filter(decks[format], (group, name) => {
       let {decks} = group;
-      let period = decks.filter(past3Months).length;
+      let period = decks.filter(past6Months).length;
       total[format][name] = decks.length;
       recent[format][name] = period;
       sum[format] += period;
@@ -154,8 +154,8 @@ class Grid extends React.Component {
         Object
           .keys(top)
           .sort((a, b) => {
-            a = top[a].decks.filter(past3Months);
-            b = top[b].decks.filter(past3Months);
+            a = top[a].decks.filter(past6Months);
+            b = top[b].decks.filter(past6Months);
             return a.length > b.length ? -1 : 1;
           })
           .map(name => {

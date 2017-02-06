@@ -1,0 +1,4528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+  <title>ROUND 4 RESULTS | MAGIC: THE GATHERING</title>
+
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"/>
+  <meta name="format-detection" content="telephone=no"/>
+	<meta name="google-site-verification" content="WquIfqfWtlm2X62GTeJ-5vDtRrbOVOIT6mFc3vAP5BQ" />
+
+  <link rel="icon" type="image/png" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/sites/all/themes/wiz_mtg/icons/favicon.ico"/>
+  <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/wiz_mtg/icons/touch-icon-57.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/wiz_mtg/icons/touch-icon-72.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/wiz_mtg/touch-icon-114.png"/>
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sites/all/themes/wiz_mtg/icons/touch-icon-144.png"/>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://magic.wizards.com/sites/all/themes/wiz_mtg/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Table&amp;#13; Player&amp;#13;  &amp;#13; Result&amp;#13;  &amp;#13; Opponent&amp;#13;  &amp;#13; 1&amp;#13; Bugalter, Ben&amp;#13; [US]&amp;#13; Lost 0-2&amp;#13; vs.&amp;#13; Breitman, Alan&amp;#13; [US]&amp;#13; 2&amp;#13; Belliveau, Kyle&amp;#13; [US]&amp;#13; Lost 0-2&amp;#13; vs.&amp;#13; Shiels, Dave&amp;#13; [US]&amp;#13; 3&amp;#13;" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://magic.wizards.com/en/events/coverage/gppro16/round-4-results-2016-10-22" />
+<link rel="shortlink" href="http://magic.wizards.com/en/node/1082886" />
+<meta property="og:site_name" content="MAGIC: THE GATHERING" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://magic.wizards.com/en/events/coverage/gppro16/round-4-results-2016-10-22" />
+<meta property="og:title" content="ROUND 4 RESULTS" />
+<meta property="og:description" content="Table&amp;#13; Player&amp;#13;  &amp;#13; Result&amp;#13;  &amp;#13; Opponent&amp;#13;  &amp;#13; 1&amp;#13; Bugalter, Ben&amp;#13; [US]&amp;#13; Lost 0-2&amp;#13; vs.&amp;#13; Breitman, Alan&amp;#13; [US]&amp;#13; 2&amp;#13; Belliveau, Kyle&amp;#13; [US]&amp;#13; Lost 0-2&amp;#13; vs.&amp;#13; Shiels, Dave&amp;#13; [US]&amp;#13; 3&amp;#13;" />
+<meta property="og:image" content="http://magic.wizards.com/sites/mtg/files/images/hero/GPKLD_Providence.jpg" />
+  <style type="text/css" media="all">
+@import url("http://magic.wizards.com/modules/system/system.base.css?okfvvf");
+@import url("http://magic.wizards.com/modules/system/system.menus.css?okfvvf");
+@import url("http://magic.wizards.com/modules/system/system.messages.css?okfvvf");
+@import url("http://magic.wizards.com/modules/system/system.theme.css?okfvvf");
+</style>
+<style type="text/css" media="all">
+@import url("http://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?okfvvf");
+</style>
+<style type="text/css" media="all">
+@import url("http://magic.wizards.com/sites/all/modules/contrib/calendar/css/calendar_multiday.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/contrib/date/date_api/date.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?okfvvf");
+@import url("http://magic.wizards.com/modules/field/theme/field.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/contrib/mollom/mollom.css?okfvvf");
+@import url("http://magic.wizards.com/modules/node/node.css?okfvvf");
+@import url("http://magic.wizards.com/modules/user/user.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/features/wiz_views_events_calendar/css/idangerous.swiper.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/features/wiz_views_events_calendar/css/idangerous.swiper.scrollbar.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/contrib/views/css/views.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/contrib/ckeditor/css/ckeditor.css?okfvvf");
+</style>
+<style type="text/css" media="all">
+@import url("http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/css/wiz_autocard.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/contrib/ctools/css/ctools.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/contrib/ctools/css/modal.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/contrib/modal_forms/css/modal_forms_popup.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/contrib/panels/css/panels.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/custom/wiz_npsu/css/npsu.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/modules/custom/wiz_npsu_mtg/css/npsu_mtg.css?okfvvf");
+</style>
+<style type="text/css" media="all">
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/jquery.fancybox.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/jquery-ui-mod.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/owl.carousel.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/scrollbars.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/fonts.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/core.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/header.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/footer.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/page-header.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/medias.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/search.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/decklist.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/articles.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/game-info.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/events.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/community.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/mx.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/sections/immersive.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/sections/interstitials.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/styles-extended.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/legacy.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/legacyStyles.css?okfvvf");
+@import url("http://magic.wizards.com/sites/all/themes/wiz_mtg/css/geo-blocker.css?okfvvf");
+</style>
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/1.10.5/css/jquery.dataTables.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.datatables.net/responsive/1.0.4/css/dataTables.responsive.css" media="all" />
+  <script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script type="text/javascript" src="http://magic.wizards.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://magic.wizards.com/misc/drupal.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://magic.wizards.com/misc/ajax.js?v=7.43"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/js/wiz_autocard.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/js/jquery.qtip-1.0.0-rc3.min.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/d3.v3.min.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/wiz_bean_content_deck_list.charts.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_decklist_filter/js/wiz_decklist_filter.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/custom/wiz_show_period/js/moment.min.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/features/wiz_views_events_calendar/js/idangerous.swiper-2.1.min.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/features/wiz_views_events_calendar/js/idangerous.swiper.scrollbar-2.1.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/features/wiz_views_events_calendar/js/custom.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/misc/progress.js?v=7.43"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/contrib/ctools/js/modal.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/contrib/modal_forms/js/modal_forms_popup.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/custom/wiz_deletecookies/js/deletecookies.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/custom/wiz_deletecookies/js/jquery.cookie.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/contrib/google_analytics/googleanalytics.js?okfvvf"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-15020098-13", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "pathToTheme": "sites/all/themes/wiz_mtg" });
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://accounts.wizards.com/Widget/Widget.js"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/custom/wiz_npsu/js/npsu_widget.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/image-comparison-slider.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/country_cdn.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/libraries/foresee/foresee-trigger.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/lib/jquery.min.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/lib/jquery-ui.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/lib/content-gallery-grid/modernizr.custom.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/lib/jquery.fancybox.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/lib/jquery.scrollbar.min.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/lib/jquery.mmenu.oncanvas.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/lib/jquery.columnlist.min.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/lib/dropdown.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/lib/owl.carousel.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/lib/stacktable.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/lib/arketype.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/lib/jquery.unveil.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/GeoBlocker.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/AudioPlayer.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/ImagesAnimator.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/immersive-experience-homepage-custom.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/immersive-experience-event-custom.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/interstitials.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/community.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/inline-features.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/MainMenu.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/ParallaxBackground.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/PodcastListItem.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/ShowHideListItems.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/core.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/mx.js?okfvvf"></script>
+<script type="text/javascript" src="//cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/responsive/1.0.4/js/dataTables.responsive.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"wiz_mtg","theme_token":"LaI8M660KZv6GtSw-yPuS8VbOfPrFrQ17AoV2hGtAJ8","jquery_version":"1.8","js":{"sites\/all\/themes\/wiz_mtg\/js\/ShareButton.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/masonry.pkgd.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/wiz_autocard.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/d3.v3.min.js":1,"sites\/all\/modules\/features\/wiz_bean_content_deck_list\/wiz_bean_content_deck_list.charts.js":1,"sites\/all\/modules\/custom\/wiz_autocard\/wiz_decklist_filter\/js\/wiz_decklist_filter.js":1,"sites\/all\/modules\/custom\/wiz_show_period\/js\/moment.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper-2.1.min.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/idangerous.swiper.scrollbar-2.1.js":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/js\/custom.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/deletecookies.js":1,"sites\/all\/modules\/custom\/wiz_deletecookies\/js\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"https:\/\/accounts.wizards.com\/Widget\/Widget.js":1,"sites\/all\/modules\/custom\/wiz_npsu\/js\/npsu_widget.js":1,"sites\/all\/themes\/wiz_mtg\/js\/image-comparison-slider.js":1,"sites\/all\/themes\/wiz_mtg\/js\/country_cdn.js":1,"sites\/all\/libraries\/foresee\/foresee-trigger.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery-ui.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/content-gallery-grid\/modernizr.custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.fancybox.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.scrollbar.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.mmenu.oncanvas.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.columnlist.min.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/dropdown.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/owl.carousel.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/stacktable.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/arketype.js":1,"sites\/all\/themes\/wiz_mtg\/js\/lib\/jquery.unveil.js":1,"sites\/all\/themes\/wiz_mtg\/js\/GeoBlocker.js":1,"sites\/all\/themes\/wiz_mtg\/js\/AudioPlayer.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ImagesAnimator.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-homepage-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/immersive-experience-event-custom.js":1,"sites\/all\/themes\/wiz_mtg\/js\/interstitials.js":1,"sites\/all\/themes\/wiz_mtg\/js\/community.js":1,"sites\/all\/themes\/wiz_mtg\/js\/inline-features.js":1,"sites\/all\/themes\/wiz_mtg\/js\/MainMenu.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ParallaxBackground.js":1,"sites\/all\/themes\/wiz_mtg\/js\/PodcastListItem.js":1,"sites\/all\/themes\/wiz_mtg\/js\/ShowHideListItems.js":1,"sites\/all\/themes\/wiz_mtg\/js\/core.js":1,"sites\/all\/themes\/wiz_mtg\/js\/mx.js":1,"\/\/cdn.datatables.net\/1.10.5\/js\/jquery.dataTables.min.js":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/js\/dataTables.responsive.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.css":1,"sites\/all\/modules\/features\/wiz_views_events_calendar\/css\/idangerous.swiper.scrollbar.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/custom\/wiz_autocard\/css\/wiz_autocard.css":1,"\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/wiz_npsu\/css\/npsu.css":1,"sites\/all\/modules\/custom\/wiz_npsu_mtg\/css\/npsu_mtg.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/wiz_mtg\/css\/jquery-ui-mod.css":1,"sites\/all\/themes\/wiz_mtg\/css\/owl.carousel.css":1,"sites\/all\/themes\/wiz_mtg\/css\/scrollbars.css":1,"sites\/all\/themes\/wiz_mtg\/css\/fonts.css":1,"sites\/all\/themes\/wiz_mtg\/css\/core.css":1,"sites\/all\/themes\/wiz_mtg\/css\/header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/footer.css":1,"sites\/all\/themes\/wiz_mtg\/css\/page-header.css":1,"sites\/all\/themes\/wiz_mtg\/css\/medias.css":1,"sites\/all\/themes\/wiz_mtg\/css\/search.css":1,"sites\/all\/themes\/wiz_mtg\/css\/decklist.css":1,"sites\/all\/themes\/wiz_mtg\/css\/articles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/game-info.css":1,"sites\/all\/themes\/wiz_mtg\/css\/events.css":1,"sites\/all\/themes\/wiz_mtg\/css\/community.css":1,"sites\/all\/themes\/wiz_mtg\/css\/mx.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/immersive.css":1,"sites\/all\/themes\/wiz_mtg\/css\/sections\/interstitials.css":1,"sites\/all\/themes\/wiz_mtg\/css\/styles-extended.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacy.css":1,"sites\/all\/themes\/wiz_mtg\/css\/legacyStyles.css":1,"sites\/all\/themes\/wiz_mtg\/css\/_theme-override.css":1,"sites\/all\/themes\/wiz_mtg\/css\/geo-blocker.css":1,"\/\/fonts.googleapis.com\/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic":1,"\/\/cdn.datatables.net\/1.10.5\/css\/jquery.dataTables.css":1,"\/\/cdn.datatables.net\/responsive\/1.0.4\/css\/dataTables.responsive.css":1}},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":330,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/magic.wizards.com\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"wiz_core":{"wiz_core_switch_in_days":14,"wiz_core_switch_in_visits":10,"wiz_core_switch_b_path":"home"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"npsu_widget":{"enabled":true,"logged_in":"false"},"urlIsAjaxTrusted":{"\/en\/events\/coverage\/gppro16\/round-4-results-2016-10-22":true}});
+//--><!]]>
+</script>
+
+  
+        <style>
+      @media all {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png) no-repeat;
+          background-size: 100% 100px;
+
+        }
+        #mobile-menu .header .logo a {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 100%;
+        }
+        #page.snap-menu header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+      @media (max-width: 1200px) {
+        header .home span {
+          background: url(http://magic.wizards.com/sites/mtg/files/logo-magic.png);
+          background-size: 100% 50px;
+        }
+      }
+    </style>
+  </head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1082886 node-type-article i18n-en content-non-panels role-anonymous-user with-subnav page-events-coverage-gppro16-round-4-results-2016-10-22 section-events" >
+  <script>
+  /* Interstitials variables */
+  var Interstitials = {
+    list: [
+                        ]
+  };
+  </script>
+
+  <div id="page" class="section_articles article_detail">
+    
+        <div id="mobile-menu">
+  <div class="header">
+    <div class="logo"></div>
+    <div class="toggle-menu-button"></div>
+  </div>
+  <nav>
+    <div class="menu-wrapper" data-back-label="Back"></div>
+  </nav>
+</div>
+
+<div id="viewport">
+  <!-- Header -->
+  <header>
+    <div class="wrapper">
+      <div id="utils">
+        <a href="http://locator.wizards.com/" class="locator">Locator</a> <a href="http://gatherer.wizards.com" class="gatherer">Card Database</a>        <a href="/en" title="Sign In" onClick="ga(&#039;send&#039;, &#039;event&#039;, &#039;SignIn&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;); return wotcAccountWidget.showLoginModal();" id="SignInButton" class="login">Sign In</a> | <a href="/en" title="Sign Up" onClick="ga(&#039;send&#039;, &#039;event&#039;, &#039;Signup&#039;, &#039;Click&#039;, &#039;Top-Menu&#039;); return wotcAccountWidget.showJoinModal();" id="RegisterButton" class="register">Sign Up</a>        <div id="search-form">
+          <form action="/en/events/coverage/gppro16/round-4-results-2016-10-22" method="post" id="wiz-search-bar-form--2" accept-charset="UTF-8"><div><input type="hidden" name="search-site" value="acquia_search" />
+<div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Search Anything" type="text" id="edit-search-string--3" name="search-string" value="" size="25" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-search-button--3" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-v-nqp0_RIK6oZa5FCo0ucvxKV8CvRCz49SSBGCAkfvI" />
+<input type="hidden" name="form_id" value="wiz_search_bar_form" />
+</div></form>        </div>
+      </div>
+
+      <!-- Menu -->
+      <nav id="menu">
+        <a class="home" href="/en"><span>Magic the Gathering</span></a>
+
+        <div class="menu-wrapper">
+          <ul class="menu"><li class="mn_section_new-to-magic<script>jquery('#signinbutton').attr('onclick',-'return-wotcaccountwidget.showloginmodal();');</script> has-children"><a href="/en/new-to-magic" title="Are you new to Magic? This is the place to start!"><span>NEW TO MAGIC<script>jQuery('#SignInButton').attr('onclick', 'return wotcAccountWidget.showLoginModal();');</script></span></a><ul class="menu"><li class="mn_section_strategy"><a href="/en/content/strategy"><span>Strategy</span></a></li>
+<li class="mn_section_lore"><a href="/en/new-to-magic/lore"><span>Lore</span></a></li>
+<li class="mn_section_community"><a href="http://magic.wizards.com/en/community"><span>Community</span></a></li>
+</ul></li>
+<li class="mn_section_products has-children"><a href="/en/products/aether-revolt"><span>PRODUCTS</span></a><ul class="menu"><li class="mn_section_featured-<br>release"><a href="/en/products/aether-revolt"><span>FEATURED <BR>RELEASE</span></a></li>
+<li class="mn_section_coming-soon"><a href="/en/products/coming-soon"><span>COMING SOON</span></a></li>
+<li class="mn_section_magic-duels"><a href="/en/content/magic-duels"><span>MAGIC DUELS</span></a></li>
+<li class="mn_section_magic-online"><a href="/en/content/magic-online-products-game-info"><span>MAGIC ONLINE</span></a></li>
+<li class="mn_section_card-set-archive"><a href="/en/game-info/products/card-set-archive"><span>CARD SET ARCHIVE</span></a></li>
+</ul></li>
+<li class="mn_section_gameplay has-children"><a href="http://magic.wizards.com/en/game-information"><span>GAMEPLAY</span></a><ul class="menu"><li class="mn_section_about-the-game"><a href="/en/gameplay/about-the-game"><span>ABOUT THE GAME</span></a></li>
+<li class="mn_section_how-to-play"><a href="/en/gameplay/how-to-play"><span>HOW TO PLAY</span></a></li>
+<li class="mn_section_how-to-build-a-deck"><a href="/en/gameplay/how-to-build-a-deck"><span>HOW TO BUILD A DECK</span></a></li>
+<li class="mn_section_improve-your-game"><a href="/en/gameplay/improve-your-game"><span>IMPROVE YOUR GAME</span></a></li>
+<li class="mn_section_rules-&-formats"><a href="/en/gameplay/rules-and-formats"><span>RULES & FORMATS</span></a></li>
+</ul></li>
+<li class="mn_section_story has-children"><a href="http://magic.wizards.com/en/game-info/story/magic-story"><span>STORY</span></a><ul class="menu"><li class="mn_section_magic's-story"><a href="/en/story"><span>MAGIC'S STORY</span></a></li>
+<li class="mn_section_planeswalkers"><a href="/en/story/planeswalkers"><span>PLANESWALKERS</span></a></li>
+<li class="mn_section_planes"><a href="/en/story/planes"><span>PLANES</span></a></li>
+</ul></li>
+<li class="mn_section_events has-children current"><a href="/en/events" class="active-trail"><span>EVENTS</span></a><ul class="menu"><li class="hub-link EVENTS"><a href="/en/events"><span>EVENTS</span></a></li>
+<li class="mn_section_events-home"><a href="/en/events"><span>EVENTS HOME</span></a></li>
+<li class="mn_section_what-is-<br>organized-play"><a href="/en/events/what-is-organized-play"><span>WHAT IS <br>ORGANIZED PLAY?</span></a></li>
+<li class="mn_section_event<br>-types"><a href="/en/events/event-types"><span>EVENT<br> TYPES</span></a></li>
+<li class="mn_section_coverage has-children current"><a class="active-trail nolink"><span>COVERAGE</span></a><ul class="menu"><li class="mn_section_coverage-archive current"><a href="/en/events/coverage" class="active-trail"><span>COVERAGE ARCHIVE</span></a></li>
+<li class="mn_section_top-players"><a href="/en/events/coverage/top-players"><span>TOP PLAYERS</span></a></li>
+</ul></li>
+<li class="mn_section_schedules"><a href="/en/content/premier-events-schedule#/overview"><span>SCHEDULES</span></a></li>
+<li class="mn_section_resources has-children"><a class="nolink"><span>RESOURCES</span></a><ul class="menu"><li class="mn_section_planeswalker-points"><a href="/en/events/resources/planeswalker-points"><span>PLANESWALKER POINTS</span></a></li>
+<li class="mn_section_judges"><a href="/en/events/resources/judges"><span>JUDGES</span></a></li>
+</ul></li>
+</ul></li>
+<li class="mn_section_articles has-children"><a href="/en/content/articles"><span>ARTICLES</span></a><ul class="menu"><li class="hub-link ARTICLES"><a href="/en/content/articles"><span>ARTICLES</span></a></li>
+<li class="mn_section_articles-home"><a href="/en/content/articles"><span>ARTICLES HOME</span></a></li>
+<li class="mn_section_columns has-children"><a id="columns" class="nolink"><span>COLUMNS</span></a><ul class="menu"><li class="mn_section_columnists"><a href="/en/articles/columns/columnists"><span>COLUMNISTS</span></a></li>
+<li class="mn_section_making-magic"><a href="/en/articles/columns/making-magic"><span>MAKING MAGIC</span></a></li>
+<li class="mn_section_magic-story"><a href="/en/articles/columns/magic-story"><span>MAGIC STORY</span></a></li>
+<li class="mn_section_top-decks"><a href="/en/articles/columns/top-decks"><span>TOP DECKS</span></a></li>
+<li class="mn_section_organized-<br>play"><a href="/en/articles/columns/organized-play" title="Organized Play"><span>ORGANIZED <br>PLAY</span></a></li>
+<li class="mn_section_latest-<br>developments"><a href="/en/articles/columns/latest-developments"><span>LATEST <br>DEVELOPMENTS</span></a></li>
+</ul></li>
+<li class="mn_section_archives"><a href="/en/articles/archive"><span>ARCHIVES</span></a></li>
+<li class="mn_section_winning-decks"><a href="/en/articles/winning-decks"><span>WINNING DECKS</span></a></li>
+<li class="mn_section_media has-children"><a class="nolink"><span>MEDIA</span></a><ul class="menu"><li class="mn_section_videos"><a href="/en/articles/media/videos"><span>VIDEOS</span></a></li>
+<li class="mn_section_podcasts"><a href="/en/articles/media/podcasts"><span>PODCASTS</span></a></li>
+<li class="mn_section_wallpapers"><a href="/en/articles/media/wallpapers"><span>WALLPAPERS</span></a></li>
+<li class="mn_section_fan-kits"><a href="/en/articles/media/fan-kits"><span>FAN KITS</span></a></li>
+</ul></li>
+</ul></li>
+</ul>        </div>
+      </nav>
+    </div>
+  </header>
+
+  
+  <div id="content-wrapper" >
+      <div class="region region-content">
+    
+<div id="block-system-main" class=" block block-system block-odd first last main clearfix">
+  <div class="block-inner">
+                <div class="content" >
+      <div id="content" class="page-width">
+
+  <div id="main-content">
+    <div id="breadcrumb">
+              <span ><a href="/en/events">EVENTS</a></span>
+              <span ><a href="/en/events/coverage">COVERAGE ARCHIVE</a></span>
+              <span ><a href="/en/events/coverage/gppro16">GRAND PRIX PROVIDENCE 2016</a></span>
+              <span class="current"><strong class="breadcrumb-no-link">Event Coverage</strong></span>
+          </div>
+    <h1>ROUND 4 RESULTS</h1>
+    <p class="posted-in">
+      Posted in      <strong class="breadcrumb-no-link">Event Coverage</strong>
+      on October 22, 2016    </p>
+
+    <!-- BEGIN :: ARTICLE -->
+    <article>
+      <div class="article-header">
+
+                  <div class="author">
+            <img src="http://magic.wizards.com/sites/mtg/files/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg?itok=KENOTqfD" alt="" />
+            <p>By Wizards of the Coast</p>
+            <p class="links">
+                                            <span><a href="/en/articles/archive/184956" onClick="ga('send', 'event', 'Article', 'Author', 'Wizards of the Coast-Archive');">Archive</a></span>
+                                        </p>
+            <div id="author-biography">
+                          </div>
+          </div>
+        
+        <div class="sharing">
+          <div class="share-article">Share Article</div>
+          <div class="social-share">
+            <a class="facebook" href="#" data-share-url="http://magic.wizards.com/events/coverage/gppro16/round-4-results-2016-10-22"><span>Share</span></a>
+            <a class="twitter" href="#" data-share-url="http://magic.wizards.com/events/coverage/gppro16/round-4-results-2016-10-22"><span>Tweet</span></a>
+            <a class="google" href="#" data-share-url="http://magic.wizards.com/events/coverage/gppro16/round-4-results-2016-10-22"><span>Share</span></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div id="content-detail-page-of-an-article">
+        <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><table class="sortable-table"><tbody><tr><th><b>Table</b></th>
+			<th><b>Player</b></th>
+			<th>&nbsp;</th>
+			<th><b>Result</b></th>
+			<th>&nbsp;</th>
+			<th><b>Opponent</b></th>
+			<th>&nbsp;</th>
+		</tr><tr><td>1</td>
+			<td>Bugalter, Ben</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Breitman, Alan</td>
+			<td>[US]</td>
+		</tr><tr><td>2</td>
+			<td>Belliveau, Kyle</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Shiels, Dave</td>
+			<td>[US]</td>
+		</tr><tr><td>3</td>
+			<td>Roucoulet, Jeffrey</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Blais, Christian</td>
+			<td>[US]</td>
+		</tr><tr><td>4</td>
+			<td>Fagan, Christian</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Agrawal, Rishi</td>
+			<td>[US]</td>
+		</tr><tr><td>5</td>
+			<td>Orabona, Scott</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kurth, Lloyd</td>
+			<td>[US]</td>
+		</tr><tr><td>6</td>
+			<td>Leech, Carey</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Chin, Ricky</td>
+			<td>[US]</td>
+		</tr><tr><td>7</td>
+			<td>Baldridge, William</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Dore, Max</td>
+			<td>[US]</td>
+		</tr><tr><td>8</td>
+			<td>Gamache, Thomas</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Barge, Spencer</td>
+			<td>[US]</td>
+		</tr><tr><td>9</td>
+			<td>Thompson, Gerry</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Polak-Rottmann, Oliver</td>
+			<td>[US]</td>
+		</tr><tr><td>10</td>
+			<td>Meadows, Sean</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sowell, Adam</td>
+			<td>[US]</td>
+		</tr><tr><td>11</td>
+			<td>Betesh, Ralph</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Gettel, Tucker</td>
+			<td>[US]</td>
+		</tr><tr><td>12</td>
+			<td>Nourain, Kiyan</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Buchholz, Evan</td>
+			<td>[US]</td>
+		</tr><tr><td>13</td>
+			<td>Rocco, Craig</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Massak, Shawn</td>
+			<td>[US]</td>
+		</tr><tr><td>14</td>
+			<td>Colligan, Aidan</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mondello, Jake</td>
+			<td>[US]</td>
+		</tr><tr><td>15</td>
+			<td>Ulman, Ian</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lancaster, Casey</td>
+			<td>[US]</td>
+		</tr><tr><td>16</td>
+			<td>Dellisola, Nicholas</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kane, Zeth</td>
+			<td>[US]</td>
+		</tr><tr><td>17</td>
+			<td>DeCarlo, Stephen</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cox, Patrick</td>
+			<td>[US]</td>
+		</tr><tr><td>18</td>
+			<td>Chambers, Jack</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>P&Atilde;&copy;rez, Manuel</td>
+			<td>[US]</td>
+		</tr><tr><td>19</td>
+			<td>O'Brien, Chris</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lebedowicz, Osyp</td>
+			<td>[US]</td>
+		</tr><tr><td>20</td>
+			<td>Dean, Paul</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cirasuolo, Jeffrey</td>
+			<td>[US]</td>
+		</tr><tr><td>21</td>
+			<td>Dhaliwal, Shawn</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Widawski, Xavier</td>
+			<td>[US]</td>
+		</tr><tr><td>22</td>
+			<td>Chen, Gary</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mowry, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>23</td>
+			<td>Ascott, Ryan</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pardonner, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>24</td>
+			<td>Popp, Brian</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>McGrath, Andrew</td>
+			<td>[US]</td>
+		</tr><tr><td>25</td>
+			<td>Kassis, Eli</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Victor, Adam</td>
+			<td>[US]</td>
+		</tr><tr><td>26</td>
+			<td>Cuneo, Andrew</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Fusco, Roman</td>
+			<td>[US]</td>
+		</tr><tr><td>27</td>
+			<td>Baker, Christian</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wellinger, Serafin</td>
+			<td>[US]</td>
+		</tr><tr><td>28</td>
+			<td>Friedman, Matt</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Girardi, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>29</td>
+			<td>Segarra, Andre</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Martell, William</td>
+			<td>[US]</td>
+		</tr><tr><td>30</td>
+			<td>Derczo, Michael</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Jones, Kevin</td>
+			<td>[US]</td>
+		</tr><tr><td>31</td>
+			<td>Greenbaum, Micah</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Davis, Andrew</td>
+			<td>[US]</td>
+		</tr><tr><td>32</td>
+			<td>Biron, Xavier</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cesaro, Nicholas</td>
+			<td>[US]</td>
+		</tr><tr><td>33</td>
+			<td>Ma, Jack</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Scherzo, Greg</td>
+			<td>[US]</td>
+		</tr><tr><td>34</td>
+			<td>Turnbull, Chris</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Auger, Maxime</td>
+			<td>[US]</td>
+		</tr><tr><td>35</td>
+			<td>Shane, Kyle</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Candee, Timothy</td>
+			<td>[US]</td>
+		</tr><tr><td>36</td>
+			<td>Whitehouse, Evan</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>DeLange, Jason</td>
+			<td>[US]</td>
+		</tr><tr><td>37</td>
+			<td>Montefusco, Anthony</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Frankel, Josh</td>
+			<td>[US]</td>
+		</tr><tr><td>38</td>
+			<td>Yurchick, Adam</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Reed, David</td>
+			<td>[US]</td>
+		</tr><tr><td>39</td>
+			<td>Metcalf, Scott</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ward, Daniel</td>
+			<td>[US]</td>
+		</tr><tr><td>40</td>
+			<td>Wong, Matt</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Morison, Kyle</td>
+			<td>[US]</td>
+		</tr><tr><td>41</td>
+			<td>Heleen, Nikolas</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Briksza, Rudy</td>
+			<td>[US]</td>
+		</tr><tr><td>42</td>
+			<td>Boutin, Nathaniel</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pascal, Brandon</td>
+			<td>[US]</td>
+		</tr><tr><td>43</td>
+			<td>Folinus, Jeff</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Brait, Stephen</td>
+			<td>[US]</td>
+		</tr><tr><td>44</td>
+			<td>Guo, Cheng</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Yu, Jarvis</td>
+			<td>[US]</td>
+		</tr><tr><td>45</td>
+			<td>Leverone, Ryan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>McKeown, Ian</td>
+			<td>[US]</td>
+		</tr><tr><td>46</td>
+			<td>Laberge, Vincent</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pargh, David</td>
+			<td>[US]</td>
+		</tr><tr><td>47</td>
+			<td>Corrigan, Abe</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nunez, David</td>
+			<td>[US]</td>
+		</tr><tr><td>48</td>
+			<td>Boucek, Jaroslav</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Malatesta, Nicholas</td>
+			<td>[US]</td>
+		</tr><tr><td>49</td>
+			<td>Wiest, Hank</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Livernoche, Alexandre</td>
+			<td>[US]</td>
+		</tr><tr><td>50</td>
+			<td>Lay, Vincent</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>(16) Tiu, Oliver</td>
+			<td>[US]</td>
+		</tr><tr><td>51</td>
+			<td>Kiihne, Zachary</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lopez, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>52</td>
+			<td>Duhamel, Erik</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Martinez II, Eddie</td>
+			<td>[US]</td>
+		</tr><tr><td>53</td>
+			<td>Tharmaratnam, Samuel</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sukenik, Jonathan</td>
+			<td>[US]</td>
+		</tr><tr><td>54</td>
+			<td>McFarlane, David</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ellis, Jason</td>
+			<td>[US]</td>
+		</tr><tr><td>55</td>
+			<td>Stein, Mathew</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Costa, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>56</td>
+			<td>Carvalho, Pedro</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tumavitch, Matt</td>
+			<td>[US]</td>
+		</tr><tr><td>57</td>
+			<td>Gouveia, Adam</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Simon, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>58</td>
+			<td>O'Brien, Matt</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cheung, Raymond</td>
+			<td>[US]</td>
+		</tr><tr><td>59</td>
+			<td>McGinnis, Kevin</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lorrain, Philip</td>
+			<td>[US]</td>
+		</tr><tr><td>60</td>
+			<td>Gordon, Andrew</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Alexander, Chris</td>
+			<td>[US]</td>
+		</tr><tr><td>61</td>
+			<td>Wright, Kevin</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cooper, Russell</td>
+			<td>[US]</td>
+		</tr><tr><td>62</td>
+			<td>Sokol, Greg</td>
+			<td>[US]</td>
+			<td>Draw 1-1</td>
+			<td>vs.</td>
+			<td>Sun, Allen</td>
+			<td>[US]</td>
+		</tr><tr><td>63</td>
+			<td>Mackl, Valentin</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mohammed, Riyad</td>
+			<td>[US]</td>
+		</tr><tr><td>64</td>
+			<td>Montes, Christian</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Vaughan, Robert</td>
+			<td>[US]</td>
+		</tr><tr><td>65</td>
+			<td>Tucker, Benjamin</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Paine, Dan</td>
+			<td>[US]</td>
+		</tr><tr><td>66</td>
+			<td>Nelson, Jon</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Phillips, Cedric</td>
+			<td>[US]</td>
+		</tr><tr><td>67</td>
+			<td>Walker, Nathaniel</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pastore, Kellen</td>
+			<td>[US]</td>
+		</tr><tr><td>68</td>
+			<td>Raffensberger, Michael</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Baxter, Clayton</td>
+			<td>[US]</td>
+		</tr><tr><td>69</td>
+			<td>Siu, Brian</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Wang, Max</td>
+			<td>[US]</td>
+		</tr><tr><td>70</td>
+			<td>Garrant, Mitchell</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Campo, Terrence</td>
+			<td>[US]</td>
+		</tr><tr><td>71</td>
+			<td>Stein, Abraham</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Burnham, Harrison</td>
+			<td>[US]</td>
+		</tr><tr><td>72</td>
+			<td>Eveland, James</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Johnson, Case</td>
+			<td>[US]</td>
+		</tr><tr><td>73</td>
+			<td>(3) Manfield, Seth</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cramer, Zach</td>
+			<td>[US]</td>
+		</tr><tr><td>74</td>
+			<td>Soorani, Shaheen</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Davis, James</td>
+			<td>[US]</td>
+		</tr><tr><td>75</td>
+			<td>Tassi, Luiz</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>McKay, Doug</td>
+			<td>[US]</td>
+		</tr><tr><td>76</td>
+			<td>Stark, Benjamin</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Schlactus, Brian</td>
+			<td>[US]</td>
+		</tr><tr><td>77</td>
+			<td>Kennedy, Sean</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Page, Veronica</td>
+			<td>[US]</td>
+		</tr><tr><td>78</td>
+			<td>Rodriguez, Miles</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>White, Travis</td>
+			<td>[US]</td>
+		</tr><tr><td>79</td>
+			<td>Bartlett, Jake</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kovac, Chase</td>
+			<td>[US]</td>
+		</tr><tr><td>80</td>
+			<td>Hand, Dylan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Russo, Robert</td>
+			<td>[US]</td>
+		</tr><tr><td>81</td>
+			<td>Bouchard, Jason</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ferrando, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>82</td>
+			<td>Beland, Nicolas</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Naeem, Naveed</td>
+			<td>[US]</td>
+		</tr><tr><td>83</td>
+			<td>Annino, Rich</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Claudel, Slater</td>
+			<td>[US]</td>
+		</tr><tr><td>84</td>
+			<td>Rosman-Simionescu, Tobias</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dougherty, Rob</td>
+			<td>[US]</td>
+		</tr><tr><td>85</td>
+			<td>Sacks, Neal</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pawelzik, Gery</td>
+			<td>[US]</td>
+		</tr><tr><td>86</td>
+			<td>Wright, Christopher</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cho, Joshua</td>
+			<td>[US]</td>
+		</tr><tr><td>87</td>
+			<td>Wildes, Julian</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Reesor, Andrew</td>
+			<td>[US]</td>
+		</tr><tr><td>-</td>
+			<td>White, Tariq</td>
+			<td>[US]</td>
+			<td>BYE</td>
+			<td>vs.</td>
+			<td>-</td>
+			<td>&nbsp;</td>
+		</tr><tr><td>88</td>
+			<td>Fieber, Kevin</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ganz, Andreas</td>
+			<td>[US]</td>
+		</tr><tr><td>89</td>
+			<td>Sutton, Timothy</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tremblay, Sebastien</td>
+			<td>[US]</td>
+		</tr><tr><td>90</td>
+			<td>Lanthier, Dan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Self, David</td>
+			<td>[US]</td>
+		</tr><tr><td>91</td>
+			<td>Syed, Zan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Botting, Ryan</td>
+			<td>[US]</td>
+		</tr><tr><td>92</td>
+			<td>Faust, Josh</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Allen, Garrett</td>
+			<td>[US]</td>
+		</tr><tr><td>93</td>
+			<td>Lopez Yapor, Caupolican</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Slaff, Steven</td>
+			<td>[US]</td>
+		</tr><tr><td>94</td>
+			<td>Carroll, Roger</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tricomi, Brad</td>
+			<td>[US]</td>
+		</tr><tr><td>95</td>
+			<td>Sarhan, Nizar</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bailey, Tyler</td>
+			<td>[US]</td>
+		</tr><tr><td>96</td>
+			<td>Grigely, Jason</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Stern, Jon</td>
+			<td>[US]</td>
+		</tr><tr><td>97</td>
+			<td>Llodra, Juan Pablo</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Haversat, Jacob</td>
+			<td>[US]</td>
+		</tr><tr><td>98</td>
+			<td>Nixon, Joshua</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pratt, Taylor</td>
+			<td>[US]</td>
+		</tr><tr><td>99</td>
+			<td>Nadeau, Rene</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bauman, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>100</td>
+			<td>Stiles, Collin</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Misiaszek, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>101</td>
+			<td>Mason, Sky</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Moore, William</td>
+			<td>[US]</td>
+		</tr><tr><td>102</td>
+			<td>Wallace, Adam</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Petersen, Chase</td>
+			<td>[US]</td>
+		</tr><tr><td>103</td>
+			<td>Sui, Xin</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Pennachio, Joseph</td>
+			<td>[US]</td>
+		</tr><tr><td>104</td>
+			<td>Dumontier, Bruno</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wang, Jacky</td>
+			<td>[US]</td>
+		</tr><tr><td>105</td>
+			<td>O'Leary, Robert</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Dove, Steven</td>
+			<td>[US]</td>
+		</tr><tr><td>106</td>
+			<td>Orr, Jonathan</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mansell, Austin</td>
+			<td>[US]</td>
+		</tr><tr><td>107</td>
+			<td>Perlee, Travis</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bruhn, Max</td>
+			<td>[US]</td>
+		</tr><tr><td>108</td>
+			<td>Lax, Ari</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Heine, Jack</td>
+			<td>[US]</td>
+		</tr><tr><td>109</td>
+			<td>Bosley, Ian</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Dimascio, Jared</td>
+			<td>[US]</td>
+		</tr><tr><td>110</td>
+			<td>Tomajko, Oliver</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Tuttle, Marc</td>
+			<td>[US]</td>
+		</tr><tr><td>111</td>
+			<td>Holter, Dereck</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Shindledecker, John</td>
+			<td>[US]</td>
+		</tr><tr><td>112</td>
+			<td>Demestrio, Joseph</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Waksman, Adam</td>
+			<td>[US]</td>
+		</tr><tr><td>113</td>
+			<td>Cranshaw, Robert</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cotrupe, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>114</td>
+			<td>Rodriguez, Ronald</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Strong, Tom</td>
+			<td>[US]</td>
+		</tr><tr><td>115</td>
+			<td>Carignan, Roland</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Belanger, Maxim</td>
+			<td>[US]</td>
+		</tr><tr><td>116</td>
+			<td>Kelly, Jeffrey</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Snook, Adam</td>
+			<td>[US]</td>
+		</tr><tr><td>117</td>
+			<td>Turgeon, Zac</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Spartz, Emerson</td>
+			<td>[US]</td>
+		</tr><tr><td>118</td>
+			<td>Cailloux, Jacob</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Stephan, Ben</td>
+			<td>[US]</td>
+		</tr><tr><td>119</td>
+			<td>Chapman, Ben</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Begin, Jason</td>
+			<td>[US]</td>
+		</tr><tr><td>120</td>
+			<td>Walker, Noah</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sajgalik, Eduardo</td>
+			<td>[US]</td>
+		</tr><tr><td>121</td>
+			<td>Gross, David</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Singer, Sean</td>
+			<td>[US]</td>
+		</tr><tr><td>122</td>
+			<td>Allegrucci, Xavier</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nguyen, Lan</td>
+			<td>[US]</td>
+		</tr><tr><td>123</td>
+			<td>Ruszkowski, Michael</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>(6) Rubin, Steve</td>
+			<td>[US]</td>
+		</tr><tr><td>124</td>
+			<td>DiMaio, Jonathan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cooper, Ryan</td>
+			<td>[US]</td>
+		</tr><tr><td>125</td>
+			<td>Dilks, Matthew</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Innace, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>126</td>
+			<td>Catalano, Jeffrey</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Helguero, Marcos</td>
+			<td>[US]</td>
+		</tr><tr><td>127</td>
+			<td>Littman, Fai</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kanner, Zachary</td>
+			<td>[US]</td>
+		</tr><tr><td>128</td>
+			<td>Malmborg, Kyle</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lavallee, Len</td>
+			<td>[US]</td>
+		</tr><tr><td>129</td>
+			<td>Joseph-Pare, Bertrand</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Kulik, Lirek</td>
+			<td>[US]</td>
+		</tr><tr><td>130</td>
+			<td>Grauman, Joshua</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hayne, Alexander</td>
+			<td>[US]</td>
+		</tr><tr><td>131</td>
+			<td>Calcano, Christian</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Pogorzhelsky, Alessandro</td>
+			<td>[US]</td>
+		</tr><tr><td>132</td>
+			<td>Fortanely, Bobby</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ruether, Cameron</td>
+			<td>[US]</td>
+		</tr><tr><td>133</td>
+			<td>Smith, Justin</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Flagg, Kevin</td>
+			<td>[US]</td>
+		</tr><tr><td>134</td>
+			<td>Wescoe, Craig</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>True, Sam</td>
+			<td>[US]</td>
+		</tr><tr><td>135</td>
+			<td>Shukla, Neeraj</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Schnayer, David</td>
+			<td>[US]</td>
+		</tr><tr><td>136</td>
+			<td>Zhang, Alex</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Friedman, Ben</td>
+			<td>[US]</td>
+		</tr><tr><td>137</td>
+			<td>Walsh, Daniel</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pienkny, Jedidiah</td>
+			<td>[US]</td>
+		</tr><tr><td>138</td>
+			<td>Choi, Fu-Wah</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Geissler, Kevin</td>
+			<td>[US]</td>
+		</tr><tr><td>139</td>
+			<td>Droggitis, Dustin</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Doehring, Willy</td>
+			<td>[US]</td>
+		</tr><tr><td>140</td>
+			<td>Chabot, David</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Takahama, Ken</td>
+			<td>[US]</td>
+		</tr><tr><td>141</td>
+			<td>Ratajczak, Matt</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Watts, Andrew</td>
+			<td>[US]</td>
+		</tr><tr><td>142</td>
+			<td>Abrams, Cory</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Leone, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>143</td>
+			<td>Romanowsky, Mark</td>
+			<td>[US]</td>
+			<td>Lost 0-1</td>
+			<td>vs.</td>
+			<td>Youngblood-Pete, Campbell</td>
+			<td>[US]</td>
+		</tr><tr><td>144</td>
+			<td>Bairley-Ujueta, Miles</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Parenty Jr, Mike</td>
+			<td>[US]</td>
+		</tr><tr><td>145</td>
+			<td>Berard, Michael</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nogueira, Felipe</td>
+			<td>[US]</td>
+		</tr><tr><td>146</td>
+			<td>Feingersh, Ben</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Brezinsky, Robert</td>
+			<td>[US]</td>
+		</tr><tr><td>147</td>
+			<td>Maurici, Micheal</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hirt, Chris</td>
+			<td>[US]</td>
+		</tr><tr><td>148</td>
+			<td>Reda, Derek</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Destefano, Adam</td>
+			<td>[US]</td>
+		</tr><tr><td>149</td>
+			<td>Phipps, Corey</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Nelson, Dan</td>
+			<td>[US]</td>
+		</tr><tr><td>150</td>
+			<td>Rodriguez, Thomas</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Lemay, Mark</td>
+			<td>[US]</td>
+		</tr><tr><td>151</td>
+			<td>Champagne, Peter</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Stringer, Joshua</td>
+			<td>[US]</td>
+		</tr><tr><td>152</td>
+			<td>Almanzar, Juan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Steffe, Sebastian</td>
+			<td>[US]</td>
+		</tr><tr><td>153</td>
+			<td>Lill, Jake</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Dufour, Jimmy</td>
+			<td>[US]</td>
+		</tr><tr><td>154</td>
+			<td>Martinez, Andre</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Abrams, Alex</td>
+			<td>[US]</td>
+		</tr><tr><td>155</td>
+			<td>Rianhard, Cain</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Considine, Joseph</td>
+			<td>[US]</td>
+		</tr><tr><td>156</td>
+			<td>Coran, Ryan</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Rappolt, Jakob</td>
+			<td>[US]</td>
+		</tr><tr><td>157</td>
+			<td>Orwasher, Aaron</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Thomas, Chris</td>
+			<td>[US]</td>
+		</tr><tr><td>158</td>
+			<td>Desai, Justin</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Chieng, Philip</td>
+			<td>[US]</td>
+		</tr><tr><td>159</td>
+			<td>Corpora, Jon</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Khare, Anand</td>
+			<td>[US]</td>
+		</tr><tr><td>160</td>
+			<td>Medeiros, Max</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>League, Charles</td>
+			<td>[US]</td>
+		</tr><tr><td>161</td>
+			<td>Blackborow, Josh</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hurst, Alex</td>
+			<td>[US]</td>
+		</tr><tr><td>162</td>
+			<td>Laing, Steven</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Ouimette, Justin</td>
+			<td>[US]</td>
+		</tr><tr><td>163</td>
+			<td>Chisholm, Peter</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Chen, Xin</td>
+			<td>[US]</td>
+		</tr><tr><td>164</td>
+			<td>Kerr, David</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hollander, Aydan</td>
+			<td>[US]</td>
+		</tr><tr><td>165</td>
+			<td>Murphy, Steven</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Turner, Joshua</td>
+			<td>[US]</td>
+		</tr><tr><td>166</td>
+			<td>Nguyen, Thien</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hanjra, Sean</td>
+			<td>[US]</td>
+		</tr><tr><td>167</td>
+			<td>Lee, Herman</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Abrams, Colton</td>
+			<td>[US]</td>
+		</tr><tr><td>168</td>
+			<td>Lo, Shawn</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Philo, Lennon</td>
+			<td>[US]</td>
+		</tr><tr><td>169</td>
+			<td>Skorik, Andrew</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kelly, Bryan</td>
+			<td>[US]</td>
+		</tr><tr><td>170</td>
+			<td>Nino, Carlos</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Villao, Ruben</td>
+			<td>[US]</td>
+		</tr><tr><td>171</td>
+			<td>Naidu, Akash</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Betit, Jean-Francois</td>
+			<td>[US]</td>
+		</tr><tr><td>172</td>
+			<td>Agostino, John</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Chu, Xiaoman</td>
+			<td>[US]</td>
+		</tr><tr><td>173</td>
+			<td>Dissinger, Cory</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Guy, Curtis A</td>
+			<td>[US]</td>
+		</tr><tr><td>174</td>
+			<td>Dufour, David</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ellsworth, Stefan</td>
+			<td>[US]</td>
+		</tr><tr><td>175</td>
+			<td>Hyler, Nicholas</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Stellato, Sean</td>
+			<td>[US]</td>
+		</tr><tr><td>176</td>
+			<td>Chambers, Dan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kelley, Austin</td>
+			<td>[US]</td>
+		</tr><tr><td>177</td>
+			<td>Benn, Adam</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Darby, Cole</td>
+			<td>[US]</td>
+		</tr><tr><td>178</td>
+			<td>Silva, Christopher</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Wahlgren, Chris</td>
+			<td>[US]</td>
+		</tr><tr><td>179</td>
+			<td>Rasmussen, Nicholas</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Darmstadt, Brandon</td>
+			<td>[US]</td>
+		</tr><tr><td>180</td>
+			<td>Mantia, Nick</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bourgoin, Ryan</td>
+			<td>[US]</td>
+		</tr><tr><td>181</td>
+			<td>Secor, Peter</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ogier, James</td>
+			<td>[NZ]</td>
+		</tr><tr><td>182</td>
+			<td>Vasquez, Christian</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Beckemeter, Dustin</td>
+			<td>[US]</td>
+		</tr><tr><td>183</td>
+			<td>Tsinker, Anatoly</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Smith, Brandon</td>
+			<td>[US]</td>
+		</tr><tr><td>184</td>
+			<td>Asis, Blake</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Berry, Craig</td>
+			<td>[US]</td>
+		</tr><tr><td>185</td>
+			<td>Stone, Matt</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bard, Jacob</td>
+			<td>[US]</td>
+		</tr><tr><td>186</td>
+			<td>Hanna, Andy</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Pileggi, Riccardo</td>
+			<td>[US]</td>
+		</tr><tr><td>187</td>
+			<td>Webb, Mark</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Baker, Timothy</td>
+			<td>[US]</td>
+		</tr><tr><td>188</td>
+			<td>Rankin, Mark</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Rossignol, Jason</td>
+			<td>[US]</td>
+		</tr><tr><td>189</td>
+			<td>Nelles, Rex</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ortiz, Luis</td>
+			<td>[US]</td>
+		</tr><tr><td>190</td>
+			<td>Martini, Matthew</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Birish, Joseph</td>
+			<td>[US]</td>
+		</tr><tr><td>191</td>
+			<td>Le, Joshua</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Dion, Marc-Antoine</td>
+			<td>[US]</td>
+		</tr><tr><td>192</td>
+			<td>Mckeone, Keith</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lopez, Sabrina</td>
+			<td>[US]</td>
+		</tr><tr><td>193</td>
+			<td>Newell, Joshua</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tosello, Peter</td>
+			<td>[US]</td>
+		</tr><tr><td>194</td>
+			<td>Barge, Carter</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Shi, Jiaan</td>
+			<td>[US]</td>
+		</tr><tr><td>195</td>
+			<td>Steudel, Philip</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Walker, Austin</td>
+			<td>[US]</td>
+		</tr><tr><td>196</td>
+			<td>White, Matthew</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Pena, Phillip</td>
+			<td>[US]</td>
+		</tr><tr><td>197</td>
+			<td>Choate, Elijah</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ling, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>198</td>
+			<td>Whaley, Chris</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Klier, Kristopher</td>
+			<td>[US]</td>
+		</tr><tr><td>199</td>
+			<td>Fang, Kevin</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Martinez, Mario E</td>
+			<td>[US]</td>
+		</tr><tr><td>200</td>
+			<td>Peters, Brian</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pool, Zachary</td>
+			<td>[US]</td>
+		</tr><tr><td>201</td>
+			<td>Rick, David</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Jones, James</td>
+			<td>[US]</td>
+		</tr><tr><td>202</td>
+			<td>Davis, Kevin</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Buitenhuis, Josh</td>
+			<td>[US]</td>
+		</tr><tr><td>203</td>
+			<td>Weed, Jared</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Mims, Damion</td>
+			<td>[US]</td>
+		</tr><tr><td>204</td>
+			<td>Stedge, Aaron</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Perron, Tyler</td>
+			<td>[US]</td>
+		</tr><tr><td>205</td>
+			<td>Foley, Matt</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Belcher, William</td>
+			<td>[US]</td>
+		</tr><tr><td>206</td>
+			<td>Simms, Frederick</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Schumacher, Ryan</td>
+			<td>[US]</td>
+		</tr><tr><td>207</td>
+			<td>Carpenter, Chris</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fleury-Lopez, Travis</td>
+			<td>[US]</td>
+		</tr><tr><td>208</td>
+			<td>Peterson, Brian</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Furno, Nick</td>
+			<td>[US]</td>
+		</tr><tr><td>209</td>
+			<td>Shepard, Jesse</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Axtell, Steven</td>
+			<td>[US]</td>
+		</tr><tr><td>210</td>
+			<td>Stearns, Scott</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hall, Tanner</td>
+			<td>[US]</td>
+		</tr><tr><td>211</td>
+			<td>Gagnon, Louis</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Johnson, Brendon</td>
+			<td>[US]</td>
+		</tr><tr><td>212</td>
+			<td>Chambers, Colron</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Milliman, Shawn</td>
+			<td>[US]</td>
+		</tr><tr><td>213</td>
+			<td>Lombardi, Rocco</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Madden, Rory</td>
+			<td>[US]</td>
+		</tr><tr><td>214</td>
+			<td>Pierson, Brandon</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Morawski, Jonathan</td>
+			<td>[US]</td>
+		</tr><tr><td>215</td>
+			<td>Rapp, Michael</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cummings, Caleb</td>
+			<td>[US]</td>
+		</tr><tr><td>216</td>
+			<td>Reuschel, Carl</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gareau, Philippe</td>
+			<td>[US]</td>
+		</tr><tr><td>217</td>
+			<td>Gardner, Jonathan</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sweeney, Austin</td>
+			<td>[US]</td>
+		</tr><tr><td>218</td>
+			<td>Pin, Erik</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Augustine, William</td>
+			<td>[US]</td>
+		</tr><tr><td>219</td>
+			<td>Hinton IV, Edgar</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Carter, Alexander</td>
+			<td>[US]</td>
+		</tr><tr><td>220</td>
+			<td>Plourde, Dylan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Schwartz, Benjamin</td>
+			<td>[US]</td>
+		</tr><tr><td>221</td>
+			<td>Tardif, Justin</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lewin, Evan</td>
+			<td>[US]</td>
+		</tr><tr><td>222</td>
+			<td>West, Matthew</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Belcher, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>223</td>
+			<td>Riley, Adam</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Holbrook, Paul</td>
+			<td>[US]</td>
+		</tr><tr><td>224</td>
+			<td>Robinson, Bradley</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Butruce, Eric</td>
+			<td>[US]</td>
+		</tr><tr><td>225</td>
+			<td>Huberty, Henry</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Schulz, Dominic</td>
+			<td>[US]</td>
+		</tr><tr><td>226</td>
+			<td>Smith, Dakota</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Murgo, Gabe</td>
+			<td>[US]</td>
+		</tr><tr><td>227</td>
+			<td>Sherwood, Sean</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cothias, Luciano</td>
+			<td>[US]</td>
+		</tr><tr><td>228</td>
+			<td>Esposito, Chris</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Karabinos, Greg</td>
+			<td>[US]</td>
+		</tr><tr><td>229</td>
+			<td>Bink, Adam</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sweetman, Zane</td>
+			<td>[US]</td>
+		</tr><tr><td>230</td>
+			<td>Allain, Nick</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Connolly, James</td>
+			<td>[US]</td>
+		</tr><tr><td>231</td>
+			<td>Habib, Brandon</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Broderick, Zach</td>
+			<td>[US]</td>
+		</tr><tr><td>232</td>
+			<td>Vidugiris, Gaudenis</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Palovich, Chris</td>
+			<td>[US]</td>
+		</tr><tr><td>233</td>
+			<td>Bianchi, Alex</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Schirling, Alex</td>
+			<td>[US]</td>
+		</tr><tr><td>234</td>
+			<td>McGhee, Joshua</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Deshaies, Jacob</td>
+			<td>[US]</td>
+		</tr><tr><td>235</td>
+			<td>Will, Daniel</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Des Marais, Nick</td>
+			<td>[US]</td>
+		</tr><tr><td>236</td>
+			<td>Word, James</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mitchell, Max</td>
+			<td>[US]</td>
+		</tr><tr><td>237</td>
+			<td>Corbin, Julia</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bridges, Shaun</td>
+			<td>[US]</td>
+		</tr><tr><td>238</td>
+			<td>Nickerson, Jonathan</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gensollen, Jonathan</td>
+			<td>[US]</td>
+		</tr><tr><td>239</td>
+			<td>Stratton, Alex</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Stein, Harrison</td>
+			<td>[US]</td>
+		</tr><tr><td>240</td>
+			<td>Botting, Sophie</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Reynolds, Nicholas</td>
+			<td>[US]</td>
+		</tr><tr><td>241</td>
+			<td>Jones, Chase</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Chen, Shan Chun</td>
+			<td>[US]</td>
+		</tr><tr><td>242</td>
+			<td>Benben, Daniel</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Jenkins, Mark</td>
+			<td>[US]</td>
+		</tr><tr><td>243</td>
+			<td>Myrianthopoulus, Marley</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Boers, David</td>
+			<td>[US]</td>
+		</tr><tr><td>244</td>
+			<td>Johnson, Marquis</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Zhang, Yuxuan</td>
+			<td>[US]</td>
+		</tr><tr><td>245</td>
+			<td>Ferguson, Michael</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mailloux, Luc</td>
+			<td>[US]</td>
+		</tr><tr><td>246</td>
+			<td>Eichelberger, Gregory</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Vitanza, Vincent</td>
+			<td>[US]</td>
+		</tr><tr><td>247</td>
+			<td>Lu, Jason</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Chenard, Francois</td>
+			<td>[US]</td>
+		</tr><tr><td>248</td>
+			<td>Badrudin, Karim</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gago, Daniel</td>
+			<td>[US]</td>
+		</tr><tr><td>249</td>
+			<td>Tunison, Drew</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>McKinney, Adam</td>
+			<td>[US]</td>
+		</tr><tr><td>250</td>
+			<td>McDuffie, Korey</td>
+			<td>[US]</td>
+			<td>Draw 1-1</td>
+			<td>vs.</td>
+			<td>Canellys, Ben</td>
+			<td>[US]</td>
+		</tr><tr><td>251</td>
+			<td>Dovidio, Benjamin</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Decrisantis, Drew</td>
+			<td>[US]</td>
+		</tr><tr><td>252</td>
+			<td>Burnham, Ross</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Long, Robert</td>
+			<td>[US]</td>
+		</tr><tr><td>253</td>
+			<td>Cline, Branden</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Alber, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>254</td>
+			<td>Vischi, Robert</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ragsdale, Adam</td>
+			<td>[US]</td>
+		</tr><tr><td>255</td>
+			<td>Cournoyer-Michel, Mael</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Pargh, William</td>
+			<td>[US]</td>
+		</tr><tr><td>256</td>
+			<td>Cook, Bryant</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Christiansen, Nico</td>
+			<td>[US]</td>
+		</tr><tr><td>257</td>
+			<td>Gavigan, Cody</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Atkinson, Ryan</td>
+			<td>[US]</td>
+		</tr><tr><td>258</td>
+			<td>Fiorilli, Michael</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gaieski, Ethan</td>
+			<td>[US]</td>
+		</tr><tr><td>259</td>
+			<td>Yoshino, Kohei</td>
+			<td>[US]</td>
+			<td>Draw 1-1</td>
+			<td>vs.</td>
+			<td>Manos, Jason</td>
+			<td>[US]</td>
+		</tr><tr><td>260</td>
+			<td>Hankour, Kamil</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fontes, Carlos</td>
+			<td>[US]</td>
+		</tr><tr><td>261</td>
+			<td>Fan, Jitao</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>LaChance, Alex</td>
+			<td>[US]</td>
+		</tr><tr><td>262</td>
+			<td>Horton, Joseph</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kwan, Philip</td>
+			<td>[US]</td>
+		</tr><tr><td>263</td>
+			<td>Lonergan, Liam</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Barragan, Alfredo</td>
+			<td>[US]</td>
+		</tr><tr><td>264</td>
+			<td>Kong, Dejia</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sorensen, Scott</td>
+			<td>[US]</td>
+		</tr><tr><td>265</td>
+			<td>Nowakowski, Stephen</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sennett, Nick</td>
+			<td>[US]</td>
+		</tr><tr><td>266</td>
+			<td>Fortuno, Nicholas</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Delano, Jonathan</td>
+			<td>[US]</td>
+		</tr><tr><td>267</td>
+			<td>Lloyd, Alex</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bailey, Christopher</td>
+			<td>[US]</td>
+		</tr><tr><td>268</td>
+			<td>Nevers, Matthew</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cyrenne, Mathieu</td>
+			<td>[US]</td>
+		</tr><tr><td>269</td>
+			<td>Antigua, Jorge</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Richards, David</td>
+			<td>[US]</td>
+		</tr><tr><td>270</td>
+			<td>Kim, Thomas</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Repta, Joel</td>
+			<td>[US]</td>
+		</tr><tr><td>271</td>
+			<td>Langella, Nick</td>
+			<td>[US]</td>
+			<td>Won 1-0</td>
+			<td>vs.</td>
+			<td>Curran, Chris</td>
+			<td>[US]</td>
+		</tr><tr><td>272</td>
+			<td>Kolodziej, Matthew</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Castellanos, Jayme</td>
+			<td>[US]</td>
+		</tr><tr><td>273</td>
+			<td>Alsabah, Mohammed</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rapkowicz, Ryan</td>
+			<td>[US]</td>
+		</tr><tr><td>274</td>
+			<td>Tucker, Chris</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Reilly, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>275</td>
+			<td>Kong, Colin</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rivera, Manny</td>
+			<td>[US]</td>
+		</tr><tr><td>276</td>
+			<td>Espina, Paul</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>O'Neil, Nicholas</td>
+			<td>[US]</td>
+		</tr><tr><td>277</td>
+			<td>LeFavor, Samuel</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Delcourt, Cassidy</td>
+			<td>[US]</td>
+		</tr><tr><td>278</td>
+			<td>Achorn, Logan</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Rodriguez, Luis</td>
+			<td>[US]</td>
+		</tr><tr><td>279</td>
+			<td>Naipier-Kane, Jeffrey</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Mohr, Charles</td>
+			<td>[US]</td>
+		</tr><tr><td>280</td>
+			<td>Matthews, Steven</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Rickert II, Ralph</td>
+			<td>[US]</td>
+		</tr><tr><td>281</td>
+			<td>Campen, Steve</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Marmulstein, Rion</td>
+			<td>[US]</td>
+		</tr><tr><td>282</td>
+			<td>Espejo, Ange</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nota, Al</td>
+			<td>[US]</td>
+		</tr><tr><td>283</td>
+			<td>Wilson, Miles</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Caputo, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>284</td>
+			<td>Murgo, Domenic</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Holt, Andrew</td>
+			<td>[US]</td>
+		</tr><tr><td>285</td>
+			<td>Hollisian, Christopher</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Paige, Ralph</td>
+			<td>[US]</td>
+		</tr><tr><td>286</td>
+			<td>Natale, Toby</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>LaManna, Stephen</td>
+			<td>[US]</td>
+		</tr><tr><td>287</td>
+			<td>Lemay, Jason</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mason, Joshua</td>
+			<td>[US]</td>
+		</tr><tr><td>288</td>
+			<td>Snyder, Derek</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Portes Perez, Fabio Arman</td>
+			<td>[US]</td>
+		</tr><tr><td>289</td>
+			<td>Gaudioso, Rick</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Blondon, William</td>
+			<td>[US]</td>
+		</tr><tr><td>290</td>
+			<td>Gottlieb, Bryan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Jackel-Dewhurst, Gabriel</td>
+			<td>[US]</td>
+		</tr><tr><td>291</td>
+			<td>Greene, Brian</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Muir, Declan</td>
+			<td>[US]</td>
+		</tr><tr><td>292</td>
+			<td>Coulombe, Trevor</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Sharp, Johnathan</td>
+			<td>[US]</td>
+		</tr><tr><td>293</td>
+			<td>Lemieux, Christian</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>McIsaac, Neil</td>
+			<td>[US]</td>
+		</tr><tr><td>294</td>
+			<td>Tom, Kar Yung</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Zhang, Argent</td>
+			<td>[US]</td>
+		</tr><tr><td>295</td>
+			<td>Holewiak, Andrew</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sociagrosch, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>296</td>
+			<td>Albino, Christopher</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Haass, David</td>
+			<td>[US]</td>
+		</tr><tr><td>297</td>
+			<td>Eckhart, Joel</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Consiglio, Anthony</td>
+			<td>[US]</td>
+		</tr><tr><td>298</td>
+			<td>Hagen, Jacob</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Ianni, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>299</td>
+			<td>AuCoin, Ryan</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Barlow, David</td>
+			<td>[US]</td>
+		</tr><tr><td>300</td>
+			<td>Robbins, Adam</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Freeman, Lee</td>
+			<td>[US]</td>
+		</tr><tr><td>301</td>
+			<td>Pekar, George</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Fay, Timothy</td>
+			<td>[US]</td>
+		</tr><tr><td>302</td>
+			<td>Brodie, Daniel</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lorien, Jasper</td>
+			<td>[US]</td>
+		</tr><tr><td>303</td>
+			<td>Barr, Joseph</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Vitullo, Joshua</td>
+			<td>[US]</td>
+		</tr><tr><td>304</td>
+			<td>Harding, Ian</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Snelson, Stephen</td>
+			<td>[US]</td>
+		</tr><tr><td>305</td>
+			<td>Flotten, Connor</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kosinski, Aaron</td>
+			<td>[US]</td>
+		</tr><tr><td>306</td>
+			<td>McKeone, Treven</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Driscoll, Trevor</td>
+			<td>[US]</td>
+		</tr><tr><td>307</td>
+			<td>Darr, Dane</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Cohen, Mike</td>
+			<td>[US]</td>
+		</tr><tr><td>308</td>
+			<td>Gibeault, Gilles</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Pimm, Douglas</td>
+			<td>[US]</td>
+		</tr><tr><td>309</td>
+			<td>Lee, Christopher</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gardner, Benjamin</td>
+			<td>[US]</td>
+		</tr><tr><td>310</td>
+			<td>Pedersen, Keith</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Verno, Aharon</td>
+			<td>[US]</td>
+		</tr><tr><td>311</td>
+			<td>Ball, Randall</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Barkon, Daniel</td>
+			<td>[US]</td>
+		</tr><tr><td>312</td>
+			<td>Novins, Michael</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bennett, Alfred</td>
+			<td>[US]</td>
+		</tr><tr><td>313</td>
+			<td>Allcroft, Roger</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cassel, Zakery</td>
+			<td>[US]</td>
+		</tr><tr><td>314</td>
+			<td>Demercado, Brandon</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tucker, Gerald</td>
+			<td>[US]</td>
+		</tr><tr><td>315</td>
+			<td>Kwok, Cosmo</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>AlAwadhi, Abdullah</td>
+			<td>[US]</td>
+		</tr><tr><td>316</td>
+			<td>Waller, Ozzie</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Fowler, Zach</td>
+			<td>[US]</td>
+		</tr><tr><td>317</td>
+			<td>Dotson, Matt</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Dilone, Rafael</td>
+			<td>[US]</td>
+		</tr><tr><td>318</td>
+			<td>Favretto, Carlo</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Murphy, Dylan</td>
+			<td>[US]</td>
+		</tr><tr><td>319</td>
+			<td>Black, Andrew</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Zobian, John</td>
+			<td>[US]</td>
+		</tr><tr><td>320</td>
+			<td>Wang, Yichen</td>
+			<td>[US]</td>
+			<td>Draw 1-1</td>
+			<td>vs.</td>
+			<td>Benipayo, Dan</td>
+			<td>[US]</td>
+		</tr><tr><td>321</td>
+			<td>Asselin, Philippe</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dunleavey, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>322</td>
+			<td>Eggenburg, Seth</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Tewksbury, Brendan</td>
+			<td>[US]</td>
+		</tr><tr><td>323</td>
+			<td>Halmagyi, Joshua</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Brown, Paul</td>
+			<td>[US]</td>
+		</tr><tr><td>324</td>
+			<td>Ostrander, Alexis</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Polyakov, Alexander</td>
+			<td>[US]</td>
+		</tr><tr><td>325</td>
+			<td>Lepesko, Brandon</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Flete, George</td>
+			<td>[US]</td>
+		</tr><tr><td>326</td>
+			<td>Manner, Joey</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Provenzano, Luca</td>
+			<td>[US]</td>
+		</tr><tr><td>327</td>
+			<td>Sabo, Simeon</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Niyazov, Igor</td>
+			<td>[US]</td>
+		</tr><tr><td>328</td>
+			<td>O'Donnell, Devon</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cerbone, Alex</td>
+			<td>[US]</td>
+		</tr><tr><td>329</td>
+			<td>Markson, Samuel</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Greenidge, Jamal</td>
+			<td>[US]</td>
+		</tr><tr><td>330</td>
+			<td>Bu-Mansour, Chad</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bonin, Brad</td>
+			<td>[US]</td>
+		</tr><tr><td>331</td>
+			<td>Tanner, Adam</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Robinson, Nathan</td>
+			<td>[US]</td>
+		</tr><tr><td>332</td>
+			<td>Tonelli, Tim</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Roberson, Rameal</td>
+			<td>[US]</td>
+		</tr><tr><td>333</td>
+			<td>Carle, Ian</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mitchell, Ben</td>
+			<td>[US]</td>
+		</tr><tr><td>334</td>
+			<td>Gallagher, John</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Eidelsafy, Adam</td>
+			<td>[US]</td>
+		</tr><tr><td>335</td>
+			<td>Fazekas, Jeffrey</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Dejoy, Joseph</td>
+			<td>[US]</td>
+		</tr><tr><td>336</td>
+			<td>Bryant, Connor</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Blanchet, Eric</td>
+			<td>[US]</td>
+		</tr><tr><td>337</td>
+			<td>Rogers, Christopher</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Nicolas, Victor</td>
+			<td>[US]</td>
+		</tr><tr><td>338</td>
+			<td>Godon, Carl</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nowak, Rich</td>
+			<td>[US]</td>
+		</tr><tr><td>339</td>
+			<td>Van Fleet, Adam</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Jennison, David</td>
+			<td>[US]</td>
+		</tr><tr><td>340</td>
+			<td>DeiDolori, Michael</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Wojcak, Wade</td>
+			<td>[US]</td>
+		</tr><tr><td>341</td>
+			<td>Gennari, Justin</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Tremblay, Jean-Philippe</td>
+			<td>[US]</td>
+		</tr><tr><td>342</td>
+			<td>Trundy, Jordan</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Jones, David</td>
+			<td>[US]</td>
+		</tr><tr><td>343</td>
+			<td>Klenske, Dylan</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gendron, Marc-Olivier</td>
+			<td>[US]</td>
+		</tr><tr><td>344</td>
+			<td>Muller, Paul</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Stitson, Christopher</td>
+			<td>[US]</td>
+		</tr><tr><td>345</td>
+			<td>Jin, Mark</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Istfan, Raeef</td>
+			<td>[US]</td>
+		</tr><tr><td>346</td>
+			<td>Motta, Meek</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Dowling, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>347</td>
+			<td>Napoli, Phillip</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Neveu, Pierre Antoine</td>
+			<td>[US]</td>
+		</tr><tr><td>348</td>
+			<td>Lee, Tyler</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Petruzziello, Dante</td>
+			<td>[US]</td>
+		</tr><tr><td>349</td>
+			<td>Farrar, Jake</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lawrence, Jimmy</td>
+			<td>[US]</td>
+		</tr><tr><td>350</td>
+			<td>Johnson, Eric</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Slapinsky, Brian</td>
+			<td>[US]</td>
+		</tr><tr><td>351</td>
+			<td>English, Jared</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Ladeira, Pedro</td>
+			<td>[US]</td>
+		</tr><tr><td>352</td>
+			<td>McMahan, Brian</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Gerlits, Henry</td>
+			<td>[US]</td>
+		</tr><tr><td>353</td>
+			<td>Benns, B</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Worsham, Martin</td>
+			<td>[US]</td>
+		</tr><tr><td>354</td>
+			<td>Normandin, Ryan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lee, Connor</td>
+			<td>[US]</td>
+		</tr><tr><td>355</td>
+			<td>Mensinger, Trevor</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Williams, Craig</td>
+			<td>[US]</td>
+		</tr><tr><td>356</td>
+			<td>White, Adam</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Qian, Jason</td>
+			<td>[US]</td>
+		</tr><tr><td>357</td>
+			<td>Abenhaim, Julien</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Phillips, Vanessa</td>
+			<td>[US]</td>
+		</tr><tr><td>358</td>
+			<td>Madsen, Benton</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kadar, Griffin</td>
+			<td>[US]</td>
+		</tr><tr><td>359</td>
+			<td>Gaynor, Jonah</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Holland, Patrick</td>
+			<td>[US]</td>
+		</tr><tr><td>360</td>
+			<td>Petre, Evan</td>
+			<td>[US]</td>
+			<td>Draw 1-1</td>
+			<td>vs.</td>
+			<td>Sullivan, Adrian</td>
+			<td>[US]</td>
+		</tr><tr><td>361</td>
+			<td>Samson, Roger</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Doele, James</td>
+			<td>[US]</td>
+		</tr><tr><td>362</td>
+			<td>Panaccione, Alex</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Bowe, Mitchell</td>
+			<td>[US]</td>
+		</tr><tr><td>363</td>
+			<td>Williamson, Michael</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Green, Dustin</td>
+			<td>[US]</td>
+		</tr><tr><td>364</td>
+			<td>Cameron, Grady</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>O'Sullivan, Connor</td>
+			<td>[US]</td>
+		</tr><tr><td>365</td>
+			<td>Roy, Christopher</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Van Vliet, Leonard</td>
+			<td>[US]</td>
+		</tr><tr><td>366</td>
+			<td>Plamondon, Brandon</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gould, Andrew</td>
+			<td>[US]</td>
+		</tr><tr><td>367</td>
+			<td>Durney, Ryan</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Jaques, Jordan</td>
+			<td>[US]</td>
+		</tr><tr><td>368</td>
+			<td>Betrix, Ryan</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Abrahams, Rafi</td>
+			<td>[US]</td>
+		</tr><tr><td>369</td>
+			<td>Morris, Shayne</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Coleman, Allison</td>
+			<td>[US]</td>
+		</tr><tr><td>370</td>
+			<td>Lau, Kevin</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Morgan, Kyle</td>
+			<td>[US]</td>
+		</tr><tr><td>371</td>
+			<td>Han, Andrew</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Weeks, Nathaniel</td>
+			<td>[US]</td>
+		</tr><tr><td>372</td>
+			<td>Gemme, Michael</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>McCullough, John</td>
+			<td>[US]</td>
+		</tr><tr><td>373</td>
+			<td>Nuzzo, Benjamin</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Pangnathip, Souk</td>
+			<td>[US]</td>
+		</tr><tr><td>374</td>
+			<td>Lopez, Brian</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Yatsenko, Alex</td>
+			<td>[US]</td>
+		</tr><tr><td>375</td>
+			<td>Sciandra, Aj</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Cullerton, Evan</td>
+			<td>[US]</td>
+		</tr><tr><td>376</td>
+			<td>Iwanicki, Joshua</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Fink, Erik</td>
+			<td>[US]</td>
+		</tr><tr><td>377</td>
+			<td>Morrill, Ken</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sparke, Jay</td>
+			<td>[US]</td>
+		</tr><tr><td>378</td>
+			<td>Lam, Liquan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Milette, Jeff</td>
+			<td>[US]</td>
+		</tr><tr><td>379</td>
+			<td>Dolan, Keith</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>DeLisi, John</td>
+			<td>[US]</td>
+		</tr><tr><td>380</td>
+			<td>Leech, Matthew</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Rast, Arthur</td>
+			<td>[US]</td>
+		</tr><tr><td>381</td>
+			<td>Costello, Nicholas</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Yebba, Sean</td>
+			<td>[US]</td>
+		</tr><tr><td>382</td>
+			<td>Feeney, Anthony</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Amor, Martin Miguel</td>
+			<td>[US]</td>
+		</tr><tr><td>383</td>
+			<td>Clare, Brian</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Axtell, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>384</td>
+			<td>Zawacki, Connor</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Setterlund, Patrick</td>
+			<td>[US]</td>
+		</tr><tr><td>385</td>
+			<td>Napier, Wally</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Oliveira, Alexander</td>
+			<td>[US]</td>
+		</tr><tr><td>386</td>
+			<td>Messer, Christopher</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Brandl, Nick</td>
+			<td>[US]</td>
+		</tr><tr><td>387</td>
+			<td>Normandin, Katharine</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Davis, Bryson</td>
+			<td>[US]</td>
+		</tr><tr><td>388</td>
+			<td>Biederman, Brent</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Howland, Robert</td>
+			<td>[US]</td>
+		</tr><tr><td>389</td>
+			<td>Barone, Anthony</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Muir, Mark</td>
+			<td>[US]</td>
+		</tr><tr><td>390</td>
+			<td>Reed, Chris</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Morales, Charles</td>
+			<td>[US]</td>
+		</tr><tr><td>391</td>
+			<td>Sahakian, Arvan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Turner, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>392</td>
+			<td>Schwartz, Tyler</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mercier, Ryan</td>
+			<td>[US]</td>
+		</tr><tr><td>393</td>
+			<td>Whittington, Michael</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Delven, Randy</td>
+			<td>[US]</td>
+		</tr><tr><td>394</td>
+			<td>Delcourt, Zachary</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Rabin, Daniel</td>
+			<td>[US]</td>
+		</tr><tr><td>395</td>
+			<td>Sajour, Antonio</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Marland, Sean</td>
+			<td>[US]</td>
+		</tr><tr><td>396</td>
+			<td>Self, Tim</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Haven, Gil</td>
+			<td>[US]</td>
+		</tr><tr><td>397</td>
+			<td>DeVarney, Sean</td>
+			<td>[US]</td>
+			<td>Draw 1-1</td>
+			<td>vs.</td>
+			<td>Poirier, Jordan</td>
+			<td>[US]</td>
+		</tr><tr><td>398</td>
+			<td>Spencer, David</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Desmond, Ryan</td>
+			<td>[US]</td>
+		</tr><tr><td>399</td>
+			<td>Carpentier, Renaud</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Garens, Alex</td>
+			<td>[US]</td>
+		</tr><tr><td>400</td>
+			<td>Jacques, Zac</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Brown, Joshua</td>
+			<td>[US]</td>
+		</tr><tr><td>401</td>
+			<td>Ramirez, Miguel</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Blesso, Marc</td>
+			<td>[US]</td>
+		</tr><tr><td>402</td>
+			<td>Rosa, Michael</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Amorin, Brandon</td>
+			<td>[US]</td>
+		</tr><tr><td>403</td>
+			<td>Blankenship, Luca</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lounello, Vincent James</td>
+			<td>[US]</td>
+		</tr><tr><td>404</td>
+			<td>Evans, Max</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Jennings, Wesly</td>
+			<td>[US]</td>
+		</tr><tr><td>405</td>
+			<td>Maestranzi, Kevin</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Sykulski, Lynn</td>
+			<td>[US]</td>
+		</tr><tr><td>406</td>
+			<td>Moss, Justin</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Deluca, Seth</td>
+			<td>[US]</td>
+		</tr><tr><td>407</td>
+			<td>Clough, Isaiah</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Della Grotte, Kevin</td>
+			<td>[US]</td>
+		</tr><tr><td>408</td>
+			<td>Munson, Andrew</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Alvarado, Jonathan</td>
+			<td>[US]</td>
+		</tr><tr><td>409</td>
+			<td>Dias, Manuel</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Cardone, Chris</td>
+			<td>[US]</td>
+		</tr><tr><td>410</td>
+			<td>Duval, Matthew</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Baxter, Nathan</td>
+			<td>[US]</td>
+		</tr><tr><td>411</td>
+			<td>Brown, Nick</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>O'Sullivan, Jeff</td>
+			<td>[US]</td>
+		</tr><tr><td>412</td>
+			<td>Belen, Jordan</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Marlow, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>413</td>
+			<td>Markarian, Erik</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hurtubise, Jay</td>
+			<td>[US]</td>
+		</tr><tr><td>414</td>
+			<td>Moulton, Steven</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hatch, Benjamin</td>
+			<td>[US]</td>
+		</tr><tr><td>415</td>
+			<td>Bliss, Richard</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Howard, Hannah</td>
+			<td>[US]</td>
+		</tr><tr><td>416</td>
+			<td>Jones, Steve</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>LaPalme, Lewis</td>
+			<td>[US]</td>
+		</tr><tr><td>417</td>
+			<td>Papp, Michael</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Suhaimi, Azeem</td>
+			<td>[US]</td>
+		</tr><tr><td>418</td>
+			<td>Fauchoux, Ryan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hegarty, Casey</td>
+			<td>[US]</td>
+		</tr><tr><td>419</td>
+			<td>Reardon, Sean</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Giambra, Joshua</td>
+			<td>[US]</td>
+		</tr><tr><td>420</td>
+			<td>Metzger, Benjamin</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Whittlesey, Peter</td>
+			<td>[US]</td>
+		</tr><tr><td>421</td>
+			<td>DeLange, Gregory</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Truskowski, Joshua</td>
+			<td>[US]</td>
+		</tr><tr><td>422</td>
+			<td>Griffin, Nicholas</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Koziol, Josh</td>
+			<td>[US]</td>
+		</tr><tr><td>423</td>
+			<td>Sanchez Soto, Jose Carlos</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Werner, Cade</td>
+			<td>[US]</td>
+		</tr><tr><td>424</td>
+			<td>Brewer, Brent</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Shadd-Simmons, Tristan</td>
+			<td>[US]</td>
+		</tr><tr><td>425</td>
+			<td>Martin, Alex</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Galper, Jivan</td>
+			<td>[US]</td>
+		</tr><tr><td>426</td>
+			<td>McMillan, Curtis</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cormier, Marc-Alexandre</td>
+			<td>[US]</td>
+		</tr><tr><td>427</td>
+			<td>Harris, Alexander</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Fulop, Brian</td>
+			<td>[US]</td>
+		</tr><tr><td>428</td>
+			<td>Arsenault, Aaron</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Carty, Chris</td>
+			<td>[US]</td>
+		</tr><tr><td>429</td>
+			<td>Stehlin, Ryan</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Johnson, Steven</td>
+			<td>[US]</td>
+		</tr><tr><td>430</td>
+			<td>Mower, Casey</td>
+			<td>[US]</td>
+			<td>Draw 1-1</td>
+			<td>vs.</td>
+			<td>Champagne, Dean</td>
+			<td>[US]</td>
+		</tr><tr><td>431</td>
+			<td>Cantres, Mario</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mowen, Chris</td>
+			<td>[US]</td>
+		</tr><tr><td>432</td>
+			<td>Pump, Tayler</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bernstein, Hal</td>
+			<td>[US]</td>
+		</tr><tr><td>433</td>
+			<td>Mosca, Peter</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Betit, Silas</td>
+			<td>[US]</td>
+		</tr><tr><td>434</td>
+			<td>Bergeron, Philip</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>McAtee, Joshua</td>
+			<td>[US]</td>
+		</tr><tr><td>435</td>
+			<td>Cady, Elijah</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Golas, Aaron</td>
+			<td>[US]</td>
+		</tr><tr><td>436</td>
+			<td>Riopelle, Jason</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Briscoe, Ken</td>
+			<td>[US]</td>
+		</tr><tr><td>437</td>
+			<td>Halpern, Derek</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Smieja, Robert</td>
+			<td>[US]</td>
+		</tr><tr><td>438</td>
+			<td>Mckonnel, Shawn</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Seely, Taylor</td>
+			<td>[US]</td>
+		</tr><tr><td>439</td>
+			<td>Davidson Carroll, Gray</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Pushard, Leigh</td>
+			<td>[US]</td>
+		</tr><tr><td>440</td>
+			<td>Dib, Maurice</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Bayless-Hall, Leo</td>
+			<td>[US]</td>
+		</tr><tr><td>441</td>
+			<td>Patella, Keith</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Moore, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>442</td>
+			<td>Blondin, Paul</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Venard, Brian</td>
+			<td>[US]</td>
+		</tr><tr><td>443</td>
+			<td>Rosario, Luis</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>McCabe, Kevin</td>
+			<td>[US]</td>
+		</tr><tr><td>444</td>
+			<td>Bouzinov, Maxim</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Demarino, Matt</td>
+			<td>[US]</td>
+		</tr><tr><td>445</td>
+			<td>Herbert, William</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Doehring, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>446</td>
+			<td>Shaw, Scott</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Valley, Justin</td>
+			<td>[US]</td>
+		</tr><tr><td>447</td>
+			<td>Brown, Turner</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Clothier, Charles</td>
+			<td>[US]</td>
+		</tr><tr><td>448</td>
+			<td>Louis-jacques, Xavier</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Dery, Jonathan</td>
+			<td>[US]</td>
+		</tr><tr><td>449</td>
+			<td>Puchol-Salva, Alex</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Stanhope, Charles</td>
+			<td>[US]</td>
+		</tr><tr><td>450</td>
+			<td>Baisley, Zack</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Nelkin, Dylan</td>
+			<td>[US]</td>
+		</tr><tr><td>451</td>
+			<td>Usman, Nick</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Dumoski, Stephanie</td>
+			<td>[US]</td>
+		</tr><tr><td>452</td>
+			<td>Hemsley, Matt</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Monico, Riccardo</td>
+			<td>[US]</td>
+		</tr><tr><td>453</td>
+			<td>Blackman, David</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hutchinson, Christopher</td>
+			<td>[US]</td>
+		</tr><tr><td>454</td>
+			<td>Shaffer, Joseph</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sarahs, Sean</td>
+			<td>[US]</td>
+		</tr><tr><td>455</td>
+			<td>Tatian, John</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Vasquez, William</td>
+			<td>[US]</td>
+		</tr><tr><td>456</td>
+			<td>Desbiens, Philippe</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Glaser, Chase</td>
+			<td>[US]</td>
+		</tr><tr><td>457</td>
+			<td>Petalas, David</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Anglin, Joseph</td>
+			<td>[US]</td>
+		</tr><tr><td>458</td>
+			<td>Silverfine, Ari</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Courtemanche, Jarrod</td>
+			<td>[US]</td>
+		</tr><tr><td>459</td>
+			<td>Walzer, Robert</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Rosa, Anthony</td>
+			<td>[US]</td>
+		</tr><tr><td>460</td>
+			<td>Almas, Hassan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Mainelli, Dave</td>
+			<td>[US]</td>
+		</tr><tr><td>461</td>
+			<td>Johnson, Zachary</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Anderson, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>462</td>
+			<td>Tanzi, Kristen</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Thomas, Braham</td>
+			<td>[US]</td>
+		</tr><tr><td>463</td>
+			<td>Brenner, Jonathan</td>
+			<td>[US]</td>
+			<td>Won 1-0</td>
+			<td>vs.</td>
+			<td>Marvuglio, David</td>
+			<td>[US]</td>
+		</tr><tr><td>464</td>
+			<td>Ewell, Oliver</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Kearney, Dale</td>
+			<td>[US]</td>
+		</tr><tr><td>465</td>
+			<td>Rowe, Sean</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Gleason, Brian</td>
+			<td>[US]</td>
+		</tr><tr><td>466</td>
+			<td>Carson, John</td>
+			<td>[US]</td>
+			<td>Lost 0-1</td>
+			<td>vs.</td>
+			<td>Montes, Henry</td>
+			<td>[US]</td>
+		</tr><tr><td>467</td>
+			<td>Nguyen, Michael</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Petrarca, Matt</td>
+			<td>[US]</td>
+		</tr><tr><td>468</td>
+			<td>Records, Harrison</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Shantz, Aaron</td>
+			<td>[US]</td>
+		</tr><tr><td>469</td>
+			<td>Nagy, Franz</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Baroni, Stephen</td>
+			<td>[US]</td>
+		</tr><tr><td>470</td>
+			<td>Maurillo, Michael</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Leemon, Luis</td>
+			<td>[US]</td>
+		</tr><tr><td>471</td>
+			<td>Tussing, Austin</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Carmody, Dalton</td>
+			<td>[US]</td>
+		</tr><tr><td>472</td>
+			<td>Ruiz, Matthew</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Barcellos, Joseph</td>
+			<td>[US]</td>
+		</tr><tr><td>473</td>
+			<td>Bon-Miller, Alex</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Petagna, Andrew</td>
+			<td>[US]</td>
+		</tr><tr><td>474</td>
+			<td>Fazio, Michael</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Widmer, Austin</td>
+			<td>[US]</td>
+		</tr><tr><td>475</td>
+			<td>Caravas, Dimitrios</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Moran, Rourke</td>
+			<td>[US]</td>
+		</tr><tr><td>476</td>
+			<td>Conley, Greg</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Greco, Carman</td>
+			<td>[US]</td>
+		</tr><tr><td>477</td>
+			<td>Lafreniere, John</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hoover, Mark</td>
+			<td>[US]</td>
+		</tr><tr><td>478</td>
+			<td>Josephson, Edward</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Phillinger, Matt</td>
+			<td>[US]</td>
+		</tr><tr><td>479</td>
+			<td>Mower, Cody</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Thomasco, Andy</td>
+			<td>[US]</td>
+		</tr><tr><td>480</td>
+			<td>Berk, Joshua</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Merfert, John</td>
+			<td>[US]</td>
+		</tr><tr><td>481</td>
+			<td>Vasic, Mateo</td>
+			<td>[US]</td>
+			<td>Draw 1-1</td>
+			<td>vs.</td>
+			<td>Murphy, Quinn</td>
+			<td>[US]</td>
+		</tr><tr><td>482</td>
+			<td>Stollman, Ryan</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Koziol, Jeremy</td>
+			<td>[US]</td>
+		</tr><tr><td>483</td>
+			<td>Sajour, Jose</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sabia, Sean</td>
+			<td>[US]</td>
+		</tr><tr><td>484</td>
+			<td>Skarren, Frank</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bowden, Steve</td>
+			<td>[US]</td>
+		</tr><tr><td>485</td>
+			<td>Briggs, Benjamin</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Allan, Chris</td>
+			<td>[US]</td>
+		</tr><tr><td>486</td>
+			<td>Keeney, Steffan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Kirkwood, Connor</td>
+			<td>[US]</td>
+		</tr><tr><td>487</td>
+			<td>Sirois, Paul</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Belknap, Graham</td>
+			<td>[US]</td>
+		</tr><tr><td>488</td>
+			<td>Tower, Christopher</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Bruno, Alexander</td>
+			<td>[US]</td>
+		</tr><tr><td>489</td>
+			<td>Bertram, Timothy</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Birchenough, Joseph</td>
+			<td>[US]</td>
+		</tr><tr><td>490</td>
+			<td>Fauerbach, Benjamin</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Van Cleave, Trey</td>
+			<td>[US]</td>
+		</tr><tr><td>491</td>
+			<td>Grimes, Zachary</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Countryman, Joseph</td>
+			<td>[US]</td>
+		</tr><tr><td>492</td>
+			<td>Hasani, Farid</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Roth, Thomas</td>
+			<td>[US]</td>
+		</tr><tr><td>493</td>
+			<td>Candlen, Eric</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hoffman, Mason</td>
+			<td>[US]</td>
+		</tr><tr><td>494</td>
+			<td>Janssens, Jacob</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Colon, Eddie</td>
+			<td>[US]</td>
+		</tr><tr><td>495</td>
+			<td>Altman, Jacob</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>DeAndrea, Josiah</td>
+			<td>[US]</td>
+		</tr><tr><td>496</td>
+			<td>Nelson, Lucca</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Theocles, George</td>
+			<td>[US]</td>
+		</tr><tr><td>497</td>
+			<td>Holzhaeuser, Wilson</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sousa, Carisa</td>
+			<td>[US]</td>
+		</tr><tr><td>498</td>
+			<td>Pittenger, Timothy</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Dolan, Brian</td>
+			<td>[US]</td>
+		</tr><tr><td>499</td>
+			<td>Hovington-Caron, Gabriel</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lyons, Paul</td>
+			<td>[US]</td>
+		</tr><tr><td>500</td>
+			<td>Rogers, Derek</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lerch, Kyle</td>
+			<td>[US]</td>
+		</tr><tr><td>501</td>
+			<td>Holten, Ted</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Troyer, Nathanael</td>
+			<td>[US]</td>
+		</tr><tr><td>502</td>
+			<td>Reuschel, Adam</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Couturier, Deven</td>
+			<td>[US]</td>
+		</tr><tr><td>503</td>
+			<td>Leggett, Aaron</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Boggs-Jones, Sam</td>
+			<td>[US]</td>
+		</tr><tr><td>504</td>
+			<td>Yeh, Andy</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>O'Neill Taranto, Mick</td>
+			<td>[US]</td>
+		</tr><tr><td>505</td>
+			<td>Ardizzone, Thomas</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Brown, Milo</td>
+			<td>[US]</td>
+		</tr><tr><td>506</td>
+			<td>White, Scott</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Araujo, Justin</td>
+			<td>[US]</td>
+		</tr><tr><td>507</td>
+			<td>Aiello, Adam</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Gray, David</td>
+			<td>[US]</td>
+		</tr><tr><td>508</td>
+			<td>Brewer, Blake</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Robb, Ian</td>
+			<td>[US]</td>
+		</tr><tr><td>509</td>
+			<td>Rivas, Eduardo</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Blum, Robert</td>
+			<td>[US]</td>
+		</tr><tr><td>510</td>
+			<td>Mayer, Daniel</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Roth, Stephen</td>
+			<td>[US]</td>
+		</tr><tr><td>511</td>
+			<td>Nogas, Bryan</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hansen, Kevin</td>
+			<td>[US]</td>
+		</tr><tr><td>512</td>
+			<td>Packard, Nicholas</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Devlin, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>513</td>
+			<td>Mitchell, Ryan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Margulius, Darrell</td>
+			<td>[US]</td>
+		</tr><tr><td>514</td>
+			<td>Jolin, Jonathan</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Marmo, Timothy</td>
+			<td>[US]</td>
+		</tr><tr><td>515</td>
+			<td>Card, Zachary</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Schmidt, Steven</td>
+			<td>[US]</td>
+		</tr><tr><td>516</td>
+			<td>Haugh, Joseph</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lorentzen, Corey</td>
+			<td>[US]</td>
+		</tr><tr><td>517</td>
+			<td>O'Brien, Tyler</td>
+			<td>[US]</td>
+			<td>Draw 1-1</td>
+			<td>vs.</td>
+			<td>Lupica, Matt</td>
+			<td>[US]</td>
+		</tr><tr><td>518</td>
+			<td>Rawson, Chris</td>
+			<td>[US]</td>
+			<td>Draw 1-1</td>
+			<td>vs.</td>
+			<td>Robinson, Ryan</td>
+			<td>[US]</td>
+		</tr><tr><td>519</td>
+			<td>DeRensis, Thomas</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Hamel, Olivier</td>
+			<td>[US]</td>
+		</tr><tr><td>520</td>
+			<td>Lesmerises, Drew</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Cantin, Walter</td>
+			<td>[US]</td>
+		</tr><tr><td>521</td>
+			<td>Celley, Justin</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Burston, Pete</td>
+			<td>[US]</td>
+		</tr><tr><td>522</td>
+			<td>Mitchell, Shane</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Lamberth, Sampson</td>
+			<td>[US]</td>
+		</tr><tr><td>523</td>
+			<td>Tully, Eric</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Ward, Kyle</td>
+			<td>[US]</td>
+		</tr><tr><td>524</td>
+			<td>Martinez, Mario</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Byer, Jon</td>
+			<td>[US]</td>
+		</tr><tr><td>525</td>
+			<td>Smoot, Donald</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Petricini, David</td>
+			<td>[US]</td>
+		</tr><tr><td>526</td>
+			<td>Kirkwood, Griffin</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Hadley, Ian</td>
+			<td>[US]</td>
+		</tr><tr><td>527</td>
+			<td>Badmos, Femi</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Blomquist, Stevn</td>
+			<td>[US]</td>
+		</tr><tr><td>528</td>
+			<td>Marks, Logan</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Park, Young-Jin</td>
+			<td>[US]</td>
+		</tr><tr><td>529</td>
+			<td>Johnson, Benjamin</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Berry, Jeffrey</td>
+			<td>[US]</td>
+		</tr><tr><td>530</td>
+			<td>Ricketts, Guy</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Syunyaev, Rauf</td>
+			<td>[US]</td>
+		</tr><tr><td>531</td>
+			<td>Fairchild, Eryk</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Nash, Corey</td>
+			<td>[US]</td>
+		</tr><tr><td>532</td>
+			<td>Howes, Maxfield</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Graves, Justin</td>
+			<td>[US]</td>
+		</tr><tr><td>533</td>
+			<td>Rubinstein, Aaron</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Satterfield, Ben</td>
+			<td>[US]</td>
+		</tr><tr><td>534</td>
+			<td>Zahnzinger, Zachary</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Stone, Teddy</td>
+			<td>[US]</td>
+		</tr><tr><td>535</td>
+			<td>Winzenried, Samantha</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Deering, Christian</td>
+			<td>[US]</td>
+		</tr><tr><td>536</td>
+			<td>Babcock, Brandon</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Brown, Cyrus</td>
+			<td>[US]</td>
+		</tr><tr><td>537</td>
+			<td>Witham, William</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Kokovidis, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>538</td>
+			<td>Stratton, Michael</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Reed, Lucas</td>
+			<td>[US]</td>
+		</tr><tr><td>539</td>
+			<td>Dyson, Katherine</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Desmettre, Michael</td>
+			<td>[US]</td>
+		</tr><tr><td>540</td>
+			<td>Ogden, Garrett</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Spencer, Dale</td>
+			<td>[US]</td>
+		</tr><tr><td>541</td>
+			<td>DiCarlo, Joejoe</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lee, Trent</td>
+			<td>[US]</td>
+		</tr><tr><td>542</td>
+			<td>Eaton, J</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Perez-Dormitzer, Ethan</td>
+			<td>[US]</td>
+		</tr><tr><td>543</td>
+			<td>Olson, Kenneth</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Lambert, Nathan</td>
+			<td>[US]</td>
+		</tr><tr><td>544</td>
+			<td>Laighton, Cody</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Johnson, Tarique</td>
+			<td>[US]</td>
+		</tr><tr><td>545</td>
+			<td>Morin, Cody</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Goodwyn, Tyler</td>
+			<td>[US]</td>
+		</tr><tr><td>546</td>
+			<td>Misiano, Jace</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Hebert, Myles</td>
+			<td>[US]</td>
+		</tr><tr><td>547</td>
+			<td>Storms, Robert</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>WHITE, JOHN</td>
+			<td>[US]</td>
+		</tr><tr><td>548</td>
+			<td>Lopresti, Matthew</td>
+			<td>[US]</td>
+			<td>Draw 1-1</td>
+			<td>vs.</td>
+			<td>Kroh, Austin</td>
+			<td>[US]</td>
+		</tr><tr><td>549</td>
+			<td>Canavan, Christopher</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Mulero, Gaige</td>
+			<td>[US]</td>
+		</tr><tr><td>550</td>
+			<td>Dunn, Ryan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Marold, Stephen</td>
+			<td>[US]</td>
+		</tr><tr><td>551</td>
+			<td>Dickopf, Adam</td>
+			<td>[US]</td>
+			<td>Won 2-1</td>
+			<td>vs.</td>
+			<td>Sarkis, Bailey</td>
+			<td>[US]</td>
+		</tr><tr><td>552</td>
+			<td>Cervelli, Philip</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Moffat, Conor</td>
+			<td>[US]</td>
+		</tr><tr><td>553</td>
+			<td>Pearman, Carlos</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Lehne, Kurt</td>
+			<td>[US]</td>
+		</tr><tr><td>554</td>
+			<td>Kohler, Nathan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Quinn, Paul</td>
+			<td>[US]</td>
+		</tr><tr><td>555</td>
+			<td>Geisz, Dan</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Matthew, Harrison</td>
+			<td>[US]</td>
+		</tr><tr><td>556</td>
+			<td>Kelly, Patrick</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Farrell, Geoff</td>
+			<td>[US]</td>
+		</tr><tr><td>557</td>
+			<td>Williams, Benjamin</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Allegrucci, Thierry</td>
+			<td>[US]</td>
+		</tr><tr><td>558</td>
+			<td>Lariche, Ryan</td>
+			<td>[US]</td>
+			<td>Lost 1-2</td>
+			<td>vs.</td>
+			<td>Spiak, Marissa</td>
+			<td>[US]</td>
+		</tr><tr><td>559</td>
+			<td>Hoovler, Joshua</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Sieczkiewicz, Griffin</td>
+			<td>[US]</td>
+		</tr><tr><td>560</td>
+			<td>Tam, Wai</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Thornton, Matthew</td>
+			<td>[US]</td>
+		</tr><tr><td>561</td>
+			<td>Schultz, Dylan</td>
+			<td>[US]</td>
+			<td>Lost 0-2</td>
+			<td>vs.</td>
+			<td>Aillon, Reid</td>
+			<td>[US]</td>
+		</tr><tr><td>562</td>
+			<td>Tremblay, Brad</td>
+			<td>[US]</td>
+			<td>Won 2-0</td>
+			<td>vs.</td>
+			<td>Hood, Tristan</td>
+			<td>[US]</td>
+		</tr></tbody></table></body></html>
+      </div>
+      <!-- BEGIN :: Article footer -->
+      <div class="article-footer">
+        <p class="posted-in">
+          Posted in          <strong class="breadcrumb-no-link">Event Coverage</strong>
+          on October 22, 2016        </p>
+        <div class="sharing">
+          <div class="share-article">Share Article</div>
+          <div class="social-share">
+            <a class="facebook" href="#" data-share-url="http://magic.wizards.com/events/coverage/gppro16/round-4-results-2016-10-22"><span>Share</span></a>
+            <a class="twitter" href="#" data-share-url="http://magic.wizards.com/events/coverage/gppro16/round-4-results-2016-10-22"><span>Tweet</span></a>
+            <a class="google" href="#" data-share-url="http://magic.wizards.com/events/coverage/gppro16/round-4-results-2016-10-22"><span>Share</span></a>
+          </div>
+        </div>
+      </div>
+      <!-- END :: Article footer -->
+    </article>
+  </div>
+
+  <!-- BEGIN :: ASIDE -->
+        <aside>
+      <div class="aside-wrapper">
+        
+
+            <h2><span>FEATURED ARTICLES</span></h2>
+      <div class="articles-bloc">
+            <div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/OP20170130_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/organized-play/pro-tour-aether-revolt-preview-2017-01-30" class="cat">ORGANIZED PLAY</a>
+      <p class="date">January 30, 2017</p>
+      <a href="/en/articles/archive/organized-play/pro-tour-aether-revolt-preview-2017-01-30" class="title">Pro Tour Aether Revolt Preview</a>
+              <a href="/en/articles/archive/organized-play/pro-tour-aether-revolt-preview-2017-01-30" class="auth">Rich Hagon</a>
+      
+      <div class="infos">
+                  <p>With the start of the Pro Tour Team Series, Pro Tour Aether Revolt marks the beginning of something wholly new!
+</p>
+                <p><a href="/en/articles/archive/organized-play/pro-tour-aether-revolt-preview-2017-01-30" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div><div class="article">
+  <div class="wrap">
+    <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/TD20170202_icon.jpg)"></div>
+    <div class="details">
+      <a href="/en/articles/archive/top-decks/what-expect-pro-tour-aether-revolt-2017-02-02" class="cat">TOP DECKS</a>
+      <p class="date">February 2, 2017</p>
+      <a href="/en/articles/archive/top-decks/what-expect-pro-tour-aether-revolt-2017-02-02" class="title">What to Expect at Pro Tour Aether Revolt</a>
+              <a href="/en/articles/archive/top-decks/what-expect-pro-tour-aether-revolt-2017-02-02" class="auth">Luis Scott-Vargas </a>
+      
+      <div class="infos">
+                  <p>With Pro Tour Aether Revolt happening this weekend, Luis breaks down the decks expected to make an appearance.
+</p>
+                <p><a href="/en/articles/archive/top-decks/what-expect-pro-tour-aether-revolt-2017-02-02" class="learn-more">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+</div>          </div>
+            
+      <h2><span>Events</span></h2>
+      <div class="articles-bloc">
+    <div class="article static pub-event ">
+      <div class="bg-article-bloc" style="background-image: url(http://magic.wizards.com/sites/mtg/files/20170201-GutterAd_Thumbnails.jpg)"></div>
+      <div class="wrap details">
+                  <img src="http://magic.wizards.com/sites/mtg/files/ProTour-AER-Logos_new.png" />
+                <p class="date"></p>
+                  <p class="description">The best in the world gather in Dublin for Pro Tour Aether Revolt. Catch all the action on Twitch.tv/magic</p>
+                          <p>
+            <a class="learn-more " href="http://magic.wizards.com/en/events/premierplay/protour/ptaer" data-video-url="">
+              Learn More            </a>
+          </p>
+              </div>
+    </div>
+  </div>
+      
+      <div class="articles-bloc">
+    <div class="article static pub-event ">
+      <div class="bg-article-bloc" style="background-image: url(http://magic.wizards.com/sites/mtg/files/Ad_FNM_Photo.jpg)"></div>
+      <div class="wrap details">
+                  <img src="http://magic.wizards.com/sites/mtg/files/Ad_Logo_FNM_new20170101.png" />
+                <p class="date"></p>
+                  <p class="description">Gather with your friends at your favorite game store every Friday Night!</p>
+                          <p>
+            <a class="learn-more " href="http://magic.wizards.com/en/events/event-types/friday-night-magic" data-video-url="">
+              Get More Info            </a>
+          </p>
+              </div>
+    </div>
+  </div>
+                            </div>
+    </aside>
+    <!-- END :: ASIDE -->
+
+  
+  <h2><span>Latest Event Coverage Articles</span></h2>
+  <div class="articles-bloc releated">
+
+              <div class="article">
+          <div class="wrap">
+                          <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/finals_hero_62.jpg);"></div>
+                        <div class="details">
+                              <a href="#" class="cat">PRO TOUR AETHER REVOLT</a>
+                            <p class="date"></p>
+              <a href="#" class="title">Finals: Lucas Esper Berthoud (Mardu Vehicles) vs. Márcio Carvalho (Mardu Vehicles)</a>
+                              <a href="#" class="auth">by, Tobi Henke</a>
+                            <div class="infos">
+                                  <p>This was it. After sixteen rounds of Swiss and three rounds of elimination matches, with 423 others eliminated, only two players remained to fight for the title and trophy, for a place in...</p>
+                                <p><a href="/en/events/coverage/ptaer/finals-lucas-esper-berthoud-vs-marcio-carvalho-2017-02-05" class="learn-more">Learn More</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+              <div class="article">
+          <div class="wrap">
+                          <div class="visual" style="background-image: url(http://magic.wizards.com/sites/mtg/files/images/hero/TopMoments_Events_Article_Icon_AER.jpg);"></div>
+                        <div class="details">
+                              <a href="#" class="cat">PRO TOUR AETHER REVOLT</a>
+                            <p class="date"></p>
+              <a href="#" class="title">PT Aether Revolt Top 5 Moments</a>
+                              <a href="#" class="auth">by, Meghan Wolff</a>
+                            <div class="infos">
+                                  <p>
+
+5. Heart of Kiran Ascends Smuggler's Copter's Empty Throne
+
+At the end of three days of trying, thrilling, and exhausting competition, one player emerged victorious, and so did one card...</p>
+                                <p><a href="/en/events/coverage/ptaer/top-5-moments-2017-02-05" class="learn-more">Learn More</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+            <div class="article static">
+        <div class="wrap">
+          <div class="visual" style="background-image: url(http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/reconstructedArchive.jpg);"></div>
+          <div class="details">
+            <p class="title"><span>Articles</span></p>
+            <div class="details">
+              <p class="title"><span>Articles</span></p>
+              <p class="sub-title">Event Coverage Archive</p>
+              <div class="infos">
+                <p>Consult the archives for more articles!</p>
+                <p><a href="/en/articles/archive" class="learn-more">See All</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+
+</div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+  </div>
+
+  <!-- Footer -->
+    <footer>
+    <div id="back-to-top">
+      <a href="#viewport">Back to top</a>
+    </div>
+    <div id="where-to-buy">
+      <div class="content page-width">
+        <form action="/en/events/coverage/gppro16/round-4-results-2016-10-22" method="post" id="wiz-store-and-event-locator-search-form--2" accept-charset="UTF-8"><div><div class="intro"><div class="wrap"><h5>Where to Play and Buy</h5><p>Find a location to buy or play<br />Magic: The Gathering near you.</p></div></div><div class="form"><div class="wrap"><span class="column zip-code"><div class="form-item form-type-textfield form-item-search-string">
+ <input placeholder="Enter your city or postal code" type="text" id="edit-search-string--4" name="search-string" value="" size="25" maxlength="128" class="form-text" />
+</div>
+</span><span class="column actions"><button class="action-button" type="submit">Find Now !</button></span></div></div><input class="hide form-submit" type="submit" id="edit-search-button--4" name="op" value="Find Now" /><input type="hidden" name="form_build_id" value="form-WtH7-9diAvKEeKkSQLm8Bp3kQql0PuTRUru4WwYnkxc" />
+<input type="hidden" name="form_id" value="wiz_store_and_event_locator_search_form" />
+</div></form>      </div>
+    </div>
+
+    <div class="main-footer">
+      <div class="content page-width">
+        <div class="text">
+                      <div id="locale-select">
+              <label for="locale-select-ddl">Select your language:</label>
+
+              <div class="select-wrapper">
+                <select id="locale-select-ddl">
+                  <option value="/zh-hans" >简体中文</option><option value="/zh-hant" >繁體中文</option><option value="/fr" >Français</option><option value="/de" >Deutsch</option><option value="/it" >Italiano</option><option value="/ja" >日本語</option><option value="/ko" >한국어</option><option value="/pt-br" >Português (Brasil)</option><option value="/ru" >Русский</option><option value="/es" >Español</option><option value="/en" selected>English</option>                </select>
+              </div>
+            </div>
+          
+          
+
+      <p class="brand-family-title">Wizards Brand Family</p>
+    <p class="brand-family-menu"><a href="http://magic.wizards.com" target="_blank">magic</a> <em>|</em> <a href="http://www.wizards.com/dnd" target="_blank">d&amp;d</a> <em>|</em> <a href="http://www.wizards.com/wpn" target="_blank">wpn</a> <em>|</em> <a href="http://dm.takaratomy.co.jp" target="_blank">duel masters</a> <em>|</em> <a href="http://www.wizards.com/default.asp?x=ah/welcome" target="_blank">avalon hill</a></p>
+  <p><a href="http://company.wizards.com/tou" target="_blank">Terms of Use</a> <em>|</em> <a href="http://company.wizards.com/conduct" target="_blank">Code of Conduct</a> <em>|</em> <a href="http://company.wizards.com/policy" target="_blank">Privacy Policy</a> <em>|</em> <a href="http://www.wizards.com/customerservice" target="_blank">Customer Service</a> <em>|</em> <a href="/en/articles/archive/our-cookie-policy-2013-10-28">Cookies</a></p>
+  <p class="copyright">© 1995-2017 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved.</p>
+
+        </div>
+        
+
+      <p class="logo wizard">
+      <a href="http://company.wizards.com"
+         target="_blank"
+         title="Wizards of the Coast"
+        ><img src="/sites/all/themes/wiz_mtg/img/interface/wizard-of-the-coast-logo.png" alt="Wizards of the Coast" /></a>
+    </p>
+  
+      <p class="logo hasbro">
+      <a href="http://www.hasbro.com"
+         target="_blank"
+         title="Hasbro"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/hasbro-logo.svg" alt="Hasbro" /></a>
+    </p>
+  
+      <p class="logo privacy">
+      <a href="http://www.esrb.org/confirm/wizards-confirmation.aspx"
+         target="_blank"
+         title="ESRB Privacy Certified"
+	    ><img src="/sites/all/themes/wiz_mtg/img/interface/esrb-badge.png" alt="ESRB Privacy Certified" /></a>
+    </p>
+  
+      </div>
+    </div>
+  </footer>
+  </div>
+
+<div id="cookies-warning">
+	<div class="wrap page-width">
+		<div class="text">
+			<p>
+        We use cookies on this site to enhance your user experience. By clicking any link on this page or by clicking <strong>Yes</strong>, you are giving your consent for us to set cookies.        <a href="http://company.wizards.com/policies/web/cookie" target="_blank"> (Learn more about cookies)</a>
+      </p>
+		</div>
+		<p class="actions">
+			<button type="button" class="button agree">Yes, I agree</button>
+			<a href="http://company.wizards.com/policies/web/cookie" target="_blank" class="button disagree">No, I want to find out more</a>
+		</p>
+	</div>
+</div>    <script type="text/javascript" src="http://magic.wizards.com/sites/all/themes/wiz_mtg/js/ShareButton.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/wiz_bean_content_deck_list.js?okfvvf"></script>
+<script type="text/javascript" src="http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/masonry.pkgd.min.js?okfvvf"></script>
+  </div>
+
+	<!-- Crazy Egg -->
+	<script type="text/javascript">
+		setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName("script")[0];
+		a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0009/9185.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+	</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d92d812ac7","applicationID":"22111946","transactionName":"YVNXMkcAD0sHAUdcXFgZdAVBCA5WSRJSUlZpW1QIVAYESjkMXFFWaUBcA0I+EVkBBw==","queueTime":0,"applicationTime":1157,"atts":"TRRURA8aHEU=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Grand Prix London</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="stylesheets/styles.css?t=1486361590" rel="stylesheet"/>
+<script src="js/jquery-1.11.2.min.js"></script>
+<script src="js/gpscripts.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<link rel="stylesheet" href="js/magnific-popup.css">
+<script type="text/javascript">
+            $(document).ready(function() {
+                $('.image-link').magnificPopup({
+                    type:'image',
+                    closeOnContentClick: true
+                });
+                $('.prize-wall-gallery').magnificPopup({
+//                    delegate: 'a',
+                    type:'image',
+                    closeOnContentClick: true,
+                    mainClass: 'mfp-img-mobile notranslate',
+                    gallery: {
+			enabled: true,
+			navigateByImgClick: true,
+                        arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"></button>',
+			preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+                    }
+                });
+            });
+        </script>
+ 
+ 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1768598-3']);
+  _gaq.push(['_setDomainName', 'starcitygames.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+ 
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        if ( $(window).width() > 600) { 
+            new google.translate.TranslateElement({pageLanguage: 'en', gaTrack: true, gaId: 'UA-1768598-3'}, 'google_translate_element');
+        }else{
+            new google.translate.TranslateElement({pageLanguage: 'en', gaTrack: true, gaId: 'UA-1768598-3'}, 'google_translate_element_mobile');
+        }
+    }
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</head>
+<body>
+<div id="back-holder">
+<div id="back">
+<div id="shade2">
+<div id="shade3">
+<div id="shade4">
+ 
+<div id="header-back" class="video">
+<img src="img/header-bg.png">
+<div id="header-card-video">
+<div id="video-wrapper">
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_FVd4EHpBI0?autohide=1&color=white" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+ 
+ 
+<div id="mobile-button"><img id="menu-icon" src="img/mobile-menu-icon.png"></div>
+<div id="menu-holder">
+<div id="top-menu" class="">
+<ul>
+<li class="show-mobile"><a href="index.php">Home</a></li>
+<li><a href="registration.php">Registration<span class="hide-mobile"><br>& Rewards</span></a></li>
+<li><a href="guests.php">Special<span class="show-mobile"> </span><span class="hide-mobile"><br></span>Guests</a></li>
+<li><a href="grand-prix.php">Grand Prix<span class="hide-mobile"><br>Info</span></a></li>
+<li class="show-mobile"><a href="gpt.php">Grand Prix Trials</a></li>
+<li><a href="schedule.php">Event <span class="hide-mobile"><br></span>Schedule</a></li>
+<ul class="show-mobile">
+<li><a href="schedule.php#friday">Friday</a></li>
+<li><a href="schedule.php#saturday">Saturday</a></li>
+<li><a href="schedule.php#sunday">Sunday</a></li>
+</ul>
+<li><a href="location.php">Location & Travel</a></li>
+<li class="show-mobile"><a href="prize-wall.php">Prize Wall</a></li>
+<li><a href="faq.php" class="one-line">Questions?</a></li>
+<li class="show-mobile"><a href="vendors.php">Vendors</a></li>
+ 
+<li class="show-mobile"><a href="https://www.facebook.com/events/862339517135247/">facebook</a></li>
+<li class="show-mobile"><a href="https://twitter.com/search?f=realtime&q=%23GPLondon">#GPLondon</a></li>
+<li class="show-mobile"><a href="https://www.youtube.com/watch?v=_FVd4EHpBI0">youtube</a></li>
+ 
+<li class="show-mobile"><a href="http://www.starcitygames.com/tags/Standard/2015-01-01/2015-08-31">StarCityGames.com</a></li>
+<li class="show-mobile">
+ 
+<div class="g-translate">Translate this page</div>
+<div id="google_translate_element_mobile"></div>
+</li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+</div>
+ 
+<div id="back-inner">
+ 
+<div class="content-holder" id="landingpage">
+ 
+<div id="content">
+<h2>Welcome to Grand Prix London!</h2>
+<div class="notice">
+<h3>Important #GPLondon Update!</h3>
+<p>We’ve recently been informed that a previously non-existent bug in Constant Contact’s event registration software is resulting in some users receiving an error message when trying to preregister for #GPLondon. While the Constant Contact team is actively working to fix this problem, they have let us know that users can currently circumvent the issue simply by <span class="bold">leaving the country field blank</span>. If you experience this problem, and leaving the country field blank doesn’t enable you to circumvent it, please email <a href="mailto:op@starcitygames.com?Subject=GP London 2015 Registration">op@starcitygames.com</a> and we’ll be happy to assist you.</p>
+<p>We apologize for any inconvenience this bug may have caused, and look forward to seeing everyone at #GPLondon!</p>
+</div>
+<p>Just a few short years ago, CNN.com published an <a href="http://travel.cnn.com/50-reasons-london-worlds-greatest-city-571466">article</a> that listed fifty reasons why London is the greatest city in the world. On the weekend of August 14th-16th, the Magic: The Gathering community will get a chance to add a fifty-first reason to that list... as StarCityGames.com proudly presents Grand Prix London!</p>
+<p>Grand Prix London will be a three-day extravaganza celebrating all things Magic: The Gathering, headlined by a Standard-format main event. And because thousands of fans are expected to attend the party, we've secured a massive space at the world-famous <a href="http://www.excel-london.co.uk/">ExCeL London Exhibition and Convention Centre</a> in which to host them!</p>
+<p>And by "massive", I mean large enough to accommodate Grand Prix London's maximum main event seating capacity... of 5,000 players!</p>
+<p>For many fans, Grand Prix offer a number of opportunities to meet some of their favorite Magic: The Gathering artists, and Grand Prix London's Artist Alley is going to feature some incredibly talented ones... including Filip Burburan, Miles Johnston, Chris Rallis, Karl Kopinski, rk post, and <a href="guests.php#velinov">Svetlin Velinov</a>!</p>
+<p>Speaking of artists, StarCityGames.com-run Grand Prix always feature a special Guest of Honor, and Grand Prix London is no exception. Please join us in welcoming our Grand Prix London Guest of Honor… <a href="guests.php#briclot">Aleksi Briclot</a>!</p>
+<p>Normally, this is the part where I'd move on to announcing some of the many other reasons why Grand Prix London is going to be such a memorable and fun-filled event, but since Grand Prix London will mark the first time StarCityGames.com has ever organized an event across the pond, we decided to commemorate the occasion by inviting a SECOND Guest of Honor!</p>
+<p>And we were beyond thrilled when the legendary <a href="guests.php#avon">John Avon</a> accepted our invitation!</p>
+<p>Guest of Honor: <a href="guests.php#briclot">Aleksi Briclot</a>? Confirmed.</p>
+<p>Guest of Honor: <a href="guests.php#avon">John Avon</a>? Confirmed.</p>
+<p>An Artist Alley featuring six <em>additional </em>artists?</p>
+<p>Confirmed. :)</p>
+<p>But a Grand Prix is not just about incredible artists. It's also about special attractions… and Grand Prix London definitely has some sweet ones!  </p>
+<ul>
+<li>The StarCityGames.com <a href="prize-wall.php">Prize Wall</a>… at which we'll be offering an extensive selection of out-of-print Grand Prix promotional items (including Eternal Witness playmats, Brainstorm playmats/sleeves/deck boxes/collectible pins, Noble Hierarch playmats/sleeves/deck boxes/collectible pins and more), a massive inventory of individual booster packs from Revised to Magic Origins and everything in between, uncut sheets, exclusive art prints and oversized cards, complete sets in both foil and non-foil, a wide assortment of StarCityGames.com Creature and Parody Collection playmats and sleeves … and tons more!</li>
+<li>Over a dozen of the world's biggest and best Magic: The Gathering vendors... offering one of the most extensive selections of Magic: The Gathering singles and sealed product ever seen at a European Grand Prix!</li>
+<li>The U.K.'s own Rich Hagon... hosting his incredibly popular Magic: The Gathering game show!</li>
+<li>Meet and Greets, a live seminar and exclusive Grand Prix London commemorative tokens… all featuring the stars of StarCityGames.com's incredibly popular "VS." Series: Brad Nelson, Todd Anderson, Tom "The Boss" Ross, Brian "BBD" Braun-Duin and Chris "CVM" VanMeter!</li>
+</ul>
+<a href="img/allTokens.png" class="image-link"><img src="img/tokens.png" width="100%"></a>
+<p>Of course, a Grand Prix wouldn't be a Grand Prix without the chance to acquire some sweet swag, and Grand Prix London attendees will have a number of opportunities to get their hands on collectible pins, 80 ct. packs of sleeves and playmats…  all illustrated by Grand Prix Guest of Honor, Aleksi Briclot, and featuring the hottest Planewalker around; Chandra!</p>
+<p>On August 14th-16th, ignite YOUR spark… at Grand Prix London!</p>
+<p class="signature-above">Best wishes,</p>
+<p class="signature">Pete Hoefling</p>
+<p class="signature-under">President, StarCityGames.com<br>
+Premier Tournament Organizer, Grand Prix London</p>
+</div>
+ 
+ 
+<div id="sidebar-holder">
+<div id="sidebar">
+ 
+<div id="side-links" class="side-section">
+<div class="sidebar-header-bg">
+<div class="sidebar-header-img"><img src="img/luggage.png"></div>
+<div class="sidebar-header-text" id="link-stamp-text"><h2>Links</h2></div>
+<div style="clear: both;"></div>
+</div>
+<div class="sidebar-text" id="link-stamps">
+<a class="hover-stamp" title="Facebook" href="https://www.facebook.com/events/862339517135247/"><img src="img/facebook-stamp.png"></a>
+<a class="hover-stamp" title="Twitter" href="https://twitter.com/search?f=realtime&q=%23GPLondon"><img src="img/twitter-stamp.png"></a>
+<a class="hover-stamp" title="GP Blog" href="http://www.starcitygames.com/pages/promotions/gpnews"><img src="img/news-stamp.png"></a>
+<a class="hover-stamp" title="YouTube" href="https://www.youtube.com/watch?v=_FVd4EHpBI0"><img src="img/youtube.png"></a>
+<a class="hover-stamp" title="StarCityGames.com" href="http://www.starcitygames.com/tags/Standard/2015-01-01/2015-08-31"><img src="img/scg-stamp.png"></a>
+</div>
+ 
+ 
+<div class="sidebar-header-bg">
+<div class="sidebar-header-img"><img src="img/gpt.png"></div>
+<div class="sidebar-header-text"><h2>Grand Prix Trials</h2></div>
+<div style="clear: both;"></div>
+</div>
+<div class="sidebar-text" id="side-faq">
+<a href="gpt.php">Win FREE Entry & <span class="notranslate">Sleep-In Special</span> at GP London!</a>
+</div>
+ 
+<div class="sidebar-header-bg">
+<div class="sidebar-header-img"><img src="img/translate.png"></div>
+<div class="sidebar-header-text"><h2>Translate this Page</h2></div>
+<div style="clear: both;"></div>
+</div>
+<div class="sidebar-text" id="google_translate_element"></div>
+</div>
+ 
+ 
+<div id="side-reg" class="side-section">
+<div class="sidebar-header-bg">
+<div class="sidebar-header-img"><img src="img/present.png"></div>
+<div class="sidebar-header-text"><h2>Registration Rewards</h2></div>
+<div style="clear: both;"></div>
+</div>
+<div class="sidebar-text">
+<a href="registration.php"><img class="side-photo" src="img/rewards-side_RB.png"></a>
+</div>
+</div>
+ 
+ 
+<div id="side-prize" class="side-section">
+<div class="sidebar-header-bg">
+<div class="sidebar-header-img"><img src="img/ticket.png"></div>
+<div class="sidebar-header-text"><h2>Prize Wall</h2></div>
+<div style="clear: both;"></div>
+</div>
+<div class="sidebar-text">
+<a href="prize-wall.php"><img class="side-photo" src="img/tickets-sidebar.png"></a>
+</div>
+</div>
+ 
+ 
+<div id="side-venue" class="side-section">
+<div class="sidebar-header-bg">
+<div class="sidebar-header-img"><img src="img/map.png"></div>
+<div class="sidebar-header-text"><h2>The Venue</h2></div>
+<div style="clear: both;"></div>
+</div>
+<div class="sidebar-text">
+<div class="venue-photo-holder">
+<a href="location.php"><img class="side-photo" src="img/london-location-img.png"></a>
+</div>
+<p class="sidebar-hilight">ExCeL London</p>
+<p>Royal Victoria Dock</p>
+<p>1 Western Gateway</p>
+<p>London E16 1XL</p>
+</div>
+</div>
+ 
+ 
+<div id="vendor-section" class="side-section">
+<div class="sidebar-header-bg">
+<div class="sidebar-header-img"><img src="img/dollar.png"></div>
+<div class="sidebar-header-text"><h2>Vendors</h2></div>
+<div style="clear: both;"></div>
+</div>
+<div class="sidebar-text">
+<div class="small-vendor-logos">
+<a href="vendors.php">
+<img src="img/troll-trader.png">
+<img src="img/channel-fireball.png">
+<img src="img/game-rift.png">
+<img src="img/magic-world.png">
+<img src="img/7th-city-ccollectables.png">
+<img src="img/galactus.png">
+<img src="img/sandbox.png">
+<img src="img/cartapapa.png">
+<img src="img/arcana.png">
+<img src="img/magic-madhouse.png">
+<img src="img/jk-entertainment.png">
+<img src="img/legion.png">
+<img src="img/magic-corner.png">
+</a>
+<a href="faq.php#faq-12">
+<img src="img/scg-deliver-sidebar-logo.png">
+</a>
+<a href="vendors.php">
+<img src="img/hideho-magic.png">
+<img src="img/green-giant.png">
+</a>
+</div>
+<div style="clear: both"></div>
+</div>
+</div>
+ 
+<div style="clear: both; float: none;"></div>
+</div>
+</div>  
+<div style="clear: both;"></div>
+</div>
+ 
+<div id="footer">
+<div id="footer-stroke">
+All original content on this page is © 2015 StarCityGames.com and may not be used or reproduced without consent.<br>
+All rights reserved. StarCityGames.com is not affiliated with Wizards of the Coast LLC. Some images are © of Wizards of the Coast LLC.
+</div>
+</div>  
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

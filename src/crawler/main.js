@@ -11,7 +11,7 @@ let waitForEvent = require('../waitForEvent');
 
 async function main() {
   let ref = new Firebase('https://mtgstats.firebaseio.com');
-  await ref.authWithCustomToken('tTxh4X9b1gGIySp4XvSFvuTcf50Pt0XnSxoCYN49');
+  //await ref.authWithCustomToken('tTxh4X9b1gGIySp4XvSFvuTcf50Pt0XnSxoCYN49');
 
   let source = new Combine(new ListScgEvents(), new ListWizardsEvents());
   let sink = new GetMatchResults();
@@ -23,7 +23,7 @@ async function main() {
     .pipe(new SaveEventToFirebase())
     .pipe(new GetDecklists())
     .pipe(new DeckMerger())
-    .pipe(new Filter(event => event.reporter === 'WotC'))
+    //.pipe(new Filter(event => event.reporter === 'WotC'))
     .pipe(sink);
   await waitForEvent(sink, 'end');
   process.exit(0);
